@@ -127,11 +127,15 @@ for r in rows:
 
 # ---------------------------------------------------------------- page chrome
 
-FONTS = ("https://fonts.googleapis.com/css2?family=Newsreader:wght@400;600;700&family="
-         "Instrument+Sans:wght@400;500;600&display=swap")
+# Runs before first paint: restore a saved theme and mark JavaScript as available, so nothing reflows or flashes later.
+HEAD_SCRIPT = ('<script>try{var t=localStorage.getItem("theme");if(t==="dark"||t==="light")'
+               'document.documentElement.setAttribute("data-theme",t)}catch(e){}'
+               'document.documentElement.classList.add("js")</script>')
+THEME_BTN = ('<button type="button" id="theme" class="theme-toggle" aria-label="Switch between light and dark mode">'
+             '<span class="to-dark">Dark mode</span><span class="to-light">Light mode</span></button>')
 
 
-def page(title, body, depth, active="", desc="", scripts="", wide=False):
+def page(title, body, depth, active="", desc="", scripts="", wide=False, extra_head=""):
     p = "../" * depth
     cur = ' aria-current="page"'
     nav = "".join(
@@ -147,20 +151,25 @@ def page(title, body, depth, active="", desc="", scripts="", wide=False):
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc or 'A personal cabinet of Wikipedia bookmarks.')}">
 <link rel="icon" href="{p}favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="{FONTS}">
+{HEAD_SCRIPT}
+<link rel="preload" href="{p}fonts/newsreader-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{p}fonts/instrument-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
+{extra_head}
 <link rel="stylesheet" href="{p}style.css">
 </head>
 <body data-root="{p or './'}">
 <a class="skip" href="#main">Skip to content</a>
 <div class="wrap{' wide' if wide else ''}">
-<header class="top"><a class="brand" href="{p or './'}">Wikipedia Cabinet</a><nav aria-label="Main">{nav}</nav></header>
+<header class="top"><a class="brand" href="{p or './'}">Wikipedia Cabinet</a>
+<div class="top-right"><nav aria-label="Main">{nav}</nav>{THEME_BTN}</div></header>
 <main id="main">
 {body}
 </main>
 <footer class="foot"><p>Article text and summaries come from <a href="https://www.wikipedia.org/">Wikipedia</a> and are available under
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Each article page links to its Wikipedia source and edit history,
-which list the authors. Images come from Wikimedia Commons or Wikipedia under the licence shown beside each one.</p></footer>
+which list the authors. Images come from Wikimedia Commons or Wikipedia under the licence shown beside each one.
+Fonts: Newsreader and Instrument Sans, under the <a href="{p}fonts/OFL-Newsreader.txt">SIL Open Font License</a>
+(<a href="{p}fonts/OFL-InstrumentSans.txt">Instrument Sans licence</a>).</p></footer>
 </div>
 {scripts}
 </body>
@@ -227,8 +236,8 @@ for n, chunk in enumerate(chunks, start=1):
 <option value="added">Recently added</option><option value="title">Title A to Z</option>
 <option value="views">Most viewed</option><option value="edited">Recently edited</option><option value="length">Longest</option>
 </select></label>
-<label class="field js-only" hidden>List<select id="list"><option value="">All lists</option>{opt(lists)}</select></label>
-<label class="field js-only" hidden>Language<select id="lang"><option value="">All</option>{opt(langs)}</select></label>
+<label class="field js-only">List<select id="list"><option value="">All lists</option>{opt(lists)}</select></label>
+<label class="field js-only">Language<select id="lang"><option value="">All</option>{opt(langs)}</select></label>
 </div>
 <div class="taglinks"><a href="./" aria-current="page"><strong>All</strong></a>
 {''.join(f'<a href="tag/{tag_slug[t]}">{esc(t)}</a>' for t in top_tags)}
@@ -341,8 +350,10 @@ def article_page(r):
         if r["image_license_url"]:
             lic = f'<a href="{esc(r["image_license_url"])}">{lic}</a>'
         fp = f' · <a href="{esc(r["image_page_url"])}">file page</a>' if r["image_page_url"] else ""
-        img = (f'<figure><img src="{esc(r["thumb_url"])}" width="{esc(r["thumb_width"])}" height="{esc(r["thumb_height"])}" '
-               f'alt="{esc(alt)}"><figcaption>Image: {esc(r["image_author"] or "unknown author")} · {lic}{fp}</figcaption></figure>')
+        full = r["image_url"] or r["thumb_url"]
+        img = (f'<figure><a href="{esc(full)}" target="_blank" rel="noopener" title="Open the full-size image in a new tab">'
+               f'<img src="{esc(r["thumb_url"])}" width="{esc(r["thumb_width"])}" height="{esc(r["thumb_height"])}" '
+               f'alt="{esc(alt)}" fetchpriority="high"></a><figcaption>Image: {esc(r["image_author"] or "unknown author")} · {lic}{fp}</figcaption></figure>')
     prose = ""
     if ok:
         text = (side.get("intro_text") or r["summary"] or "").strip()
@@ -388,12 +399,20 @@ def article_page(r):
         parts.append('<h2 class="sec">Contents</h2><ol class="toc">' + "".join(
             f'<li class="l{int(s["level"])}"><a href="{esc(url)}#{esc(quote(s["anchor"], safe="_-.~"))}">{esc(s["number"])} {esc(s["line"])}</a></li>'
             for s in secs) + "</ol>")
-    media = [m for m in (side.get("media") or []) if m.get("thumb")][:12]
+    media = [m for m in (side.get("media") or []) if m.get("thumb")][:40]
     if media:
-        parts.append(f'<h2 class="sec">Media ({len(side["media"])})</h2><ul class="gallery">' + "".join(
-            f'<li><img src="{esc(m["thumb"])}" alt="{esc(m["caption"] or m["title"].replace("File:", "").replace("_", " "))}" '
-            f'loading="lazy"><a href="{esc(wiki_url(lang, m["title"]))}">{esc((m["caption"] or "file page")[:60])}</a></li>'
-            for m in media) + "</ul>")
+        def media_li(m):
+            label = m["caption"] or re.sub(r"\.[A-Za-z0-9]+$", "", m["title"].replace("File:", "")).replace("_", " ")
+            dims = f' width="{m["tw"]}" height="{m["th"]}"' if m.get("tw") and m.get("th") else ""
+            full = m.get("orig") or wiki_url(lang, m["title"])
+            fpage = m.get("page") or wiki_url(lang, m["title"])
+            return (f'<li><a class="shot" href="{esc(full)}" target="_blank" rel="noopener" '
+                    f'aria-label="{esc(label)} (full-size image, opens in a new tab)">'
+                    f'<img src="{esc(m["thumb"])}"{dims} alt="" loading="lazy" decoding="async"></a>'
+                    f'<a class="cap" href="{esc(fpage)}" target="_blank" rel="noopener">{esc(label)}'
+                    f'<span class="sr"> (file page, opens in a new tab)</span></a></li>')
+        parts.append(f'<h2 class="sec">Media ({len(side["media"])})</h2><ul class="gallery">' +
+                     "".join(media_li(m) for m in media) + "</ul>")
     ll = side.get("language_links") or []
     if ll:
         parts.append(f'<h2 class="sec">Other languages ({len(ll)})</h2><div class="langs">' + "".join(
@@ -406,7 +425,9 @@ def article_page(r):
             for o in rel) + "</ul>")
     parts.append("</article>")
     write(r["href"] + ".html", page(f"{r['title']}: Wikipedia Cabinet", "\n".join(parts), 2, "home",
-                                    r["short_description"] or r["summary"][:160], wide=False))
+                                    r["short_description"] or r["summary"][:160], wide=False,
+                                    extra_head=f'<link rel="preload" href="{p}fonts/newsreader-italic-latin.woff2" as="font" '
+                                               f'type="font/woff2" crossorigin>'))
 
 
 for r in rows:
@@ -434,16 +455,14 @@ base = args.base_path if args.base_path.startswith("/") else "/" + args.base_pat
 base = base if base.endswith("/") else base + "/"
 write("404.html", f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Page not found: Wikipedia Cabinet</title><link rel="stylesheet" href="{base}style.css"></head>
+<title>Page not found: Wikipedia Cabinet</title>{HEAD_SCRIPT}<link rel="stylesheet" href="{base}style.css"></head>
 <body><div class="wrap"><header class="top"><a class="brand" href="{base}">Wikipedia Cabinet</a>
 <nav aria-label="Main"><a href="{base}">Bookmarks</a><a href="{base}tags">Tags</a><a href="{base}categories">Categories</a></nav></header>
 <main id="main"><div class="head"><h1>Page not found</h1><p class="lede">That page isn't in the cabinet. Try the
 <a href="{base}">bookmark list</a>, <a href="{base}tags">tags</a> or <a href="{base}categories">categories</a>.</p></div></main></div></body></html>
 """)
 
-for f in Path(args.site).iterdir():
-    if f.is_file():
-        shutil.copy(f, out / f.name)
+shutil.copytree(args.site, out, dirs_exist_ok=True)   # style.css, site.js, favicon.svg, fonts/
 (out / "data").mkdir(exist_ok=True)
 shutil.copy(data / "articles.csv", out / "data" / "articles.csv")
 
