@@ -37,6 +37,8 @@ jobs:
       - uses: actions/checkout@v7
 
       - uses: astral-sh/setup-uv@v10.3.0
+        with:
+          enable-cache: false # deps are inline in the script (no lockfile to key a cache on); only `requests` is installed
 
       - name: Refresh data
         run: uv run wiki_bookmarks.py ${{ inputs.force && '--force' || '' }}
