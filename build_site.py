@@ -10,13 +10,13 @@ Writes plain HTML pages that GitHub Pages serves without file extensions:
 
     /                      bookmark list (paginated: /page/2, /page/3, ...)
     /tags                  every tag            /tag/<slug>       articles with that tag
-    /categories            every category      /category/<slug>  articles in that category
+    /categories            every category      /category?name=<slug>  one category (drawn in the browser)
     /article/<lang>/<slug> one article, with data from its sidecar JSON
     /search.json           index used by the search box on the home page
+    /categories.json       category -> article indexes into search.json (used by /category)
 
     uv run build_site.py                         # data/ + site/  ->  _site/
     uv run build_site.py --out _site --base-path /wikipedia-viewer/
-    uv run build_site.py --min-category-articles 2   # skip pages for one-article categories
     uv run build_site.py --serve 8000                # build, then preview like GitHub Pages
 """
 import argparse, csv, hashlib, html, json, re, shutil, sys, unicodedata
@@ -31,8 +31,6 @@ ap.add_argument("--site", default="site", help="folder with static assets (style
 ap.add_argument("--out", default="_site", help="output folder (deleted first)")
 ap.add_argument("--base-path", default="/", help="URL path the site is served under (used only by 404.html)")
 ap.add_argument("--page-size", type=int, default=50, help="bookmarks per page on the home list")
-ap.add_argument("--min-category-articles", type=int, default=1,
-                help="only make /category/<slug> pages for categories with at least this many articles")
 ap.add_argument("--serve", type=int, metavar="PORT", help="after building, serve the site on this port (preview only)")
 args = ap.parse_args()
 
@@ -95,6 +93,12 @@ with open(data / "articles.csv", newline="", encoding="utf-8") as fh:
 rows.sort(key=lambda r: r["title"].lower())               # then newest first; ties stay A to Z
 rows.sort(key=lambda r: r["added"] or "", reverse=True)
 
+# Start from an empty output folder so pages from an earlier build never linger.
+_keep = [Path.cwd().resolve(), data.resolve(), Path(args.site).resolve()]
+if any(out.resolve() == k or out.resolve() in k.parents for k in _keep):
+    sys.exit(f"Refusing to delete {out}: it is (or contains) the working, data or site folder. Use a separate --out.")
+shutil.rmtree(out, ignore_errors=True)
+
 by_lang = defaultdict(list)
 for r in rows:
     by_lang[r["lang"]].append(r)
@@ -120,7 +124,6 @@ for r in rows:
         tag_items[t].append(r)
     for c in r["catl"]:
         cat_items[c].append(r)
-cat_pages = {c for c in cat_names if cat_counts[c] >= args.min_category_articles}
 
 # ---------------------------------------------------------------- page chrome
 
@@ -242,14 +245,9 @@ for n, chunk in enumerate(chunks, start=1):
 
 # ---------------------------------------------------------------- tags and categories
 
-def index_page(kind, names, counts, slugs, linked, label_plural, blurb):
+def index_page(href_for, names, counts, label_plural, blurb):
     ordered = sorted(names, key=lambda x: (-counts[x], x.lower()))
-    lis = []
-    for nme in ordered:
-        if nme in linked:
-            lis.append(f'<li><a href="{kind}/{slugs[nme]}">{esc(nme)}</a><span class="n">{counts[nme]}</span></li>')
-        else:
-            lis.append(f'<li><span>{esc(nme)}</span><span class="n">{counts[nme]}</span></li>')
+    lis = [f'<li><a href="{href_for(nme)}">{esc(nme)}</a><span class="n">{counts[nme]}</span></li>' for nme in ordered]
     body = f"""<div class="head"><h1>{label_plural}</h1><p class="lede">{blurb}</p></div>
 <div class="controls"><label class="field grow">Filter<input type="search" id="filter" placeholder="Type to filter" autocomplete="off"></label></div>
 <p class="status" id="filter-status" role="status" aria-live="polite"></p>
@@ -260,25 +258,36 @@ def index_page(kind, names, counts, slugs, linked, label_plural, blurb):
                                                blurb, '<script src="site.js" defer></script>'))
 
 
-index_page("tag", tag_names, {t: len(v) for t, v in tag_items.items()}, tag_slug, tag_names, "Tags",
+index_page(lambda t: f"tag/{tag_slug[t]}", tag_names, {t: len(v) for t, v in tag_items.items()}, "Tags",
            "Your own labels, from the <code>tags</code> column of each list.")
-index_page("category", cat_names, cat_counts, cat_slug, cat_pages, "Categories",
+index_page(lambda c: f"category?name={cat_slug[c]}", cat_names, cat_counts, "Categories",
            "Wikipedia's categories, collected from your articles. Hidden maintenance categories are left out.")
 
 
-def listing_page(kind, name, items, slug):
+def listing_page(name, items, slug):
     one = len(items) == 1
-    body = f"""<div class="head"><p class="crumb"><a href="../{'tags' if kind == 'tag' else 'categories'}">{'Tags' if kind == 'tag' else 'Categories'}</a> / {esc(name)}</p>
+    body = f"""<div class="head"><p class="crumb"><a href="../tags">Tags</a> / {esc(name)}</p>
 <h1>{esc(name)}</h1><p class="lede">{len(items)} article{'' if one else 's'}</p></div>
 {item_list(items, '../')}"""
-    write(f"{kind}/{slug}.html", page(f"{name}: {'tag' if kind == 'tag' else 'category'}, Wikipedia Cabinet", body, 1,
-                                      "tags" if kind == "tag" else "categories"))
+    write(f"tag/{slug}.html", page(f"{name}: tag, Wikipedia Cabinet", body, 1, "tags"))
 
 
 for t in sorted(tag_names):
-    listing_page("tag", t, tag_items[t], tag_slug[t])
-for c in sorted(cat_pages):
-    listing_page("category", c, cat_items[c], cat_slug[c])
+    listing_page(t, tag_items[t], tag_slug[t])
+
+# One category page for all categories: /category?name=<slug> is drawn in the browser from categories.json,
+# so a list with thousands of categories needs no per-category files.
+write("category.html", page("Category: Wikipedia Cabinet", """<div id="cat-app">
+<div class="head"><p class="crumb"><a href="categories">Categories</a> / <span id="cat-crumb"></span></p>
+<h1 id="cat-title">Category</h1><p class="lede" id="cat-count"></p></div>
+<noscript><p class="empty">Category pages need JavaScript. Browse <a href="categories">all categories</a> or open an article to see its categories.</p></noscript>
+<div id="results"></div><div id="more-wrap"></div>
+</div>""", 0, "categories", "Articles in one Wikipedia category.", '<script src="site.js" defer></script>'))
+idx_of = {r["key"]: i for i, r in enumerate(rows)}
+write("categories.json", json.dumps(
+    {cat_slug[c]: {"n": c, "a": [idx_of[r["key"]] for r in cat_items[c]]} for c in sorted(cat_names)},
+    ensure_ascii=False, separators=(",", ":")))
+
 
 # ---------------------------------------------------------------- article pages
 
@@ -352,8 +361,7 @@ def article_page(r):
                      "".join(f'<a href="{p}tag/{tag_slug[t]}">#{esc(t)}</a>' for t in r["tagl"]) + "</div>")
     if r["catl"]:
         parts.append('<h2 class="sec">Categories</h2><div class="pills">' + "".join(
-            f'<a href="{p}category/{cat_slug[c]}">{esc(c)}</a>' if c in cat_pages else f"<span>{esc(c)}</span>"
-            for c in r["catl"][:40]) + "</div>")
+            f'<a href="{p}category?name={cat_slug[c]}">{esc(c)}</a>' for c in r["catl"][:40]) + "</div>")
     facts = [("Language", esc(lang)), ("Lists", esc(", ".join(r["listl"]))), ("Added", esc(fmt_date(r["added"]))),
              ("Last edited", esc(fmt_date(r["last_edited"]))),
              ("Length", f"{int(r['length']):,} bytes" if r["length"] else ""),
@@ -441,7 +449,7 @@ shutil.copy(data / "articles.csv", out / "data" / "articles.csv")
 
 n_files = sum(1 for _ in out.rglob("*.html"))
 print(f"Built {n_files} pages in {out}/: {len(rows)} articles, {len(tag_names)} tags, "
-      f"{len(cat_pages)} of {len(cat_names)} categories, {len(chunks)} list page(s)")
+      f"{len(cat_names)} categories (one shared page), {len(chunks)} list page(s)")
 
 
 if args.serve:

@@ -86,7 +86,7 @@ Wikimedia rate-limits shared IP addresses, so expect pauses: the first sample ru
 ```bash
 uv run build_site.py                                  # data/ + site/ -> _site/
 uv run build_site.py --base-path /wikipedia-viewer/   # only used by the 404 page
-uv run build_site.py --min-category-articles 2        # skip pages for one-article categories
+uv run build_site.py --serve 8000                     # build, then preview like GitHub Pages
 ```
 
 | URL | Page |
@@ -94,8 +94,8 @@ uv run build_site.py --min-category-articles 2        # skip pages for one-artic
 | `/` and `/page/2`, `/page/3` … | Bookmark list, newest first, 50 per page |
 | `/article/<lang>/<title>` | One article: summary, image with credit, notes, tags, categories, facts, page-view chart, Wikidata facts, contents, media, other languages, related bookmarks |
 | `/tags` and `/tag/food` | All tags with counts, and the articles for one tag |
-| `/categories` and `/category/<name>` | All Wikipedia categories found in your articles, and the articles in one |
-| `/search.json` | The index the home page search box uses |
+| `/categories` and `/category?name=<slug>` | All Wikipedia categories found in your articles, and the articles in one (see below) |
+| `/search.json`, `/categories.json` | Data files written on every build. `search.json` feeds the home page search; `categories.json` maps each category to its articles |
 
 The URLs have no file extension. GitHub Pages serves `tag/food.html` at `/tag/food`, and the script writes the pages that way.
 Links between pages are relative, so the site works under `/<repo>/` on GitHub Pages and at the root of a custom domain.
@@ -104,8 +104,10 @@ Links between pages are relative, so the site works under `/<repo>/` on GitHub P
   list, tags, categories and articles all still work as plain pages. The `/tags` and `/categories` pages have a type-to-filter box.
 - Light and dark themes follow your system. The layout is a single column that works on a phone.
 - Text is CC BY-SA 4.0 with a link to each source page and its history. Each image shows its author, license and file page.
-- With thousands of articles, every Wikipedia category gets its own page. Use `--min-category-articles 2` to cut the file
-  count; categories below the cutoff are still listed on `/categories`, just not linked.
+- Categories are not one file each. Every Wikipedia article sits in 10 to 40 categories, so a big list would mean tens of
+  thousands of tiny pages. Instead `build_site.py` writes `categories.json` on every build, and a single `/category`
+  page draws whichever category the address names (`/category?name=alpine-four-thousanders`) in the browser. That page needs
+  JavaScript. Tags stay real pages (`/tag/food`) because a list has far fewer of them.
 - The old card viewer (`site/app.js`) was removed in this change. The styles are in `site/style.css`.
 
 ### Preview in a browser-based editor
