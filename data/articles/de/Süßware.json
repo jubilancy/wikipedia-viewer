@@ -1,0 +1,589 @@
+{
+ "aliases": [
+  "Süssware",
+  "Süsswaren",
+  "Süßigkeit",
+  "Süßigkeiten",
+  "Süßwaren",
+  "Zuckerwerk"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 266,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-03-10",
+  "bookmark_title": "",
+  "lists": "example",
+  "notes": "Non-English (German)",
+  "requested_titles": "Süßigkeit",
+  "tags": "food"
+ },
+ "categories": [
+  "Süßware"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"de\" dir=\"ltr\"><span class=\"mw-page-title-main\">Süßware</span></span>",
+ "external_links": [
+  "http://books.google.de/books?id=_3qNbZeXMW4C&pg=PA1822&dq=s%C3%BC%C3%9Fware&lr=&as_brr=3",
+  "http://de.statista.org/statistik/daten/studie/616/umfrage/sue%DFwarenverzehr-von-maennern-und-frauen/",
+  "http://iabotmemento.invalid/http://www.lebensmittelklarheit.de/cps/rde/xchg/lebensmittelklarheit/hs.xsl/3783.htm",
+  "http://www.lebensmittelklarheit.de/cps/rde/xchg/lebensmittelklarheit/hs.xsl/3783.htm",
+  "http://www.srf.ch/play/radio/schnabelweid-briefkasten/audio/feuersteine-am-hochzeitstag?id=3049a067-f2d1-4b13-834a-90157071f03c",
+  "https://ahdictionary.com/word/search.html?q=candy",
+  "https://books.google.com/books?id=a989AQAAQBAJ",
+  "https://d-nb.info/gnd/4058502-5",
+  "https://explore.gnd.network/gnd/4058502-5",
+  "https://lobid.org/gnd/4058502-5",
+  "https://prometheus.lmu.de/gnd/4058502-5",
+  "https://redirecter.toolforge.org/?url=http://www.eastagri.org/publications/pub_docs/4_Sugar_web.pdf",
+  "https://redirecter.toolforge.org/?url=http://www.lebensmittelklarheit.de/cps/rde/xchg/lebensmittelklarheit/hs.xsl/3783.htm",
+  "https://swb.bsz-bw.de/DB=2.104/SET=1/TTL=1/CMD?retrace=0&trm_old=&ACT=SRCHA&IKT=2999&SRT=RLV&TRM=4058502-5",
+  "https://web.archive.org/web/20121229003242/http://www.lebensmittelklarheit.de/cps/rde/xchg/lebensmittelklarheit/hs.xsl/3783.htm",
+  "https://web.archive.org/web/20150905234431/http://www.eastagri.org/publications/pub_docs/4_Sugar_web.pdf",
+  "https://web.archive.org/web/20160304082333/http://www.fhunziker.ch/PDF/Brauch_Feuersteine.pdf",
+  "https://www.bdsi.de/warenkunde/",
+  "https://www.kindergesundheit-info.de/themen/ernaehrung/1-6-jahre/suesses-knabbereien/",
+  "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003583"
+ ],
+ "intro_text": "Eine Süßware, auch Süßigkeit, ist ein festes oder halbfestes Lebensmittel, das einen hohen Anteil an Zucker enthält. Sie zählt nicht zu den Grundnahrungsmitteln. Süßwaren werden üblicherweise von Zuckerbäckern hergestellt, Süßspeisen hingegen von Köchen bzw. von einem Pâtissier.\nZu den Süßwaren zählen Zuckerwaren wie Bonbons, Zuckerwatte, Lokum und Halva, Kakaoerzeugnisse wie Schokolade, mit Zucker haltbar gemachte Früchte wie kandierte Früchte, Gummibären und andere Fruchtgummis, viele Dauerbackwaren, auf Nüssen basierende Spezialitäten wie Nougat und Marzipan und nicht zuletzt als gefrorene Süßigkeit das Speiseeis. Honig, Konfitüren, süße Milcherzeugnisse, Limonaden und ähnliche Lebensmittel gehören trotz ihres süßen Geschmacks nicht zu den Süßwaren.\nDer Bundesverband der Deutschen Süßwarenindustrie unterteilt Süßwaren in folgende Kategorien, wobei die Mindestanforderungen jedes Produkts vom Lebensmittelrecht geregelt werden:\n\nKakao- und Schokoladeware\nFeine Backwaren\nBonbons und Zuckerwaren\nKnabberartikel\nMarkeneis\nKaugummi\nRohmassen.",
+ "key": "de/Süßware",
+ "lang": "de",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "سكاكر"
+  },
+  {
+   "lang": "cy",
+   "title": "Melysfwyd"
+  },
+  {
+   "lang": "en",
+   "title": "Sweetmeat"
+  },
+  {
+   "lang": "eo",
+   "title": "Dolĉaĵo"
+  },
+  {
+   "lang": "fa",
+   "title": "فراورده‌های قندی"
+  },
+  {
+   "lang": "fr",
+   "title": "Friandise"
+  },
+  {
+   "lang": "frr",
+   "title": "Sweten"
+  },
+  {
+   "lang": "ga",
+   "title": "Milseán"
+  },
+  {
+   "lang": "gv",
+   "title": "Miljan"
+  },
+  {
+   "lang": "he",
+   "title": "ממתק"
+  },
+  {
+   "lang": "hr",
+   "title": "Slatkiši"
+  },
+  {
+   "lang": "hu",
+   "title": "Édességek"
+  },
+  {
+   "lang": "is",
+   "title": "Sælgæti"
+  },
+  {
+   "lang": "jv",
+   "title": "Panganan legi"
+  },
+  {
+   "lang": "ku",
+   "title": "Şîranî"
+  },
+  {
+   "lang": "li",
+   "title": "Sjloek (lekkersj)"
+  },
+  {
+   "lang": "nl",
+   "title": "Snoepgoed"
+  },
+  {
+   "lang": "pl",
+   "title": "Słodycze"
+  },
+  {
+   "lang": "pt",
+   "title": "Doçaria"
+  },
+  {
+   "lang": "scn",
+   "title": "Dorci"
+  },
+  {
+   "lang": "sl",
+   "title": "Slaščica"
+  },
+  {
+   "lang": "sq",
+   "title": "Ëmbëlsira"
+  },
+  {
+   "lang": "th",
+   "title": "ขนม"
+  },
+  {
+   "lang": "tr",
+   "title": "Şekerleme"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Der ursprünglich hochladende Benutzer war Floker in der Wikipedia auf Deutsch",
+  "author_html": "Der ursprünglich hochladende Benutzer war <a href=\"https://en.wikipedia.org/wiki/de:User:Floker\" class=\"extiw\" title=\"w:de:User:Floker\">Floker</a> in der <a href=\"https://en.wikipedia.org/wiki/de:\" class=\"extiw\" title=\"w:de:\">Wikipedia auf Deutsch</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"\">Eigenes Werk des ursprünglichen Hochladers</span>",
+  "description": "Makroaufnahme von Süßigkeiten",
+  "file": "Candy.hd.jpg",
+  "license": "CC BY-SA 2.0 de",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Candy.hd.jpg"
+ },
+ "links": [
+  "5 Gum",
+  "After Eight",
+  "Alpia",
+  "Alprose",
+  "Altes Ägypten",
+  "Antikes Griechenland",
+  "Aroma",
+  "August Storck",
+  "Balisto",
+  "Baronie (Süßwarenhersteller)",
+  "Belgien",
+  "Bonbon",
+  "Bounty (Schokoriegel)",
+  "Bundesverband der Deutschen Süßwarenindustrie",
+  "Cadbury plc",
+  "Caramac",
+  "Carambar",
+  "Choco Crossies",
+  "Chocolat Tobler",
+  "Côte d’Or (Schokolade)",
+  "Daim (Schokoriegel)",
+  "Dauerbackwaren",
+  "Deutschland",
+  "Diabetiker",
+  "Duplo (Schokoriegel)",
+  "Eszet",
+  "Farbstoff",
+  "Feine Backware",
+  "Ferrero (Unternehmen)",
+  "Ferrero Küsschen",
+  "Ferrero Rocher",
+  "Fruchtkaramelle",
+  "Fructose",
+  "Gemeinsame Normdatei",
+  "Gerstenzucker",
+  "Geschichte Chinas",
+  "Geschichte Indiens",
+  "Giotto (Süßware)",
+  "Glucose",
+  "Glukosesirup",
+  "Grundnahrungsmittel",
+  "Gummibär",
+  "Halva",
+  "Handelsmarke",
+  "Hanuta",
+  "Haribo",
+  "Haushaltszucker",
+  "Heinrich Haeberlein",
+  "Hubba Bubba",
+  "Hustenbonbon",
+  "Internet Archive",
+  "Intersnack",
+  "Italien",
+  "Kandierte Früchte",
+  "Karneval",
+  "Kaugummi",
+  "Kinder Happy Hippo",
+  "Kinder Maxi King",
+  "Kinder Pinguí",
+  "Kinder Überraschung",
+  "Kinder-Schokolade",
+  "Kinkartz",
+  "Kitkat",
+  "Knabberartikel",
+  "Knoppers",
+  "Koch",
+  "Kohlenhydrate",
+  "Konditorei",
+  "Kristallzucker",
+  "Lachgummi",
+  "Lambertz-Gruppe",
+  "Lebensmittel",
+  "Lebensmittelrecht",
+  "Lindt & Sprüngli",
+  "Lion (Schokoriegel)",
+  "Lokum",
+  "M&M’s",
+  "Maoam",
+  "Marabou",
+  "Mars (Schokoriegel)",
+  "Mars Incorporated",
+  "Marzipan",
+  "Max Rubner-Institut",
+  "Merci (Süßware)",
+  "Milch-Schnitte",
+  "Milcherzeugnis",
+  "Milka (Marke)",
+  "Milky Way",
+  "Mon Chéri",
+  "Mondelēz International",
+  "Moser-Roth",
+  "Mozartkugel",
+  "Nestlé",
+  "Nimm2",
+  "Nougat",
+  "Nuts (Schokoriegel)",
+  "Oreo",
+  "Perser (Volk)",
+  "Pocket Coffee",
+  "Pâtissier",
+  "Quengelware",
+  "Raffaello",
+  "Rohmasse",
+  "Rohrzucker",
+  "Rolo",
+  "Römisches Reich",
+  "Sarotti",
+  "Schokokuss",
+  "Schokolade",
+  "Schweiz",
+  "Skittles",
+  "Smarties",
+  "Snickers",
+  "Soletti",
+  "Speiseeis",
+  "Sprengel (Unternehmen)",
+  "Statista",
+  "Stimorol",
+  "Stollwerck",
+  "Süßspeise",
+  "Süßstoff",
+  "The Wrigley Company",
+  "Tic Tac",
+  "Toblerone",
+  "Toffifee",
+  "Twix",
+  "Vereinigte Staaten",
+  "Webarchivierung",
+  "Weltgesundheitsorganisation",
+  "Werther’s Original",
+  "Wunderbar (Schokoriegel)",
+  "Yes Torty",
+  "Yogurette",
+  "Zahnkaries",
+  "Zucker",
+  "Zuckeraustauschstoffe",
+  "Zuckerrübe",
+  "Zuckerware",
+  "Zuckerwatte",
+  "Übergewicht"
+ ],
+ "media": [
+  {
+   "caption": "Diverse Süßwaren mit Schokolade",
+   "lead": true,
+   "section_id": 0,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Candy.hd.jpg/500px-Candy.hd.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+   "title": "Datei:Candy.hd.jpg",
+   "type": "image"
+  },
+  {
+   "caption": "Verkauf von Süßigkeiten",
+   "lead": false,
+   "section_id": 0,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2018_06_TropicalIslands_IMG_2213.jpg/500px-2018_06_TropicalIslands_IMG_2213.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+   "title": "Datei:2018_06_TropicalIslands_IMG_2213.jpg",
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1080,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Candy.hd.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1920
+ },
+ "page_url": "https://de.wikipedia.org/wiki/S%C3%BC%C3%9Fware",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-09-15",
+    23
+   ],
+   [
+    "2026-09-16",
+    25
+   ],
+   [
+    "2026-09-17",
+    22
+   ],
+   [
+    "2026-09-18",
+    37
+   ],
+   [
+    "2026-09-19",
+    32
+   ],
+   [
+    "2026-09-20",
+    30
+   ],
+   [
+    "2026-09-21",
+    19
+   ],
+   [
+    "2026-09-22",
+    31
+   ],
+   [
+    "2026-09-23",
+    18
+   ],
+   [
+    "2026-09-24",
+    32
+   ],
+   [
+    "2026-09-25",
+    20
+   ],
+   [
+    "2026-09-26",
+    36
+   ],
+   [
+    "2026-09-27",
+    18
+   ],
+   [
+    "2026-09-28",
+    13
+   ],
+   [
+    "2026-09-29",
+    34
+   ],
+   [
+    "2026-09-30",
+    128
+   ],
+   [
+    "2026-10-01",
+    25
+   ],
+   [
+    "2026-10-02",
+    17
+   ],
+   [
+    "2026-10-03",
+    22
+   ],
+   [
+    "2026-10-04",
+    32
+   ],
+   [
+    "2026-10-05",
+    36
+   ],
+   [
+    "2026-10-06",
+    31
+   ],
+   [
+    "2026-10-07",
+    26
+   ],
+   [
+    "2026-10-08",
+    26
+   ],
+   [
+    "2026-10-09",
+    40
+   ],
+   [
+    "2026-10-10",
+    41
+   ],
+   [
+    "2026-10-11",
+    15
+   ],
+   [
+    "2026-10-12",
+    27
+   ],
+   [
+    "2026-10-13",
+    19
+   ],
+   [
+    "2026-10-14",
+    18
+   ]
+  ],
+  "through": "2026-10-14"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Geschichte_und_Verbreitung",
+   "level": 2,
+   "line": "Geschichte und Verbreitung",
+   "number": "1"
+  },
+  {
+   "anchor": "Inhaltsstoffe",
+   "level": 2,
+   "line": "Inhaltsstoffe",
+   "number": "2"
+  },
+  {
+   "anchor": "Folgen_des_hohen_Zuckergehaltes",
+   "level": 3,
+   "line": "Folgen des hohen Zuckergehaltes",
+   "number": "2.1"
+  },
+  {
+   "anchor": "Die_10_umsatzstärksten_Süßwarenhersteller_in_Deutschland",
+   "level": 2,
+   "line": "Die 10 umsatzstärksten Süßwarenhersteller in Deutschland",
+   "number": "3"
+  },
+  {
+   "anchor": "Literatur",
+   "level": 2,
+   "line": "Literatur",
+   "number": "4"
+  },
+  {
+   "anchor": "Weblinks",
+   "level": 2,
+   "line": "Weblinks",
+   "number": "5"
+  },
+  {
+   "anchor": "Einzelnachweise",
+   "level": 2,
+   "line": "Einzelnachweise",
+   "number": "6"
+  }
+ ],
+ "summary_html": "<p>Eine <b>Süßware</b>, auch <b>Süßigkeit</b>, ist ein festes oder halbfestes Lebensmittel, das einen hohen Anteil an Zucker enthält. Sie zählt nicht zu den Grundnahrungsmitteln. Süßwaren werden üblicherweise von Zuckerbäckern hergestellt, Süßspeisen hingegen von Köchen bzw. von einem Pâtissier.</p>",
+ "summary_text": "Eine Süßware, auch Süßigkeit, ist ein festes oder halbfestes Lebensmittel, das einen hohen Anteil an Zucker enthält. Sie zählt nicht zu den Grundnahrungsmitteln. Süßwaren werden üblicherweise von Zuckerbäckern hergestellt, Süßspeisen hingegen von Köchen bzw. von einem Pâtissier.",
+ "templates": [
+  "Archivbot",
+  "BEL",
+  "CHE",
+  "Cite book",
+  "Cite book/Date",
+  "Cite book/Meldung2",
+  "Cite book/Name",
+  "Cite book/ParamBool",
+  "Cite book/URL",
+  "Cite book/Webarchiv",
+  "Cite web",
+  "Commonscat",
+  "DEU",
+  "DateTime",
+  "DateTime/local",
+  "FormatDate",
+  "Hinweisbaustein",
+  "ITA",
+  "IconExternal",
+  "IconExternal/styles.css",
+  "Info",
+  "Internetquelle",
+  "Literatur",
+  "Multilingual",
+  "Multilingual/config",
+  "Multilingual/names",
+  "Normdaten",
+  "Referrer",
+  "Siehe auch",
+  "Str",
+  "Str find",
+  "Str left",
+  "Str len",
+  "Str trim",
+  "TemplUtl",
+  "TemplatePar",
+  "Text",
+  "URIutil",
+  "URIutil/isbn",
+  "URLutil",
+  "USA",
+  "Vorlage:FormatDate",
+  "Vorlage:Internetquelle",
+  "Vorlage:Literatur",
+  "Vorlage:Literatur/params",
+  "Vorlage:Siehe auch",
+  "WLink",
+  "Webarchiv",
+  "Webarchiv",
+  "Webarchiv/Wayback",
+  "Webarchiv/archiv-bot",
+  "Webarchiv/archiv-bot-core",
+  "Webarchiv/styles.css",
+  "WikiLayout",
+  "Wikidata",
+  "Wikidata-Registrierung",
+  "Wiktionary",
+  "Zitation"
+ ],
+ "thumbnail": {
+  "height": 270,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Candy.hd.jpg/500px-Candy.hd.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Süßware",
+ "wikidata": {
+  "description": "sweet food or confection with a high sugar content, including candies, chocolates, and other sugar-based treats",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "2018 06 TropicalIslands IMG 2213.jpg",
+     "ממתקים.jpeg",
+     "Snoep - Mars Celebrations.jpg",
+     "Snoepgoed.jpg",
+     "Saint-remy-de-pce-confiseries.jpg"
+    ]
+   }
+  ],
+  "id": "Q3087607",
+  "label": "sweetmeat",
+  "sitelink_count": 28
+ }
+}

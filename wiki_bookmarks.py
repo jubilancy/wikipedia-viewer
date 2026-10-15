@@ -575,10 +575,8 @@ def main():
             row["static_fetched"] = today.isoformat()
             row["status"] = "ok"
             for sev, code, msg in res["notes"]:
-                report.append((sev, "", 0, "", key, code, msg))
-            if row["is_disambiguation"] == "true":
-                report.append(("warning", "", 0, "", key, "disambiguation",
-                               "article is a disambiguation page"))
+                if code != "no_image":  # no_image / disambiguation are derived from the row below
+                    report.append((sev, "", 0, "", key, code, msg))
         elif old and a["status"] == "ok":  # cached and still fresh, or fetch failed
             row.update({c: old.get(c, "") for c in COLUMNS})
             p = out / sidecar
@@ -590,7 +588,13 @@ def main():
             row["status"] = a["status"] if a["status"] != "ok" else "error"
         if res and res["err"]:
             report.append(("error", "", 0, "", key, "fetch_failed", res["err"]))
-        row.update({"key": key, "lang": lang, "title": title, "sidecar": sidecar, "schema": SCHEMA,
+        if row["status"] == "ok":
+            if row["is_disambiguation"] == "true":
+                report.append(("warning", "", 0, "", key, "disambiguation", "article is a disambiguation page"))
+            if not row["image_file"]:
+                report.append(("info", "", 0, "", key, "no_image", "article has no lead image"))
+        row.update({"key": key, "lang": lang, "title": title, "schema": SCHEMA,
+                    "sidecar": sidecar if a["status"] == "ok" else "",
                     "requested_titles": pipe(sorted(a["requested"])),
                     "bookmark_title": a["bt"][0] if a["bt"] else "", "lists": pipe(sorted(a["lists"])),
                     "tags": pipe(sorted(a["tags"], key=str.lower)), "notes": " || ".join(a["notes"]),

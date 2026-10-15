@@ -11,15 +11,15 @@ Those are parked at the bottom.
 - [x] Commons/wiki `imageinfo` + `extmetadata` for image license and author
 - [x] Pageviews per-article daily (`wikimedia.org/api/rest_v1/metrics/pageviews`)
 - [x] Wikidata `wbgetentities`
-- [ ] Redirect, non-English, disambiguation and coordinates samples (checked by the first script run)
+- [x] Redirect, non-English, disambiguation and coordinates samples (confirmed by the first sample run)
 
 ## Build
 
 - [x] Design agreed (see the plan in the session; summarized in README)
-- [ ] `wiki_bookmarks.py` (uv script, PEP 723, inline deps)
-- [ ] Sample list `data/lists/example.csv` (normal, redirect, disambiguation, no image, non-English, missing)
-- [ ] Run sample, review `data/articles.csv` + `data/report.csv`
-- [ ] Second run: confirm only stale rows re-fetch and output is diff-clean except pageviews
+- [x] `wiki_bookmarks.py` (uv script, PEP 723, inline deps)
+- [x] Sample lists `data/lists/example.csv` + `travel.csv`
+- [x] Run sample, review `data/articles.csv` + `data/report.csv`
+- [x] Second run: 0 articles re-fetched, only pageview columns refresh
 - [ ] Viewer in `site/` (cabinet of curiosities x zettelkasten)
 - [ ] Browser test (desktop, mobile, dark mode, keyboard)
 - [ ] Look up current versions of checkout / setup-uv / Pages actions, then `.github/workflows/build.yml`
