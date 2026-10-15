@@ -20,8 +20,8 @@ Those are parked at the bottom.
 - [x] Sample lists `data/lists/example.csv` + `travel.csv`
 - [x] Run sample, review `data/articles.csv` + `data/report.csv`
 - [x] Second run: 0 articles re-fetched, only pageview columns refresh
-- [ ] Viewer in `site/` (cabinet of curiosities x zettelkasten)
-- [ ] Browser test (desktop, mobile, dark mode, keyboard)
+- [x] Viewer in `site/` (cabinet of curiosities x zettelkasten)
+- [x] Browser test: desktop, mobile dark, dialog flip, search, 3,000-row load (no errors). Keyboard flow checked in code only; see README notes
 - [ ] Look up current versions of checkout / setup-uv / Pages actions, then `.github/workflows/build.yml`
 - [ ] README (add a list, run with `uv run`, trigger a run)
 - [ ] Commit, push, draft PR
