@@ -193,14 +193,14 @@
     $("front").replaceChildren(...frontFace(r)); $("back").replaceChildren(el("p", { text: "Turn the card over to load details." }));
     $("back").dataset.loaded = "";
     if (!dlg.open) dlg.showModal();
-    $("front").scrollTop = 0;
+    $("front").scrollTop = 0; $("dlgTitle").focus({ preventScroll: true });
     if (!fromHash) history.replaceState(null, "", location.search + "#" + encodeURI(key));
     const i = idx(key); $("prev").disabled = i <= 0; $("next").disabled = i < 0 || i >= state.filtered.length - 1;
   }
   function frontFace(r) {
     const out = [];
     const pageUrl = r.url;
-    out.push(el("h2", { id: "dlgTitle", text: r.title }));
+    out.push(el("h2", { id: "dlgTitle", tabindex: "-1", text: r.title }));
     if (r.short_description) out.push(el("p", { class: "desc", text: r.short_description }));
     const fig = r.image_url && r.w ? el("figure", {},
       el("img", { src: r.thumb_url, width: r.w, height: r.h, alt: r.short_description ? `${r.title}: ${r.short_description}` : r.title }),

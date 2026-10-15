@@ -21,11 +21,12 @@ Those are parked at the bottom.
 - [x] Run sample, review `data/articles.csv` + `data/report.csv`
 - [x] Second run: 0 articles re-fetched, only pageview columns refresh
 - [x] Viewer in `site/` (cabinet of curiosities x zettelkasten)
-- [x] Browser test: desktop, mobile dark, dialog flip, search, 3,000-row load (no errors). Keyboard flow checked in code only; see README notes
+- [x] Browser test: desktop, mobile dark, dialog flip, search, 3,000-row load (no errors). keyboard flow (Enter, arrows, F, Esc, deep link) also tested; fixed dialog focus
 - [x] Looked up current action versions live (checkout v7, setup-uv v10.3.0 exact, upload-pages-artifact v5, deploy-pages v5) and wrote `.github/workflows/build.yml`. Not yet run on GitHub.
-- [ ] README (add a list, run with `uv run`, trigger a run)
-- [ ] Commit, push, draft PR
-- [ ] Settings -> Pages -> Source: GitHub Actions (you do this once in the web UI)
+- [x] README (add a list, run with `uv run`, trigger a run)
+- [x] Commit, push, draft PR ([#1](https://github.com/jubilancy/wikipedia-viewer/pull/1))
+- [ ] You: Settings -> Pages -> Build and deployment -> Source: GitHub Actions (once, in the web UI)
+- [ ] First workflow run on GitHub (merge the PR to `main`, or run it from the Actions tab) to confirm the Pages deploy
 
 ## Parked (not requested right now)
 
