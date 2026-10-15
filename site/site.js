@@ -12,6 +12,16 @@
   const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
   const getJSON = (name) => fetch(root + name).then((r) => { if (!r.ok) throw new Error(name); return r.json(); });
 
+  // ----- light / dark toggle (the saved choice is applied before first paint by a tiny script in each page's head)
+  const themeBtn = $("theme");
+  if (themeBtn) themeBtn.addEventListener("click", () => {
+    const html = document.documentElement;
+    const now = html.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    const next = now === "dark" ? "light" : "dark";
+    html.dataset.theme = next;
+    try { localStorage.setItem("theme", next); } catch { /* storage unavailable: the choice lasts for this page only */ }
+  });
+
   // One list item, same markup as the generated HTML.
   function itemEl(r) {
     const li = el("li", "item"), thumb = el("div", "thumb"), body = el("div", "item-body");
@@ -83,7 +93,6 @@
   if (!q) return;
   const results = $("results"), pager = $("pager"), status = $("status"), wrap = $("more-wrap");
   const original = results.innerHTML;
-  document.querySelectorAll(".js-only").forEach((n) => (n.hidden = false));
   let data = null, timer;
   const sorters = {
     added: (a, b) => (b.a || "").localeCompare(a.a || "") || a.t.localeCompare(b.t),

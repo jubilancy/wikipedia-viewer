@@ -306,17 +306,27 @@
   {
    "caption": "Diverse Süßwaren mit Schokolade",
    "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/d/da/Candy.hd.jpg?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Candy.hd.jpg",
    "section_id": 0,
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Candy.hd.jpg/500px-Candy.hd.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+   "th": 281,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Candy.hd.jpg/500px-Candy.hd.jpg?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "title": "Datei:Candy.hd.jpg",
+   "tw": 500,
    "type": "image"
   },
   {
    "caption": "Verkauf von Süßigkeiten",
    "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/6/65/2018_06_TropicalIslands_IMG_2213.jpg?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:2018_06_TropicalIslands_IMG_2213.jpg",
    "section_id": 0,
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2018_06_TropicalIslands_IMG_2213.jpg/500px-2018_06_TropicalIslands_IMG_2213.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+   "th": 333,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2018_06_TropicalIslands_IMG_2213.jpg/500px-2018_06_TropicalIslands_IMG_2213.jpg?utm_source=de.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "title": "Datei:2018_06_TropicalIslands_IMG_2213.jpg",
+   "tw": 500,
    "type": "image"
   }
  ],

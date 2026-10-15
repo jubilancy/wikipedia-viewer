@@ -102,7 +102,14 @@ Links between pages are relative, so the site works under `/<repo>/` on GitHub P
 
 - The home page search, sort, list and language filters run in the browser against `search.json`. Without JavaScript the
   list, tags, categories and articles all still work as plain pages. The `/tags` and `/categories` pages have a type-to-filter box.
-- Light and dark themes follow your system. The layout is a single column that works on a phone.
+- Light and dark themes follow your system, and a button in the header switches them. The choice is saved in the browser and
+  applied before the page first paints, so there is no flash.
+- Fonts (Newsreader and Instrument Sans, SIL Open Font License, licence files in `site/fonts/`) are served from the site
+  itself, not from Google, so text appears in its final font and layout with no swap or shift.
+- On an article page, the lead image and every image in the media section link to the full-size file in a new tab, and the
+  media section is a masonry that keeps each image's real proportions. Image sizes come from `wiki_bookmarks.py`, so the
+  first run after this change re-fetches every article once (the cached data format version went from 1 to 2).
+- The layout is a single column that works on a phone.
 - Text is CC BY-SA 4.0 with a link to each source page and its history. Each image shows its author, license and file page.
 - Categories are not one file each. Every Wikipedia article sits in 10 to 40 categories, so a big list would mean tens of
   thousands of tiny pages. Instead `build_site.py` writes `categories.json` on every build, and a single `/category`

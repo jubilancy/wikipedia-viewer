@@ -31,7 +31,7 @@ from urllib.parse import parse_qs, quote, unquote, urlsplit
 import requests
 
 VERSION = "0.1"
-SCHEMA = 1  # bump to force a re-fetch of cached rows after changing what is stored
+SCHEMA = 2  # bump to force a re-fetch of cached rows after changing what is stored
 UA = f"wikipedia-viewer/{VERSION} (https://github.com/jubilancy/wikipedia-viewer)"
 
 COLUMNS = [
@@ -365,6 +365,31 @@ def fetch_article(lang, title, page):
                           "thumb": ("https:" + src) if src.startswith("//") else src})
     except FetchError as e:
         notes.append(("warning", "media_failed", str(e)))
+
+    # real sizes + full-size URLs for the media (one batched imageinfo call per 50 files), so the site can lay the
+    # gallery out as a masonry without layout shift and link each image to its original
+    files = [m["title"].replace("_", " ") for m in media if m["title"]]
+    info = {}
+    for i in range(0, len(files), 50):
+        try:
+            d = action(lang, titles="|".join(files[i:i + 50]), prop="imageinfo", iiprop="size|mime|url", iiurlwidth=500)
+            for pg in d["query"]["pages"]:
+                info[pg["title"]] = (pg.get("imageinfo") or [{}])[0]
+        except FetchError as e:
+            notes.append(("warning", "media_sizes_failed", str(e)))
+            break
+    for m in media:
+        ii = info.get(m["title"].replace("_", " "), {})
+        if ii.get("thumbwidth") and ii.get("thumbheight"):
+            m.update(tw=ii["thumbwidth"], th=ii["thumbheight"])
+        if ii.get("thumburl"):
+            m["thumb"] = ii["thumburl"]
+        if ii.get("url"):
+            m["orig"] = ii["url"]
+        if ii.get("descriptionurl"):
+            m["page"] = ii["descriptionurl"]
+        if ii.get("mime"):
+            m["mime"] = ii["mime"]
 
     # lead image license/author
     img = {}

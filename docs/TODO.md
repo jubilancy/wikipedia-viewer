@@ -35,7 +35,8 @@ Those are parked at the bottom.
 - [x] `/tags` and `/categories` pages, article-style detail pages, paginated home, search.json
 - [x] Categories drawn by one `/category?name=<slug>` page from `categories.json` (no per-category files); tags stay real pages
 - [x] Link check: 0 broken of 1,195 internal references on the sample data
-- [ ] After deploy: confirm `/tag/food` loads without `.html` on the live site (extension-less `/index` already returns 200)
+- [x] Site deployed and reviewed by the user ("looks great"); the `/tag/food` and `/category?name=…` URLs were not separately confirmed
+- [x] Polish pass: masonry media gallery, click-through to full-size images, light/dark toggle, self-hosted fonts (no flash), styled selectors
 
 ## Parked (not requested right now)
 
