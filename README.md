@@ -102,8 +102,11 @@ Links between pages are relative, so the site works under `/<repo>/` on GitHub P
 
 - The home page search, sort, list and language filters run in the browser against `search.json`. Without JavaScript the
   list, tags, categories and articles all still work as plain pages. The `/tags` and `/categories` pages have a type-to-filter box.
-- Light and dark themes follow your system, and a button in the header switches them. The choice is saved in the browser and
-  applied before the page first paints, so there is no flash.
+- Light and dark themes follow your system, and a sun/moon button in the header switches them (icon only on phones). The
+  choice is saved in the browser and applied before the page first paints, so there is no flash. The button's code is a few
+  lines inline in each page's `<head>`, so it works even if `site.js` is slow or cached.
+- `style.css` and `site.js` are linked with a `?v=<hash>` that changes whenever they change. GitHub Pages lets browsers cache
+  files for 10 minutes, so without it a visitor could briefly get a new page with an old script right after a deploy.
 - Fonts (Newsreader and Instrument Sans, SIL Open Font License, licence files in `site/fonts/`) are served from the site
   itself, not from Google, so text appears in its final font and layout with no swap or shift.
 - On an article page, the lead image and every image in the media section link to the full-size file in a new tab, and the
