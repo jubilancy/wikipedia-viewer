@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Wikipedia Cabinet</title>
+<meta name="description" content="A personal cabinet of Wikipedia bookmarks, pinned as index cards.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='6' width='26' height='20' rx='2' fill='%23b3402a'/%3E%3Crect x='6' y='10' width='20' height='3' fill='%23fbf6ea'/%3E%3Crect x='6' y='16' width='14' height='2' fill='%23fbf6ea'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#grid">Skip to bookmarks</a>
+
+<header class="masthead">
+  <div class="masthead-text">
+    <h1>The Cabinet</h1>
+    <p class="sub" id="sub">Loading bookmarks…</p>
+  </div>
+  <button type="button" id="theme" class="btn" aria-label="Switch colour theme">Theme</button>
+</header>
+
+<section class="controls" aria-label="Search and filter">
+  <label class="field grow">
+    <span class="lbl">Search</span>
+    <input type="search" id="q" placeholder="Titles, notes, tags, summaries…" autocomplete="off">
+  </label>
+  <details class="more" id="moreFilters">
+    <summary>Filters &amp; sort</summary>
+    <div class="filter-grid">
+      <label class="field"><span class="lbl">List</span><select id="list"></select></label>
+      <label class="field"><span class="lbl">Language</span><select id="lang"></select></label>
+      <label class="field"><span class="lbl">Category</span>
+        <input type="text" id="cat" list="catlist" placeholder="Any category" autocomplete="off">
+        <datalist id="catlist"></datalist></label>
+      <label class="field"><span class="lbl">Sort by</span><select id="sort">
+        <option value="added">Recently added</option>
+        <option value="title">Title A–Z</option>
+        <option value="views">Most viewed (30 days)</option>
+        <option value="edited">Recently edited</option>
+        <option value="length">Longest article</option>
+        <option value="shuffle">Shuffle</option>
+      </select></label>
+      <label class="check"><input type="checkbox" id="img"> Only with a lead image</label>
+    </div>
+  </details>
+  <div class="tagrow" id="tags" role="group" aria-label="Filter by tag"></div>
+  <p class="status" id="status" role="status" aria-live="polite"></p>
+</section>
+
+<main id="grid" class="desk" tabindex="-1" aria-label="Bookmarks"></main>
+<div id="sentinel" aria-hidden="true"></div>
+<p class="empty" id="empty" hidden>No bookmarks match. Try clearing a filter.</p>
+
+<dialog id="dlg" aria-labelledby="dlgTitle">
+  <div class="dlg-bar">
+    <button type="button" class="btn" id="prev" aria-label="Previous card">&larr; Prev</button>
+    <button type="button" class="btn" id="flip" aria-pressed="false">Turn card over</button>
+    <button type="button" class="btn" id="next" aria-label="Next card">Next &rarr;</button>
+    <button type="button" class="btn close" id="close" aria-label="Close card">Close</button>
+  </div>
+  <div class="flipper" id="flipper">
+    <section class="face front" id="front" aria-label="Front of card"></section>
+    <section class="face back" id="back" aria-label="Back of card" inert></section>
+  </div>
+</dialog>
+
+<footer class="foot">
+  <p>Article text and summaries come from <a href="https://www.wikipedia.org/">Wikipedia</a> and are available under
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Every card links to its source page and
+    its edit history, which list the authors. Images come from Wikimedia Commons or Wikipedia under the licence shown on
+    each card. Data is fetched with the Wikimedia APIs.</p>
+</footer>
+
+<script src="app.js" defer></script>
+</body>
+</html>
