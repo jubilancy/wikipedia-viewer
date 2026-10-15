@@ -1,0 +1,81 @@
+name: Build and deploy
+
+# Refreshes data/ from data/lists/*.csv, commits any change, and deploys site/ + data/ to GitHub Pages.
+# Pages source must be "GitHub Actions" (repo Settings -> Pages -> Build and deployment -> Source).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/lists/**"
+      - "wiki_bookmarks.py"
+      - "site/**"
+      - ".github/workflows/build.yml"
+  schedule:
+    - cron: "17 5 * * *" # daily, 05:17 UTC (pageviews refresh every run)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-fetch every article, ignoring the cache"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+# One run at a time so two runs never race to commit data/.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write # commit regenerated data
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: astral-sh/setup-uv@v10.3.0
+
+      - name: Refresh data
+        run: uv run wiki_bookmarks.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Commit data if it changed
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "No data changes; nothing to commit."
+          else
+            git commit -m "Refresh Wikipedia data"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Assemble site (viewer + data side by side)
+        run: |
+          mkdir _site
+          cp -r site/. _site/
+          cp -r data _site/data
+          rm -rf _site/data/lists
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

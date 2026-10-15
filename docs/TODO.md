@@ -22,7 +22,7 @@ Those are parked at the bottom.
 - [x] Second run: 0 articles re-fetched, only pageview columns refresh
 - [x] Viewer in `site/` (cabinet of curiosities x zettelkasten)
 - [x] Browser test: desktop, mobile dark, dialog flip, search, 3,000-row load (no errors). Keyboard flow checked in code only; see README notes
-- [ ] Look up current versions of checkout / setup-uv / Pages actions, then `.github/workflows/build.yml`
+- [x] Looked up current action versions live (checkout v7, setup-uv v10.3.0 exact, upload-pages-artifact v5, deploy-pages v5) and wrote `.github/workflows/build.yml`. Not yet run on GitHub.
 - [ ] README (add a list, run with `uv run`, trigger a run)
 - [ ] Commit, push, draft PR
 - [ ] Settings -> Pages -> Source: GitHub Actions (you do this once in the web UI)
