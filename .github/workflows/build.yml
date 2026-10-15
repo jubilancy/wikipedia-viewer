@@ -1,6 +1,6 @@
 name: Build and deploy
 
-# Refreshes data/ from data/lists/*.csv, commits any change, and deploys site/ + data/ to GitHub Pages.
+# Refreshes data/ from data/lists/*.csv, commits any change, builds the static pages (build_site.py) and deploys them to GitHub Pages.
 # Pages source must be "GitHub Actions" (repo Settings -> Pages -> Build and deployment -> Source).
 on:
   push:
@@ -8,6 +8,7 @@ on:
     paths:
       - "data/lists/**"
       - "wiki_bookmarks.py"
+      - "build_site.py"
       - "site/**"
       - ".github/workflows/build.yml"
   schedule:
@@ -57,12 +58,12 @@ jobs:
             git push origin HEAD:main
           fi
 
-      - name: Assemble site (viewer + data side by side)
+      - name: Build site pages
         run: |
-          mkdir _site
-          cp -r site/. _site/
-          cp -r data _site/data
-          rm -rf _site/data/lists
+          # Served at /<repo>/ for project sites, or / for a <user>.github.io repo.
+          BASE="/${GITHUB_REPOSITORY#*/}/"
+          case "$GITHUB_REPOSITORY" in *.github.io) BASE="/" ;; esac
+          uv run build_site.py --out _site --base-path "$BASE"
 
       - uses: actions/upload-pages-artifact@v5
         with:

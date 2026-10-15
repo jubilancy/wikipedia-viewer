@@ -28,6 +28,14 @@ Those are parked at the bottom.
 - [ ] You: Settings -> Pages -> Build and deployment -> Source: GitHub Actions (once, in the web UI)
 - [ ] First workflow run on GitHub (merge the PR to `main`, or run it from the Actions tab) to confirm the Pages deploy
 
+## Journal restyle (second change)
+
+- [x] Design: 3 directions in Claude Design, Journal chosen (saved as separate Design artifacts)
+- [x] `build_site.py`: static pages, clean extension-less URLs (`/tag/food`, `/category/<name>`, `/article/<lang>/<title>`)
+- [x] `/tags` and `/categories` pages, article-style detail pages, paginated home, search.json
+- [x] Link check: 0 broken of 1,195 internal references on the sample data
+- [ ] After deploy: confirm `/tag/food` loads without `.html` on the live site (extension-less `/index` already returns 200)
+
 ## Parked (not requested right now)
 
 - [ ] Recent edit count and top contributors (`prop=revisions` with `rvlimit`)

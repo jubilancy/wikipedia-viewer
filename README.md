@@ -1,13 +1,13 @@
 # Wikipedia Cabinet
 
-A personal Wikipedia bookmark viewer. You keep CSV lists of Wikipedia URLs. A `uv` script turns them into one merged CSV
-plus a JSON file per article, and a static page shows them as index cards pinned on a desk. GitHub Actions refreshes the
-data and publishes the site to GitHub Pages.
+A personal Wikipedia bookmark site. You keep CSV lists of Wikipedia URLs. A `uv` script turns them into one merged CSV
+plus a JSON file per article. A second script builds a plain, fast, text-first site from that data (the "Journal" style),
+and GitHub Actions refreshes the data and publishes the site to GitHub Pages.
 
 ```
-data/lists/*.csv  ->  wiki_bookmarks.py  ->  data/articles.csv  ->  site/ (viewer)  ->  GitHub Pages
-                                             data/articles/<lang>/*.json
-                                             data/report.csv
+data/lists/*.csv -> wiki_bookmarks.py -> data/articles.csv        -> build_site.py -> _site/ -> GitHub Pages
+                                         data/articles/<lang>/*.json
+                                         data/report.csv
 ```
 
 ## The script
@@ -79,30 +79,43 @@ Wikimedia rate-limits shared IP addresses, so expect pauses: the first sample ru
 - Not included (parked in [`docs/TODO.md`](docs/TODO.md)): recent edit counts and top contributors, and article quality
   ratings. I did not find a verified endpoint for quality ratings.
 
-## The viewer
+## The site
 
-Plain HTML, CSS and JavaScript in `site/`, no build step. It loads `data/articles.csv` in the browser and renders index
-cards with mixed-size images and handwritten-style notes and tags.
+`build_site.py` turns `data/` into static HTML pages. Nothing runs in the browser except an optional search box.
 
-- Search, filters (list, language, category, tags, with-image), and sorting (recently added, title, most viewed, recently
-  edited, longest, shuffle). Filters are kept in the page URL.
-- Cards render in batches as you scroll, and images load lazily, so thousands of rows stay smooth. A 3,000-row test loaded
-  with no errors.
-- Click a card to open it, then turn it over for the details (pageview chart, Wikidata facts, counts, contents, media,
-  other languages). `F` flips, `←` and `→` move between cards, `Esc` closes. `#lang/Title` in the URL opens a card.
-- Light and dark themes (follows your system, with a manual toggle) and a single-column mobile layout.
+```bash
+uv run build_site.py                                  # data/ + site/ -> _site/
+uv run build_site.py --base-path /wikipedia-viewer/   # only used by the 404 page
+uv run build_site.py --min-category-articles 2        # skip pages for one-article categories
+```
+
+| URL | Page |
+|---|---|
+| `/` and `/page/2`, `/page/3` … | Bookmark list, newest first, 50 per page |
+| `/article/<lang>/<title>` | One article: summary, image with credit, notes, tags, categories, facts, page-view chart, Wikidata facts, contents, media, other languages, related bookmarks |
+| `/tags` and `/tag/food` | All tags with counts, and the articles for one tag |
+| `/categories` and `/category/<name>` | All Wikipedia categories found in your articles, and the articles in one |
+| `/search.json` | The index the home page search box uses |
+
+The URLs have no file extension. GitHub Pages serves `tag/food.html` at `/tag/food`, and the script writes the pages that way.
+Links between pages are relative, so the site works under `/<repo>/` on GitHub Pages and at the root of a custom domain.
+
+- The home page search, sort, list and language filters run in the browser against `search.json`. Without JavaScript the
+  list, tags, categories and articles all still work as plain pages. The `/tags` and `/categories` pages have a type-to-filter box.
+- Light and dark themes follow your system. The layout is a single column that works on a phone.
 - Text is CC BY-SA 4.0 with a link to each source page and its history. Each image shows its author, license and file page.
+- With thousands of articles, every Wikipedia category gets its own page. Use `--min-category-articles 2` to cut the file
+  count; categories below the cutoff are still listed on `/categories`, just not linked.
+- The old card viewer (`site/app.js`) was removed in this change. The styles are in `site/style.css`.
 
 ### Preview in a browser-based editor
 
-From the repo root, serve the files and open `/site/`:
-
 ```bash
-uv run python -m http.server 8000
+uv run build_site.py --serve 8000
 ```
 
-Then open the forwarded port 8000 at `/site/index.html` (in GitHub Codespaces, use the Ports tab). The viewer looks for
-`data/` next to `index.html` (the deployed layout) and falls back to `../data/`.
+This builds the site and serves it the way GitHub Pages does (`/tag/food` finds `tag/food.html`). Open the forwarded
+port 8000 (in GitHub Codespaces, the Ports tab). Stop it with Ctrl+C.
 
 ## Automation
 
@@ -114,8 +127,8 @@ Then open the forwarded port 8000 at `/site/index.html` (in GitHub Codespaces, u
 | `schedule` | daily at 05:17 UTC (refreshes pageviews and picks up edits) |
 | `workflow_dispatch` | manually |
 
-Steps: run the script, commit `data/` if it changed (otherwise log "No data changes" and continue), assemble `site/` plus
-`data/`, then deploy to Pages. Permissions are minimal: `contents: write` only in the build job, `pages: write` and
+Steps: run `wiki_bookmarks.py`, commit `data/` if it changed (otherwise log "No data changes" and continue), run
+`build_site.py`, then deploy `_site/` to Pages. Permissions are minimal: `contents: write` only in the build job, `pages: write` and
 `id-token: write` only in the deploy job. Commits made with the built-in token do not retrigger workflows, and a
 `concurrency` group stops two runs from racing.
 
@@ -140,7 +153,8 @@ data/lists/*.csv         your input lists (edit these)
 data/articles.csv        generated
 data/articles/           generated per-article JSON
 data/report.csv          generated
-site/                    the viewer (index.html, app.js, style.css)
+build_site.py            builds the static pages (uv, no dependencies)
+site/                    static assets copied into the site (style.css, site.js, favicon.svg)
 docs/TODO.md             checklist and parked work
 .github/workflows/       build.yml
 ```
@@ -150,5 +164,6 @@ non-English, missing, bad URL, duplicate). Delete them when you add your own.
 
 ## Status
 
-The script, sample data and viewer were tested in this repository's development session. The workflow has not yet run on
-GitHub; its first run will confirm the Pages deployment.
+The scripts, sample data and generated pages were tested in this repository's development session (all internal links
+checked, search and filters exercised in a browser). The first workflow run with `build_site.py` on GitHub will confirm the
+Pages deployment and the extension-less URLs.
