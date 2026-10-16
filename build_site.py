@@ -79,7 +79,13 @@ def split(s):
     return [x for x in (s or "").split("|") if x]
 
 
+ASSET_V = {n: hashlib.sha1((Path(args.site) / n).read_bytes()).hexdigest()[:8] for n in ("style.css", "site.js")}
+
+
 def write(rel, text):
+    # ?v=<hash of the file> on style.css and site.js: GitHub Pages caches files for 10 minutes, so without it a visitor
+    # could get a new page with an old script right after a deploy.
+    text = re.sub(r'((?:href|src)="[^"]*?)(style\.css|site\.js)"', lambda m: f'{m.group(1)}{m.group(2)}?v={ASSET_V[m.group(2)]}"', text)
     p = out / rel
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(text, encoding="utf-8")
@@ -127,12 +133,23 @@ for r in rows:
 
 # ---------------------------------------------------------------- page chrome
 
-# Runs before first paint: restore a saved theme and mark JavaScript as available, so nothing reflows or flashes later.
-HEAD_SCRIPT = ('<script>try{var t=localStorage.getItem("theme");if(t==="dark"||t==="light")'
-               'document.documentElement.setAttribute("data-theme",t)}catch(e){}'
-               'document.documentElement.classList.add("js")</script>')
+# Runs before first paint: restores a saved theme, marks JavaScript as available (so nothing reflows later) and handles the
+# light/dark button with one delegated click listener. It is inline on purpose: the button then works the moment the page
+# shows, and never depends on a (possibly cached, older) site.js.
+HEAD_SCRIPT = (
+    '<script>(function(d){try{var t=localStorage.getItem("theme");if(t==="dark"||t==="light")d.setAttribute("data-theme",t)}'
+    'catch(e){}d.classList.add("js");d.addEventListener("click",function(e){var b=e.target.closest&&e.target.closest("#theme");'
+    'if(!b)return;var c=d.getAttribute("data-theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");'
+    'var n=c==="dark"?"light":"dark";d.setAttribute("data-theme",n);try{localStorage.setItem("theme",n)}catch(e){}})})'
+    '(document.documentElement)</script>')
+_SVG = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+MOON = _SVG + '<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>'
+SUN = (_SVG + '<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2'
+       'M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>')
+# Shows the moon ("go dark") in light mode and the sun ("go light") in dark mode; CSS picks which, so there is no flicker.
 THEME_BTN = ('<button type="button" id="theme" class="theme-toggle" aria-label="Switch between light and dark mode">'
-             '<span class="to-dark">Dark mode</span><span class="to-light">Light mode</span></button>')
+             f'<span class="to-dark">{MOON}<span class="tt">Dark mode</span></span>'
+             f'<span class="to-light">{SUN}<span class="tt">Light mode</span></span></button>')
 
 
 def page(title, body, depth, active="", desc="", scripts="", wide=False, extra_head=""):

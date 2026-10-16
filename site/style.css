@@ -112,16 +112,22 @@ a:hover { color: var(--accent-hover); }
 .top-right { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 22px; }
 .top nav { display: flex; gap: 22px; font-size: 15px; }
 .theme-toggle { display: none; font: 500 14px var(--sans); color: var(--muted); background: transparent; border: 1px solid var(--field);
-  border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+  border-radius: 999px; padding: 6px 14px 6px 11px; cursor: pointer; line-height: 1; }
 html.js .theme-toggle { display: inline-flex; }
 .theme-toggle:hover { color: var(--ink); border-color: var(--accent); }
+.theme-toggle .to-dark, .theme-toggle .to-light { align-items: center; gap: 8px; }
+.theme-toggle .to-dark { display: inline-flex; }
 .theme-toggle .to-light { display: none; }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) .theme-toggle .to-dark { display: none; }
-  :root:not([data-theme="light"]) .theme-toggle .to-light { display: inline; }
+  :root:not([data-theme="light"]) .theme-toggle .to-light { display: inline-flex; }
 }
 :root[data-theme="dark"] .theme-toggle .to-dark { display: none; }
-:root[data-theme="dark"] .theme-toggle .to-light { display: inline; }
+:root[data-theme="dark"] .theme-toggle .to-light { display: inline-flex; }
+@media (max-width: 560px) {  /* phones: icon only */
+  .theme-toggle { padding: 8px; }
+  .theme-toggle .tt { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+}
 .top nav a[aria-current="page"] { color: var(--ink); font-weight: 600; }
 
 h1 { margin: 0; font: 600 clamp(2rem, 6vw, 3rem)/1.05 var(--serif); letter-spacing: -0.01em; }

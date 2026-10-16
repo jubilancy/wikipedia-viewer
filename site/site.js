@@ -12,15 +12,7 @@
   const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
   const getJSON = (name) => fetch(root + name).then((r) => { if (!r.ok) throw new Error(name); return r.json(); });
 
-  // ----- light / dark toggle (the saved choice is applied before first paint by a tiny script in each page's head)
-  const themeBtn = $("theme");
-  if (themeBtn) themeBtn.addEventListener("click", () => {
-    const html = document.documentElement;
-    const now = html.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-    const next = now === "dark" ? "light" : "dark";
-    html.dataset.theme = next;
-    try { localStorage.setItem("theme", next); } catch { /* storage unavailable: the choice lasts for this page only */ }
-  });
+  // (The light / dark button is handled by a tiny inline script in each page's head, so it does not depend on this file.)
 
   // One list item, same markup as the generated HTML.
   function itemEl(r) {
