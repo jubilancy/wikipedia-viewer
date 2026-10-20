@@ -23,7 +23,7 @@
  ],
  "backlinks": {
   "capped": false,
-  "count": 664,
+  "count": 663,
   "namespace": 0
  },
  "bookmark": {
@@ -52,6 +52,7 @@
   "http://www.baertierchen.de/wb_aug05.html",
   "http://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:faunaeur.org:taxname:12674",
   "http://www.genomesize.com/search.php?search=type&value=Tardigrades&display=100",
+  "http://www.nasa.gov/mission_pages/station/research/experiments/BIOKIS.html",
   "http://www.tardigrada.net/",
   "http://www.tardigrada.net/newsletter/images/symposia/12_Booklet.pdf",
   "http://www.weizmann.ac.il/plants/Milo/images/NumberOfCells140409Clean.pdf",
@@ -224,7 +225,6 @@
   "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=155362#null",
   "https://www.livescience.com/63945-tardigrade-gifts.html",
   "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1276",
-  "https://www.nasa.gov/mission_pages/station/research/experiments/BIOKIS.html",
   "https://www.ncbi.nlm.nih.gov/datasets/taxonomy/42241/",
   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10334802",
   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10924213",
@@ -633,7 +633,18 @@
    "title": "缓步动物门"
   }
  ],
- "lead_image": {},
+ "lead_image": {
+  "attribution": "",
+  "author": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012)",
+  "author_html": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012)",
+  "credit_html": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012) Comparative proteome analysis of Milnesium tardigradum in early embryonic state versus adults in active and anhydrobiotic state. PLoS ONE 7(9): e45682. <a href=\"//doi.org/10.1371/journal.pone.0045682\" class=\"extiw\" title=\"doi:10.1371/journal.pone.0045682\">doi:10.1371/journal.pone.0045682</a>",
+  "description": "SEM image of Milnesium tardigradum in active state. doi:10.1371/journal.pone.0045682.g001",
+  "file": "SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_(white_background).png",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "mime": "image/png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_(white_background).png"
+ },
  "links": [
   "Abditibacteriota",
   "Abdomen",
@@ -1212,7 +1223,6 @@
   "Tangaroaeota",
   "Taq polymerase",
   "Tardigrada (disambiguation)",
-  "Tardigrade",
   "Tardigrade specific proteins",
   "Tardigrades in space",
   "Tardigrades on the Moon",
@@ -1273,7 +1283,7 @@
  "media": [
   {
    "caption": "",
-   "lead": false,
+   "lead": true,
    "mime": "image/png",
    "orig": "https://upload.wikimedia.org/wikipedia/commons/2/20/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_%28white_background%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
    "page": "https://commons.wikimedia.org/wiki/File:SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_(white_background).png",
@@ -1610,17 +1620,17 @@
    "type": "image"
   }
  ],
- "original_image": {},
+ "original_image": {
+  "height": 1205,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_%28white_background%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1379
+ },
  "page_url": "https://en.wikipedia.org/wiki/Tardigrade",
  "pageviews": {
   "access": "all-access",
   "agent": "user",
   "granularity": "daily",
   "series": [
-   [
-    "2026-09-19",
-    2045
-   ],
    [
     "2026-09-20",
     2014
@@ -1736,9 +1746,13 @@
    [
     "2026-10-18",
     2309
+   ],
+   [
+    "2026-10-19",
+    2406
    ]
   ],
-  "through": "2026-10-18"
+  "through": "2026-10-19"
  },
  "protection": [],
  "sections": [
@@ -1973,7 +1987,6 @@
   "Extremophiles",
   "FULLROOTPAGENAME",
   "Flat list",
-  "Flatlist",
   "Font color",
   "Format link",
   "Fossil range",
@@ -2120,7 +2133,11 @@
   "Yesno-yes",
   "\\"
  ],
- "thumbnail": {},
+ "thumbnail": {
+  "height": 419,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_%28white_background%29.png/500px-SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_%28white_background%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
  "title": "Tardigrade",
  "wikidata": {
   "description": "phylum of animals",

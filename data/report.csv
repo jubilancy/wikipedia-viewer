@@ -4,6 +4,5 @@ error,example,9,https://example.com/not-wikipedia,,bad_url,not a language-specif
 warning,,0,,en/Mercury,disambiguation,article is a disambiguation page
 info,,0,,,merged_duplicates,2 bookmark rows merged into existing articles
 info,,0,,en/Mercury,no_image,article has no lead image
-info,,0,,en/Tardigrade,no_image,article has no lead image
 info,example,3,https://en.m.wikipedia.org/wiki/Augusta_Ada_King?utm_source=x,en/Ada_Lovelace,redirect,Augusta Ada King -> Ada Lovelace
 info,example,6,https://de.m.wikipedia.org/wiki/S%C3%BC%C3%9Figkeit,de/Süßware,redirect,Süßigkeit -> Süßware
