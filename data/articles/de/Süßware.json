@@ -9,7 +9,7 @@
  ],
  "backlinks": {
   "capped": false,
-  "count": 266,
+  "count": 267,
   "namespace": 0
  },
  "bookmark": {
@@ -174,6 +174,7 @@
   "Belgien",
   "Bonbon",
   "Bounty (Schokoriegel)",
+  "Bundesinstitut für Öffentliche Gesundheit",
   "Bundesverband der Deutschen Süßwarenindustrie",
   "Cadbury plc",
   "Caramac",
@@ -342,10 +343,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-09-29",
-    34
-   ],
-   [
     "2026-09-30",
     128
    ],
@@ -460,9 +457,13 @@
    [
     "2026-10-28",
     35
+   ],
+   [
+    "2026-10-29",
+    31
    ]
   ],
-  "through": "2026-10-28"
+  "through": "2026-10-29"
  },
  "protection": [],
  "sections": [
