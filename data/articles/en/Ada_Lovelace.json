@@ -35,7 +35,7 @@
  ],
  "backlinks": {
   "capped": false,
-  "count": 457,
+  "count": 458,
   "namespace": 0
  },
  "bookmark": {
@@ -226,6 +226,7 @@
   "https://web.archive.org/web/20160406052014/http://www.sfweekly.com/exhibitionist/2015/10/22/ada-and-the-memory-engine-love-by-the-numbers",
   "https://web.archive.org/web/20181008121529/https://www.independent.co.uk/life-style/women/ada-lovelace-day-first-computer-programmer-forgotten-women-a8557416.html",
   "https://web.archive.org/web/20181010011141/https://www.mooreallen.co.uk/group/news-events/rare-book-by-worlds-first-computer-programmer-sells-for-95000",
+  "https://web.archive.org/web/20181129143629/https://www.chad.co.uk/news/town-centre-landmark-renovated-to-boost-kirkby-s-economy-1-8538257",
   "https://web.archive.org/web/20181225024305/https://www.syfy.com/syfywire/games",
   "https://web.archive.org/web/20181225024327/https://www.sdsc.edu/ScienceWomen/lovelace.html%20",
   "https://web.archive.org/web/20200215003909/https://pdfs.semanticscholar.org/81bb/f32d2642a7a8c6b0a867379a4e9e99d872bc.pdf",
@@ -531,6 +532,10 @@
    "title": "Ada Lovelace"
   },
   {
+   "lang": "ky",
+   "title": "Ада Лавлейс"
+  },
+  {
    "lang": "la",
    "title": "Ada Lovelace"
   },
@@ -825,7 +830,6 @@
   "Betty Holberton",
   "Bibcode (identifier)",
   "Bibliothèque universelle de Genève",
-  "Birth name",
   "Bjarne Stroustrup",
   "Bloody Poetry",
   "Blue plaque",
@@ -1433,10 +1437,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-02",
-    3951
-   ],
-   [
     "2026-10-03",
     2904
    ],
@@ -1551,9 +1551,13 @@
    [
     "2026-10-31",
     2883
+   ],
+   [
+    "2026-11-01",
+    2780
    ]
   ],
-  "through": "2026-10-31"
+  "through": "2026-11-01"
  },
  "protection": [
   "edit=autoconfirmed",
@@ -2034,6 +2038,6 @@
   ],
   "id": "Q7259",
   "label": "Ada Lovelace",
-  "sitelink_count": 133
+  "sitelink_count": 135
  }
 }
