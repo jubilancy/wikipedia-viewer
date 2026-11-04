@@ -11,7 +11,7 @@
  ],
  "backlinks": {
   "capped": false,
-  "count": 1050,
+  "count": 1052,
   "namespace": 0
  },
  "bookmark": {
@@ -82,13 +82,17 @@
   "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ge161027&CON_LNG=ENG",
   "https://archive.org/details/jacquesbalmator00oxlegoog",
   "https://archive.org/details/womenonropefe00will",
+  "https://catalogue.bnf.fr/ark:/12148/cb11947134z",
   "https://d-nb.info/gnd/4115201-3",
+  "https://data.bnf.fr/ark:/12148/cb11947134z",
+  "https://datos.bne.es/resource/XX453498",
   "https://digital.wpi.edu/concern/generic_works/k0698b058?locale=en",
   "https://geohack.toolforge.org/geohack.php?pagename=Mont_Blanc&params=45_49_58_N_06_51_54_E_type:mountain",
   "https://geohack.toolforge.org/geohack.php?pagename=Mont_Blanc&params=45_49_58_N_06_51_54_E_type:mountain_scale:100000",
-  "https://id.loc.gov/authorities/no2001036912",
+  "https://id.loc.gov/authorities/sh85014761",
   "https://id.ndl.go.jp/auth/ndlna/00629353",
   "https://id.oclc.org/worldcat/entity/E39PBJyhcp6CBQhRXGTxRcQ6rq",
+  "https://id.worldcat.org/fast/1333778",
   "https://libris.kb.se/b8nqpkfv4k9hwlf",
   "https://lux.collections.yale.edu/view/place/5ad56aea-2e59-4b0f-aa39-80ba3b1b66c9",
   "https://panoviewer.toolforge.org/#Mont_Blanc_Spherical_Panorama.jpg",
@@ -101,7 +105,7 @@
   "https://search.worldcat.org/issn/1590-7716",
   "https://torino.repubblica.it/cronaca/2019/07/23/news/monte_bianco_la_francia_invade_i_confini_italiani_si_rischia_il_caso_diplomatico-231842103/",
   "https://torino.repubblica.it/cronaca/2020/10/21/news/monte_bianco_cresce_la_tensione_tra_italia_e_francia_macron_vuole_la_vetta-271373634/",
-  "https://viaf.org/viaf/144578286",
+  "https://viaf.org/viaf/316732384",
   "https://web.archive.org/web/20061102231021/https://whc.unesco.org/en/tentativelists/1431/",
   "https://web.archive.org/web/20071009000000/http://pro-mont-blanc.org/fr_art_aff.php?id_article=21",
   "https://web.archive.org/web/20081208000000/http://www.ananova.com/news/story/sm_2429287.html",
@@ -162,6 +166,7 @@
   "https://web.archive.org/web/20231005184033/https://www.theguardian.com/environment/2023/oct/05/mont-blanc-height-peak-shrinks",
   "https://web.archive.org/web/20240706130403/https://www.youtube.com/watch?v=p_mQlHAdHhs",
   "https://whc.unesco.org/en/tentativelists/1431/",
+  "https://wikidata-externalid-url.toolforge.org/?p=8034&url_prefix=https://opac.vatlib.it/auth/detail/&id=497/1861",
   "https://www.ansa.it/ansa2030/notizie/green_blue/2025/12/20/ricerca-sul-monte-bianco-il-ghiaccio-si-scioglie-e-la-vetta-si-abbassa_51cdb7e9-afe2-47a3-b323-c10a19d800b7.html",
   "https://www.bbc.co.uk/news/world-asia-india-19645550",
   "https://www.bbc.co.uk/news/world-europe-45150304",
@@ -170,12 +175,13 @@
   "https://www.francebleu.fr/infos/faits-divers-justice/ils-tentent-de-gravir-le-mont-blanc-avec-leurs-jumeaux-de-9-ans-1502371456",
   "https://www.francetvinfo.fr/meteo/climat/le-mont-blanc-a-perdu-un-metre-en-quatre-ans-et-culmine-desormais-a-4807-81-metres_4787791.html",
   "https://www.geoportail.gouv.fr/carte?c=6.8651732621637045,45.83374526755415&z=15&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(1)&permalink=yes",
+  "https://www.idref.fr/027427617",
   "https://www.independent.co.uk/news/world/europe/american-climber-whose-children-almost-died-in-mont-blanc-avalanche-says-he-has-no-regrets-amid-9633772.html",
   "https://www.ledauphine.com/haute-savoie/2016/07/07/mont-blanc-une-grande-crevasse-barre-la-voie-royale-du-toit-des-alpes",
   "https://www.lemonde.fr/archives/article/2001/10/02/pour-l-inscription-du-massif-a-l-unesco_4191592_1819218.html",
   "https://www.lemonde.fr/sciences/article/2023/10/05/le-mont-blanc-mesure-4-805-59-metres-selon-la-derniere-evaluation_6192597_1650684.html",
   "https://www.ncbi.nlm.nih.gov/pubmed/11252700",
-  "https://www.nli.org.il/en/authorities/987007489316105171",
+  "https://www.nli.org.il/en/authorities/987007283251905171",
   "https://www.ohga.it/e-gia-allarme-siccita-sulle-alpi-ce-il-53-di-neve-in-meno-e-lacqua-del-po-e-diminuita-del-61/",
   "https://www.pbs.org/wgbh/nova/mtblanc/",
   "https://www.peakbagger.com/peak.aspx?pid=9941",
@@ -191,7 +197,7 @@
   "https://www.washingtonpost.com/wp-dyn/content/article/2007/06/08/AR2007060802937.html",
   "https://www.youtube.com/watch?v=p_mQlHAdHhs"
  ],
- "intro_text": "Mont Blanc (UK: ; US: ) is a mountain in the Alps, rising 4,807.3 m (15,771.9 ft) above sea level, located right at the Franco-Italian border. It is the highest mountain in Europe outside the Caucasus Mountains, the second-most prominent mountain in Europe (after Mount Elbrus in Russia), and the 11th most prominent mountain in the world.\nThe mountain gives its name to its range, the Mont Blanc massif, which straddles parts of France, Italy, and Switzerland. Mont Blanc's summit lies on the watershed line between the valleys of Ferret and Veny in Italy, and the valleys of Montjoie, and Arve in France. Ownership of the summit area has long been disputed between France and Italy.\nThe Mont Blanc massif is popular for outdoor activities such as hiking, climbing, and trail running and winter sports such as skiing and snowboarding. The most popular climbing route to the summit of Mont Blanc is the Goûter Route, which typically takes two days.\nThe three towns and their communes which surround Mont Blanc are Courmayeur in Aosta Valley, Italy; and Saint-Gervais-les-Bains and Chamonix in Haute-Savoie, France. The latter town was the site of the first Winter Olympics. A cable car ascends and crosses the mountain range from Courmayeur to Chamonix through the Col du Géant. The 11.6 km (7+1⁄4 mi) Mont Blanc Tunnel, constructed between 1957 and 1965, runs beneath the mountain and is a major transalpine transport route.",
+ "intro_text": "Mont Blanc (UK: ; US: ) is a mountain in the Alps, rising 4,807.3 m (15,771.9 ft) above sea level, located right at the Franco-Italian border. It is the highest mountain in Europe outside the Caucasus Mountains, the second-most prominent mountain in Europe (after Mount Elbrus in Russia), and the 11th most prominent mountain in the world.\nThe mountain gives its name to its range, the Mont Blanc massif, which straddles parts of France, Italy, and Switzerland. Mont Blanc's summit lies on the watershed line between the valleys of Ferret and Veny in Italy, and the valleys of Montjoie, and Arve in France. Ownership of the summit area has long been disputed between France and Italy.\nThe Mont Blanc massif is popular for outdoor activities such as hiking, climbing, and trail running and winter sports such as skiing and snowboarding. The most popular climbing route to the summit of Mont Blanc is the Goûter Route, which typically takes two days.\nThe three towns and their communes which surround Mont Blanc are Courmayeur in Aosta Valley, Italy; and Saint-Gervais-les-Bains and Chamonix in Haute-Savoie, France. The latter town was the site of the first Winter Olympics. A cable car ascends and crosses the mountain range from Courmayeur to Chamonix through the Col du Géant. The 11.6 km (7+1⁄4 mi) Mont Blanc Tunnel, constructed between 1957 and 1965, runs beneath the mountain and is a major transalpine transport route.\n\n",
  "key": "en/Mont_Blanc",
  "lang": "en",
  "language_links": [
@@ -1191,6 +1197,7 @@
   "Tödi",
   "UNESCO",
   "Ultra prominent peak",
+  "Ultra-Trail du Mont-Blanc",
   "United Nations geoscheme for Oceania",
   "Val Ferret",
   "Val Veny",
@@ -1600,10 +1607,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-04",
-    1238
-   ],
-   [
     "2026-10-05",
     1129
    ],
@@ -1718,9 +1721,13 @@
    [
     "2026-11-02",
     1035
+   ],
+   [
+    "2026-11-03",
+    999
    ]
   ],
-  "through": "2026-11-02"
+  "through": "2026-11-03"
  },
  "protection": [],
  "sections": [
@@ -1887,6 +1894,7 @@
   "Audio",
   "Authority control",
   "Authority control",
+  "Authority control/auxiliary",
   "Authority control/config",
   "CS1 identifiers",
   "CSS image crop",
