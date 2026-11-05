@@ -716,7 +716,6 @@
   "Basidiomycota",
   "Bdelloidea",
   "Bear",
-  "Bee Movie",
   "Benthozoa",
   "Beorn (tardigrade)",
   "Beresheet",
@@ -1224,6 +1223,7 @@
   "Tactopoda",
   "Tangaroaeota",
   "Taq polymerase",
+  "Tardigrada (disambiguation)",
   "Tardigrade specific proteins",
   "Tardigrades in space",
   "Tardigrades on the Moon",
@@ -1633,10 +1633,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-05",
-    2609
-   ],
-   [
     "2026-10-06",
     2504
    ],
@@ -1751,9 +1747,13 @@
    [
     "2026-11-03",
     2159
+   ],
+   [
+    "2026-11-04",
+    2150
    ]
   ],
-  "through": "2026-11-03"
+  "through": "2026-11-04"
  },
  "protection": [],
  "sections": [
@@ -1975,8 +1975,6 @@
   "Delink",
   "Delink",
   "Disambiguation/templates",
-  "Distinguish",
-  "Distinguish",
   "Don't edit this line always display",
   "Don't edit this line extinct",
   "Don't edit this line link target",
@@ -2081,6 +2079,7 @@
   "Space+apostrophe+s",
   "String",
   "TableTools",
+  "Tardigrada",
   "Tardigrades",
   "Taxobox colour",
   "Taxobox ranks",
