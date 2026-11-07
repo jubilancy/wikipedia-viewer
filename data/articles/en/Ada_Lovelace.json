@@ -59,6 +59,7 @@
   "Ada (programming language)",
   "Ada Lovelace",
   "Amateur mathematicians",
+  "British computer scientists",
   "British countesses by marriage",
   "British women computer scientists",
   "British women inventors",
@@ -1437,10 +1438,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-07",
-    4499
-   ],
-   [
     "2026-10-08",
     5481
    ],
@@ -1555,9 +1552,13 @@
    [
     "2026-11-05",
     4802
+   ],
+   [
+    "2026-11-06",
+    3921
    ]
   ],
-  "through": "2026-11-05"
+  "through": "2026-11-06"
  },
  "protection": [
   "edit=autoconfirmed",
