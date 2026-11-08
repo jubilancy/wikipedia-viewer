@@ -1,0 +1,594 @@
+{
+ "aliases": [
+  "Avant-propos",
+  "Foreward"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 471,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Foreword",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Foreword",
+  "tags": "Front matter"
+ },
+ "categories": [
+  "Book design",
+  "Book terminology",
+  "Elements of documents",
+  "Literary theory"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Foreword</span></span>",
+ "external_links": [
+  "http://www.patmcnees.com/the_difference_between_a_preface__foreword__and_introduction_52536.htm",
+  "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph172944&CON_LNG=ENG",
+  "https://books.forbes.com/blog/what-is-book-foreword/",
+  "https://dictionary.cambridge.org/dictionary/english/foreword",
+  "https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000176091&P_CON_LNG=ENG",
+  "https://scholar.google.com/scholar?q=%22Foreword%22",
+  "https://www.etymonline.com/word/foreword",
+  "https://www.google.com/search?&q=%22Foreword%22&tbs=bkt:s&tbm=bks",
+  "https://www.google.com/search?as_eq=wikipedia&q=%22Foreword%22",
+  "https://www.google.com/search?tbm=nws&q=%22Foreword%22+-wikipedia&tbs=ar:1",
+  "https://www.google.com/search?tbs=bks:1&q=%22Foreword%22+-wikipedia",
+  "https://www.jstor.org/action/doBasicSearch?Query=%22Foreword%22&acc=on&wc=on",
+  "https://www.quickanddirtytips.com/education/grammar/foreword-versus-forward"
+ ],
+ "intro_text": "A foreword is a short piece of writing that appears at the beginning of a book or another literary work. A foreword is generally written by someone other than the author and frequently offers commentary on the story or some interaction between the writer of the foreword and the primary author of the work. In some cases, a new preface is prepended (appearing before an existing foreword) in later editions of a book, which may explain revisions or differences from earlier ones.\nWhen written by the author, such an introductory piece may describe the writing process and context behind the work and may include acknowledgements. However, unlike a preface, a foreword is conventionally signed and is usually attributed to a contributor distinct from the main author. Information essential to understanding the main text is generally presented in a set of explanatory notes, or perhaps in an introduction, rather than in the foreword or the preface.\nAs part of the front matter, the foreword appears before the main body of the text. Pages in this section are typically numbered separately from the main text, often using lowercase Roman numerals, while the main body of the work uses Arabic numerals. When both a foreword and a preface are included, the foreword usually appears first, followed by the preface and then the introduction, which may be paginated either with the front matter or the main text.\nThe word foreword was first used around the mid-17th century, originally as a term employed in philology, possibly a calque of the German Vorwort, itself derived of the Latin praefatio.",
+ "key": "en/Foreword",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "تقديم كتاب"
+  },
+  {
+   "lang": "az",
+   "title": "Ön söz"
+  },
+  {
+   "lang": "azb",
+   "title": "اؤن سؤز"
+  },
+  {
+   "lang": "ca",
+   "title": "Prefaci"
+  },
+  {
+   "lang": "cs",
+   "title": "Předmluva"
+  },
+  {
+   "lang": "da",
+   "title": "Forord"
+  },
+  {
+   "lang": "eo",
+   "title": "Prefaco"
+  },
+  {
+   "lang": "eu",
+   "title": "Aitzinsolas"
+  },
+  {
+   "lang": "fa",
+   "title": "مقدمه"
+  },
+  {
+   "lang": "fr",
+   "title": "Avant-propos"
+  },
+  {
+   "lang": "fy",
+   "title": "Foarwurd"
+  },
+  {
+   "lang": "he",
+   "title": "הקדמה"
+  },
+  {
+   "lang": "io",
+   "title": "Prefaco"
+  },
+  {
+   "lang": "kn",
+   "title": "ಮುನ್ನುಡಿ"
+  },
+  {
+   "lang": "ko",
+   "title": "서문"
+  },
+  {
+   "lang": "mk",
+   "title": "Претсловие"
+  },
+  {
+   "lang": "nl",
+   "title": "Voorwoord"
+  },
+  {
+   "lang": "pl",
+   "title": "Przedmowa"
+  },
+  {
+   "lang": "pnb",
+   "title": "پیش لفظ"
+  },
+  {
+   "lang": "pt",
+   "title": "Prefácio"
+  },
+  {
+   "lang": "ro",
+   "title": "Prefață"
+  },
+  {
+   "lang": "ru",
+   "title": "Предисловие"
+  },
+  {
+   "lang": "sd",
+   "title": "پيش لفظ"
+  },
+  {
+   "lang": "si",
+   "title": "පෙරවදන"
+  },
+  {
+   "lang": "sv",
+   "title": "Förord"
+  },
+  {
+   "lang": "sw",
+   "title": "Dibaji"
+  },
+  {
+   "lang": "ta",
+   "title": "அணிந்துரை"
+  },
+  {
+   "lang": "tr",
+   "title": "Önsöz"
+  },
+  {
+   "lang": "uk",
+   "title": "Передмова"
+  },
+  {
+   "lang": "ur",
+   "title": "پیش لفظ"
+  },
+  {
+   "lang": "wa",
+   "title": "Adrovaedje"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "John McLure Hamilton",
+  "author_html": "<a href=\"https://en.wikisource.org/wiki/John_McLure_Hamilton\" class=\"extiw\" title=\"wikisource:John McLure Hamilton\">John McLure Hamilton</a>",
+  "credit_html": "Scanned from original text.",
+  "description": "Foreword. Scan of p. 7 from Men I Have Painted by John McLure Hamilton.",
+  "file": "Hamilton_Men_I_Have_Painted_007.jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Hamilton_Men_I_Have_Painted_007.jpg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Anthropodermic bibliopegy",
+  "Arabic numerals",
+  "Author page",
+  "Bibliography",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Calque",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Dedication (publishing)",
+  "Dingbat",
+  "Dust jacket",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Font",
+  "Fore-edge painting",
+  "Foreword (disambiguation)",
+  "German (language)",
+  "Gloss (annotation)",
+  "Glossary",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (essay)",
+  "Introduction (writing)",
+  "John McLure Hamilton",
+  "Leather",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Philology",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Pull quote",
+  "Recto and verso",
+  "Relative direction",
+  "Roman numerals",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (typography)",
+  "Slipcase",
+  "Table of contents",
+  "Text annotation",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography"
+ ],
+ "media": [
+  {
+   "caption": "The foreword to Men I Have Painted, by John McLure Hamilton; 1921",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hamilton_Men_I_Have_Painted_007.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hamilton_Men_I_Have_Painted_007.jpg",
+   "section_id": 0,
+   "th": 684,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Hamilton_Men_I_Have_Painted_007.jpg/500px-Hamilton_Men_I_Have_Painted_007.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Hamilton_Men_I_Have_Painted_007.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Foreword, to a 1900 book in German",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Der_Haussekret%C3%A4r_Hrsg_Carl_Otto_Berlin_ca_1900_F_Titelseiten_3_Vorwort1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Der_Haussekret%C3%A4r_Hrsg_Carl_Otto_Berlin_ca_1900_F_Titelseiten_3_Vorwort1.jpg",
+   "section_id": 0,
+   "th": 750,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Der_Haussekret%C3%A4r_Hrsg_Carl_Otto_Berlin_ca_1900_F_Titelseiten_3_Vorwort1.jpg/500px-Der_Haussekret%C3%A4r_Hrsg_Carl_Otto_Berlin_ca_1900_F_Titelseiten_3_Vorwort1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Der_Haussekretär_Hrsg_Carl_Otto_Berlin_ca_1900_F_Titelseiten_3_Vorwort1.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1992,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hamilton_Men_I_Have_Painted_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1456
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Foreword",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    73
+   ],
+   [
+    "2026-10-10",
+    64
+   ],
+   [
+    "2026-10-11",
+    57
+   ],
+   [
+    "2026-10-12",
+    52
+   ],
+   [
+    "2026-10-13",
+    49
+   ],
+   [
+    "2026-10-14",
+    41
+   ],
+   [
+    "2026-10-15",
+    51
+   ],
+   [
+    "2026-10-16",
+    43
+   ],
+   [
+    "2026-10-17",
+    42
+   ],
+   [
+    "2026-10-18",
+    51
+   ],
+   [
+    "2026-10-19",
+    46
+   ],
+   [
+    "2026-10-20",
+    48
+   ],
+   [
+    "2026-10-21",
+    47
+   ],
+   [
+    "2026-10-22",
+    62
+   ],
+   [
+    "2026-10-23",
+    38
+   ],
+   [
+    "2026-10-24",
+    47
+   ],
+   [
+    "2026-10-25",
+    39
+   ],
+   [
+    "2026-10-26",
+    62
+   ],
+   [
+    "2026-10-27",
+    70
+   ],
+   [
+    "2026-10-28",
+    42
+   ],
+   [
+    "2026-10-29",
+    68
+   ],
+   [
+    "2026-10-30",
+    52
+   ],
+   [
+    "2026-10-31",
+    36
+   ],
+   [
+    "2026-11-01",
+    44
+   ],
+   [
+    "2026-11-02",
+    57
+   ],
+   [
+    "2026-11-03",
+    60
+   ],
+   [
+    "2026-11-04",
+    58
+   ],
+   [
+    "2026-11-05",
+    55
+   ],
+   [
+    "2026-11-06",
+    59
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "1"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "2"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "3"
+  }
+ ],
+ "summary_html": "<p>A <b>foreword</b> is a short piece of writing that appears at the beginning of a book or another literary work. A foreword is generally written by someone other than the author and frequently offers commentary on the story or some interaction between the writer of the foreword and the primary author of the work. In some cases, a new preface is prepended in later editions of a book, which may explain revisions or differences from earlier ones.</p>",
+ "summary_text": "A foreword is a short piece of writing that appears at the beginning of a book or another literary work. A foreword is generally written by someone other than the author and frequently offers commentary on the story or some interaction between the writer of the foreword and the primary author of the work. In some cases, a new preface is prepended in later editions of a book, which may explain revisions or differences from earlier ones.",
+ "templates": [
+  "Ambox",
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/config",
+  "Book structure",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite web",
+  "Commons category",
+  "Commons link",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "Distinguish",
+  "Distinguish",
+  "Dubious",
+  "EditAtWikidata",
+  "Encodefirst",
+  "Find sources",
+  "Find sources mainspace",
+  "Find sources/config",
+  "Find sources/links",
+  "Find sources/templates/Find sources mainspace",
+  "Fix",
+  "Fix/category",
+  "Format link",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Message box",
+  "Message box/ambox.css",
+  "Message box/configuration",
+  "More citations needed",
+  "MultiReplace",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Other uses",
+  "Other uses",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Trim",
+  "Unicode data",
+  "Unsubst",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {
+  "height": 657,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Hamilton_Men_I_Have_Painted_007.jpg/500px-Hamilton_Men_I_Have_Painted_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Foreword",
+ "wikidata": {
+  "description": "section at the beginning of a book or report, usually written by someone other than the author, that introduces or commends the document to the reader",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "literary genre"
+    ]
+   }
+  ],
+  "id": "Q1358138",
+  "label": "foreword",
+  "sitelink_count": 36
+ }
+}

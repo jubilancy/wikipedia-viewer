@@ -1,0 +1,614 @@
+{
+ "aliases": [
+  "Linguistic Annotation",
+  "Social reading"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 78,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Annotation",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Text annotation",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Book design",
+  "Reference"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Text annotation</span></span>",
+ "external_links": [
+  "http://annotation.exmaralda.org/",
+  "http://digital-archaeology.org/the-nexus-browser/",
+  "http://dl.acm.org/citation.cfm?id=336620",
+  "http://inkdroid.org/tmp/www-talk/1192.html",
+  "http://portal.acm.org/citation.cfm?id=263806",
+  "http://tubiblio.ulb.tu-darmstadt.de/104590/",
+  "http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ851577&ERICExtSearch_SearchType_0=no&accno=EJ851577",
+  "http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ947876&ERICExtSearch_SearchType_0=no&accno=EJ947876",
+  "http://www.ilrt.bris.ac.uk/publications/researchreport/rr1053/report_html?ilrtyear=2003",
+  "http://www.w3.org/DesignIssues/TimBook-old/History.html",
+  "https://api.semanticscholar.org/CorpusID:10043254",
+  "https://api.semanticscholar.org/CorpusID:10545755",
+  "https://api.semanticscholar.org/CorpusID:15386471",
+  "https://api.semanticscholar.org/CorpusID:15851138",
+  "https://api.semanticscholar.org/CorpusID:16102048",
+  "https://api.semanticscholar.org/CorpusID:17170603",
+  "https://api.semanticscholar.org/CorpusID:6461759",
+  "https://archive.org/details/copyeditorshandb00eins",
+  "https://archive.org/details/multipleperspect00ifen",
+  "https://archive.org/details/multipleperspect00ifen/page/n332",
+  "https://brat.nlplab.org/",
+  "https://brill.com/view/book/edcoll/9781849508209/B9781849508209-s012.xml",
+  "https://d242fdlp0qlcia.cloudfront.net/uploads/2015/11/03162019/Hypothes.is-501.c3-IRS-Determination-Letter-2013-06-29.pdf",
+  "https://doi.org/10.1007%2F978-94-024-0881-2",
+  "https://doi.org/10.1007%2Fs11412-008-9040-x",
+  "https://doi.org/10.1016%2Fj.iheduc.2011.09.002",
+  "https://doi.org/10.1016%2Fs8755-4615(02)00144-5",
+  "https://doi.org/10.1145%2F1031607.1031705",
+  "https://doi.org/10.1145%2F1065385.1065439",
+  "https://doi.org/10.1145%2F1822090.1822162",
+  "https://doi.org/10.1145%2F336597.336620",
+  "https://doi.org/10.1163%2F9781849508209_012",
+  "https://doi.org/10.1177%2F105065190101500304",
+  "https://doi.org/10.2200%2FS00215ED1V01Y200907ICR009",
+  "https://doi.org/10.3366%2Fmod.2020.0280",
+  "https://search.worldcat.org/issn/2041-1022",
+  "https://search.worldcat.org/oclc/857717746",
+  "https://search.worldcat.org/oclc/994263151",
+  "https://universaldependencies.org/treebanks/en_ewt/index.html",
+  "https://www.euppublishing.com/doi/abs/10.3366/mod.2020.0280"
+ ],
+ "intro_text": "Text annotation is the practice and the result of adding a note or gloss to a text, which may include highlights or underlining, comments, footnotes, tags, and links. Text annotations can include notes written for a reader's private purposes, as well as shared annotations written for the purposes of collaborative writing and editing, commentary, or social reading and sharing. In some fields, text annotation is comparable to metadata insofar as it is added post hoc and provides information about a text without fundamentally altering that original text.  Text annotations are sometimes referred to as marginalia, though some reserve this term specifically for hand-written notes made in the margins of books or manuscripts. Annotations have been found to be useful and help to develop knowledge of English literature.\nAnnotations can be both private and socially shared, including hand-written and information technology-based annotation. Annotations are different than notetaking because annotations must be physically written or added on the actual original piece. This can be writing within the page of a book or highlighting a line, or, if the piece is digital, a comment or saved highlight or underline within the document. For information on annotation of Web content, including images and other non-textual content, see also Web annotation.",
+ "key": "en/Text_annotation",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "fr",
+   "title": "Annotation (documentation)"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Multiple rabbis",
+  "author_html": "Multiple rabbis",
+  "credit_html": "www.talmud.de",
+  "description": "Scanned page of the Babylonian w:Talmud, showing the first page of the first tractate, Daf \"Bet\" (folio 2a) of Masechet (Tractate) Brachot. The center column contains the Talmud text, beginning with a section of w:Mishnah. The w:Gemara begins 14 lines down with the abbreviation גמ (gimmel-mem) in larger type. Mishnah and Gemara sections alternate throughout the Talmud text. The blocks of text on either side are the w:Rashi and w:Tosafot commentaries, printed in w:Rashi script. The Rashi is always on the side of the page closest to the binding. Other notes and cross references are in the margins.",
+  "file": "First_page_of_the_first_tractate_of_the_Talmud_(Daf_Beis_of_Maseches_Brachos).jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:First_page_of_the_first_tractate_of_the_Talmud_(Daf_Beis_of_Maseches_Brachos).jpg"
+ },
+ "links": [
+  "AJAX",
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Adobe Acrobat",
+  "Affero General Public License",
+  "Afterword",
+  "Annotation",
+  "Annotation tools",
+  "Anthropodermic bibliopegy",
+  "Argumentation",
+  "Author page",
+  "Bibliography",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Canons of page construction",
+  "Carnegie Mellon University",
+  "Catchword",
+  "Chapter (books)",
+  "Client-server model",
+  "Co-ment",
+  "Collaborative editing",
+  "Collaborative learning",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Comment (computer programming)",
+  "Communication",
+  "Computer data storage",
+  "Computer software",
+  "Computer-supported cooperative work",
+  "Conclusion (book)",
+  "Content management system",
+  "Corpus linguistics",
+  "Corpus manager",
+  "Critical reading",
+  "Critical thinking",
+  "Dedication (publishing)",
+  "Digital humanities",
+  "Dingbat",
+  "Diplomatic Security",
+  "Django (web framework)",
+  "Documentary editing",
+  "Doi (identifier)",
+  "Dust jacket",
+  "Editing",
+  "Edition notice",
+  "Empirical research",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "English studies",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Font",
+  "Footnote",
+  "Footnotes",
+  "Fore-edge painting",
+  "Foreword",
+  "GNU General Public License",
+  "Gloss (annotation)",
+  "Glossary",
+  "Graph (abstract data type)",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "Hypermedia",
+  "Hypothes.is",
+  "ISBN (identifier)",
+  "ISSN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Interlinear gloss",
+  "Internal Revenue Service",
+  "Introduction (writing)",
+  "JQuery",
+  "JSON-LD",
+  "Learning",
+  "Learning management system",
+  "Leather",
+  "Library",
+  "LibreOffice",
+  "Linguistics",
+  "Literacy",
+  "Machine learning",
+  "Margin (typography)",
+  "Marginalia",
+  "Markup language",
+  "Memory",
+  "Metacognition",
+  "Microsoft Word",
+  "Miniature (illuminated manuscript)",
+  "Mosaic (web browser)",
+  "Motivation",
+  "Multisensory learning",
+  "Natural language processing",
+  "Nihil obstat",
+  "Note (typography)",
+  "OCLC (identifier)",
+  "OpenOffice.org",
+  "Overlapping markup",
+  "PARC (company)",
+  "PDF annotation",
+  "PLoS ONE",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Patent office",
+  "Perusall",
+  "Pop-up book",
+  "Portable Document Format",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Printing press",
+  "Prologue",
+  "Public Library of Science",
+  "Pull quote",
+  "Python (programming language)",
+  "Quantitative research",
+  "Reading (process)",
+  "Reading comprehension",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "S2CID (identifier)",
+  "SGML",
+  "Scholia",
+  "Section (typography)",
+  "Slipcase",
+  "Social bookmarking",
+  "Sport psychology",
+  "Stet (software)",
+  "Symbols",
+  "Tab-separated values",
+  "Table of contents",
+  "Talmud",
+  "Taxonomy (general)",
+  "Textual criticism",
+  "Thumb index",
+  "Tim Berners-Lee",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Universal Dependencies",
+  "Vilna Talmud",
+  "Web Annotation",
+  "Web annotation",
+  "WebDAV",
+  "World Wide Web Consortium",
+  "WorldWideWeb",
+  "Writing",
+  "XML"
+ ],
+ "media": [
+  {
+   "caption": "Annotations in the Vilna Talmud.",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/f/f2/First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:First_page_of_the_first_tractate_of_the_Talmud_(Daf_Beis_of_Maseches_Brachos).jpg",
+   "section_id": 0,
+   "th": 706,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg/500px-First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:First_page_of_the_first_tractate_of_the_Talmud_(Daf_Beis_of_Maseches_Brachos).jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "The image is the \"original piece\" or \"text\" and the yellow squares along with the text box are the annotations.",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/6/60/ImageAnnotator_Note.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ImageAnnotator_Note.jpg",
+   "section_id": 0,
+   "th": 344,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/ImageAnnotator_Note.jpg/500px-ImageAnnotator_Note.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:ImageAnnotator_Note.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Fig. 2. Sample for Universal Dependencies annotation, English Web Treebank, visualization by Brat ",
+   "lead": false,
+   "mime": "image/png",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ud-ewt-sample.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ud-ewt-sample.png",
+   "section_id": 5,
+   "th": 101,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Ud-ewt-sample.png/500px-Ud-ewt-sample.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Ud-ewt-sample.png",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 808,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 572
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Text_annotation",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    10
+   ],
+   [
+    "2026-10-10",
+    7
+   ],
+   [
+    "2026-10-11",
+    9
+   ],
+   [
+    "2026-10-12",
+    6
+   ],
+   [
+    "2026-10-13",
+    7
+   ],
+   [
+    "2026-10-14",
+    2
+   ],
+   [
+    "2026-10-15",
+    10
+   ],
+   [
+    "2026-10-16",
+    11
+   ],
+   [
+    "2026-10-17",
+    2
+   ],
+   [
+    "2026-10-18",
+    7
+   ],
+   [
+    "2026-10-19",
+    6
+   ],
+   [
+    "2026-10-20",
+    7
+   ],
+   [
+    "2026-10-21",
+    10
+   ],
+   [
+    "2026-10-22",
+    12
+   ],
+   [
+    "2026-10-23",
+    6
+   ],
+   [
+    "2026-10-24",
+    4
+   ],
+   [
+    "2026-10-25",
+    4
+   ],
+   [
+    "2026-10-26",
+    7
+   ],
+   [
+    "2026-10-27",
+    14
+   ],
+   [
+    "2026-10-28",
+    4
+   ],
+   [
+    "2026-10-29",
+    5
+   ],
+   [
+    "2026-10-30",
+    7
+   ],
+   [
+    "2026-10-31",
+    4
+   ],
+   [
+    "2026-11-01",
+    10
+   ],
+   [
+    "2026-11-02",
+    18
+   ],
+   [
+    "2026-11-03",
+    12
+   ],
+   [
+    "2026-11-04",
+    10
+   ],
+   [
+    "2026-11-05",
+    4
+   ],
+   [
+    "2026-11-06",
+    9
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "History",
+   "level": 2,
+   "line": "History",
+   "number": "1"
+  },
+  {
+   "anchor": "Functions_and_applications",
+   "level": 2,
+   "line": "Functions and applications",
+   "number": "2"
+  },
+  {
+   "anchor": "Educational_applications",
+   "level": 3,
+   "line": "Educational applications",
+   "number": "2.1"
+  },
+  {
+   "anchor": "Writing_and_text-centered_collaboration",
+   "level": 3,
+   "line": "Writing and text-centered collaboration",
+   "number": "2.2"
+  },
+  {
+   "anchor": "Linguistic_annotation",
+   "level": 3,
+   "line": "Linguistic annotation",
+   "number": "2.3"
+  },
+  {
+   "anchor": "Scholarly_annotation",
+   "level": 3,
+   "line": "Scholarly annotation",
+   "number": "2.4"
+  },
+  {
+   "anchor": "Structure_and_design",
+   "level": 2,
+   "line": "Structure and design",
+   "number": "3"
+  },
+  {
+   "anchor": "Annotation_structure",
+   "level": 3,
+   "line": "Annotation structure",
+   "number": "3.1"
+  },
+  {
+   "anchor": "Annotation_display_types",
+   "level": 3,
+   "line": "Annotation display types",
+   "number": "3.2"
+  },
+  {
+   "anchor": "IT-based_text_annotation_systems",
+   "level": 2,
+   "line": "IT-based text annotation systems",
+   "number": "4"
+  },
+  {
+   "anchor": "Web-based_text_annotation_systems",
+   "level": 3,
+   "line": "Web-based text annotation systems",
+   "number": "4.1"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "5"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "6"
+  }
+ ],
+ "summary_html": "<p><b>Text annotation</b> is the practice and the result of adding a note or gloss to a text, which may include highlights or underlining, comments, footnotes, tags, and links. Text annotations can include notes written for a reader's private purposes, as well as shared annotations written for the purposes of collaborative writing and editing, commentary, or social reading and sharing. In some fields, text annotation is comparable to metadata insofar as it is added post hoc and provides information about a text without fundamentally altering that original text. Text annotations are sometimes referred to as marginalia, though some reserve this term specifically for hand-written notes made in the margins of books or manuscripts. Annotations have been found to be useful and help to develop knowledge of English literature.</p>",
+ "summary_text": "Text annotation is the practice and the result of adding a note or gloss to a text, which may include highlights or underlining, comments, footnotes, tags, and links. Text annotations can include notes written for a reader's private purposes, as well as shared annotations written for the purposes of collaborative writing and editing, commentary, or social reading and sharing. In some fields, text annotation is comparable to metadata insofar as it is added post hoc and provides information about a text without fundamentally altering that original text. Text annotations are sometimes referred to as marginalia, though some reserve this term specifically for hand-written notes made in the margins of books or manuscripts. Annotations have been found to be useful and help to develop knowledge of English literature.",
+ "templates": [
+  "Arguments",
+  "Book structure",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation needed",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite journal",
+  "Cite web",
+  "Dead link",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "Fix",
+  "Fix/category",
+  "Format link",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Labelled list hatnote",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main",
+  "Main other",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "String",
+  "TableTools",
+  "Unicode data",
+  "Unsubst",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 678,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg/500px-First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Text annotation",
+ "wikidata": {
+  "description": "practice and result of adding a note to a text",
+  "facts": [],
+  "id": "Q2851776",
+  "label": "text annotation",
+  "sitelink_count": 2
+ }
+}

@@ -1,0 +1,798 @@
+{
+ "aliases": [
+  "Leaf (books)",
+  "Left and right pages",
+  "Left page",
+  "Recto",
+  "Recto Verso",
+  "Recto and Verso",
+  "Recto pages",
+  "Recto verso",
+  "Recto-Verso",
+  "Recto-verso",
+  "Recto-verso drawing",
+  "RectoVerso",
+  "Rectoverso",
+  "Right page",
+  "Verso",
+  "Verso and recto"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 412,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Recto and verso",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Recto and verso",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Book design",
+  "Book terminology",
+  "Codicology",
+  "Papyrus",
+  "Printing"
+ ],
+ "coordinates": [],
+ "display_title": "<i>Recto</i> and <i>verso</i>",
+ "external_links": [
+  "http://litopys.org.ua/ipatlet/ipat01.htm",
+  "http://litopys.org.ua/psrl3235/lytov14.htm",
+  "https://archive.org/details/merriamwebstersm0000merr/page/337",
+  "https://books.google.com/books?id=U-JBqP0i2hcC&pg=PA170",
+  "https://books.google.com/books?id=lvwUAAAAQAAJ&pg=PA225",
+  "https://books.google.com/books?id=qHKGVQbVEmIC&pg=PA232",
+  "https://books.google.com/books?id=v4TaJu_ErioC&pg=PA274",
+  "https://expositions.nlr.ru/LaurentianCodex/_Project/page_Show.php?lang=en",
+  "https://scholar.google.com/scholar?q=%22Recto+and+verso%22",
+  "https://slate.com/human-interest/2015/02/page-numbers-where-did-they-come-from-and-are-they-even-useful-anymore.html",
+  "https://web.archive.org/web/20250808215827/http://litopys.org.ua/psrl3235/lytov14.htm",
+  "https://www.cai.cam.ac.uk/discover/library/online-exhibitions/print-and-material-book/foliation-and-pagination",
+  "https://www.google.com/search?&q=%22Recto+and+verso%22&tbs=bkt:s&tbm=bks",
+  "https://www.google.com/search?as_eq=wikipedia&q=%22Recto+and+verso%22",
+  "https://www.google.com/search?tbm=nws&q=%22Recto+and+verso%22+-wikipedia&tbs=ar:1",
+  "https://www.google.com/search?tbs=bks:1&q=%22Recto+and+verso%22+-wikipedia",
+  "https://www.jstor.org/action/doBasicSearch?Query=%22Recto+and+verso%22&acc=on&wc=on",
+  "https://www.jstor.org/stable/24701728"
+ ],
+ "intro_text": "Recto is the \"right\" or \"front\" side and verso is the \"left\" or \"back\" side when text is written or printed on a leaf of paper (folium) in a bound item such as a codex, book, broadsheet, or pamphlet.\nIn the case of a single unbound sheet of paper or other material, such as a drawing or watercolour painting, the recto is the side with the main image or writing, and the verso the back of this. In a letter or other double-sided text document, the recto is the first page, and the verso the continuation on the back.\nIn double-sided printing, each leaf has two pages – front and back. In modern books, the physical sheets of paper are stacked and folded in half, producing two leaves and four pages for each sheet. For example, the outer sheet in a 16-page book will have one leaf with pages 1 (recto) and 2 (verso), and another leaf with pages 15 (recto) and 16 (verso). Pages 1 and 16, for example, are printed on the same side of the physical sheet of paper, combining recto and verso sides of different leaves. The number of pages in a book using this binding technique must thus be a multiple of four, and the number of leaves must be a multiple of two, but unused pages are typically left unnumbered and uncounted. A sheet folded in this manner is known as a folio, a word also used for a book or pamphlet made with this technique.\nLooseleaf paper consists of unbound leaves. Sometimes single-sided or blank leaves are used for numbering or counting and abbreviated \"l.\" instead of \"p.\" for the number of pages.",
+ "key": "en/Recto_and_verso",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "صفحة أمامية وصفحة خلفية"
+  },
+  {
+   "lang": "bcl",
+   "title": "Rekto asin berso"
+  },
+  {
+   "lang": "ca",
+   "title": "Recto i verso"
+  },
+  {
+   "lang": "da",
+   "title": "Recto og verso"
+  },
+  {
+   "lang": "es",
+   "title": "Recto y verso"
+  },
+  {
+   "lang": "fa",
+   "title": "رکتو و ورسو"
+  },
+  {
+   "lang": "id",
+   "title": "Rekto dan verso"
+  },
+  {
+   "lang": "it",
+   "title": "Recto e verso"
+  },
+  {
+   "lang": "ja",
+   "title": "レクトとヴェルソ"
+  },
+  {
+   "lang": "nb",
+   "title": "Recto og verso"
+  },
+  {
+   "lang": "nl",
+   "title": "Recto en verso"
+  },
+  {
+   "lang": "pl",
+   "title": "Recto i verso"
+  },
+  {
+   "lang": "sq",
+   "title": "Recto-verso"
+  },
+  {
+   "lang": "sv",
+   "title": "Verso och recto"
+  },
+  {
+   "lang": "uk",
+   "title": "Recto-verso"
+  },
+  {
+   "lang": "zh",
+   "title": "书籍的右页和左页"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Tkgd2007",
+  "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Tkgd2007\" title=\"User:Tkgd2007\">Tkgd2007</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "Illustration of recto and verso.",
+  "file": "Recto_and_verso.svg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/svg+xml",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Recto_and_verso.svg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Agate (typography)",
+  "All caps",
+  "Annotation",
+  "Anthropodermic bibliopegy",
+  "Antiqua (typeface class)",
+  "Arabic alphabet",
+  "Arabic typography",
+  "Ascender (typography)",
+  "Author page",
+  "Baseline (typography)",
+  "Bastarda",
+  "Bibliography",
+  "Bilingual edition",
+  "Blackboard bold",
+  "Blackletter",
+  "Body height (typography)",
+  "Body text",
+  "Book",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Broadsheet",
+  "Buckram",
+  "Bullet (typography)",
+  "Bézier curve",
+  "Calligraphy",
+  "Camel case",
+  "Canons of page construction",
+  "Cap height",
+  "Capitalization",
+  "Catchword",
+  "Chapter (books)",
+  "Character encoding",
+  "Church Slavonic",
+  "Cicero (typography)",
+  "Codex",
+  "Codicology",
+  "Colophon (publishing)",
+  "Color printing",
+  "Column (typography)",
+  "Complete Collection of Russian Chronicles",
+  "Computer font",
+  "Conclusion (book)",
+  "Counter (typography)",
+  "Cyrillic",
+  "Cyrillic typography",
+  "Dash",
+  "Dedication (publishing)",
+  "Descender",
+  "Desktop publishing",
+  "Diacritic",
+  "Diary",
+  "Didone (typography)",
+  "Digital typography",
+  "Dingbat",
+  "Display typeface",
+  "Double-sided printing",
+  "Drawing",
+  "Dust jacket",
+  "Décadas da Ásia",
+  "East Asian typography",
+  "East Slavic languages",
+  "Edition notice",
+  "Em (typography)",
+  "Emphasis (typography)",
+  "En (typography)",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Eraser",
+  "Erratum",
+  "Etaoin shrdlu",
+  "Even working",
+  "Extra-illustration",
+  "Fat face",
+  "Figure space",
+  "Flanders",
+  "Foliation",
+  "Folio",
+  "Font",
+  "Font catalog",
+  "Font hinting",
+  "Font rasterization",
+  "For Dummies",
+  "For position only",
+  "Fore-edge painting",
+  "Foreword",
+  "Fraktur",
+  "French language",
+  "Gaelic type",
+  "Gloss (annotation)",
+  "Glossary",
+  "Glyph",
+  "Grandes Heures of Anne of Brittany",
+  "Half-title",
+  "Handwriting",
+  "Handwriting script",
+  "Hanging punctuation",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Hebrew alphabet",
+  "Historiated initial",
+  "History of Western typography",
+  "Horizontal and vertical writing in East Asian scripts",
+  "Hypatian Codex",
+  "Hyphen",
+  "Hyphen-minus",
+  "ISBN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Incunable",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Ink",
+  "Ink trap",
+  "Insular script",
+  "Intellectual property protection of typefaces",
+  "Intentionally blank page",
+  "Interpunct",
+  "Introduction (writing)",
+  "Italic type",
+  "Izbornyk",
+  "João de Barros",
+  "Kerning",
+  "Late antiquity",
+  "Laurentian Codex",
+  "Leader (typography)",
+  "Leading",
+  "Leather",
+  "Letter case",
+  "Letter spacing",
+  "Lettering",
+  "Letterpress printing",
+  "Ligature (writing)",
+  "Line length",
+  "List of typefaces",
+  "List of typographic features",
+  "List of typographical symbols and punctuation marks",
+  "Looseleaf",
+  "Lorem ipsum",
+  "Manuscript",
+  "Margin (typography)",
+  "Marginalia",
+  "Mean line",
+  "Metric typographic units",
+  "Microprinting",
+  "Microtypography",
+  "Mikałaj Ułaščyk",
+  "Miniature (illuminated manuscript)",
+  "Monospaced font",
+  "Movable type",
+  "National Fonts",
+  "National Library of Russia",
+  "Nauka (publisher)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Oblique type",
+  "Obverse and reverse",
+  "Old Church Slavonic",
+  "Old East Slavic",
+  "Ordinal indicator",
+  "Overshoot (typography)",
+  "PT Fonts",
+  "Page (paper)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page number",
+  "Page numbering",
+  "Pagination",
+  "Pamphlet",
+  "Pangram",
+  "Paper marbling",
+  "Paper size",
+  "Paperback",
+  "Papyrus",
+  "Paragraph",
+  "Pencil",
+  "Penmanship",
+  "Phototypesetting",
+  "Pica (unit)",
+  "Pitch (typewriter)",
+  "Point (typography)",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Printing",
+  "Printing press",
+  "Prologue",
+  "Pull quote",
+  "Punchcutting",
+  "Punctuation",
+  "Record type",
+  "Recto (disambiguation)",
+  "Recto Verso (album)",
+  "Reverse-contrast typefaces",
+  "Reversing type",
+  "Right-to-left script",
+  "River (typography)",
+  "Roman type",
+  "Rotated letter",
+  "Rotunda (script)",
+  "Rubric",
+  "Rubrication",
+  "Runaround (typography)",
+  "Runt (typography)",
+  "Russian language",
+  "Ruthenian language",
+  "Sans-serif",
+  "Scholia",
+  "Schwabacher",
+  "Script typeface",
+  "Section (typography)",
+  "Sentence spacing",
+  "Serif",
+  "Sheet of paper",
+  "Sketchbook",
+  "Slab serif",
+  "Slipcase",
+  "Small caps",
+  "Snake case",
+  "Sort (typesetting)",
+  "South Slavic languages",
+  "Space (punctuation)",
+  "Style guide",
+  "Subscript and superscript",
+  "Swash (typography)",
+  "Syriac alphabet",
+  "Table of contents",
+  "Technical lettering",
+  "Text annotation",
+  "Text figures",
+  "Text shaping",
+  "Thai typography",
+  "Thin space",
+  "Thumb index",
+  "Tipped-in page",
+  "Title case",
+  "Title page",
+  "Tittle",
+  "Traditional point-size names",
+  "Treasure binding",
+  "Twip",
+  "Type color",
+  "Type design",
+  "Type foundry",
+  "Typeface",
+  "Typeface anatomy",
+  "Typesetting",
+  "Typographic alignment",
+  "Typographic unit",
+  "Typography",
+  "Ukraine",
+  "Ukrainian language",
+  "Uncial script",
+  "Underscore",
+  "Verso (disambiguation)",
+  "Vertical bar",
+  "Vox-ATypI classification",
+  "Watercolour",
+  "Web typography",
+  "Whitespace character",
+  "Widows and orphans",
+  "Woodblock printing",
+  "Word spacing",
+  "Writing direction",
+  "X-height"
+ ],
+ "media": [
+  {
+   "caption": "Left-to-right language books (e.g. books in Western languages): recto is the front page, verso is the back page. In this picture, the recto page shown is of the following leaf in a book and hence comes next to the verso of the previous leaf.",
+   "lead": true,
+   "mime": "image/svg+xml",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Recto_and_verso.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Recto_and_verso.svg",
+   "section_id": 0,
+   "th": 333,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Recto_and_verso.svg/500px-Recto_and_verso.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Recto_and_verso.svg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Right-to-left language books: recto is the front page, verso is the back page (vertical Chinese, vertical Japanese, Arabic-based scripts, or Hebrew). In this picture, the recto page shown is of the following leaf in a book and hence comes next to the verso of the previous leaf.",
+   "lead": false,
+   "mime": "image/svg+xml",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Recto_and_verso_RTL.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Recto_and_verso_RTL.svg",
+   "section_id": 0,
+   "th": 333,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Recto_and_verso_RTL.svg/500px-Recto_and_verso_RTL.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Recto_and_verso_RTL.svg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Grandes Heures of Anne of Brittany, f. 189v-190r",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Grandes_Heures_d%27Anne_de_Bretagne_-_Saint_Martin_f.189v-190r.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grandes_Heures_d%27Anne_de_Bretagne_-_Saint_Martin_f.189v-190r.jpg",
+   "section_id": 3,
+   "th": 428,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Grandes_Heures_d%27Anne_de_Bretagne_-_Saint_Martin_f.189v-190r.jpg/500px-Grandes_Heures_d%27Anne_de_Bretagne_-_Saint_Martin_f.189v-190r.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Grandes_Heures_d'Anne_de_Bretagne_-_Saint_Martin_f.189v-190r.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Hypatian Codex, folio 3 verso, pencil-marked \"3 об\" in the top left corner. At Izbornyk, this is written as \"/л.3об./\".",
+   "lead": false,
+   "mime": "application/pdf",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hypatian_Codex.pdf?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hypatian_Codex.pdf",
+   "section_id": 4,
+   "th": 673,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Hypatian_Codex.pdf/page1-500px-Hypatian_Codex.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Hypatian_Codex.pdf",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 200,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Recto_and_verso.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 300
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Recto_and_verso",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    81
+   ],
+   [
+    "2026-10-10",
+    94
+   ],
+   [
+    "2026-10-11",
+    86
+   ],
+   [
+    "2026-10-12",
+    132
+   ],
+   [
+    "2026-10-13",
+    145
+   ],
+   [
+    "2026-10-14",
+    129
+   ],
+   [
+    "2026-10-15",
+    105
+   ],
+   [
+    "2026-10-16",
+    114
+   ],
+   [
+    "2026-10-17",
+    87
+   ],
+   [
+    "2026-10-18",
+    79
+   ],
+   [
+    "2026-10-19",
+    114
+   ],
+   [
+    "2026-10-20",
+    106
+   ],
+   [
+    "2026-10-21",
+    96
+   ],
+   [
+    "2026-10-22",
+    133
+   ],
+   [
+    "2026-10-23",
+    101
+   ],
+   [
+    "2026-10-24",
+    90
+   ],
+   [
+    "2026-10-25",
+    85
+   ],
+   [
+    "2026-10-26",
+    111
+   ],
+   [
+    "2026-10-27",
+    119
+   ],
+   [
+    "2026-10-28",
+    86
+   ],
+   [
+    "2026-10-29",
+    89
+   ],
+   [
+    "2026-10-30",
+    105
+   ],
+   [
+    "2026-10-31",
+    83
+   ],
+   [
+    "2026-11-01",
+    116
+   ],
+   [
+    "2026-11-02",
+    118
+   ],
+   [
+    "2026-11-03",
+    99
+   ],
+   [
+    "2026-11-04",
+    96
+   ],
+   [
+    "2026-11-05",
+    109
+   ],
+   [
+    "2026-11-06",
+    96
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Etymology",
+   "level": 2,
+   "line": "Etymology",
+   "number": "1"
+  },
+  {
+   "anchor": "Usage",
+   "level": 2,
+   "line": "Usage",
+   "number": "2"
+  },
+  {
+   "anchor": "Latin_script",
+   "level": 3,
+   "line": "Latin script",
+   "number": "2.1"
+  },
+  {
+   "anchor": "Cyrillic_script",
+   "level": 3,
+   "line": "Cyrillic script",
+   "number": "2.2"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "3"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "4"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "5"
+  }
+ ],
+ "summary_html": "<p><i><b>Recto</b></i> is the \"right\" or \"front\" side and <i><b>verso</b></i> is the \"left\" or \"back\" side when text is written or printed on a <b>leaf of paper</b> in a bound item such as a codex, book, broadsheet, or pamphlet.</p>",
+ "summary_text": "Recto is the \"right\" or \"front\" side and verso is the \"left\" or \"back\" side when text is written or printed on a leaf of paper in a bound item such as a codex, book, broadsheet, or pamphlet.",
+ "templates": [
+  "Ambox",
+  "Arguments",
+  "Book structure",
+  "CS1 identifiers",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite journal",
+  "Cite news",
+  "Cite web",
+  "Disambiguation/templates",
+  "Find sources",
+  "Find sources mainspace",
+  "Find sources/config",
+  "Find sources/links",
+  "Find sources/templates/Find sources mainspace",
+  "Hatnote",
+  "Hatnote",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "ISBN",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Message box",
+  "Message box/ambox.css",
+  "Message box/configuration",
+  "More citations needed",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Redirect-several",
+  "Refimprove",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Typography",
+  "Typography terms",
+  "Unicode data",
+  "Unsubst",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 320,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Recto_and_verso.svg/500px-Recto_and_verso.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Recto and verso",
+ "wikidata": {
+  "description": "\"front\" and \"back\" sides of a leaf of paper",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "term",
+     "duality"
+    ]
+   },
+   {
+    "label": "inception",
+    "property": "P571",
+    "values": [
+     "1550"
+    ]
+   },
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Recto and verso.svg",
+     "Recto and verso RTL.svg"
+    ]
+   }
+  ],
+  "id": "Q255731",
+  "label": "recto and verso",
+  "sitelink_count": 18
+ }
+}

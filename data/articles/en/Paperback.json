@@ -1,0 +1,986 @@
+{
+ "aliases": [
+  "A-format",
+  "MMPB",
+  "Mass Market Paperback",
+  "Mass market paperback",
+  "Mass market paperbacks",
+  "Mass-market paperback",
+  "Mass-market paperbacks",
+  "Mmpb",
+  "Paper back",
+  "Paperback book",
+  "Paperback books",
+  "Paperback original",
+  "Paperback originals",
+  "Paperback publishing",
+  "Paperback-book",
+  "Paperbacks",
+  "Papercover",
+  "Soft cover",
+  "Soft cover book",
+  "Softback",
+  "Softback book",
+  "Softcover",
+  "Strip cover",
+  "Trade Paperback",
+  "Trade edition",
+  "Trade paper back",
+  "Trade paper edition",
+  "Trade paperback",
+  "Trade paperbacks",
+  "Trade-paperback",
+  "Tradebook"
+ ],
+ "backlinks": {
+  "capped": true,
+  "count": 2000,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Paperback",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Paperback",
+  "tags": "Front and back covers"
+ },
+ "categories": [
+  "Book formats",
+  "Book publishing",
+  "Book terminology"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Paperback</span></span>",
+ "external_links": [
+  "http://diybookbinding.com/do-it-yourself-book-binding/",
+  "http://mothteeth.com/bookmaking/paperback.html",
+  "http://timesmachine.nytimes.com/timesmachine/1948/02/01/96415865.html?pageNumber=76",
+  "http://www.allanguthrie.co.uk/pages/noir_zine/articles/paperback_originals.php",
+  "http://www.baens-universe.com/articles/The_Economics_of_Writing",
+  "http://www.miskatonic.org/rara-avis/archives/200208/0062.html",
+  "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph305792&CON_LNG=ENG",
+  "https://alexanders.com/blog/a-very-brief-history-of-cmyk/",
+  "https://archive.org/details/anotherlifememoi00kord",
+  "https://archive.org/details/bus-stop-william-inge",
+  "https://biblio.co.uk/book_collecting_terminology/trade-paperback-27.html",
+  "https://books.google.com/books?id=ZQliue-UQfkC",
+  "https://books.google.com/books?id=alw539DL-LcC",
+  "https://d-nb.info/gnd/4128856-7",
+  "https://doi.org/10.1080%2F14733285.2021.1965089",
+  "https://ew.com/article/2014/10/17/romance-numbers",
+  "https://exhibits.lib.unc.edu/exhibits/show/teachingpaperbacks/history",
+  "https://hdl.handle.net/11250%2F2835029",
+  "https://id.loc.gov/authorities/sh85097651",
+  "https://id.ndl.go.jp/auth/ndlna/00569086",
+  "https://lux.collections.yale.edu/view/concept/b12080ea-f502-4cb9-aa7b-1146b9af72f7",
+  "https://mceprinting.com/resources/manga-printing-guide/",
+  "https://web.archive.org/web/20071014215505/http://www.time.com/time/magazine/article/0,9171,818695,00.html",
+  "https://web.archive.org/web/20100703014426/http://www.allanguthrie.co.uk/pages/noir_zine/articles/paperback_originals.php",
+  "https://web.archive.org/web/20110716052311/http://www.baens-universe.com/articles/The_Economics_of_Writing",
+  "https://web.archive.org/web/20120227055916/http://www.miskatonic.org/rara-avis/archives/200208/0062.html",
+  "https://web.archive.org/web/20160517115357/https://ew.com/article/2014/10/17/romance-numbers",
+  "https://web.archive.org/web/20191217104432/https://www.modernistarchives.com/business/albatross",
+  "https://web.archive.org/web/20221227190609/https://www.bl.uk/collections/early/victorian/intro.html",
+  "https://web.archive.org/web/20230124035120/https://www.bl.uk/collections/early/victorian/yellow/yellow2.html",
+  "https://web.archive.org/web/20230306191543/https://www.bl.uk/collections/early/victorian/yellow/yellow1.html",
+  "https://www.atlasobscura.com/articles/armed-services-editions-pocket-paperback-books",
+  "https://www.bl.uk/collections/early/victorian/intro.html",
+  "https://www.bl.uk/collections/early/victorian/yellow/yellow1.html",
+  "https://www.bl.uk/collections/early/victorian/yellow/yellow2.html",
+  "https://www.finebooksmagazine.com/blog/surprising-history-penguin-predecessor-albatross-press",
+  "https://www.freecomicbookday.com/Article/116249-Formats--Definitions",
+  "https://www.howtolovecomics.com/2023/08/16/comic-book-collected-edition-formats/",
+  "https://www.jstor.org/stable/30228189",
+  "https://www.mentalfloss.com/article/62496/brief-history-pocket-books",
+  "https://www.modernistarchives.com/business/albatross",
+  "https://www.nli.org.il/en/authorities/987007563276905171",
+  "https://www.nytimes.com/1981/11/03/obituaries/robert-f-de-graff-dies-at-86-was-pocket-books-founder.html",
+  "https://www.nytimes.com/1982/01/10/books/the-paperback-evolution.html",
+  "https://www.nytimes.com/1999/03/15/business/pocket-paperbacks-are-losing-readers-to-hardcover-sales.html",
+  "https://www.nytimes.com/2006/03/22/books/22pape.html",
+  "https://www.nytimes.com/2011/07/27/books/ebooks-accelerate-paperback-publishers-release-dates.html",
+  "https://www.nytimes.com/2026/02/06/books/mass-market-paperback-books.html",
+  "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/64595-mass-market-paperback-not-dead-yet.html",
+  "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/50024-print-decline-accelerated-in-2011.html",
+  "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/99293-last-call-for-mass-market-paperbacks.html",
+  "https://www.publishinghistory.com/collection-of-british-and-american-authors-tauchnitz.html",
+  "https://www.smithsonianmag.com/arts-culture/how-the-paperback-novel-changed-popular-literature-11893941/",
+  "https://www.tandfonline.com/doi/full/10.1080/14733285.2021.1965089",
+  "https://www.theatlantic.com/business/archive/2014/09/publishers-gave-away-122951031-books-during-world-war-ii/379893/",
+  "https://www.theguardian.com/books/2001/aug/11/gettingpublished",
+  "https://www.theguardian.com/books/2026/feb/24/america-says-goodbye-paperback"
+ ],
+ "intro_text": "A paperback (softcover, softback) book is one with a thick paper or paperboard cover, also known as wrappers, and often held together with glue rather than stitches or staples. In contrast, hardback (hardcover) books are bound with board covered with cloth, leather, paper, or plastic.\nInexpensive books bound in paper have existed since at least the 19th century in such forms as pamphlets, yellowbacks and dime novels. Modern paperbacks can be differentiated from one another by size. In the United States, there are \"mass-market paperbacks\" and larger, more durable \"trade paperbacks\". In the United Kingdom, there are A-format, B-format, and the largest C-format sizes.\nPaperback editions of books are issued when a publisher decides to release a book in a low-cost format. Lower-quality paper, glued (rather than stapled or sewn) bindings, and the lack of a hard cover may contribute to the lower cost of paperbacks. In the early days of modern paperbacks, the 1930s and 1940s, they were sold as a cheaper, less permanent, and more convenient alternative to traditional hardcover books. They can also be the preferred medium when a book is not expected to be a major seller and the publisher wishes to release the book without a large investment. Examples include many novels and newer editions or reprintings of older books.\nBecause paperbacks tend to have smaller profit margins, many publishers try to balance the profit to be made by selling fewer hardcovers against the potential profit to be made by selling more paperbacks with a smaller profit per unit. First editions of many modern books, especially genre fiction, are issued in paperback. Best-selling books, on the other hand, may maintain sales in hardcover for an extended period to reap the greater profits that the hardcovers provide. Paperback sales declined substantially in the 21st century.\n\n",
+ "key": "en/Paperback",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "af",
+   "title": "Sagteband"
+  },
+  {
+   "lang": "ar",
+   "title": "كتاب ذو غلاف ورقي"
+  },
+  {
+   "lang": "bn",
+   "title": "নরম মলাটের বই"
+  },
+  {
+   "lang": "ca",
+   "title": "Enquadernació en rústica"
+  },
+  {
+   "lang": "da",
+   "title": "Paperback"
+  },
+  {
+   "lang": "el",
+   "title": "Κάλυμμα"
+  },
+  {
+   "lang": "eo",
+   "title": "Poŝlibro"
+  },
+  {
+   "lang": "es",
+   "title": "Encuadernación en rústica"
+  },
+  {
+   "lang": "fa",
+   "title": "شومیز"
+  },
+  {
+   "lang": "fi",
+   "title": "Taskukirja"
+  },
+  {
+   "lang": "fr",
+   "title": "Livre broché"
+  },
+  {
+   "lang": "fy",
+   "title": "Paperback"
+  },
+  {
+   "lang": "gl",
+   "title": "Encadernación rústica"
+  },
+  {
+   "lang": "hi",
+   "title": "अजिल्द"
+  },
+  {
+   "lang": "hy",
+   "title": "Կազմ"
+  },
+  {
+   "lang": "id",
+   "title": "Sampul kertas"
+  },
+  {
+   "lang": "is",
+   "title": "Kilja"
+  },
+  {
+   "lang": "it",
+   "title": "Brossura"
+  },
+  {
+   "lang": "ja",
+   "title": "ペーパーバック"
+  },
+  {
+   "lang": "ko",
+   "title": "페이퍼백"
+  },
+  {
+   "lang": "mk",
+   "title": "Мек повез"
+  },
+  {
+   "lang": "ms",
+   "title": "Sampul kertas"
+  },
+  {
+   "lang": "nb",
+   "title": "Paperback"
+  },
+  {
+   "lang": "nl",
+   "title": "Paperback"
+  },
+  {
+   "lang": "pl",
+   "title": "Oprawa (poligrafia)"
+  },
+  {
+   "lang": "pt",
+   "title": "Brochura"
+  },
+  {
+   "lang": "ro",
+   "title": "Copertă broșată"
+  },
+  {
+   "lang": "sd",
+   "title": "پيپر بئڪ"
+  },
+  {
+   "lang": "sh",
+   "title": "Meki uvez"
+  },
+  {
+   "lang": "simple",
+   "title": "Paperback"
+  },
+  {
+   "lang": "sk",
+   "title": "Paperback"
+  },
+  {
+   "lang": "sr",
+   "title": "Меки повез"
+  },
+  {
+   "lang": "th",
+   "title": "หนังสือปกอ่อน"
+  },
+  {
+   "lang": "tl",
+   "title": "Paperback"
+  },
+  {
+   "lang": "uk",
+   "title": "М'яка обкладинка"
+  },
+  {
+   "lang": "ur",
+   "title": "پیپر بیک"
+  },
+  {
+   "lang": "zh",
+   "title": "平裝書"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Trey Jones",
+  "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Trey314159\" class=\"mw-redirect\" title=\"User:Trey314159\">Trey Jones</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "This is a photo of a white book on a wooden table, edited so that the cover of the book is completely blank.",
+  "file": "Blank_book_on_a_table.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Blank_book_on_a_table.jpg"
+ },
+ "links": [
+  "Ace Books",
+  "Acid paper",
+  "Acid-free paper",
+  "Adhesive",
+  "Advance copy",
+  "Agatha Christie",
+  "Airport novel",
+  "Albatross Books",
+  "Allen Lane",
+  "American News Company",
+  "André Maurois",
+  "Anne Trubek",
+  "Armed Services Editions",
+  "Arthur Miller",
+  "Atlas Obscura",
+  "Audiobook",
+  "Avon (publisher)",
+  "Avon (publishers)",
+  "Baen Books",
+  "Ballantine Books",
+  "Bambi, A Life in the Woods",
+  "Bantam Books",
+  "Belmont Books",
+  "Berkley Books",
+  "Bestseller",
+  "Betty Ballantine",
+  "Biblio.com",
+  "Bibliography",
+  "Bibliomania",
+  "Bibliotherapy",
+  "Black Library",
+  "Blurb",
+  "Book",
+  "Book burning",
+  "Book censorship",
+  "Book collecting",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book discussion club",
+  "Book illustration",
+  "Book packaging",
+  "Book publishing in Pakistan",
+  "Book review",
+  "Book scanning",
+  "Book series",
+  "Book size",
+  "Book swapping",
+  "Book tour",
+  "Book town",
+  "Bookbinding",
+  "Bookcase",
+  "Bookend",
+  "Bookmark",
+  "Books in Brazil",
+  "Books in France",
+  "Books in Germany",
+  "Books in Italy",
+  "Books in Spain",
+  "Books in the Netherlands",
+  "Books in the United Kingdom",
+  "Books in the United States",
+  "Bookselling",
+  "Bookstores",
+  "Bookworm",
+  "Bookworm (insect)",
+  "British Isles",
+  "Broadway play",
+  "Brother Sebastian",
+  "Bunkobon",
+  "Bus Stop (William Inge play)",
+  "Cameron Hawley",
+  "Charles Einstein",
+  "Chon Day",
+  "Codex",
+  "Coffee table book",
+  "Collection (publishing)",
+  "Comic book",
+  "Conservation and restoration of books, manuscripts, documents and ephemera",
+  "DAW Books",
+  "DC Comics",
+  "Dell Books",
+  "Dell Publishing",
+  "Dime novel",
+  "Dime store",
+  "Dimestore",
+  "Dog ears",
+  "Doi (identifier)",
+  "Dorothea Brande",
+  "Dorothy Parker",
+  "Doubleday (publisher)",
+  "Dover Publications",
+  "Drugstore",
+  "Dust jacket",
+  "Earle K. Bergey",
+  "Ebook",
+  "Editing",
+  "Edition (book)",
+  "Emily Brontë",
+  "Eric Flint",
+  "Ernie Bushmiller",
+  "Farrar, Straus & Young",
+  "Fawcett Publications",
+  "Felix Salten",
+  "Financial Times",
+  "First edition",
+  "Folio",
+  "Four-color printing",
+  "Fredric Brown",
+  "Genre fiction",
+  "George Kelley Paperback and Pulp Fiction Collection",
+  "George T. Delacorte Jr.",
+  "Gold Medal Books",
+  "Graphic novel",
+  "Grimoire",
+  "Hardbound",
+  "Hardcover",
+  "Harlequin Enterprises",
+  "HarperCollins",
+  "Hdl (identifier)",
+  "History of books",
+  "History of bookselling",
+  "History of printing",
+  "Houghton Mifflin",
+  "ISBN",
+  "ISBN (identifier)",
+  "Ian Ballantine",
+  "Illuminated manuscript",
+  "Imaginary book",
+  "Incunable",
+  "Instant book",
+  "Intellectual property",
+  "JSTOR (identifier)",
+  "James Hilton (novelist)",
+  "John Steinbeck",
+  "Joseph Meyers",
+  "Jove Books",
+  "Kenneth C. Davis",
+  "Kurt Enoch",
+  "Lamination",
+  "Lancer Books",
+  "Library",
+  "Limited-edition book",
+  "Lion Books (publisher)",
+  "List of best-selling books",
+  "List of book-burning incidents",
+  "Lists of banned books",
+  "Literacy",
+  "Literary award",
+  "Literary novel",
+  "Lost Horizon",
+  "Lost Horizon (novel)",
+  "Macmillan Publishers",
+  "Macy's Herald Square",
+  "Manga",
+  "Marvel Comics",
+  "McClelland and Stewart",
+  "Midwood Books",
+  "Miniature book",
+  "Modern Library",
+  "Mother of Demons",
+  "Nancy (comics)",
+  "Nazi book burnings",
+  "Neuromancer",
+  "New American Library",
+  "Newsstand",
+  "Non-fiction",
+  "Novel",
+  "OED",
+  "Outline of books",
+  "Pamphlet",
+  "Paper size",
+  "Paperback Library",
+  "Paperboard",
+  "Pearl Buck",
+  "Penguin Books",
+  "Pharmacy",
+  "Pocket Books",
+  "Pop-up book",
+  "Popular Library",
+  "Preservation (library and archive)",
+  "Print culture",
+  "Printing",
+  "Profit margin",
+  "Publishers Weekly",
+  "Publishing",
+  "Pulp magazines",
+  "Pyramid Books",
+  "Random House",
+  "Readerlink Distribution Services",
+  "Reading",
+  "Reaktion Books",
+  "Reclam",
+  "Romance novel",
+  "Routledge",
+  "Rudolph Belarski",
+  "Samuel Butler (novelist)",
+  "Sans-serif",
+  "Sax Rohmer",
+  "Scholastic Corporation",
+  "Scroll",
+  "Secret War (comics)",
+  "Simms and McIntyre",
+  "Simon & Schuster",
+  "Smithsonian (magazine)",
+  "Spinner rack",
+  "Staple (fastener)",
+  "Steven Roger Fischer",
+  "Stitch (textile arts)",
+  "Supermarket",
+  "Tankōbon",
+  "Tauchnitz",
+  "Textbook",
+  "The Bridge of San Luis Rey",
+  "The Cambridge History of the Book in Britain",
+  "The Good Earth",
+  "The Guardian",
+  "The Murder of Roger Ackroyd",
+  "The New York Times",
+  "The Paperbacks",
+  "The Philobiblon",
+  "The Way of All Flesh",
+  "Thorne Smith",
+  "Thornton Wilder",
+  "Time (magazine)",
+  "Topper (novel series)",
+  "Tower Publications",
+  "Trade paperback (comics)",
+  "Traditional Chinese bookbinding",
+  "True (magazine)",
+  "Tsundoku",
+  "Typesetting",
+  "Unit price",
+  "Used book",
+  "Victor Weybright",
+  "Vintage (publisher)",
+  "Vintage Crime/Black Lizard",
+  "Volume (bibliography)",
+  "W. R. Burnett",
+  "WHSmith",
+  "Wake Up and Live",
+  "Walter B. Pitkin Jr.",
+  "Ward, Lock & Co.",
+  "Wasōbon",
+  "Watchmen",
+  "Wayback Machine",
+  "Western Publishing",
+  "William Gibson",
+  "William Inge",
+  "William Shakespeare",
+  "Woolworths Group plc",
+  "World Book Capital",
+  "World Book Day",
+  "World War II",
+  "Wuthering Heights",
+  "Yellow-backs",
+  "Yellowbacks",
+  "Zebra Books"
+ ],
+ "media": [
+  {
+   "caption": "A blank paperback book",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/2/21/Blank_book_on_a_table.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Blank_book_on_a_table.jpg",
+   "section_id": 0,
+   "th": 500,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Blank_book_on_a_table.jpg/500px-Blank_book_on_a_table.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Blank_book_on_a_table.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Glued binding",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Buchbindung_01_%28fcm%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buchbindung_01_(fcm).jpg",
+   "section_id": 0,
+   "th": 333,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Buchbindung_01_%28fcm%29.jpg/500px-Buchbindung_01_%28fcm%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Buchbindung_01_(fcm).jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Piles of paperback novels",
+   "lead": false,
+   "mime": "video/webm",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Piles_of_paperback_novels_%28Source%29.webm?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Piles_of_paperback_novels_(Source).webm",
+   "section_id": 1,
+   "th": 281,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Piles_of_paperback_novels_%28Source%29.webm/500px--Piles_of_paperback_novels_%28Source%29.webm.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo",
+   "title": "File:Piles_of_paperback_novels_(Source).webm",
+   "tw": 500,
+   "type": "video"
+  }
+ ],
+ "original_image": {
+  "height": 1200,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Blank_book_on_a_table.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1200
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Paperback",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    180
+   ],
+   [
+    "2026-10-10",
+    192
+   ],
+   [
+    "2026-10-11",
+    210
+   ],
+   [
+    "2026-10-12",
+    226
+   ],
+   [
+    "2026-10-13",
+    271
+   ],
+   [
+    "2026-10-14",
+    247
+   ],
+   [
+    "2026-10-15",
+    212
+   ],
+   [
+    "2026-10-16",
+    218
+   ],
+   [
+    "2026-10-17",
+    212
+   ],
+   [
+    "2026-10-18",
+    228
+   ],
+   [
+    "2026-10-19",
+    213
+   ],
+   [
+    "2026-10-20",
+    231
+   ],
+   [
+    "2026-10-21",
+    202
+   ],
+   [
+    "2026-10-22",
+    214
+   ],
+   [
+    "2026-10-23",
+    197
+   ],
+   [
+    "2026-10-24",
+    192
+   ],
+   [
+    "2026-10-25",
+    192
+   ],
+   [
+    "2026-10-26",
+    233
+   ],
+   [
+    "2026-10-27",
+    243
+   ],
+   [
+    "2026-10-28",
+    281
+   ],
+   [
+    "2026-10-29",
+    192
+   ],
+   [
+    "2026-10-30",
+    201
+   ],
+   [
+    "2026-10-31",
+    177
+   ],
+   [
+    "2026-11-01",
+    214
+   ],
+   [
+    "2026-11-02",
+    250
+   ],
+   [
+    "2026-11-03",
+    212
+   ],
+   [
+    "2026-11-04",
+    224
+   ],
+   [
+    "2026-11-05",
+    225
+   ],
+   [
+    "2026-11-06",
+    202
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "History",
+   "level": 2,
+   "line": "History",
+   "number": "1"
+  },
+  {
+   "anchor": "The_early_years:_1930–1950",
+   "level": 3,
+   "line": "The early years: 1930–1950",
+   "number": "1.1"
+  },
+  {
+   "anchor": "The_1950s:_The_paperback_original_(fiction)_revolution",
+   "level": 3,
+   "line": "The 1950s: The paperback original (fiction) revolution",
+   "number": "1.2"
+  },
+  {
+   "anchor": "1960s_to_present",
+   "level": 3,
+   "line": "1960s to present",
+   "number": "1.3"
+  },
+  {
+   "anchor": "Types",
+   "level": 2,
+   "line": "Types",
+   "number": "2"
+  },
+  {
+   "anchor": "Mass-market",
+   "level": 3,
+   "line": "Mass-market",
+   "number": "2.1"
+  },
+  {
+   "anchor": "B-format",
+   "level": 3,
+   "line": "B-format",
+   "number": "2.2"
+  },
+  {
+   "anchor": "Trade_paperback",
+   "level": 3,
+   "line": "Trade paperback",
+   "number": "2.3"
+  },
+  {
+   "anchor": "Trade_comics",
+   "level": 4,
+   "line": "Trade comics",
+   "number": "2.3.1"
+  },
+  {
+   "anchor": "Major_publishers",
+   "level": 2,
+   "line": "Major publishers",
+   "number": "3"
+  },
+  {
+   "anchor": "United_States",
+   "level": 3,
+   "line": "United States",
+   "number": "3.1"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "4"
+  },
+  {
+   "anchor": "Footnotes",
+   "level": 2,
+   "line": "Footnotes",
+   "number": "5"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "6"
+  },
+  {
+   "anchor": "Further_reading",
+   "level": 2,
+   "line": "Further reading",
+   "number": "7"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "8"
+  }
+ ],
+ "summary_html": "<p>A <b>paperback</b> book is one with a thick paper or paperboard cover, also known as wrappers, and often held together with glue rather than stitches or staples. In contrast, hardback (hardcover) books are bound with board covered with cloth, leather, paper, or plastic.</p>",
+ "summary_text": "A paperback book is one with a thick paper or paperboard cover, also known as wrappers, and often held together with glue rather than stitches or staples. In contrast, hardback (hardcover) books are bound with board covered with cloth, leather, paper, or plastic.",
+ "templates": [
+  "\"'",
+  "Anchor",
+  "Anchor",
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/config",
+  "Blockquote",
+  "Blockquote/styles.css",
+  "Books",
+  "CS1 identifiers",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation needed",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite journal",
+  "Cite magazine",
+  "Cite news",
+  "Cite web",
+  "Columns list",
+  "Columns-list",
+  "Comma separated entries",
+  "Comma-separated entries",
+  "Commons category",
+  "Commons link",
+  "Convert",
+  "Convert",
+  "Convert/data",
+  "Convert/text",
+  "DMCA",
+  "Dated maintenance category",
+  "Dated maintenance category (articles)",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "Div col",
+  "Div col/styles.css",
+  "Double+single",
+  "EditAtWikidata",
+  "Encodefirst",
+  "FULLROOTPAGENAME",
+  "Fact",
+  "Fix",
+  "Fix/category",
+  "Format link",
+  "Fraction/styles.css",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "ISBN",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "If empty",
+  "If empty",
+  "JSTOR",
+  "Labelled list hatnote",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main",
+  "Main other",
+  "MultiReplace",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Ns has subpages",
+  "Ns has subpages",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Paperbacks",
+  "Plainlist/styles.css",
+  "Quote",
+  "Redirect",
+  "Redirect hatnote",
+  "Reflist",
+  "Reflist/styles.css",
+  "Refn",
+  "SDcat",
+  "SDcat",
+  "Separated entries",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Template wrapper",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Transliteration",
+  "Trim",
+  "Unicode data",
+  "Unsubst",
+  "Use dmy dates",
+  "Webarchive",
+  "Webarchive",
+  "Webarchive/data",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {
+  "height": 480,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Blank_book_on_a_table.jpg/500px-Blank_book_on_a_table.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Paperback",
+ "wikidata": {
+  "description": "book with a paper or paperboard cover",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "print book format"
+    ]
+   },
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Blank book on a table.jpg"
+    ]
+   }
+  ],
+  "id": "Q193934",
+  "label": "paperback",
+  "sitelink_count": 38
+ }
+}

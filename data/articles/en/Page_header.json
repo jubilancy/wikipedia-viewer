@@ -1,0 +1,554 @@
+{
+ "aliases": [
+  "Guide word",
+  "Page headers",
+  "Running head",
+  "Running header",
+  "Running title"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 92,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Header",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Page header",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Page layout",
+  "Typography stubs"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Page header</span></span>",
+ "external_links": [
+  "http://wordnetweb.princeton.edu/perl/webwn?s=running%20head",
+  "https://archive.org/details/mlahandbookforwr00asso",
+  "https://archive.org/details/mlahandbookforwr00asso/page/n138",
+  "https://archive.org/details/publicationmanua00ame_451",
+  "https://www.thebookdesigner.com/2014/03/how-to-design-running-heads-for-your-book/"
+ ],
+ "intro_text": "In typography and word processing, a page header (or simply header) is text that is separated from the body text and appears at the top of a printed page. Word-processing programs usually allow for the configuration of page headers, which are typically identical throughout a work except in aspects such as page numbers. \n[\nThe counterpart at the bottom of the page is called a page footer (or simply footer); its content is typically similar and often complementary to that of the page header.\nIn publishing and certain types of academic writing, a running head, less often called a running header, running headline or running title, is a header that appears on each standard page. Running heads do not usually appear on display pages such as title pages, or on other front or back matter. Running heads in a book typically consist of the title on the left-hand (verso) page, and the chapter title on the right-hand (recto) page; or the chapter title on the verso and subsection title/subhead on the recto, aiding the reader's navigation by showing what content exists within the two-page spread at hand. \nA special case of the latter is in dictionaries, whose running heads are called guide words; they show the first headword and last headword on each page, to expedite the reader's navigation to a desired headword. In academic writing, the running head usually contains the page number along with the author's last name, or an abbreviated version of the title. The counterpart of the running head is the running foot.",
+ "key": "en/Page_header",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "az",
+   "title": "Kolontitul"
+  },
+  {
+   "lang": "be",
+   "title": "Калонтытул"
+  },
+  {
+   "lang": "be-tarask",
+   "title": "Калёнтытул"
+  },
+  {
+   "lang": "bn",
+   "title": "পৃষ্ঠার শীর্ষচরণ"
+  },
+  {
+   "lang": "cs",
+   "title": "Záhlaví stránky"
+  },
+  {
+   "lang": "de",
+   "title": "Kopfzeile"
+  },
+  {
+   "lang": "es",
+   "title": "Cornisa (diseño editorial)"
+  },
+  {
+   "lang": "fa",
+   "title": "سرآیند صفحه"
+  },
+  {
+   "lang": "kk",
+   "title": "Колонтитул"
+  },
+  {
+   "lang": "ko",
+   "title": "머리말"
+  },
+  {
+   "lang": "mk",
+   "title": "Заглавие на страница"
+  },
+  {
+   "lang": "pl",
+   "title": "Żywa pagina"
+  },
+  {
+   "lang": "ru",
+   "title": "Колонтитул"
+  },
+  {
+   "lang": "sv",
+   "title": "Sidhuvud"
+  },
+  {
+   "lang": "sw",
+   "title": "Kijajuu"
+  },
+  {
+   "lang": "uk",
+   "title": "Колонтитул"
+  },
+  {
+   "lang": "yue",
+   "title": "頁頂"
+  },
+  {
+   "lang": "zh",
+   "title": "页眉"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Al Silonov",
+  "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Al_Silonov\" title=\"User:Al Silonov\">Al Silonov</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "A book header",
+  "file": "Header_in_a_book.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Header_in_a_book.jpg"
+ },
+ "links": [
+  "Academic writing",
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Anthropodermic bibliopegy",
+  "Author page",
+  "Bibliography",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Dedication (publishing)",
+  "Dictionary",
+  "Dingbat",
+  "Dust jacket",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Gloss (annotation)",
+  "Glossary",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Headword",
+  "Historiated initial",
+  "ISBN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Leather",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page (paper)",
+  "Page footer",
+  "Page layout",
+  "Page numbering",
+  "Page numbers",
+  "Paper marbling",
+  "Paperback",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Pothi",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Publishing",
+  "Pull quote",
+  "Recto",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (typography)",
+  "Slipcase",
+  "Table of contents",
+  "Text annotation",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Verso",
+  "Word processor"
+ ],
+ "media": [
+  {
+   "caption": "Header in a dictionary, consisting of a guide word.",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/1/17/Header_in_a_book.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Header_in_a_book.jpg",
+   "section_id": 0,
+   "th": 444,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Header_in_a_book.jpg/500px-Header_in_a_book.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Header_in_a_book.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/6/6c/%C5%BDiv%C3%A9_z%C3%A1hlav%C3%AD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:%C5%BDiv%C3%A9_z%C3%A1hlav%C3%AD.jpg",
+   "section_id": 1,
+   "th": 333,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%C5%BDiv%C3%A9_z%C3%A1hlav%C3%AD.jpg/500px-%C5%BDiv%C3%A9_z%C3%A1hlav%C3%AD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Živé_záhlaví.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kni%C5%BEn%C3%AD_z%C3%A1hlav%C3%AD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kni%C5%BEn%C3%AD_z%C3%A1hlav%C3%AD.jpg",
+   "section_id": 1,
+   "th": 333,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kni%C5%BEn%C3%AD_z%C3%A1hlav%C3%AD.jpg/500px-Kni%C5%BEn%C3%AD_z%C3%A1hlav%C3%AD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Knižní_záhlaví.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Z%C3%A1hlav%C3%AD_na_stran%C4%9B.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Z%C3%A1hlav%C3%AD_na_stran%C4%9B.jpg",
+   "section_id": 1,
+   "th": 333,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Z%C3%A1hlav%C3%AD_na_stran%C4%9B.jpg/500px-Z%C3%A1hlav%C3%AD_na_stran%C4%9B.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Záhlaví_na_straně.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/png",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Sadhupratikramanasutra.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sadhupratikramanasutra.png",
+   "section_id": 1,
+   "th": 211,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Sadhupratikramanasutra.png/500px-Sadhupratikramanasutra.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Sadhupratikramanasutra.png",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Z%C3%A1hlav%C3%AD_slou%C5%BE%C3%ADc%C3%AD_jako_orienta%C4%8Dn%C3%AD_syst%C3%A9m_v_knize_365_typo_2..jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Z%C3%A1hlav%C3%AD_slou%C5%BE%C3%ADc%C3%AD_jako_orienta%C4%8Dn%C3%AD_syst%C3%A9m_v_knize_365_typo_2..jpg",
+   "section_id": 1,
+   "th": 333,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Z%C3%A1hlav%C3%AD_slou%C5%BE%C3%ADc%C3%AD_jako_orienta%C4%8Dn%C3%AD_syst%C3%A9m_v_knize_365_typo_2..jpg/500px-Z%C3%A1hlav%C3%AD_slou%C5%BE%C3%ADc%C3%AD_jako_orienta%C4%8Dn%C3%AD_syst%C3%A9m_v_knize_365_typo_2..jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Záhlaví_sloužící_jako_orientační_systém_v_knize_365_typo_2..jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 699,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Header_in_a_book.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 788
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Page_header",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    16
+   ],
+   [
+    "2026-10-10",
+    8
+   ],
+   [
+    "2026-10-11",
+    11
+   ],
+   [
+    "2026-10-12",
+    12
+   ],
+   [
+    "2026-10-13",
+    17
+   ],
+   [
+    "2026-10-14",
+    11
+   ],
+   [
+    "2026-10-15",
+    18
+   ],
+   [
+    "2026-10-16",
+    14
+   ],
+   [
+    "2026-10-17",
+    12
+   ],
+   [
+    "2026-10-18",
+    10
+   ],
+   [
+    "2026-10-19",
+    16
+   ],
+   [
+    "2026-10-20",
+    16
+   ],
+   [
+    "2026-10-21",
+    15
+   ],
+   [
+    "2026-10-22",
+    23
+   ],
+   [
+    "2026-10-23",
+    14
+   ],
+   [
+    "2026-10-24",
+    15
+   ],
+   [
+    "2026-10-25",
+    5
+   ],
+   [
+    "2026-10-26",
+    13
+   ],
+   [
+    "2026-10-27",
+    14
+   ],
+   [
+    "2026-10-28",
+    15
+   ],
+   [
+    "2026-10-29",
+    9
+   ],
+   [
+    "2026-10-30",
+    10
+   ],
+   [
+    "2026-10-31",
+    5
+   ],
+   [
+    "2026-11-01",
+    6
+   ],
+   [
+    "2026-11-02",
+    12
+   ],
+   [
+    "2026-11-03",
+    12
+   ],
+   [
+    "2026-11-04",
+    14
+   ],
+   [
+    "2026-11-05",
+    18
+   ],
+   [
+    "2026-11-06",
+    15
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Gallery",
+   "level": 2,
+   "line": "Gallery",
+   "number": "1"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "2"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "3"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "4"
+  }
+ ],
+ "summary_html": "<p>In typography and word processing, a <b>page header</b> is text that is separated from the body text and appears at the top of a printed page. Word-processing programs usually allow for the configuration of page headers, which are typically identical throughout a work except in aspects such as page numbers. \n[\nThe counterpart at the bottom of the page is called a page footer ; its content is typically similar and often complementary to that of the page header.</p>",
+ "summary_text": "In typography and word processing, a page header is text that is separated from the body text and appears at the top of a printed page. Word-processing programs usually allow for the configuration of page headers, which are typically identical throughout a work except in aspects such as page numbers. \n[\nThe counterpart at the bottom of the page is called a page footer ; its content is typically similar and often complementary to that of the page header.",
+ "templates": [
+  "Arguments",
+  "Article stub box",
+  "Article stub box",
+  "Article stub box/styles.css",
+  "Asbox",
+  "Authority control",
+  "Authority control",
+  "Authority control/config",
+  "Book structure",
+  "Buffer",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite news",
+  "Cite web",
+  "Commons category-inline",
+  "Commons link",
+  "Commonscat inline",
+  "Disambiguation/templates",
+  "Hlist/styles.css",
+  "If empty",
+  "If empty",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister-inline",
+  "Sister-inline/styles.css",
+  "String",
+  "TableTools",
+  "Typ-stub",
+  "Typography-stub",
+  "Unicode data",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 426,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Header_in_a_book.jpg/500px-Header_in_a_book.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Page header",
+ "wikidata": {
+  "description": "text that is separated from the body text and appears at the top of a page",
+  "facts": [],
+  "id": "Q1364467",
+  "label": "page header",
+  "sitelink_count": 21
+ }
+}

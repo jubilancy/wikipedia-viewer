@@ -1,0 +1,696 @@
+{
+ "aliases": [
+  "Blind folio",
+  "Chinese folios",
+  "Location number (book)",
+  "Non-traditional folios",
+  "Page number",
+  "Page numbers"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 239,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Page numbering",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Page numbering",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Book arts",
+  "Book design",
+  "Page layout",
+  "Printing",
+  "Publishing",
+  "Typography"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Page numbering</span></span>",
+ "external_links": [
+  "http://pogue.blogs.nytimes.com/2011/02/08/page-numbers-for-kindle-books-an-imperfect-solution/",
+  "http://www.chicagomanualofstyle.org/16/ch01/ch01_sec005.html",
+  "https://answers.library.uhd.edu/faq/244166",
+  "https://euro-math-soc.eu/review/humble-pi",
+  "https://homepages.physik.uni-muenchen.de/~vondelft/echalk/echalkteaching.pdf",
+  "https://slate.com/human-interest/2015/02/page-numbers-where-did-they-come-from-and-are-they-even-useful-anymore.html",
+  "https://texfaq.org/FAQ-pagebychap",
+  "https://web.archive.org/web/20220301214616/https://euro-math-soc.eu/review/humble-pi",
+  "https://web.archive.org/web/20221225090909/http://www.chicagomanualofstyle.org/16/ch01/ch01_sec005.html",
+  "https://www.awwa.org/Publications/Bookstore/Author-Resource/Author-Guidelines",
+  "https://www.dotdom1.state.pa.us/ecms/ecms_training_calendar.nsf/vwForms/88B2A7F2FF03F7398525785300405EB3/$File/TTDS+ISD+Process+ver+3+07012010.pdf",
+  "https://www.publications.usace.army.mil/Portals/76/Users/182/86/2486/ER_1110-2-8156_%20Errata.pdf"
+ ],
+ "intro_text": "Page numbering is the process of applying a sequence of numbers (or letters, or Roman numerals) to the pages of a book or other document. The number itself, which may appear in various places on the page, can be referred to as a page number or as a folio. Like other numbering schemes such as chapter numbering, page numbers allow the citation of a particular page of the numbered document and facilitates to the reader to find specific parts of the document and to know the size of the complete text (by checking the number of the last page).",
+ "key": "en/Page_numbering",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "ترقيم الصفحات"
+  },
+  {
+   "lang": "de",
+   "title": "Pagina"
+  },
+  {
+   "lang": "es",
+   "title": "Numeración de páginas"
+  },
+  {
+   "lang": "et",
+   "title": "Leheküljenumber"
+  },
+  {
+   "lang": "fa",
+   "title": "شماره‌گذاری صفحه"
+  },
+  {
+   "lang": "ja",
+   "title": "ノンブル"
+  },
+  {
+   "lang": "ko",
+   "title": "페이지 번호 매기기"
+  },
+  {
+   "lang": "pl",
+   "title": "Pagina"
+  },
+  {
+   "lang": "pt",
+   "title": "Numeração de páginas"
+  },
+  {
+   "lang": "ru",
+   "title": "Колонцифра"
+  },
+  {
+   "lang": "sv",
+   "title": "Sidnummer"
+  },
+  {
+   "lang": "uk",
+   "title": "Колонцифра"
+  },
+  {
+   "lang": "zh",
+   "title": "页码"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Л.П. Джепко",
+  "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:%D0%9B.%D0%9F._%D0%94%D0%B6%D0%B5%D0%BF%D0%BA%D0%BE\" title=\"User:Л.П. Джепко\">Л.П. Джепко</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "Page numbering (folio) in a book.",
+  "file": "Page_number.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Page_number.jpg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Agate (typography)",
+  "All caps",
+  "Amazon Kindle",
+  "Anthropodermic bibliopegy",
+  "Antiqua (typeface class)",
+  "Arabic typography",
+  "Ascender (typography)",
+  "Author page",
+  "Authors' editor",
+  "Back matter",
+  "Baseline (typography)",
+  "Bastarda",
+  "Bibliography",
+  "Blackboard bold",
+  "Blackletter",
+  "Blank page",
+  "Bluebook",
+  "Body height (typography)",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book editor",
+  "Book folding",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Book trimming",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Bullet (typography)",
+  "Bézier curve",
+  "Calligraphy",
+  "Camel case",
+  "Canons of page construction",
+  "Cap height",
+  "Capitalization",
+  "Catchword",
+  "Chapter (books)",
+  "Character encoding",
+  "Chicago Manual of Style",
+  "Christian Bible",
+  "Cicero (typography)",
+  "Citation",
+  "Codicology",
+  "Colophon (publishing)",
+  "Color printing",
+  "Column (typography)",
+  "Column number",
+  "Commissioning editor",
+  "Computer font",
+  "Conclusion (book)",
+  "Copy (publishing)",
+  "Copy editing",
+  "Counter (typography)",
+  "Cyrillic typography",
+  "Dash",
+  "Dedication (publishing)",
+  "Descender",
+  "Desktop publishing",
+  "Developmental editor",
+  "Diacritic",
+  "Didone (typography)",
+  "Digital typography",
+  "Dingbat",
+  "Display typeface",
+  "Dust jacket",
+  "E-books",
+  "EPUB",
+  "East Asian typography",
+  "Editing",
+  "Edition notice",
+  "Em (typography)",
+  "Emphasis (typography)",
+  "En (typography)",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Etaoin shrdlu",
+  "Even working",
+  "Extra-illustration",
+  "Fat face",
+  "Figure space",
+  "Folio",
+  "Font",
+  "Font catalog",
+  "Font hinting",
+  "Font rasterization",
+  "For position only",
+  "Fore-edge painting",
+  "Foreword",
+  "Fraktur",
+  "Front matter",
+  "Gaelic type",
+  "Gloss (annotation)",
+  "Glossary",
+  "Glyph",
+  "Half-title",
+  "Handwriting",
+  "Handwriting script",
+  "Hanging punctuation",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "History of Western typography",
+  "Hyphen",
+  "Hyphen-minus",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Imprint (trade name)",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Ink trap",
+  "Insular script",
+  "Intellectual property",
+  "Intellectual property protection of typefaces",
+  "Intentionally blank page",
+  "Interpunct",
+  "Introduction (writing)",
+  "Italic type",
+  "Jerusalem Bible",
+  "Kerning",
+  "Leader (typography)",
+  "Leading",
+  "Leather",
+  "Letter case",
+  "Letter spacing",
+  "Lettering",
+  "Letterpress printing",
+  "Ligature (writing)",
+  "Line length",
+  "List of proofreader's marks",
+  "List of typefaces",
+  "List of typographic features",
+  "List of typographical symbols and punctuation marks",
+  "Literary agent",
+  "Literary editor",
+  "Loose leaf binder",
+  "Lorem ipsum",
+  "Margin (typography)",
+  "Marginalia",
+  "Mathematical constant",
+  "Matt Parker",
+  "Mean line",
+  "Metric typographic units",
+  "Microprinting",
+  "Microtypography",
+  "Miniature (illuminated manuscript)",
+  "Monospaced font",
+  "Movable type",
+  "National Fonts",
+  "New Revised Standard Version",
+  "New Testament",
+  "Nihil obstat",
+  "Note (typography)",
+  "Oblique type",
+  "Old Testament",
+  "Overshoot (typography)",
+  "PDF",
+  "PT Fonts",
+  "Page (paper)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Pagination",
+  "Pangram",
+  "Paper marbling",
+  "Paper size",
+  "Paperback",
+  "Paragraph",
+  "Penmanship",
+  "Phototypesetting",
+  "Pi",
+  "Pica (unit)",
+  "Pitch (typewriter)",
+  "Point (typography)",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Printing",
+  "Prologue",
+  "Proofreading",
+  "Publisher's reader",
+  "Pull quote",
+  "Punchcutting",
+  "Punctuation",
+  "Record type",
+  "Recto",
+  "Recto and verso",
+  "Reflowable document",
+  "Reverse-contrast typefaces",
+  "Reversing type",
+  "River (typography)",
+  "Roman numerals",
+  "Roman type",
+  "Rotated letter",
+  "Rotunda (script)",
+  "Royalties",
+  "Rubric",
+  "Rubrication",
+  "Runaround (typography)",
+  "Runt (typography)",
+  "Sans-serif",
+  "Scholia",
+  "Schwabacher",
+  "Script typeface",
+  "Section (typography)",
+  "Sentence spacing",
+  "Serif",
+  "Slab serif",
+  "Slipcase",
+  "Small caps",
+  "Snake case",
+  "Sort (typesetting)",
+  "Space (punctuation)",
+  "Style guide",
+  "Subscript and superscript",
+  "Swash (typography)",
+  "Table of contents",
+  "Technical lettering",
+  "Text annotation",
+  "Text figures",
+  "Text shaping",
+  "Thai typography",
+  "The New York Times",
+  "Thin space",
+  "Thumb index",
+  "Tipped-in page",
+  "Title case",
+  "Title page",
+  "Tittle",
+  "Traditional point-size names",
+  "Treasure binding",
+  "Twip",
+  "Type color",
+  "Type design",
+  "Type foundry",
+  "Typeface",
+  "Typeface anatomy",
+  "Typesetting",
+  "Typographic alignment",
+  "Typographic unit",
+  "Typography",
+  "Uncial script",
+  "Underscore",
+  "Verso",
+  "Vertical bar",
+  "Vox-ATypI classification",
+  "Wayback Machine",
+  "Web typography",
+  "Whitespace character",
+  "Widows and orphans",
+  "Word spacing",
+  "X-height"
+ ],
+ "media": [
+  {
+   "caption": "Page number in a book",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/0/01/Page_number.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Page_number.jpg",
+   "section_id": 0,
+   "th": 361,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Page_number.jpg/500px-Page_number.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Page_number.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1288,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Page_number.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1782
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Page_numbering",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    18
+   ],
+   [
+    "2026-10-10",
+    24
+   ],
+   [
+    "2026-10-11",
+    16
+   ],
+   [
+    "2026-10-12",
+    29
+   ],
+   [
+    "2026-10-13",
+    42
+   ],
+   [
+    "2026-10-14",
+    23
+   ],
+   [
+    "2026-10-15",
+    20
+   ],
+   [
+    "2026-10-16",
+    30
+   ],
+   [
+    "2026-10-17",
+    14
+   ],
+   [
+    "2026-10-18",
+    27
+   ],
+   [
+    "2026-10-19",
+    19
+   ],
+   [
+    "2026-10-20",
+    20
+   ],
+   [
+    "2026-10-21",
+    20
+   ],
+   [
+    "2026-10-22",
+    23
+   ],
+   [
+    "2026-10-23",
+    23
+   ],
+   [
+    "2026-10-24",
+    23
+   ],
+   [
+    "2026-10-25",
+    20
+   ],
+   [
+    "2026-10-26",
+    41
+   ],
+   [
+    "2026-10-27",
+    20
+   ],
+   [
+    "2026-10-28",
+    22
+   ],
+   [
+    "2026-10-29",
+    26
+   ],
+   [
+    "2026-10-30",
+    22
+   ],
+   [
+    "2026-10-31",
+    15
+   ],
+   [
+    "2026-11-01",
+    23
+   ],
+   [
+    "2026-11-02",
+    28
+   ],
+   [
+    "2026-11-03",
+    27
+   ],
+   [
+    "2026-11-04",
+    36
+   ],
+   [
+    "2026-11-05",
+    18
+   ],
+   [
+    "2026-11-06",
+    19
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Numbering_conventions",
+   "level": 2,
+   "line": "Numbering conventions",
+   "number": "1"
+  },
+  {
+   "anchor": "Numbering_by_chapter",
+   "level": 2,
+   "line": "Numbering by chapter",
+   "number": "2"
+  },
+  {
+   "anchor": "Unique_numbering_schemes",
+   "level": 2,
+   "line": "Unique numbering schemes",
+   "number": "3"
+  },
+  {
+   "anchor": "Electronic_documents",
+   "level": 2,
+   "line": "Electronic documents",
+   "number": "4"
+  },
+  {
+   "anchor": "Manuscripts",
+   "level": 2,
+   "line": "Manuscripts",
+   "number": "5"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "6"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "7"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "8"
+  }
+ ],
+ "summary_html": "<p><b>Page numbering</b> is the process of applying a sequence of numbers to the pages of a book or other document. The number itself, which may appear in various places on the page, can be referred to as a <b>page number</b> or as a <i>folio</i>. Like other numbering schemes such as chapter numbering, page numbers allow the citation of a particular page of the numbered document and facilitates to the reader to find specific parts of the document and to know the size of the complete text.</p>",
+ "summary_text": "Page numbering is the process of applying a sequence of numbers to the pages of a book or other document. The number itself, which may appear in various places on the page, can be referred to as a page number or as a folio. Like other numbering schemes such as chapter numbering, page numbers allow the citation of a particular page of the numbered document and facilitates to the reader to find specific parts of the document and to know the size of the complete text.",
+ "templates": [
+  "Arguments",
+  "Book Publishing Process",
+  "Book structure",
+  "Book-publishing process",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation needed",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite news",
+  "Cite web",
+  "DMCA",
+  "Dated maintenance category",
+  "Dated maintenance category (articles)",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "FULLROOTPAGENAME",
+  "Fix",
+  "Fix/category",
+  "Hlist/styles.css",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Ns has subpages",
+  "Ns has subpages",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Typography",
+  "Typography terms",
+  "Unicode data",
+  "Unsubst",
+  "Use dmy dates",
+  "Webarchive",
+  "Webarchive",
+  "Webarchive/data",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 347,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Page_number.jpg/500px-Page_number.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Page numbering",
+ "wikidata": {
+  "description": "number itself, which may appear in various places on the page",
+  "facts": [],
+  "id": "Q11325816",
+  "label": "page number",
+  "sitelink_count": 15
+ }
+}

@@ -1,0 +1,795 @@
+{
+ "aliases": [
+  "Book covers",
+  "Bookcover",
+  "Bookcovers",
+  "Cover (book)",
+  "Cover (books)",
+  "Issue cover"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 617,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Front and back covers",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Book cover",
+  "tags": "Front and back covers"
+ },
+ "categories": [
+  "Book covers",
+  "Book design",
+  "Bookbinding"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Book cover</span></span>",
+ "external_links": [
+  "http://cdm16015.contentdm.oclc.org/cdm/landingpage/collection/p188901coll3/",
+  "http://library.syr.edu/digital/guides/b/bonn_publish.htm",
+  "http://www.bookcoverarchive.com/",
+  "http://www.penguinsciencefiction.org/",
+  "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph114935&CON_LNG=ENG",
+  "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph114939&CON_LNG=ENG",
+  "https://catalogue.bnf.fr/ark:/12148/cb11959191g",
+  "https://d-nb.info/gnd/4008602-1",
+  "https://data.bnf.fr/ark:/12148/cb11959191g",
+  "https://id.loc.gov/authorities/sh85015613",
+  "https://lux.collections.yale.edu/view/concept/c693be0a-2596-444c-9c3a-ebe0d965355f",
+  "https://scholar.google.com/scholar?q=%22Book+cover%22",
+  "https://thewalrus.ca/the-hidden-racism-of-book-cover-design/",
+  "https://web.archive.org/web/20070110162035/http://totalcardboard.com/book_cover_gallery.htm",
+  "https://web.archive.org/web/20130106080409/http://cdm16015.contentdm.oclc.org/cdm/landingpage/collection/p188901coll3",
+  "https://web.archive.org/web/20240304173848/https://www.welt.de/kultur/article250348708/Buecher-Warum-von-gruenen-Buechern-eine-Gefahr-ausgeht.html",
+  "https://web.archive.org/web/20240311093305/https://www.uni-bielefeld.de/ub/arsenic_contamination/",
+  "https://web.archive.org/web/20240317203814/https://www.spiegel.de/panorama/bildung/arsen-verdacht-unibibliothek-duesseldorf-nimmt-15-000-buecher-aus-den-regalen-a-9ef87fd9-0ff9-41c9-abc0-ca9e2f40e505",
+  "https://web.archive.org/web/20240317204413/https://www.bibliotheksverband.de/sites/default/files/2024-01/ArsenHandreichung2023-12-08.pdf",
+  "https://www.bibliotheksverband.de/aktuelles",
+  "https://www.bibliotheksverband.de/sites/default/files/2024-01/ArsenHandreichung2023-12-08.pdf",
+  "https://www.google.com/search?&q=%22Book+cover%22&tbs=bkt:s&tbm=bks",
+  "https://www.google.com/search?as_eq=wikipedia&q=%22Book+cover%22",
+  "https://www.google.com/search?tbm=nws&q=%22Book+cover%22+-wikipedia&tbs=ar:1",
+  "https://www.google.com/search?tbs=bks:1&q=%22Book+cover%22+-wikipedia",
+  "https://www.jstor.org/action/doBasicSearch?Query=%22Book+cover%22&acc=on&wc=on",
+  "https://www.nli.org.il/en/authorities/987007283236305171",
+  "https://www.spiegel.de/panorama/bildung/arsen-verdacht-unibibliothek-duesseldorf-nimmt-15-000-buecher-aus-den-regalen-a-9ef87fd9-0ff9-41c9-abc0-ca9e2f40e505",
+  "https://www.uni-bielefeld.de/ub/arsenic_contamination/",
+  "https://www.welt.de/kultur/article250348708/Buecher-Warum-von-gruenen-Buechern-eine-Gefahr-ausgeht.html"
+ ],
+ "intro_text": "A book cover is any protective covering used to bind together the pages of a book. Beyond the familiar distinction between hardcovers and paperbacks, there are further alternatives and additions, such as dust jackets, ring-binding, and older forms such as the nineteenth-century \"paper-boards\" and the traditional types of hand-binding. The term bookcover is also commonly used for a book cover image in library management software. This article is concerned with modern mechanically produced covers.",
+ "key": "en/Book_cover",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "غلاف كتاب"
+  },
+  {
+   "lang": "azb",
+   "title": "جیلد"
+  },
+  {
+   "lang": "ca",
+   "title": "Coberta"
+  },
+  {
+   "lang": "cs",
+   "title": "Knižní vazba"
+  },
+  {
+   "lang": "da",
+   "title": "Bogbind"
+  },
+  {
+   "lang": "de",
+   "title": "Einband"
+  },
+  {
+   "lang": "eo",
+   "title": "Librokovrilo"
+  },
+  {
+   "lang": "es",
+   "title": "Cubierta (libro)"
+  },
+  {
+   "lang": "eu",
+   "title": "Azal (liburugintza)"
+  },
+  {
+   "lang": "fa",
+   "title": "جلد کتاب"
+  },
+  {
+   "lang": "fr",
+   "title": "Première de couverture"
+  },
+  {
+   "lang": "fy",
+   "title": "Omslach"
+  },
+  {
+   "lang": "he",
+   "title": "עטיפת ספר"
+  },
+  {
+   "lang": "hu",
+   "title": "Borító"
+  },
+  {
+   "lang": "hy",
+   "title": "Շապիկ (գիրք)"
+  },
+  {
+   "lang": "it",
+   "title": "Copertina"
+  },
+  {
+   "lang": "ja",
+   "title": "表紙"
+  },
+  {
+   "lang": "kn",
+   "title": "ಪುಸ್ತಕದ ರಕ್ಷಾಕವಚ"
+  },
+  {
+   "lang": "ko",
+   "title": "표지 (책)"
+  },
+  {
+   "lang": "nan",
+   "title": "Chheh-phôe"
+  },
+  {
+   "lang": "nb",
+   "title": "Bokomslag"
+  },
+  {
+   "lang": "nl",
+   "title": "Omslag"
+  },
+  {
+   "lang": "pt",
+   "title": "Capa de livro"
+  },
+  {
+   "lang": "ro",
+   "title": "Copertă"
+  },
+  {
+   "lang": "ru",
+   "title": "Обложка"
+  },
+  {
+   "lang": "simple",
+   "title": "Book cover"
+  },
+  {
+   "lang": "sk",
+   "title": "Väzba (obal)"
+  },
+  {
+   "lang": "ta",
+   "title": "நூல் அட்டை"
+  },
+  {
+   "lang": "tr",
+   "title": "Kitap kapağı"
+  },
+  {
+   "lang": "uk",
+   "title": "Книжкова обкладинка"
+  },
+  {
+   "lang": "zh",
+   "title": "图书封面"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Unspecified",
+  "author_html": "<div class=\"fn value\">\nUnspecified</div>",
+  "credit_html": "This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.bl.uk/about/cyber-attack\">https://www.bl.uk/about/cyber-attack</a> It is also <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bl.uk/catalogues/bookbindings/LargeImage.aspx?RecordId=020-000015321&amp;ImageId=ImageId=57580&amp;Copyright=BL\">made available on a British Library website</a>.<br>",
+  "description": "Style: Abstract|Circle|Leaf; Caption: Upper cover; Colour: Brown|Red; Edge: Plain",
+  "file": "The_St_Cuthbert_Gospel_of_St_John._(formerly_known_as_the_Stonyhurst_Gospel)_is_the_oldest_intact_European_book._-_Upper_cover_(Add_Ms_89000)_(cropped).jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:The_St_Cuthbert_Gospel_of_St_John._(formerly_known_as_the_Stonyhurst_Gospel)_is_the_oldest_intact_European_book._-_Upper_cover_(Add_Ms_89000)_(cropped).jpg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Advance copy",
+  "Afterword",
+  "Alexander Rodchenko",
+  "Anthropodermic bibliopegy",
+  "Arsen",
+  "Art Nouveau",
+  "Arts and Crafts movement",
+  "Aubrey Beardsley",
+  "Audiobook",
+  "Author page",
+  "Bestseller",
+  "Bibliography",
+  "Bibliomania",
+  "Bibliotherapy",
+  "Bielefeld University",
+  "Blurb",
+  "Body text",
+  "Book",
+  "Book Covers of Theodelinda",
+  "Book burning",
+  "Book censorship",
+  "Book collecting",
+  "Book curse",
+  "Book design",
+  "Book discussion club",
+  "Book frontispiece",
+  "Book illustration",
+  "Book of Common Prayer",
+  "Book packaging",
+  "Book publishing in Pakistan",
+  "Book review",
+  "Book rhyme",
+  "Book scanning",
+  "Book series",
+  "Book size",
+  "Book swapping",
+  "Book tour",
+  "Book town",
+  "Bookbinding",
+  "Bookcase",
+  "Bookend",
+  "Bookmark",
+  "Bookplate",
+  "Books in Brazil",
+  "Books in France",
+  "Books in Germany",
+  "Books in Italy",
+  "Books in Spain",
+  "Books in the Netherlands",
+  "Books in the United Kingdom",
+  "Books in the United States",
+  "Bookselling",
+  "Bookworm",
+  "Bookworm (insect)",
+  "Buckram",
+  "Canons of page construction",
+  "Carolingian dynasty",
+  "Catchword",
+  "Chapter (books)",
+  "Codex",
+  "Codex Aureus of Lorsch",
+  "Coffee table book",
+  "Collection (publishing)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Conservation and restoration of books, manuscripts, documents and ephemera",
+  "Cover art",
+  "Dedication (publishing)",
+  "Dingbat",
+  "Dog ears",
+  "Don't judge a book by its cover",
+  "Dust jacket",
+  "Ebook",
+  "Editing",
+  "Edition (book)",
+  "Edition notice",
+  "Eighty Years of Book Cover Design",
+  "El Lissitzky",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Folio",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Gloss (annotation)",
+  "Glossary",
+  "Gold leaf",
+  "Grimoire",
+  "Half-title",
+  "Halftone",
+  "Hardcover",
+  "Harry Potter",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "History of books",
+  "History of bookselling",
+  "History of printing",
+  "ISBN",
+  "ISBN (identifier)",
+  "Illuminated manuscript",
+  "Imaginary book",
+  "Imprimatur",
+  "Imprimi potest",
+  "Incunable",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Instant book",
+  "Intellectual property",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Ivory",
+  "Leather",
+  "Library",
+  "Limited-edition book",
+  "List of best-selling books",
+  "List of book-burning incidents",
+  "Lists of banned books",
+  "Literacy",
+  "Literary award",
+  "Lithography",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Miniature book",
+  "Nazi book burnings",
+  "Nicolaus Copernicus University Library",
+  "Nihil obstat",
+  "Non-fiction",
+  "Note (typography)",
+  "Novel",
+  "Outline of books",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Paris green",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Preservation (library and archive)",
+  "Print culture",
+  "Printer's mark",
+  "Printing",
+  "Prologue",
+  "Publishing",
+  "Pull quote",
+  "Racial diversity",
+  "Reading",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Scroll",
+  "Section (typography)",
+  "Slipcase",
+  "St Cuthbert Gospel",
+  "Table of contents",
+  "Tagline",
+  "Text annotation",
+  "Textbook",
+  "The Philobiblon",
+  "The Yellow Book",
+  "Theodelinda",
+  "Thumb index",
+  "Tipped-in page",
+  "Title (publishing)",
+  "Title page",
+  "Traditional Chinese bookbinding",
+  "Treasure binding",
+  "Tsundoku",
+  "Typeface",
+  "Typesetting",
+  "Typography",
+  "Used book",
+  "Victoria and Albert Museum",
+  "Volume (bibliography)",
+  "Wasōbon",
+  "World Book Capital",
+  "World Book Day"
+ ],
+ "media": [
+  {
+   "caption": "Front cover of the St Cuthbert Gospel, c. 700; the original tooled red goatskin binding is the earliest surviving Western binding.",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/0/0d/The_St_Cuthbert_Gospel_of_St_John._%28formerly_known_as_the_Stonyhurst_Gospel%29_is_the_oldest_intact_European_book._-_Upper_cover_%28Add_Ms_89000%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_St_Cuthbert_Gospel_of_St_John._(formerly_known_as_the_Stonyhurst_Gospel)_is_the_oldest_intact_European_book._-_Upper_cover_(Add_Ms_89000)_(cropped).jpg",
+   "section_id": 0,
+   "th": 670,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/The_St_Cuthbert_Gospel_of_St_John._%28formerly_known_as_the_Stonyhurst_Gospel%29_is_the_oldest_intact_European_book._-_Upper_cover_%28Add_Ms_89000%29_%28cropped%29.jpg/500px-The_St_Cuthbert_Gospel_of_St_John._%28formerly_known_as_the_Stonyhurst_Gospel%29_is_the_oldest_intact_European_book._-_Upper_cover_%28Add_Ms_89000%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:The_St_Cuthbert_Gospel_of_St_John._(formerly_known_as_the_Stonyhurst_Gospel)_is_the_oldest_intact_European_book._-_Upper_cover_(Add_Ms_89000)_(cropped).jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Ivory cover of the Codex Aureus of Lorsch, c. 810, Carolingian dynasty, Victoria and Albert Museum",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ivory_cover_of_the_Lorsch_Gospels%2C_c._810%2C_Carolingian%2C_Victoria_and_Albert_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ivory_cover_of_the_Lorsch_Gospels,_c._810,_Carolingian,_Victoria_and_Albert_Museum.jpg",
+   "section_id": 1,
+   "th": 687,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ivory_cover_of_the_Lorsch_Gospels%2C_c._810%2C_Carolingian%2C_Victoria_and_Albert_Museum.jpg/500px-Ivory_cover_of_the_Lorsch_Gospels%2C_c._810%2C_Carolingian%2C_Victoria_and_Albert_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Ivory_cover_of_the_Lorsch_Gospels,_c._810,_Carolingian,_Victoria_and_Albert_Museum.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "One of the goldsmith covers from the so-called silver library of Duke Albrecht Hohenzollern in Königsberg, now in Nicolaus Copernicus University Library, c. 1555",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/2/27/Andrzej_R_Skowro%C5%84ski_-_Ob.6.III.713_0002.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Andrzej_R_Skowro%C5%84ski_-_Ob.6.III.713_0002.jpg",
+   "section_id": 1,
+   "th": 729,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Andrzej_R_Skowro%C5%84ski_-_Ob.6.III.713_0002.jpg/500px-Andrzej_R_Skowro%C5%84ski_-_Ob.6.III.713_0002.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Andrzej_R_Skowroński_-_Ob.6.III.713_0002.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Detail of the cover of a pocket edition of the Book of Common Prayer, vellucent binding by Cedric Chivers with Art Nouveau gold tooling, hand-painted design inlaid with mother of pearl",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/2/26/The_Book_of_Common_Prayer%2C_Chivers%2C_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Book_of_Common_Prayer,_Chivers,_detail.jpg",
+   "section_id": 2,
+   "th": 667,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/The_Book_of_Common_Prayer%2C_Chivers%2C_detail.jpg/500px-The_Book_of_Common_Prayer%2C_Chivers%2C_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:The_Book_of_Common_Prayer,_Chivers,_detail.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Early 20th century leather book cover, with gold leaf ornamentation",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hanna_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Hanna_book_cover.jpg",
+   "section_id": 2,
+   "th": 802,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Hanna_book_cover.jpg/500px-Hanna_book_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Hanna_book_cover.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 960,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/The_St_Cuthbert_Gospel_of_St_John._%28formerly_known_as_the_Stonyhurst_Gospel%29_is_the_oldest_intact_European_book._-_Upper_cover_%28Add_Ms_89000%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 716
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Book_cover",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    30
+   ],
+   [
+    "2026-10-10",
+    27
+   ],
+   [
+    "2026-10-11",
+    37
+   ],
+   [
+    "2026-10-12",
+    36
+   ],
+   [
+    "2026-10-13",
+    31
+   ],
+   [
+    "2026-10-14",
+    34
+   ],
+   [
+    "2026-10-15",
+    39
+   ],
+   [
+    "2026-10-16",
+    32
+   ],
+   [
+    "2026-10-17",
+    32
+   ],
+   [
+    "2026-10-18",
+    29
+   ],
+   [
+    "2026-10-19",
+    46
+   ],
+   [
+    "2026-10-20",
+    33
+   ],
+   [
+    "2026-10-21",
+    30
+   ],
+   [
+    "2026-10-22",
+    30
+   ],
+   [
+    "2026-10-23",
+    33
+   ],
+   [
+    "2026-10-24",
+    21
+   ],
+   [
+    "2026-10-25",
+    33
+   ],
+   [
+    "2026-10-26",
+    32
+   ],
+   [
+    "2026-10-27",
+    30
+   ],
+   [
+    "2026-10-28",
+    29
+   ],
+   [
+    "2026-10-29",
+    39
+   ],
+   [
+    "2026-10-30",
+    30
+   ],
+   [
+    "2026-10-31",
+    43
+   ],
+   [
+    "2026-11-01",
+    31
+   ],
+   [
+    "2026-11-02",
+    45
+   ],
+   [
+    "2026-11-03",
+    40
+   ],
+   [
+    "2026-11-04",
+    37
+   ],
+   [
+    "2026-11-05",
+    27
+   ],
+   [
+    "2026-11-06",
+    23
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "History",
+   "level": 2,
+   "line": "History",
+   "number": "1"
+  },
+  {
+   "anchor": "Cover_design",
+   "level": 2,
+   "line": "Cover design",
+   "number": "2"
+  },
+  {
+   "anchor": "Contents",
+   "level": 2,
+   "line": "Contents",
+   "number": "3"
+  },
+  {
+   "anchor": "Contamination_of_historic_books",
+   "level": 2,
+   "line": "Contamination of historic books",
+   "number": "4"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "5"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "6"
+  },
+  {
+   "anchor": "Further_reading",
+   "level": 2,
+   "line": "Further reading",
+   "number": "7"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "8"
+  }
+ ],
+ "summary_html": "<p>A <b>book cover</b> is any protective covering used to bind together the pages of a book. Beyond the familiar distinction between hardcovers and paperbacks, there are further alternatives and additions, such as dust jackets, ring-binding, and older forms such as the nineteenth-century \"paper-boards\" and the traditional types of hand-binding. The term <i>bookcover</i> is also commonly used for a book cover image in library management software. This article is concerned with modern mechanically produced covers.</p>",
+ "summary_text": "A book cover is any protective covering used to bind together the pages of a book. Beyond the familiar distinction between hardcovers and paperbacks, there are further alternatives and additions, such as dust jackets, ring-binding, and older forms such as the nineteenth-century \"paper-boards\" and the traditional types of hand-binding. The term bookcover is also commonly used for a book cover image in library management software. This article is concerned with modern mechanically produced covers.",
+ "templates": [
+  "Ambox",
+  "Annotated link",
+  "Annotated link",
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/auxiliary",
+  "Authority control/config",
+  "Book structure",
+  "Books",
+  "Buckram",
+  "CS1 identifiers",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Circa",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite web",
+  "Commons category",
+  "Commons link",
+  "Disambiguation/templates",
+  "EditAtWikidata",
+  "Encodefirst",
+  "Find sources",
+  "Find sources mainspace",
+  "Find sources/config",
+  "Find sources/links",
+  "Find sources/templates/Find sources mainspace",
+  "Format link",
+  "GetShortDescription",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "ISBN",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Labelled list hatnote",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main",
+  "Main other",
+  "Message box",
+  "Message box/ambox.css",
+  "Message box/configuration",
+  "More citations needed",
+  "MultiReplace",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Transliteration",
+  "Trim",
+  "Unicode data",
+  "Unsubst",
+  "Wikitext Parsing",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {
+  "height": 644,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/The_St_Cuthbert_Gospel_of_St_John._%28formerly_known_as_the_Stonyhurst_Gospel%29_is_the_oldest_intact_European_book._-_Upper_cover_%28Add_Ms_89000%29_%28cropped%29.jpg/500px-The_St_Cuthbert_Gospel_of_St_John._%28formerly_known_as_the_Stonyhurst_Gospel%29_is_the_oldest_intact_European_book._-_Upper_cover_%28Add_Ms_89000%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Book cover",
+ "wikidata": {
+  "description": "protective covering, often decorative, used to bind together the pages of a book",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "specialized term"
+    ]
+   },
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "The St Cuthbert Gospel of St John. (formerly known as the Stonyhurst Gospel) is the oldest intact European book. - Upper cover (Add Ms 89000) (cropped).jpg"
+    ]
+   }
+  ],
+  "id": "Q1125338",
+  "label": "book cover",
+  "sitelink_count": 34
+ }
+}

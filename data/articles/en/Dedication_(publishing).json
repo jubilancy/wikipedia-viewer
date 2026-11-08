@@ -1,0 +1,550 @@
+{
+ "aliases": [
+  "Book dedication",
+  "Dedication page"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 152,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Dedication",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Dedication (publishing)",
+  "tags": "Front matter"
+ },
+ "categories": [
+  "Book design",
+  "Book terminology",
+  "Dedication",
+  "Literary theory",
+  "Publishing"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dedication (publishing)</span></span>",
+ "external_links": [
+  "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph303410&CON_LNG=ENG",
+  "https://catalogue.bnf.fr/ark:/12148/cb124855293",
+  "https://d-nb.info/gnd/4148981-0",
+  "https://data.bnf.fr/ark:/12148/cb124855293",
+  "https://id.loc.gov/authorities/sh85036367",
+  "https://lux.collections.yale.edu/view/concept/9eae45c4-fc25-4f8f-8799-3ab7104327e4",
+  "https://www.nli.org.il/en/authorities/987007545607705171",
+  "https://www.panterapress.com.au/book-dedications/",
+  "https://www.writtenwordmedia.com/how-to-write-a-book-dedication/"
+ ],
+ "intro_text": "A dedication or book dedication is the expression of friendly connection or thanks by the author towards another person. The dedication has its own place on the dedication page and is part of the front matter.",
+ "key": "en/Dedication_(publishing)",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "إهداء (نشر)"
+  },
+  {
+   "lang": "br",
+   "title": "Dedi"
+  },
+  {
+   "lang": "ca",
+   "title": "Dedicatòria"
+  },
+  {
+   "lang": "cs",
+   "title": "Dedikace"
+  },
+  {
+   "lang": "de",
+   "title": "Widmung"
+  },
+  {
+   "lang": "el",
+   "title": "Αφιερωματικό σημείωμα"
+  },
+  {
+   "lang": "es",
+   "title": "Dedicatoria"
+  },
+  {
+   "lang": "fr",
+   "title": "Dédicace"
+  },
+  {
+   "lang": "he",
+   "title": "הקדשה (יצירה)"
+  },
+  {
+   "lang": "hu",
+   "title": "Dedikáció"
+  },
+  {
+   "lang": "ja",
+   "title": "献辞"
+  },
+  {
+   "lang": "ko",
+   "title": "헌사"
+  },
+  {
+   "lang": "lb",
+   "title": "Dedicace"
+  },
+  {
+   "lang": "lt",
+   "title": "Dedikacija"
+  },
+  {
+   "lang": "pl",
+   "title": "Dedykacja (literatura)"
+  },
+  {
+   "lang": "ru",
+   "title": "Посвящение"
+  },
+  {
+   "lang": "sd",
+   "title": "ارپنا"
+  },
+  {
+   "lang": "sv",
+   "title": "Dedikation (publicering)"
+  },
+  {
+   "lang": "uk",
+   "title": "Присвята"
+  },
+  {
+   "lang": "ur",
+   "title": "انتساب"
+  },
+  {
+   "lang": "wa",
+   "title": "Dicåçtaedje d' on live"
+  },
+  {
+   "lang": "zh",
+   "title": "獻辭"
+  }
+ ],
+ "lead_image": {},
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Anthropodermic bibliopegy",
+  "Author",
+  "Author page",
+  "Beloved (novel)",
+  "Bibliography",
+  "Bishop",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Classical antiquity",
+  "Claudio Monteverdi",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Dingbat",
+  "Don Juan (Byron)",
+  "Dust jacket",
+  "Edition notice",
+  "Elizabethan",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Front matter",
+  "Fürst",
+  "Gloss (annotation)",
+  "Glossary",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "Homage (arts)",
+  "ISBN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Leather",
+  "Lord Byron",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Paratext",
+  "Patron-client relationship",
+  "Poet Laureate",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Presentation copy",
+  "Printer's mark",
+  "Prologue",
+  "Publisher",
+  "Pulitzer Prize",
+  "Pull quote",
+  "Recto and verso",
+  "Robert Southey",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (typography)",
+  "Slipcase",
+  "Table of contents",
+  "Text annotation",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Toni Morrison",
+  "Treasure binding",
+  "Typeface",
+  "Typography"
+ ],
+ "media": [
+  {
+   "caption": "Book dedication to a group of people",
+   "lead": false,
+   "mime": "image/png",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dedication_CAGSTAU_book.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dedication_CAGSTAU_book.png",
+   "section_id": 0,
+   "th": 84,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dedication_CAGSTAU_book.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "File:Dedication_CAGSTAU_book.png",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "The dedication of Orfeo by Monteverdi, 1609",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Orfeo_libretto_d%C3%A9dicace.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Orfeo_libretto_d%C3%A9dicace.jpg",
+   "section_id": 1,
+   "th": 670,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Orfeo_libretto_d%C3%A9dicace.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "File:Orfeo_libretto_dédicace.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {},
+ "page_url": "https://en.wikipedia.org/wiki/Dedication_(publishing)",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    20
+   ],
+   [
+    "2026-10-10",
+    15
+   ],
+   [
+    "2026-10-11",
+    18
+   ],
+   [
+    "2026-10-12",
+    14
+   ],
+   [
+    "2026-10-13",
+    20
+   ],
+   [
+    "2026-10-14",
+    30
+   ],
+   [
+    "2026-10-15",
+    9
+   ],
+   [
+    "2026-10-16",
+    16
+   ],
+   [
+    "2026-10-17",
+    12
+   ],
+   [
+    "2026-10-18",
+    11
+   ],
+   [
+    "2026-10-19",
+    10
+   ],
+   [
+    "2026-10-20",
+    14
+   ],
+   [
+    "2026-10-21",
+    17
+   ],
+   [
+    "2026-10-22",
+    15
+   ],
+   [
+    "2026-10-23",
+    10
+   ],
+   [
+    "2026-10-24",
+    8
+   ],
+   [
+    "2026-10-25",
+    5
+   ],
+   [
+    "2026-10-26",
+    10
+   ],
+   [
+    "2026-10-27",
+    14
+   ],
+   [
+    "2026-10-28",
+    22
+   ],
+   [
+    "2026-10-29",
+    9
+   ],
+   [
+    "2026-10-30",
+    18
+   ],
+   [
+    "2026-10-31",
+    18
+   ],
+   [
+    "2026-11-01",
+    6
+   ],
+   [
+    "2026-11-02",
+    12
+   ],
+   [
+    "2026-11-03",
+    12
+   ],
+   [
+    "2026-11-04",
+    18
+   ],
+   [
+    "2026-11-05",
+    16
+   ],
+   [
+    "2026-11-06",
+    16
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "History",
+   "level": 2,
+   "line": "History",
+   "number": "1"
+  },
+  {
+   "anchor": "Themes",
+   "level": 2,
+   "line": "Themes",
+   "number": "2"
+  },
+  {
+   "anchor": "Today",
+   "level": 2,
+   "line": "Today",
+   "number": "3"
+  },
+  {
+   "anchor": "Handwritten_dedication",
+   "level": 2,
+   "line": "Handwritten dedication",
+   "number": "4"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "5"
+  },
+  {
+   "anchor": "Notes",
+   "level": 2,
+   "line": "Notes",
+   "number": "6"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "7"
+  }
+ ],
+ "summary_html": "<p>A <b>dedication</b> or <b>book dedication</b> is the expression of friendly connection or thanks by the author towards another person. The dedication has its own place on the <i>dedication page</i> and is part of the front matter.</p>",
+ "summary_text": "A dedication or book dedication is the expression of friendly connection or thanks by the author towards another person. The dedication has its own place on the dedication page and is part of the front matter.",
+ "templates": [
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/auxiliary",
+  "Authority control/config",
+  "Book structure",
+  "CS1 identifiers",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation needed",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite web",
+  "Commons category",
+  "Commons link",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "EditAtWikidata",
+  "Encodefirst",
+  "Fix",
+  "Fix/category",
+  "Hlist/styles.css",
+  "ISBN",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "MultiReplace",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "Sister-inline",
+  "Sister-inline/styles.css",
+  "String",
+  "TableTools",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Trim",
+  "Unicode data",
+  "Unsubst",
+  "Wikitext Parsing",
+  "Wiktionary inline",
+  "Wiktionary-inline",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {},
+ "title": "Dedication (publishing)",
+ "wikidata": {
+  "description": "expression of friendly connection or thanks by the author towards another person",
+  "facts": [],
+  "id": "Q1898184",
+  "label": "dedication",
+  "sitelink_count": 27
+ }
+}

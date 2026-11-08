@@ -1,0 +1,524 @@
+{
+ "aliases": [
+  "Chapter sections",
+  "Scene break",
+  "Scene-break",
+  "Section (document)",
+  "Section (documents)",
+  "Section (layout)",
+  "Section (writing)",
+  "Section break",
+  "Section divider",
+  "Subsection (typography)",
+  "Thematic break (formatting)"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 85,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Sections",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Section (typography)",
+  "tags": "Body matter"
+ },
+ "categories": [
+  "Book design",
+  "Book terminology",
+  "Elements of documents",
+  "Publishing",
+  "Typography"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Section (typography)</span></span>",
+ "external_links": [
+  "http://www.iso.org/iso/catalogue_detail.htm?csnumber=6937",
+  "http://www.rbs0.com/lawcite.htm#anchor333333",
+  "https://blogs.ethz.ch/kowalski/2008/06/03/peano-paragraphing/",
+  "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section",
+  "https://doi.org/10.1353%2Fnar.2003.0010",
+  "https://goteenwriters.com/2012/10/02/section-breaks-vs-scene-breaks/",
+  "https://muse.jhu.edu/article/42268",
+  "https://search.worldcat.org/issn/1538-974X",
+  "https://w3c.github.io/html-reference/hr.html",
+  "https://www.britannica.com/dictionary/section",
+  "https://www.law.cornell.edu/wiki/lexcraft/section_identifiers_lii",
+  "https://www.merriam-webster.com/dictionary/section"
+ ],
+ "intro_text": "In books and documents, a section is a subdivision, especially of a chapter.\nIn fiction, sections often represent scenes, and accordingly the space separating them is sometimes also called a scene break. Scene breaks represent gaps in story time that do not correspond to discourse time, and thus reveal the story-discourse distinction.\nIn law, sections are divisions of legislation that may be deeply nested to as little as single sentences.",
+ "key": "en/Section_(typography)",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "az",
+   "title": "Paraqraf"
+  },
+  {
+   "lang": "be",
+   "title": "Параграф"
+  },
+  {
+   "lang": "da",
+   "title": "Paragraf"
+  },
+  {
+   "lang": "de",
+   "title": "Paragraf"
+  },
+  {
+   "lang": "eo",
+   "title": "Paragrafo"
+  },
+  {
+   "lang": "eu",
+   "title": "Sekzio (tipografia)"
+  },
+  {
+   "lang": "fi",
+   "title": "Pykälä"
+  },
+  {
+   "lang": "kk",
+   "title": "Параграф"
+  },
+  {
+   "lang": "ko",
+   "title": "절 (책)"
+  },
+  {
+   "lang": "ky",
+   "title": "Параграф"
+  },
+  {
+   "lang": "nb",
+   "title": "Paragraf"
+  },
+  {
+   "lang": "nl",
+   "title": "Paragraaf"
+  },
+  {
+   "lang": "nn",
+   "title": "Paragraf"
+  },
+  {
+   "lang": "ru",
+   "title": "Параграф"
+  },
+  {
+   "lang": "sv",
+   "title": "Paragraf"
+  },
+  {
+   "lang": "sw",
+   "title": "Kigawa sehemu"
+  },
+  {
+   "lang": "uk",
+   "title": "Параграф"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Pengo",
+  "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Pengo\" title=\"User:Pengo\">Pengo</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "The book Alice in Wonderland (1865), opened to Chapter 5, pages 46 and 47, to illustrate a section break. Alice in Wonderland was first published in 1865 and is now public domain. The complete, illustrated text of the book is available on Wikisource. The image partially visible through the left page is File:Alice 05e.jpg (on page 45), and possibly File:Alice 05d.jpg is visible behind that (p.44).",
+  "file": "Section_break_01_by_Pengo.jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Section_break_01_by_Pengo.jpg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Alice's Adventures in Wonderland",
+  "Anthropodermic bibliopegy",
+  "Asterisk",
+  "Asterism (typography)",
+  "Author page",
+  "Bibliography",
+  "Body text",
+  "Book",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Decimal section-numbering",
+  "Dedication (publishing)",
+  "Dingbat",
+  "Dinkus",
+  "Document",
+  "Doi (identifier)",
+  "Dust jacket",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Fiction",
+  "Fleuron (typography)",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Gloss (annotation)",
+  "Glossary",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "ISO 2145",
+  "ISSN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Internal Revenue Code section 183",
+  "International Organization for Standardization",
+  "Introduction (writing)",
+  "Law",
+  "Leather",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Overhead lines",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Paragraph",
+  "Paragraphos",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Pull quote",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scene (drama)",
+  "Scholia",
+  "Section (bookbinding)",
+  "Section Two of the Canadian Charter of Rights and Freedoms",
+  "Section sign",
+  "Semantic HTML",
+  "Slipcase",
+  "Story-discourse distinction",
+  "Table of contents",
+  "Text annotation",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Transition (fiction)",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Wikipedia markup language"
+ ],
+ "media": [
+  {
+   "caption": "Open pages of the book Alice's Adventures in Wonderland, showing an ornate section break on the lower left page created from asterisks. It is used to signal a pause for the reader and a transition in the narrative.",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/9/92/Section_break_01_by_Pengo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Section_break_01_by_Pengo.jpg",
+   "section_id": 0,
+   "th": 370,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Section_break_01_by_Pengo.jpg/500px-Section_break_01_by_Pengo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Section_break_01_by_Pengo.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 4735,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Section_break_01_by_Pengo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 6401
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Section_(typography)",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    30
+   ],
+   [
+    "2026-10-10",
+    24
+   ],
+   [
+    "2026-10-11",
+    13
+   ],
+   [
+    "2026-10-12",
+    25
+   ],
+   [
+    "2026-10-13",
+    27
+   ],
+   [
+    "2026-10-14",
+    20
+   ],
+   [
+    "2026-10-15",
+    29
+   ],
+   [
+    "2026-10-16",
+    22
+   ],
+   [
+    "2026-10-17",
+    12
+   ],
+   [
+    "2026-10-18",
+    14
+   ],
+   [
+    "2026-10-19",
+    20
+   ],
+   [
+    "2026-10-20",
+    26
+   ],
+   [
+    "2026-10-21",
+    10
+   ],
+   [
+    "2026-10-22",
+    21
+   ],
+   [
+    "2026-10-23",
+    21
+   ],
+   [
+    "2026-10-24",
+    18
+   ],
+   [
+    "2026-10-25",
+    14
+   ],
+   [
+    "2026-10-26",
+    20
+   ],
+   [
+    "2026-10-27",
+    14
+   ],
+   [
+    "2026-10-28",
+    14
+   ],
+   [
+    "2026-10-29",
+    29
+   ],
+   [
+    "2026-10-30",
+    16
+   ],
+   [
+    "2026-10-31",
+    6
+   ],
+   [
+    "2026-11-01",
+    16
+   ],
+   [
+    "2026-11-02",
+    14
+   ],
+   [
+    "2026-11-03",
+    15
+   ],
+   [
+    "2026-11-04",
+    16
+   ],
+   [
+    "2026-11-05",
+    18
+   ],
+   [
+    "2026-11-06",
+    14
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Section_form_and_numbering",
+   "level": 2,
+   "line": "Section form and numbering",
+   "number": "1"
+  },
+  {
+   "anchor": "In_HTML",
+   "level": 2,
+   "line": "In HTML",
+   "number": "2"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "3"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "4"
+  }
+ ],
+ "summary_html": "<p>In books and documents, a <b>section</b> is a subdivision, especially of a chapter.</p>",
+ "summary_text": "In books and documents, a section is a subdivision, especially of a chapter.",
+ "templates": [
+  "Anl",
+  "Annotated link",
+  "Annotated link",
+  "Arguments",
+  "Asterism (typography)",
+  "Book structure",
+  "Char",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite journal",
+  "Cite web",
+  "Dinkus",
+  "Disambiguation/templates",
+  "Fleuron (typography)",
+  "Format link",
+  "GetShortDescription",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Paragraph",
+  "Paragraphos",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Redirect",
+  "Redirect hatnote",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Section (bookbinding)",
+  "Section break",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Snd",
+  "Spaced en dash",
+  "String",
+  "TableTools",
+  "Unicode data",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 355,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Section_break_01_by_Pengo.jpg/500px-Section_break_01_by_Pengo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Section (typography)",
+ "wikidata": {
+  "description": "subdivision of a chapter in a book",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Section break 01 by Pengo.jpg"
+    ]
+   }
+  ],
+  "id": "Q1931107",
+  "label": "section",
+  "sitelink_count": 19
+ }
+}

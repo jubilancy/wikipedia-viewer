@@ -2,7 +2,28 @@ severity,list,line,input,key,code,message
 error,example,8,https://en.wikipedia.org/wiki/This_article_should_not_exist_xyz,en/This_article_should_not_exist_xyz,missing_article,article does not exist
 error,example,9,https://example.com/not-wikipedia,,bad_url,not a language-specific Wikipedia URL
 warning,,0,,en/Mercury,disambiguation,article is a disambiguation page
-info,,0,,,merged_duplicates,2 bookmark rows merged into existing articles
+info,,0,,,merged_duplicates,6 bookmark rows merged into existing articles
+info,,0,,en/Addendum,no_image,article has no lead image
+info,,0,,en/Author_page,no_image,article has no lead image
+info,,0,,en/Book_rhyme,no_image,article has no lead image
+info,,0,,en/Conclusion_(book),no_image,article has no lead image
+info,,0,,en/Dedication_(publishing),no_image,article has no lead image
+info,,0,,en/Extra-illustration,no_image,article has no lead image
+info,,0,,en/Fore-edge_painting,no_image,article has no lead image
+info,,0,,en/Imprimatur,no_image,article has no lead image
+info,,0,,en/Imprimi_potest,no_image,article has no lead image
 info,,0,,en/Mercury,no_image,article has no lead image
+info,,0,,en/Nihil_obstat,no_image,article has no lead image
+info,,0,,en/Postface,no_image,article has no lead image
+info,,0,,en/Postscript,no_image,article has no lead image
+info,,0,,en/Preface,no_image,article has no lead image
+info,,0,,en/Prologue,no_image,article has no lead image
+info,,0,,en/Scholia,no_image,article has no lead image
+info,,0,,en/Tipped-in_page,no_image,article has no lead image
 info,example,3,https://en.m.wikipedia.org/wiki/Augusta_Ada_King?utm_source=x,en/Ada_Lovelace,redirect,Augusta Ada King -> Ada Lovelace
 info,example,6,https://de.m.wikipedia.org/wiki/S%C3%BC%C3%9Figkeit,de/Süßware,redirect,Süßigkeit -> Süßware
+info,literature,18,https://en.wikipedia.org/wiki/Historiated_initial,en/Initial,redirect,Historiated initial -> Initial
+info,literature,19,https://en.wikipedia.org/wiki/Inhabited_initial,en/Initial,redirect,Inhabited initial -> Initial
+info,literature,62,https://en.wikipedia.org/wiki/Afterword,en/Postscript,redirect,Afterword -> Postscript
+info,literature,67,https://en.wikipedia.org/wiki/Endnote,en/Note_(typography),redirect,Endnote -> Note (typography)
+info,literature,76,https://en.wikipedia.org/wiki/Bookplate,en/Ex_libris_(bookplate),redirect,Bookplate -> Ex libris (bookplate)

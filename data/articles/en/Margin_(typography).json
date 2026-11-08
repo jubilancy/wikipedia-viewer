@@ -1,0 +1,671 @@
+{
+ "aliases": [
+  "Page margin",
+  "Text-block (typography)"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 257,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Margin",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Margin (typography)",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Page layout",
+  "Printing terminology"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Margin (typography)</span></span>",
+ "external_links": [
+  "http://csclub.stthomas.edu/ooomargins",
+  "http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907057",
+  "http://practicaltypography.com/page-margins.html",
+  "http://psychology.wichita.edu/surl/usabilitynews/62/whitespace.htm",
+  "http://smad.jmu.edu/shen/webtype/margin.html",
+  "http://webstyleguide.com/wsg3/8-typography/3-legibility.html",
+  "http://whatstype.com/terms/terms_00.html",
+  "http://www.labnol.org/software/tutorials/default-print-margins-microsoft-word-climate-enviroment/2318/",
+  "http://www.merriam-webster.com/dictionary/margin",
+  "http://www.metricationmatters.com/docs/PageBordersInchesORmillimetres.pdf",
+  "http://www.smashingmagazine.com/2011/03/14/technical-web-typography-guidelines-and-techniques/#tt-grid",
+  "http://www.smashingmagazine.com/2014/09/29/balancing-line-length-font-size-responsive-web-design/",
+  "http://www.wisegeek.com/in-typography-what-are-gutters.htm",
+  "http://www.worldbookonline.com/pl/infofinder/article?id=ar069580&st=book+history&sc=3#h4",
+  "https://archive.org/details/readerinhistoryo0000unse/page/363",
+  "https://web.archive.org/web/20090721164808/http://csclub.stthomas.edu/ooomargins",
+  "https://web.archive.org/web/20141022105429/http://psychology.wichita.edu/surl/usabilitynews/62/whitespace.htm",
+  "https://web.archive.org/web/20141214024859/http://smad.jmu.edu/shen/webtype/margin.html"
+ ],
+ "intro_text": "In typography, a margin is the area between the main content of a page (the text-block) and the page edges. The margin helps to define where a line of text begins and ends. When a page is justified the text is spread out to be flush with the left and right margins. When two pages of content are combined next to each other (known as a two-page spread), the horizontal space between the two pages is known as the gutter. (More generally, any space between columns of text is a gutter.) The top and bottom margins of a page are also called \"head\" and \"foot\", respectively. The term \"margin\" can also be used to describe the edge of internal content, such as the right or left edge of a column of text.\nMarks made in the margins are called marginalia.",
+ "key": "en/Margin_(typography)",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "هامش"
+  },
+  {
+   "lang": "da",
+   "title": "Margin"
+  },
+  {
+   "lang": "eo",
+   "title": "Marĝeno"
+  },
+  {
+   "lang": "es",
+   "title": "Margen (tipografía)"
+  },
+  {
+   "lang": "he",
+   "title": "שוליים (טיפוגרפיה)"
+  },
+  {
+   "lang": "io",
+   "title": "Marjino"
+  },
+  {
+   "lang": "ko",
+   "title": "여백 (타이포그래피)"
+  },
+  {
+   "lang": "nb",
+   "title": "Marg (typografi)"
+  },
+  {
+   "lang": "nl",
+   "title": "Marge (typografie)"
+  },
+  {
+   "lang": "pl",
+   "title": "Margines (typografia)"
+  },
+  {
+   "lang": "ru",
+   "title": "Поле (типографика)"
+  },
+  {
+   "lang": "simple",
+   "title": "Margins"
+  },
+  {
+   "lang": "sq",
+   "title": "Margjina (tipografi)"
+  },
+  {
+   "lang": "sv",
+   "title": "Marginal"
+  },
+  {
+   "lang": "ta",
+   "title": "ஓரம் (அச்சுக்கலை)"
+  },
+  {
+   "lang": "uk",
+   "title": "Поля (типографія)"
+  },
+  {
+   "lang": "zh",
+   "title": "邊界 (排版)"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Sherbyte",
+  "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sherbyte&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sherbyte (page does not exist)\">Sherbyte</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "An diagram showing equal top, bottom, left and right margins on an A4 page.",
+  "file": "Margins.svg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "mime": "image/svg+xml",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Margins.svg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Agate (typography)",
+  "All caps",
+  "Anthropodermic bibliopegy",
+  "Antiqua (typeface class)",
+  "Arabic typography",
+  "Ascender (typography)",
+  "Author page",
+  "Baseline (typography)",
+  "Bastarda",
+  "Bibliography",
+  "Blackboard bold",
+  "Blackletter",
+  "Body height (typography)",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Bullet (typography)",
+  "Bézier curve",
+  "CSS",
+  "Calligraphy",
+  "Camel case",
+  "Canons of page construction",
+  "Cap height",
+  "Capitalization",
+  "Catchword",
+  "Chapter (books)",
+  "Character encoding",
+  "Characters per line",
+  "Cicero (typography)",
+  "Codex",
+  "Colophon (publishing)",
+  "Color printing",
+  "Column (typography)",
+  "Column of text",
+  "Computer font",
+  "Conclusion (book)",
+  "Counter (typography)",
+  "Cyrillic typography",
+  "Dash",
+  "Dedication (publishing)",
+  "Descender",
+  "Desktop publishing",
+  "Diacritic",
+  "Didone (typography)",
+  "Digital typography",
+  "Dingbat",
+  "Display typeface",
+  "Dust jacket",
+  "East Asian typography",
+  "Edition notice",
+  "Em (typography)",
+  "Emphasis (typography)",
+  "En (typography)",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Etaoin shrdlu",
+  "Even working",
+  "Extra-illustration",
+  "Fat face",
+  "Figure space",
+  "Font",
+  "Font catalog",
+  "Font hinting",
+  "Font rasterization",
+  "For position only",
+  "Fore-edge painting",
+  "Foreword",
+  "Fraktur",
+  "Gaelic type",
+  "Gloss (annotation)",
+  "Glossary",
+  "Glyph",
+  "Half-title",
+  "Handwriting",
+  "Handwriting script",
+  "Hanging punctuation",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "History of Western typography",
+  "Hyphen",
+  "Hyphen-minus",
+  "ISBN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Ink trap",
+  "Insular script",
+  "Intellectual property protection of typefaces",
+  "Intentionally blank page",
+  "Interpunct",
+  "Introduction (writing)",
+  "Italic type",
+  "Justification (typesetting)",
+  "Kerning",
+  "LaTeX",
+  "Leader (typography)",
+  "Leading",
+  "Leather",
+  "Letter case",
+  "Letter spacing",
+  "Lettering",
+  "Letterpress printing",
+  "LibreOffice Writer",
+  "Ligature (writing)",
+  "Line length",
+  "Line of type",
+  "List of typefaces",
+  "List of typographic features",
+  "List of typographical symbols and punctuation marks",
+  "Lorem ipsum",
+  "Marginalia",
+  "Mean line",
+  "Metric typographic units",
+  "Microprinting",
+  "Microsoft Word",
+  "Microtypography",
+  "Miniature (illuminated manuscript)",
+  "Monospaced font",
+  "Movable type",
+  "National Fonts",
+  "Nihil obstat",
+  "Note (typography)",
+  "Oblique type",
+  "OpenOffice.org",
+  "Overshoot (typography)",
+  "PDF",
+  "PT Fonts",
+  "Page (paper)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Pagination",
+  "Pangram",
+  "Paper marbling",
+  "Paper size",
+  "Paperback",
+  "Papyrus",
+  "Paragraph",
+  "Parchment",
+  "Penmanship",
+  "Phototypesetting",
+  "Pica (unit)",
+  "Pitch (typewriter)",
+  "Point (typography)",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Printing press",
+  "Prologue",
+  "Pull quote",
+  "Punchcutting",
+  "Punctuation",
+  "Record type",
+  "Recto and verso",
+  "Reverse-contrast typefaces",
+  "Reversing type",
+  "River (typography)",
+  "Roman type",
+  "Rotated letter",
+  "Rotunda (script)",
+  "Rubric",
+  "Rubrication",
+  "Runaround (typography)",
+  "Runt (typography)",
+  "Safe area (television)",
+  "Sans-serif",
+  "Scholia",
+  "Schwabacher",
+  "Script typeface",
+  "Scroll",
+  "Section (typography)",
+  "Sentence spacing",
+  "Serif",
+  "Slab serif",
+  "Slipcase",
+  "Small caps",
+  "Snake case",
+  "Sort (typesetting)",
+  "Space (punctuation)",
+  "Style guide",
+  "Subscript and superscript",
+  "Swash (typography)",
+  "Table of contents",
+  "Technical lettering",
+  "Text annotation",
+  "Text figures",
+  "Text shaping",
+  "Thai typography",
+  "Thin space",
+  "Thumb index",
+  "Tipped-in page",
+  "Title case",
+  "Title page",
+  "Tittle",
+  "Traditional point-size names",
+  "Treasure binding",
+  "Twip",
+  "Two-page spread",
+  "Type color",
+  "Type design",
+  "Type foundry",
+  "Typeface",
+  "Typeface anatomy",
+  "Typesetting",
+  "Typographic alignment",
+  "Typographic unit",
+  "Typography",
+  "Uncial script",
+  "Underscore",
+  "University of Toronto Press",
+  "Vertical bar",
+  "Vox-ATypI classification",
+  "Wayback Machine",
+  "Web typography",
+  "White space (visual arts)",
+  "Whitespace character",
+  "Widows and orphans",
+  "Word spacing",
+  "Word-processing",
+  "X-height"
+ ],
+ "media": [
+  {
+   "caption": "A diagram displaying equal margins of width 25mm on an A4 page.",
+   "lead": true,
+   "mime": "image/svg+xml",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Margins.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Margins.svg",
+   "section_id": 0,
+   "th": 707,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Margins.svg/500px-Margins.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Margins.svg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Page setup icon.",
+   "lead": false,
+   "mime": "image/svg+xml",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gnome-document-page-setup.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Gnome-document-page-setup.svg",
+   "section_id": 5,
+   "th": 500,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gnome-document-page-setup.svg/500px-Gnome-document-page-setup.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Gnome-document-page-setup.svg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1052,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Margins.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 744
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Margin_(typography)",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    26
+   ],
+   [
+    "2026-10-10",
+    14
+   ],
+   [
+    "2026-10-11",
+    29
+   ],
+   [
+    "2026-10-12",
+    39
+   ],
+   [
+    "2026-10-13",
+    34
+   ],
+   [
+    "2026-10-14",
+    24
+   ],
+   [
+    "2026-10-15",
+    25
+   ],
+   [
+    "2026-10-16",
+    21
+   ],
+   [
+    "2026-10-17",
+    21
+   ],
+   [
+    "2026-10-18",
+    26
+   ],
+   [
+    "2026-10-19",
+    32
+   ],
+   [
+    "2026-10-20",
+    28
+   ],
+   [
+    "2026-10-21",
+    41
+   ],
+   [
+    "2026-10-22",
+    30
+   ],
+   [
+    "2026-10-23",
+    31
+   ],
+   [
+    "2026-10-24",
+    9
+   ],
+   [
+    "2026-10-25",
+    17
+   ],
+   [
+    "2026-10-26",
+    33
+   ],
+   [
+    "2026-10-27",
+    29
+   ],
+   [
+    "2026-10-28",
+    22
+   ],
+   [
+    "2026-10-29",
+    35
+   ],
+   [
+    "2026-10-30",
+    29
+   ],
+   [
+    "2026-10-31",
+    24
+   ],
+   [
+    "2026-11-01",
+    28
+   ],
+   [
+    "2026-11-02",
+    41
+   ],
+   [
+    "2026-11-03",
+    27
+   ],
+   [
+    "2026-11-04",
+    21
+   ],
+   [
+    "2026-11-05",
+    28
+   ],
+   [
+    "2026-11-06",
+    35
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "History",
+   "level": 2,
+   "line": "History",
+   "number": "1"
+  },
+  {
+   "anchor": "The_scroll",
+   "level": 3,
+   "line": "The scroll",
+   "number": "1.1"
+  },
+  {
+   "anchor": "The_codex",
+   "level": 3,
+   "line": "The codex",
+   "number": "1.2"
+  },
+  {
+   "anchor": "The_printed_book",
+   "level": 3,
+   "line": "The printed book",
+   "number": "1.3"
+  },
+  {
+   "anchor": "The_digital_page",
+   "level": 2,
+   "line": "The digital page",
+   "number": "2"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "3"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "4"
+  }
+ ],
+ "summary_html": "<p>In typography, a <b>margin</b> is the area between the main content of a page and the page edges. The margin helps to define where a line of text begins and ends. When a page is justified the text is spread out to be flush with the left and right margins. When two pages of content are combined next to each other, the horizontal space between the two pages is known as the <span class=\"extiw\">gutter</span>. The top and bottom margins of a page are also called \"head\" and \"foot\", respectively. The term \"margin\" can also be used to describe the edge of internal content, such as the right or left edge of a column of text.\nMarks made in the margins are called <i>marginalia</i>.</p>",
+ "summary_text": "In typography, a margin is the area between the main content of a page and the page edges. The margin helps to define where a line of text begins and ends. When a page is justified the text is spread out to be flush with the left and right margins. When two pages of content are combined next to each other, the horizontal space between the two pages is known as the gutter. The top and bottom margins of a page are also called \"head\" and \"foot\", respectively. The term \"margin\" can also be used to describe the edge of internal content, such as the right or left edge of a column of text.\nMarks made in the margins are called marginalia.",
+ "templates": [
+  "Arguments",
+  "Book structure",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite encyclopedia",
+  "Cite web",
+  "Disambiguation/templates",
+  "Hlist/styles.css",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "String",
+  "TableTools",
+  "Typography",
+  "Typography terms",
+  "Unicode data",
+  "Webarchive",
+  "Webarchive",
+  "Webarchive/data",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 679,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Margins.svg/500px-Margins.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Margin (typography)",
+ "wikidata": {
+  "description": "white space that surrounds the content of a page",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Marginalia (5095211566).jpg"
+    ]
+   }
+  ],
+  "id": "Q1145724",
+  "label": "margin",
+  "sitelink_count": 20
+ }
+}

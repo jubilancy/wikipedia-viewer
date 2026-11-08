@@ -1,0 +1,813 @@
+{
+ "aliases": [
+  "Epilog",
+  "Outro (literary)"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 613,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Epilogue",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Epilogue",
+  "tags": "Back matter"
+ },
+ "categories": [
+  "Book design",
+  "Drama",
+  "Early modern women writers",
+  "Fiction",
+  "Literary theory",
+  "Style (fiction)"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Epilogue</span></span>",
+ "external_links": [
+  "http://dx.doi.org/10.1086/362773",
+  "http://dx.doi.org/10.1093/oseo/instance.00005809",
+  "http://dx.doi.org/10.1353/art.1998.0025",
+  "http://dx.doi.org/10.1353/rst.0.0022",
+  "http://dx.doi.org/10.1353/scb.2015.0000",
+  "http://dx.doi.org/10.2307/1223820",
+  "https://api.semanticscholar.org/CorpusID:143885233",
+  "https://api.semanticscholar.org/CorpusID:144212949",
+  "https://api.semanticscholar.org/CorpusID:160079015",
+  "https://api.semanticscholar.org/CorpusID:162577052",
+  "https://api.semanticscholar.org/CorpusID:194055511",
+  "https://doi.org/10.1086%2F362773",
+  "https://doi.org/10.1093%2Foseo%2Finstance.00005809",
+  "https://doi.org/10.1093/gmo/9781561592630.article.O901463",
+  "https://doi.org/10.1353%2Fart.1998.0025",
+  "https://doi.org/10.1353%2Fnar.2012.0018",
+  "https://doi.org/10.1353%2Frst.0.0022",
+  "https://doi.org/10.1353%2Fscb.2015.0000",
+  "https://doi.org/10.1353%2Fshq.0.0074",
+  "https://doi.org/10.2307%2F1223820",
+  "https://doi.org/10.4324%2F9781315558011",
+  "https://literarydevices.net/epilogue/",
+  "https://literarydevices.net/prologue/",
+  "https://muse.jhu.edu/content/crossref/journals/narrative/v020/20.3.cadden.html",
+  "https://search.worldcat.org/issn/0009-837X",
+  "https://search.worldcat.org/issn/0040-0262",
+  "https://search.worldcat.org/issn/1538-3555",
+  "https://search.worldcat.org/issn/1538-974X",
+  "https://search.worldcat.org/issn/1934-1539",
+  "https://search.worldcat.org/issn/1941-952X",
+  "https://search.worldcat.org/issn/2165-0624",
+  "https://shakespeare.mit.edu/romeo_juliet/full.html",
+  "https://wikipedialibrary.wmflabs.org/partners/90/",
+  "https://www.jstor.org/stable/1223820",
+  "https://www.oxfordmusiconline.com/page/subscribe#public",
+  "https://www.taylorfrancis.com/books/9781317031369"
+ ],
+ "intro_text": "An epilogue or epilog (from Greek ἐπίλογος epílogo, \"conclusion\" from ἐπί epi, \"in addition\" and λόγος logos, \"word\") is a piece of writing at the end of a work of literature, usually used to bring closure to the work. It is presented from the perspective of within the story. When the author steps in and speaks directly to the reader, that is more properly considered an afterword. The opposite is a prologue—a piece of writing at the beginning of a work of literature or drama, usually used to open the story and capture interest. Some genres, for example television programs and video games, call the epilogue an \"outro\" patterned on the use of \"intro\" for \"introduction\".\nEpilogues are usually set in the future, after the main story is completed. Within some genres it can be used to hint at the next installment in a series of work. It is also used to satisfy the reader's curiosity and to cover any loose ends of the story.",
+ "key": "en/Epilogue",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "خاتمة العمل الأدبي"
+  },
+  {
+   "lang": "az",
+   "title": "Epiloq"
+  },
+  {
+   "lang": "be",
+   "title": "Эпілог"
+  },
+  {
+   "lang": "bg",
+   "title": "Епилог"
+  },
+  {
+   "lang": "ca",
+   "title": "Epíleg"
+  },
+  {
+   "lang": "cs",
+   "title": "Epilog"
+  },
+  {
+   "lang": "da",
+   "title": "Epilog"
+  },
+  {
+   "lang": "de",
+   "title": "Epilog (Literatur)"
+  },
+  {
+   "lang": "es",
+   "title": "Epílogo (narratología)"
+  },
+  {
+   "lang": "eu",
+   "title": "Epilogo"
+  },
+  {
+   "lang": "fa",
+   "title": "گفتار پایانی"
+  },
+  {
+   "lang": "fi",
+   "title": "Epilogi"
+  },
+  {
+   "lang": "fr",
+   "title": "Épilogue"
+  },
+  {
+   "lang": "fy",
+   "title": "Epilooch"
+  },
+  {
+   "lang": "gl",
+   "title": "Epílogo"
+  },
+  {
+   "lang": "he",
+   "title": "אפילוג"
+  },
+  {
+   "lang": "hi",
+   "title": "उपसंहार"
+  },
+  {
+   "lang": "hy",
+   "title": "Վերջաբան"
+  },
+  {
+   "lang": "ia",
+   "title": "Epilogo"
+  },
+  {
+   "lang": "id",
+   "title": "Epilog"
+  },
+  {
+   "lang": "io",
+   "title": "Epilogo"
+  },
+  {
+   "lang": "is",
+   "title": "Eftirmáli"
+  },
+  {
+   "lang": "it",
+   "title": "Epilogo"
+  },
+  {
+   "lang": "ja",
+   "title": "エピローグ"
+  },
+  {
+   "lang": "ka",
+   "title": "ეპილოგი"
+  },
+  {
+   "lang": "kk",
+   "title": "Эпилог"
+  },
+  {
+   "lang": "kn",
+   "title": "ಕಡೆನುಡಿ"
+  },
+  {
+   "lang": "ko",
+   "title": "에필로그 (용어)"
+  },
+  {
+   "lang": "ky",
+   "title": "Эпилог (адабият)"
+  },
+  {
+   "lang": "lt",
+   "title": "Epilogas"
+  },
+  {
+   "lang": "lv",
+   "title": "Epilogs"
+  },
+  {
+   "lang": "mk",
+   "title": "Поговор"
+  },
+  {
+   "lang": "nb",
+   "title": "Epilog"
+  },
+  {
+   "lang": "nl",
+   "title": "Epiloog"
+  },
+  {
+   "lang": "nn",
+   "title": "Epilog"
+  },
+  {
+   "lang": "pl",
+   "title": "Epilog (literatura)"
+  },
+  {
+   "lang": "pt",
+   "title": "Epílogo"
+  },
+  {
+   "lang": "ro",
+   "title": "Epilog"
+  },
+  {
+   "lang": "ru",
+   "title": "Эпилог"
+  },
+  {
+   "lang": "sd",
+   "title": "پڄاڻي"
+  },
+  {
+   "lang": "simple",
+   "title": "Epilogue"
+  },
+  {
+   "lang": "sk",
+   "title": "Epilóg (literatúra)"
+  },
+  {
+   "lang": "sq",
+   "title": "Epilogu"
+  },
+  {
+   "lang": "sr",
+   "title": "Епилог"
+  },
+  {
+   "lang": "sv",
+   "title": "Epilog"
+  },
+  {
+   "lang": "tr",
+   "title": "Epilog"
+  },
+  {
+   "lang": "uk",
+   "title": "Епілог"
+  },
+  {
+   "lang": "uz",
+   "title": "Epilog"
+  },
+  {
+   "lang": "vi",
+   "title": "Vĩ thanh"
+  },
+  {
+   "lang": "vls",
+   "title": "Epiloog"
+  },
+  {
+   "lang": "zh",
+   "title": "后记"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Cowesome",
+  "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Cowesome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cowesome (page does not exist)\">Cowesome</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "Epilogue from Moby Dick or, The Whale, by Herman Melville",
+  "file": "Transcript_of_Epilogue.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Transcript_of_Epilogue.jpg"
+ },
+ "links": [
+  "9 to 5 (film)",
+  "Academic conference",
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "American Graffiti",
+  "Ancient Greek",
+  "Animal Farm",
+  "Anthropodermic bibliopegy",
+  "Aristotle",
+  "As You Like It",
+  "Author page",
+  "Babe: Pig in the City",
+  "Bibliography",
+  "Biopics",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Boris Godunov (opera)",
+  "Buckram",
+  "Canons of page construction",
+  "Catchword",
+  "Changeling (film)",
+  "Chapter (books)",
+  "Chorus (musical theatre)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Credit (creative arts)",
+  "Curculio (play)",
+  "Dedication (publishing)",
+  "Deus ex machina",
+  "Dingbat",
+  "Doi (identifier)",
+  "Don Giovanni",
+  "Double consciousness",
+  "Downloadable content",
+  "Dust jacket",
+  "Edition notice",
+  "Edmund William Gosse",
+  "Encyclopædia Britannica Eleventh Edition",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epidicus",
+  "Epigraph (literature)",
+  "Epilogue (disambiguation)",
+  "Erratum",
+  "Euripides",
+  "Expansion pack",
+  "Extra-illustration",
+  "Felicity Nussbaum",
+  "Fennimore and Gerda",
+  "Fire Emblem",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Four Weddings and a Funeral",
+  "Frederick Delius",
+  "George Orwell",
+  "Gloss (annotation)",
+  "Glossary",
+  "Half-title",
+  "Happy Feet Two",
+  "Hardcover",
+  "Harry Potter",
+  "Harry Potter and the Deathly Hallows – Part 2",
+  "Headpiece (book illustration)",
+  "Henry James",
+  "Herman Melville",
+  "Historiated initial",
+  "ISBN (identifier)",
+  "ISSN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "JSTOR (identifier)",
+  "Jacques Offenbach",
+  "Jean Ignace Isidore Gérard Grandville",
+  "La La Land (film)",
+  "Leather",
+  "Legend (disambiguation)",
+  "Margin (typography)",
+  "Marginalia",
+  "Miles Gloriosus (play)",
+  "Miniature (illuminated manuscript)",
+  "Moby-Dick",
+  "Mozart",
+  "Mussorgsky",
+  "Narrative",
+  "National Lampoon's Animal House",
+  "Nihil obstat",
+  "Note (typography)",
+  "Oxford English Dictionary",
+  "Oxford University Press",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Permadeath",
+  "Persa (play)",
+  "Plautus",
+  "Poenulus",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Pull quote",
+  "Recto and verso",
+  "Remember the Titans",
+  "Romeo and Juliet",
+  "Rubric",
+  "Rubrication",
+  "S2CID (identifier)",
+  "Scene (drama)",
+  "Scholia",
+  "Secker & Warburg",
+  "Section (typography)",
+  "Shakespeare's sonnets",
+  "Slipcase",
+  "Spec Ops: The Line",
+  "Stichus",
+  "Stravinsky",
+  "Table of contents",
+  "Terence",
+  "Text annotation",
+  "The Handmaid's Tale",
+  "The New Grove Dictionary of Music and Musicians",
+  "The Rake's Progress",
+  "The Tales of Hoffmann",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Trinummus",
+  "Tsukihime",
+  "Typeface",
+  "Typography",
+  "Tyrannick Love",
+  "Until Dawn",
+  "Video games",
+  "Visual novel",
+  "Zack Snyder's Justice League"
+ ],
+ "media": [
+  {
+   "caption": "Photo of Epilogue from Moby Dick or, The Whale, by Herman Melville",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/9/94/Transcript_of_Epilogue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Transcript_of_Epilogue.jpg",
+   "section_id": 0,
+   "th": 413,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Transcript_of_Epilogue.jpg/500px-Transcript_of_Epilogue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Transcript_of_Epilogue.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Illustration from Un Autre Monde epilogue, by Grandville",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/0/07/Grandville%2C_Autre_Monde%2C_Epilog.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Grandville,_Autre_Monde,_Epilog.jpg",
+   "section_id": 2,
+   "th": 587,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Grandville%2C_Autre_Monde%2C_Epilog.jpg/500px-Grandville%2C_Autre_Monde%2C_Epilog.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Grandville,_Autre_Monde,_Epilog.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 992,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Transcript_of_Epilogue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1200
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Epilogue",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    170
+   ],
+   [
+    "2026-10-10",
+    159
+   ],
+   [
+    "2026-10-11",
+    177
+   ],
+   [
+    "2026-10-12",
+    182
+   ],
+   [
+    "2026-10-13",
+    169
+   ],
+   [
+    "2026-10-14",
+    209
+   ],
+   [
+    "2026-10-15",
+    162
+   ],
+   [
+    "2026-10-16",
+    156
+   ],
+   [
+    "2026-10-17",
+    148
+   ],
+   [
+    "2026-10-18",
+    167
+   ],
+   [
+    "2026-10-19",
+    154
+   ],
+   [
+    "2026-10-20",
+    154
+   ],
+   [
+    "2026-10-21",
+    187
+   ],
+   [
+    "2026-10-22",
+    184
+   ],
+   [
+    "2026-10-23",
+    189
+   ],
+   [
+    "2026-10-24",
+    170
+   ],
+   [
+    "2026-10-25",
+    184
+   ],
+   [
+    "2026-10-26",
+    188
+   ],
+   [
+    "2026-10-27",
+    181
+   ],
+   [
+    "2026-10-28",
+    179
+   ],
+   [
+    "2026-10-29",
+    215
+   ],
+   [
+    "2026-10-30",
+    169
+   ],
+   [
+    "2026-10-31",
+    185
+   ],
+   [
+    "2026-11-01",
+    193
+   ],
+   [
+    "2026-11-02",
+    194
+   ],
+   [
+    "2026-11-03",
+    189
+   ],
+   [
+    "2026-11-04",
+    147
+   ],
+   [
+    "2026-11-05",
+    157
+   ],
+   [
+    "2026-11-06",
+    159
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "History_of_the_term",
+   "level": 2,
+   "line": "History of the term",
+   "number": "1"
+  },
+  {
+   "anchor": "In_literature",
+   "level": 2,
+   "line": "In literature",
+   "number": "2"
+  },
+  {
+   "anchor": "Books",
+   "level": 3,
+   "line": "Books",
+   "number": "2.1"
+  },
+  {
+   "anchor": "Horror_and_suspense_novels",
+   "level": 3,
+   "line": "Horror and suspense novels",
+   "number": "2.2"
+  },
+  {
+   "anchor": "Children's_fantasy",
+   "level": 3,
+   "line": "Children's fantasy",
+   "number": "2.3"
+  },
+  {
+   "anchor": "Plays",
+   "level": 3,
+   "line": "Plays",
+   "number": "2.4"
+  },
+  {
+   "anchor": "Elizabethan_plays",
+   "level": 4,
+   "line": "Elizabethan plays",
+   "number": "2.4.1"
+  },
+  {
+   "anchor": "Greek_plays",
+   "level": 4,
+   "line": "Greek plays",
+   "number": "2.4.2"
+  },
+  {
+   "anchor": "Roman_plays",
+   "level": 4,
+   "line": "Roman plays",
+   "number": "2.4.3"
+  },
+  {
+   "anchor": "In_opera",
+   "level": 2,
+   "line": "In opera",
+   "number": "3"
+  },
+  {
+   "anchor": "In_film",
+   "level": 2,
+   "line": "In film",
+   "number": "4"
+  },
+  {
+   "anchor": "In_video_games",
+   "level": 2,
+   "line": "In video games",
+   "number": "5"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "6"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "7"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "8"
+  }
+ ],
+ "summary_html": "<p>An <b>epilogue</b> or <b>epilog</b> is a piece of writing at the end of a work of literature, usually used to bring closure to the work. It is presented from the perspective of within the story. When the author steps in and speaks directly to the reader, that is more properly considered an afterword. The opposite is a prologue—a piece of writing at the <i>beginning</i> of a work of literature or drama, usually used to open the story and capture interest. Some genres, for example television programs and video games, call the epilogue an \"outro\" patterned on the use of \"intro\" for \"introduction\".</p>",
+ "summary_text": "An epilogue or epilog is a piece of writing at the end of a work of literature, usually used to bring closure to the work. It is presented from the perspective of within the story. When the author steps in and speaks directly to the reader, that is more properly considered an afterword. The opposite is a prologue—a piece of writing at the beginning of a work of literature or drama, usually used to open the story and capture interest. Some genres, for example television programs and video games, call the epilogue an \"outro\" patterned on the use of \"intro\" for \"introduction\".",
+ "templates": [
+  "About",
+  "About",
+  "Arguments",
+  "Book structure",
+  "Both",
+  "Check for unknown parameters",
+  "Citation",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite EB1911",
+  "Cite Grove",
+  "Cite book",
+  "Cite encyclopedia",
+  "Cite journal",
+  "Cite web",
+  "Cite wikisource/make link",
+  "DMCA",
+  "Dated maintenance category",
+  "Dated maintenance category (articles)",
+  "Disambiguation/templates",
+  "FULLROOTPAGENAME",
+  "Format link",
+  "Grove Music subscription",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Link note",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Ns has subpages",
+  "Ns has subpages",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister-inline",
+  "Sister-inline/styles.css",
+  "String",
+  "TableTools",
+  "Template wrapper",
+  "Unicode data",
+  "Unsubst",
+  "Use dmy dates",
+  "Wikitext Parsing",
+  "Wiktionary inline",
+  "Wiktionary-inline",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 397,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Transcript_of_Epilogue.jpg/500px-Transcript_of_Epilogue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Epilogue",
+ "wikidata": {
+  "description": "closing text of a narrative",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Transcript of Epilogue.jpg"
+    ]
+   }
+  ],
+  "id": "Q1771692",
+  "label": "epilogue",
+  "sitelink_count": 54
+ }
+}

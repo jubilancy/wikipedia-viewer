@@ -1,0 +1,478 @@
+{
+ "aliases": [
+  "Lift-out quote",
+  "Liftout quote",
+  "Pull quotation",
+  "Pull quotes",
+  "Pull-quote",
+  "Pullquote",
+  "Pullquotes"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 238,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Pull quote",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Pull quote",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Page layout"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pull quote</span></span>",
+ "external_links": [
+  "http://desktoppub.about.com/cs/pagelayout/ht/pull_quotes.htm",
+  "http://www.fonts.com/AboutFonts/Articles/fyti/PullQuotes.htm",
+  "https://books.google.com/books?id=jVxwsWvFEOwC",
+  "https://web.archive.org/web/20100717085845/http://www.fonts.com/AboutFonts/Articles/fyti/PullQuotes.htm"
+ ],
+ "intro_text": "In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been \"pulled\" from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. It is typically placed in a larger or distinctive typeface and on the same page. Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.\nPlacement of a pull quote on a page may be defined in a publication's or website's style guide. Such a typographic device may or may not be aligned with a column on the page. Some designers, for example, choose not to align the quote. In that case, the quotation cuts into two or more columns. Because the pull quote invites the reader to read about the highlighted material, the pull quote should appear before the text it cites and, generally, fairly close to it. Pull quotes need not be a verbatim copy of the text being quoted; depending on a publication's house style, pull quotes may be abbreviated for space or paraphrased for clarity, with or without indication.\nA disadvantage of pull quotes as a design element is that they can disrupt the reading process of readers invested in reading the text sequentially by drawing attention to ghost fragments out of context. At the other extreme, when pull quotes are used to break up what would otherwise be a formless wall of text, they can serve as visual landmarks to help the reader maintain a sense of sequence and place.",
+ "key": "en/Pull_quote",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "es",
+   "title": "Cita extraída (diseño gráfico)"
+  },
+  {
+   "lang": "fa",
+   "title": "نقل‌قول برکشیده"
+  },
+  {
+   "lang": "ko",
+   "title": "풀 인용"
+  },
+  {
+   "lang": "sq",
+   "title": "Pull citat"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Wikipedia contributors",
+  "author_html": "Wikipedia contributors",
+  "credit_html": "<a class=\"external free\" href=\"https://en.wikipedia.org/wiki/The_Terminator\">https://en.wikipedia.org/wiki/The_Terminator</a>",
+  "description": "Example of a pull quote using the text of the English Wikipedia article on en:The Terminator.",
+  "file": "Pull_quote_example.png",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "mime": "image/png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Pull_quote_example.png"
+ },
+ "links": [
+  "About.com",
+  "Agate (typography)",
+  "All caps",
+  "Antiqua (typeface class)",
+  "Arabic typography",
+  "Ascender (typography)",
+  "Baseline (typography)",
+  "Bastarda",
+  "Blackboard bold",
+  "Blackletter",
+  "Block quote",
+  "Body height (typography)",
+  "Bullet (typography)",
+  "Bézier curve",
+  "Call-out",
+  "Calligraphy",
+  "Camel case",
+  "Canons of page construction",
+  "Cap height",
+  "Capitalization",
+  "Character encoding",
+  "Cicero (typography)",
+  "Color printing",
+  "Column (typography)",
+  "Computer font",
+  "Counter (typography)",
+  "Cyrillic typography",
+  "Dash",
+  "Descender",
+  "Desktop publishing",
+  "Diacritic",
+  "Didone (typography)",
+  "Digital typography",
+  "Dingbat",
+  "Display typeface",
+  "East Asian typography",
+  "Em (typography)",
+  "Emphasis (typography)",
+  "En (typography)",
+  "Etaoin shrdlu",
+  "Even working",
+  "Fat face",
+  "Figure space",
+  "Flavor text",
+  "Font",
+  "Font catalog",
+  "Font hinting",
+  "Font rasterization",
+  "For position only",
+  "Fraktur",
+  "Gaelic type",
+  "Glyph",
+  "Graphic design",
+  "Handwriting",
+  "Handwriting script",
+  "Hanging punctuation",
+  "History of Western typography",
+  "Hyphen",
+  "Hyphen-minus",
+  "ISBN (identifier)",
+  "Initial",
+  "Ink trap",
+  "Insular script",
+  "Intellectual property protection of typefaces",
+  "Intentionally blank page",
+  "Interpunct",
+  "Italic type",
+  "Kerning",
+  "Leader (typography)",
+  "Leading",
+  "Letter case",
+  "Letter spacing",
+  "Lettering",
+  "Letterpress printing",
+  "Ligature (writing)",
+  "Line length",
+  "List of typefaces",
+  "List of typographic features",
+  "List of typographical symbols and punctuation marks",
+  "Lorem ipsum",
+  "Margin (typography)",
+  "Mean line",
+  "Metric typographic units",
+  "Microprinting",
+  "Microtypography",
+  "Monospaced font",
+  "Movable type",
+  "National Fonts",
+  "Oblique type",
+  "Overshoot (typography)",
+  "PT Fonts",
+  "Page (paper)",
+  "Page layout",
+  "Page numbering",
+  "Pagination",
+  "Pangram",
+  "Paper size",
+  "Paragraph",
+  "Penmanship",
+  "Phototypesetting",
+  "Pica (unit)",
+  "Pitch (typewriter)",
+  "Point (typography)",
+  "Punchcutting",
+  "Punctuation",
+  "Quotation",
+  "Record type",
+  "Recto and verso",
+  "Reverse-contrast typefaces",
+  "Reversing type",
+  "River (typography)",
+  "Roman type",
+  "Rotated letter",
+  "Rotunda (script)",
+  "Runaround (typography)",
+  "Runt (typography)",
+  "Sans-serif",
+  "Schwabacher",
+  "Script typeface",
+  "Sentence spacing",
+  "Serif",
+  "Slab serif",
+  "Small caps",
+  "Snake case",
+  "Sort (typesetting)",
+  "Space (punctuation)",
+  "Style guide",
+  "Subscript and superscript",
+  "Swash (typography)",
+  "Technical lettering",
+  "Text figures",
+  "Text shaping",
+  "Thai typography",
+  "Thin space",
+  "ThoughtCo",
+  "Title case",
+  "Tittle",
+  "Traditional point-size names",
+  "Twip",
+  "Type color",
+  "Type design",
+  "Type foundry",
+  "Typeface",
+  "Typeface anatomy",
+  "Typesetting",
+  "Typographic alignment",
+  "Typographic unit",
+  "Typography",
+  "Uncial script",
+  "Underscore",
+  "Vertical bar",
+  "Vox-ATypI classification",
+  "Web typography",
+  "Whitespace character",
+  "Widows and orphans",
+  "Word spacing",
+  "X-height"
+ ],
+ "media": [
+  {
+   "caption": "In this example, a pull quote is centered between two columns. The text has been \"pulled\" from the bottom of the first column.",
+   "lead": true,
+   "mime": "image/png",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pull_quote_example.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Pull_quote_example.png",
+   "section_id": 0,
+   "th": 304,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Pull_quote_example.png/500px-Pull_quote_example.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Pull_quote_example.png",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 831,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pull_quote_example.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1369
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Pull_quote",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    73
+   ],
+   [
+    "2026-10-10",
+    101
+   ],
+   [
+    "2026-10-11",
+    89
+   ],
+   [
+    "2026-10-12",
+    101
+   ],
+   [
+    "2026-10-13",
+    87
+   ],
+   [
+    "2026-10-14",
+    74
+   ],
+   [
+    "2026-10-15",
+    78
+   ],
+   [
+    "2026-10-16",
+    65
+   ],
+   [
+    "2026-10-17",
+    53
+   ],
+   [
+    "2026-10-18",
+    55
+   ],
+   [
+    "2026-10-19",
+    65
+   ],
+   [
+    "2026-10-20",
+    56
+   ],
+   [
+    "2026-10-21",
+    51
+   ],
+   [
+    "2026-10-22",
+    45
+   ],
+   [
+    "2026-10-23",
+    47
+   ],
+   [
+    "2026-10-24",
+    39
+   ],
+   [
+    "2026-10-25",
+    85
+   ],
+   [
+    "2026-10-26",
+    45
+   ],
+   [
+    "2026-10-27",
+    52
+   ],
+   [
+    "2026-10-28",
+    47
+   ],
+   [
+    "2026-10-29",
+    44
+   ],
+   [
+    "2026-10-30",
+    42
+   ],
+   [
+    "2026-10-31",
+    42
+   ],
+   [
+    "2026-11-01",
+    27
+   ],
+   [
+    "2026-11-02",
+    43
+   ],
+   [
+    "2026-11-03",
+    47
+   ],
+   [
+    "2026-11-04",
+    56
+   ],
+   [
+    "2026-11-05",
+    55
+   ],
+   [
+    "2026-11-06",
+    56
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "1"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "2"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "3"
+  }
+ ],
+ "summary_html": "<p>In graphic design, a <b>pull quote</b> is a key phrase, quotation, or excerpt that has been \"pulled\" from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. It is typically placed in a larger or distinctive typeface and on the same page. Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.</p>",
+ "summary_text": "In graphic design, a pull quote is a key phrase, quotation, or excerpt that has been \"pulled\" from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. It is typically placed in a larger or distinctive typeface and on the same page. Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.",
+ "templates": [
+  "Arguments",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite web",
+  "Disambiguation/templates",
+  "Hlist/styles.css",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "String",
+  "TableTools",
+  "Typography",
+  "Typography terms",
+  "Unicode data",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 291,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Pull_quote_example.png/500px-Pull_quote_example.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Pull quote",
+ "wikidata": {
+  "description": "graphically emphasised text within an article",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Pull quote example.png"
+    ]
+   }
+  ],
+  "id": "Q15623605",
+  "label": "pull quote",
+  "sitelink_count": 5
+ }
+}

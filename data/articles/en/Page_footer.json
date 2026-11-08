@@ -1,0 +1,469 @@
+{
+ "aliases": [
+  "Footers",
+  "Running foot"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 81,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Footer",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Page footer",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Page layout",
+  "Typography"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Page footer</span></span>",
+ "external_links": [
+  "https://developer.mozilla.org/en/docs/Web/HTML/Element/footer",
+  "https://scholar.google.com/scholar?q=%22Page+footer%22",
+  "https://www.google.com/search?&q=%22Page+footer%22&tbs=bkt:s&tbm=bks",
+  "https://www.google.com/search?as_eq=wikipedia&q=%22Page+footer%22",
+  "https://www.google.com/search?tbm=nws&q=%22Page+footer%22+-wikipedia&tbs=ar:1",
+  "https://www.google.com/search?tbs=bks:1&q=%22Page+footer%22+-wikipedia",
+  "https://www.jstor.org/action/doBasicSearch?Query=%22Page+footer%22&acc=on&wc=on"
+ ],
+ "intro_text": "In typography and word processing, the page footer (or simply footer) of a printed page is a section located under the main text, or body. It is typically used as the space for the page number. In the earliest printed books it also contained the first words of the next page; in this case they preferred to place the page number in the page header, in the top margin. Because of the lack of a set standard, in modern times the header and footer are sometimes interchangeable. In some instances, there are elements of the header inserted into the footer, such as the book or chapter title, the name of the author or other information. In the publishing industry the page footer is traditionally known as the running foot, whereas the page header is the running head.",
+ "key": "en/Page_footer",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "تذييل الصفحة"
+  },
+  {
+   "lang": "cs",
+   "title": "Zápatí stránky"
+  },
+  {
+   "lang": "de",
+   "title": "Fußzeile"
+  },
+  {
+   "lang": "es",
+   "title": "Pie de página"
+  },
+  {
+   "lang": "fa",
+   "title": "پسایند"
+  },
+  {
+   "lang": "it",
+   "title": "Piè di pagina"
+  },
+  {
+   "lang": "mk",
+   "title": "Подножје на страница"
+  },
+  {
+   "lang": "sv",
+   "title": "Sidfot"
+  },
+  {
+   "lang": "sw",
+   "title": "Kijachini"
+  },
+  {
+   "lang": "uk",
+   "title": "Нижній колонтитул"
+  },
+  {
+   "lang": "yue",
+   "title": "頁底"
+  },
+  {
+   "lang": "zh",
+   "title": "頁腳"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Araesmojo",
+  "author_html": "<a href=\"https://en.wikipedia.org/wiki/User:Araesmojo\" class=\"extiw\" title=\"w:User:Araesmojo\">Araesmojo</a>",
+  "credit_html": "I took a picture of the Oxford Dictionary",
+  "description": "Image of the footer from the Oxford Dictionary showing the current page and references to other pages with relevant content",
+  "file": "Footer_Oxford_Dictionary.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Footer_Oxford_Dictionary.jpg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Anthropodermic bibliopegy",
+  "Author page",
+  "Bates numbering",
+  "Bibliography",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "CSS",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Copyright",
+  "Dedication (publishing)",
+  "Dingbat",
+  "Dust jacket",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Gloss (annotation)",
+  "Glossary",
+  "HTML",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Leather",
+  "Logo",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page header",
+  "Page layout",
+  "Page number",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Pull quote",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (typography)",
+  "Slipcase",
+  "Table of contents",
+  "Text annotation",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Watermark",
+  "Word processing"
+ ],
+ "media": [
+  {
+   "caption": "Footer from the Oxford Dictionary showing the page number and references to other pages with relevant content",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Footer_Oxford_Dictionary.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Footer_Oxford_Dictionary.jpg",
+   "section_id": 0,
+   "th": 375,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Footer_Oxford_Dictionary.jpg/500px-Footer_Oxford_Dictionary.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Footer_Oxford_Dictionary.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 600,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Footer_Oxford_Dictionary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 800
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Page_footer",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    9
+   ],
+   [
+    "2026-10-10",
+    8
+   ],
+   [
+    "2026-10-11",
+    9
+   ],
+   [
+    "2026-10-12",
+    6
+   ],
+   [
+    "2026-10-13",
+    15
+   ],
+   [
+    "2026-10-14",
+    11
+   ],
+   [
+    "2026-10-15",
+    12
+   ],
+   [
+    "2026-10-16",
+    9
+   ],
+   [
+    "2026-10-17",
+    6
+   ],
+   [
+    "2026-10-18",
+    7
+   ],
+   [
+    "2026-10-19",
+    9
+   ],
+   [
+    "2026-10-20",
+    16
+   ],
+   [
+    "2026-10-21",
+    14
+   ],
+   [
+    "2026-10-22",
+    10
+   ],
+   [
+    "2026-10-23",
+    9
+   ],
+   [
+    "2026-10-24",
+    9
+   ],
+   [
+    "2026-10-25",
+    5
+   ],
+   [
+    "2026-10-26",
+    5
+   ],
+   [
+    "2026-10-27",
+    6
+   ],
+   [
+    "2026-10-28",
+    16
+   ],
+   [
+    "2026-10-29",
+    15
+   ],
+   [
+    "2026-10-30",
+    8
+   ],
+   [
+    "2026-10-31",
+    4
+   ],
+   [
+    "2026-11-01",
+    11
+   ],
+   [
+    "2026-11-02",
+    6
+   ],
+   [
+    "2026-11-03",
+    14
+   ],
+   [
+    "2026-11-04",
+    11
+   ],
+   [
+    "2026-11-05",
+    14
+   ],
+   [
+    "2026-11-06",
+    10
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Desktop_publishing",
+   "level": 2,
+   "line": "Desktop publishing",
+   "number": "1"
+  },
+  {
+   "anchor": "Webpages",
+   "level": 2,
+   "line": "Webpages",
+   "number": "2"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "3"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "4"
+  }
+ ],
+ "summary_html": "<p>In typography and word processing, the <b>page footer</b> of a printed page is a section located under the main text, or body. It is typically used as the space for the page number. In the earliest printed books it also contained the first words of the next page; in this case they preferred to place the page number in the page header, in the top margin. Because of the lack of a set standard, in modern times the header and footer are sometimes interchangeable. In some instances, there are elements of the header inserted into the footer, such as the book or chapter title, the name of the author or other information. In the publishing industry the page footer is traditionally known as the <b>running foot</b>, whereas the page header is the running head.</p>",
+ "summary_text": "In typography and word processing, the page footer of a printed page is a section located under the main text, or body. It is typically used as the space for the page number. In the earliest printed books it also contained the first words of the next page; in this case they preferred to place the page number in the page header, in the top margin. Because of the lack of a set standard, in modern times the header and footer are sometimes interchangeable. In some instances, there are elements of the header inserted into the footer, such as the book or chapter title, the name of the author or other information. In the publishing industry the page footer is traditionally known as the running foot, whereas the page header is the running head.",
+ "templates": [
+  "Ambox",
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/config",
+  "Book structure",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Commons category",
+  "Commons link",
+  "Commonscat",
+  "DMCA",
+  "Dated maintenance category",
+  "Dated maintenance category (articles)",
+  "Disambiguation/templates",
+  "FULLROOTPAGENAME",
+  "Find sources",
+  "Find sources mainspace",
+  "Find sources/config",
+  "Find sources/links",
+  "Find sources/templates/Find sources mainspace",
+  "Hlist/styles.css",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Message box",
+  "Message box/ambox.css",
+  "Message box/configuration",
+  "More citations needed",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Ns has subpages",
+  "Ns has subpages",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Unicode data",
+  "Unsubst",
+  "Use dmy dates",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 360,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Footer_Oxford_Dictionary.jpg/500px-Footer_Oxford_Dictionary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Page footer",
+ "wikidata": {
+  "description": "page section located under the main text",
+  "facts": [],
+  "id": "Q526434",
+  "label": "page footer",
+  "sitelink_count": 14
+ }
+}

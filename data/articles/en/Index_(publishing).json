@@ -1,0 +1,825 @@
+{
+ "aliases": [
+  "A-Z index",
+  "American Society for Indexing",
+  "Back-of-the-book index",
+  "Cross-index",
+  "Cross-indexing",
+  "General index"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 279,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Index",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Index (publishing)",
+  "tags": "Back matter"
+ },
+ "categories": [
+  "Book design",
+  "Book publishing",
+  "Book terminology",
+  "Elements of documents",
+  "Index (publishing)",
+  "Information science",
+  "Publishing"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Index (publishing)</span></span>",
+ "external_links": [
+  "http://johntranter.com/00/index-the-ballard.shtml",
+  "http://portal.acm.org/citation.cfm?id=97989&dl=ACM&coll=portal",
+  "http://taxonomist.tripod.com/indexing/authorindexing.html",
+  "http://www.adobe.com/devnet/robohelp/articles/online_help_pt2_06.html",
+  "http://www.anzsi.org/",
+  "http://www.asaib.org.za/",
+  "http://www.asindexing.org/reference-shelf/software/",
+  "http://www.asindexing.org/site/Weaver.pdf",
+  "http://www.backwordsindexing.com/Authors.html",
+  "http://www.backwordsindexing.com/Intro.html",
+  "http://www.britishrecordsociety.org/",
+  "http://www.cnindex.fudan.edu.cn/introduce_01.htm",
+  "http://www.indexers.ca/",
+  "http://www.indexers.nl/",
+  "http://www.indexers.org.uk/",
+  "http://www.ptg-indexers.org.uk/about/searchvsindex.htm",
+  "http://www.theindexer.org/",
+  "http://www.theindexer.org/files/22-3/22-3_119.pdf",
+  "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph291711&CON_LNG=ENG",
+  "https://archive.org/details/bookeofartemaner00masc/page/n5/mode/2up",
+  "https://books.google.com/books?id=G0Eqm8FbiTMC",
+  "https://catalogue.bnf.fr/ark:/12148/cb119778006",
+  "https://d-indexer.eu/",
+  "https://data.bnf.fr/ark:/12148/cb119778006",
+  "https://dl.acm.org/doi/proceedings/10.1145/2505515",
+  "https://doi.org/10.1002%2F(sici)1097-4571(199106)42:5%3C341::aid-asi4%3E3.0.co;2-7",
+  "https://doi.org/10.1145%2F2505515.2505627",
+  "https://doi.org/10.3828%2Findexer.1973.8.4.1",
+  "https://doi.org/10.3828%2Findexer.1986.15.2.5",
+  "https://id.loc.gov/authorities/sh85064865",
+  "https://id.ndl.go.jp/auth/ndlna/00570062",
+  "https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000264386&P_CON_LNG=ENG",
+  "https://lux.collections.yale.edu/view/concept/62bfcac9-cf71-4e42-9298-5e52e33a6538",
+  "https://openlibrary.org/works/OL6686373W",
+  "https://search.worldcat.org/issn/0002-8231",
+  "https://search.worldcat.org/issn/0019-4131",
+  "https://search.worldcat.org/issn/1756-0632",
+  "https://web.archive.org/web/20070406044604/http://www.bayside-indexing.com/author2.htm",
+  "https://web.archive.org/web/20070630163910/http://www.bwa.org/articles/considerations_in_indexing_online_documents.htm",
+  "https://web.archive.org/web/20081029145224/http://www.asindexing.org/site/Weaver.pdf",
+  "https://web.archive.org/web/20090325172409/http://www.theindexer.org/files/22-3/22-3_119.pdf",
+  "https://web.archive.org/web/20090325172412/http://www.theindexer.org/files/22-2-olason.pdf",
+  "https://web.archive.org/web/20090419113301/http://www.adobe.com/devnet/robohelp/articles/online_help_pt2_06.html",
+  "https://web.archive.org/web/20140402174009/http://johntranter.com/00/index-the-ballard.shtml",
+  "https://web.archive.org/web/20150923181417/http://www.backwordsindexing.com/Intro.html",
+  "https://web.archive.org/web/20160205135523/http://backwordsindexing.com/Authors.html",
+  "https://web.archive.org/web/20190710183610/https://www.asindexing.org/about-indexing/frequently-asked-questions/",
+  "https://web.archive.org/web/20191218034711/http://www.cnindex.fudan.edu.cn/introduce_01.htm",
+  "https://www.asindexing.org/",
+  "https://www.asindexing.org/about-indexing/frequently-asked-questions/",
+  "https://www.indexers.org.uk/member-resources/indexing-resources/running-the-business/equipment-technology-and-software/",
+  "https://www.niso.org/publications/z394-2021-indexes",
+  "https://www.nli.org.il/en/authorities/987007543464605171"
+ ],
+ "intro_text": "An index (pl.: usually indexes, more rarely indices) is a list of words or phrases ('headings') and associated pointers ('locators') to where useful material relating to that heading can be found in a document or collection of documents. Examples are an index in the back matter of a book and an index that serves as a library catalog. An index differs from a word index, or concordance, in focusing on the subject of the text rather than the exact words in a text, and it differs from a table of contents because the index is ordered by subject, regardless of whether it is early or late in the book, while the listed items in a table of contents is placed in the same order as in the book.\nIn a traditional back-of-the-book index, the headings will include names of people, places, events, and concepts selected as being relevant and of interest to a possible reader of the book. The indexer performing the selection may be the author, the editor, or a professional indexer working as a third party. The pointers are typically page numbers, paragraph numbers or section numbers.\nIn a library catalog the words are authors, titles, subject headings, etc., and the pointers are call numbers. Internet search engines (such as Google) and full-text searching help provide access to information but are not as selective as an index, as they provide non-relevant links, and may miss relevant information if it is not phrased in exactly the way they expect.\nPerhaps the most advanced investigation of problems related to book indexes is made in the development of topic maps, which started as a way of representing the knowledge structures inherent in traditional back-of-the-book indexes. The concept embodied by book indexes lent its name to database indexes, which similarly provide an abridged way to look up information in a larger collection, albeit one for computer use rather than human use.\n\n",
+ "key": "en/Index_(publishing)",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "كشاف"
+  },
+  {
+   "lang": "ay",
+   "title": "Utjirinaka"
+  },
+  {
+   "lang": "br",
+   "title": "Meneger"
+  },
+  {
+   "lang": "ca",
+   "title": "Índex alfabètic"
+  },
+  {
+   "lang": "cs",
+   "title": "Rejstřík (organizace informací)"
+  },
+  {
+   "lang": "da",
+   "title": "Register (indeks)"
+  },
+  {
+   "lang": "de",
+   "title": "Register (Nachschlagewerk)"
+  },
+  {
+   "lang": "el",
+   "title": "Ευρετήριο (εκδόσεις)"
+  },
+  {
+   "lang": "es",
+   "title": "Índice"
+  },
+  {
+   "lang": "fa",
+   "title": "نمایه"
+  },
+  {
+   "lang": "fr",
+   "title": "Index terminologique"
+  },
+  {
+   "lang": "he",
+   "title": "מפתח העניינים"
+  },
+  {
+   "lang": "hr",
+   "title": "Indeks (kazalo)"
+  },
+  {
+   "lang": "it",
+   "title": "Indice analitico"
+  },
+  {
+   "lang": "ja",
+   "title": "索引"
+  },
+  {
+   "lang": "kn",
+   "title": "ಅನುಕ್ರಮಣಿಕೆ"
+  },
+  {
+   "lang": "ko",
+   "title": "색인"
+  },
+  {
+   "lang": "ms",
+   "title": "Indeks (penerbitan)"
+  },
+  {
+   "lang": "mt",
+   "title": "Indiċi"
+  },
+  {
+   "lang": "nan",
+   "title": "Ín-tit"
+  },
+  {
+   "lang": "nl",
+   "title": "Index (boek)"
+  },
+  {
+   "lang": "pl",
+   "title": "Skorowidz"
+  },
+  {
+   "lang": "ps",
+   "title": "ليکلړ"
+  },
+  {
+   "lang": "pt",
+   "title": "Índice remissivo"
+  },
+  {
+   "lang": "ru",
+   "title": "Книжный указатель"
+  },
+  {
+   "lang": "simple",
+   "title": "Index (publishing)"
+  },
+  {
+   "lang": "sv",
+   "title": "Register (bok)"
+  },
+  {
+   "lang": "ta",
+   "title": "சுட்டி (நூல்)"
+  },
+  {
+   "lang": "tr",
+   "title": "Dizin (yayıncılık)"
+  },
+  {
+   "lang": "uk",
+   "title": "Книжний покажчик"
+  },
+  {
+   "lang": "uz",
+   "title": "Reyestr"
+  },
+  {
+   "lang": "yue",
+   "title": "索引"
+  },
+  {
+   "lang": "zh",
+   "title": "索引"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Image editing by User:Waldyrious",
+  "author_html": "Image editing by <a href=\"//commons.wikimedia.org/wiki/User:Waldyrious\" title=\"User:Waldyrious\">User:Waldyrious</a>",
+  "credit_html": "<a href=\"//commons.wikimedia.org/wiki/File:Atlas_maior_1655_-_vol_10_-_Novus_Atlas_Sinensis_-_index_-_P1080375.JPG\" title=\"File:Atlas maior 1655 - vol 10 - Novus Atlas Sinensis - index - P1080375.JPG\">File:Atlas maior 1655 - vol 10 - Novus Atlas Sinensis - index - P1080375.JPG</a>",
+  "description": "The first page of the index of Novus Atlas Sinensis by Martino Martini",
+  "file": "Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg"
+ },
+ "links": [
+  "Academic Press",
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Alexander Cruden",
+  "Anne Commire",
+  "Anthropodermic bibliopegy",
+  "Association for Computing Machinery",
+  "Australian and New Zealand Society of Indexers",
+  "Author page",
+  "Authors' editor",
+  "Back matter",
+  "Barbara Pym",
+  "Bibliography",
+  "Body text",
+  "Book",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book editor",
+  "Book folding",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Book trimming",
+  "Book-packaging",
+  "Bookbinding",
+  "Bookplate",
+  "British Record Society",
+  "Buckram",
+  "Call number",
+  "Canons of page construction",
+  "Cat's Cradle",
+  "Catchword",
+  "Chapter (books)",
+  "Christopher Marlowe",
+  "Codex",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Commissioning editor",
+  "Concept",
+  "Conclusion (book)",
+  "Concordance (publishing)",
+  "Controlled vocabulary",
+  "Copy (publishing)",
+  "Copy editing",
+  "Cross-reference",
+  "Database index",
+  "Dedication (publishing)",
+  "Developmental editor",
+  "Dingbat",
+  "DocBook",
+  "Document Type Definition",
+  "Doi (identifier)",
+  "Dust jacket",
+  "EISSN (identifier)",
+  "Editing",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "English language",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "FrameMaker",
+  "Gloss (annotation)",
+  "Glossary",
+  "Google",
+  "Half-title",
+  "Hans Wellisch",
+  "Hardcover",
+  "Hart's Rules",
+  "Headpiece (book illustration)",
+  "Henry Scobell",
+  "Hero and Leander (poem)",
+  "Historiated initial",
+  "House of Leaves",
+  "ISBN (identifier)",
+  "ISO 999",
+  "ISSN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Imprint (trade name)",
+  "InDesign",
+  "Index (database)",
+  "Index card",
+  "Index finger",
+  "Index, A History of the",
+  "Indexed family",
+  "Indexing Society of Canada",
+  "Indexing and abstracting service",
+  "Indexing software",
+  "Inhabited initial",
+  "Initial",
+  "Intellectual property",
+  "Intentionally blank page",
+  "Intranet",
+  "Introduction (writing)",
+  "J. G. Ballard",
+  "Jorge Luis Borges",
+  "Kurt Vonnegut",
+  "LaTeX",
+  "Latin",
+  "Leather",
+  "Library catalog",
+  "List of proofreader's marks",
+  "Literary agent",
+  "Literary editor",
+  "Liverpool University Press",
+  "MakeIndex",
+  "Manuscript",
+  "Margin (typography)",
+  "Marginalia",
+  "Mark Danielewski",
+  "Martino Martini",
+  "Medical Subject Headings",
+  "Microsoft Word",
+  "Miniature (illuminated manuscript)",
+  "My Secret Life (memoir)",
+  "Nihil obstat",
+  "No Fond Return of Love",
+  "Note (typography)",
+  "OL (identifier)",
+  "Ontology",
+  "OpenOffice.org Writer",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Page numbers",
+  "Pale Fire",
+  "Paper marbling",
+  "Paperback",
+  "Parallel Lives",
+  "Plutarch",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Printing",
+  "Prologue",
+  "Proofreading",
+  "Publisher's reader",
+  "Pull quote",
+  "Recto and verso",
+  "Royalties",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Search engine indexing",
+  "Section (typography)",
+  "Slipcase",
+  "Society of Indexers",
+  "StarOffice Writer",
+  "Subject (documents)",
+  "Subject indexing",
+  "Table of contents",
+  "Taxonomy",
+  "Text Encoding Initiative",
+  "Text annotation",
+  "The Chicago Manual of Style",
+  "The Library of Babel",
+  "Thomas North",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Topic maps",
+  "Treasure binding",
+  "Troilus and Cressida",
+  "Typeface",
+  "Typesetting",
+  "Typography",
+  "University of Chicago Press",
+  "Vladimir Nabokov",
+  "Wayback Machine",
+  "Web indexing",
+  "Web search engine",
+  "Website",
+  "William Shakespeare",
+  "Women in World History: A Biographical Encyclopedia",
+  "Women in World History: a biographical encyclopedia",
+  "Word processor",
+  "WordPerfect",
+  "XML"
+ ],
+ "media": [
+  {
+   "caption": "The first page of the index of Novus Atlas Sinensis by Martino Martini, an atlas of China published in 1655 ",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/1/19/Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg",
+   "section_id": 0,
+   "th": 839,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg/500px-Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Table of contents of My Secret Life, showing lengthy chapter titles",
+   "lead": false,
+   "mime": "image/png",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Beginning_of_table_of_contents_of_My_Secret_LIfe.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Beginning_of_table_of_contents_of_My_Secret_LIfe.png",
+   "section_id": 2,
+   "th": 667,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Beginning_of_table_of_contents_of_My_Secret_LIfe.png/500px-Beginning_of_table_of_contents_of_My_Secret_LIfe.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Beginning_of_table_of_contents_of_My_Secret_LIfe.png",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 2029,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1209
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Index_(publishing)",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    36
+   ],
+   [
+    "2026-10-10",
+    45
+   ],
+   [
+    "2026-10-11",
+    43
+   ],
+   [
+    "2026-10-12",
+    49
+   ],
+   [
+    "2026-10-13",
+    46
+   ],
+   [
+    "2026-10-14",
+    42
+   ],
+   [
+    "2026-10-15",
+    36
+   ],
+   [
+    "2026-10-16",
+    47
+   ],
+   [
+    "2026-10-17",
+    31
+   ],
+   [
+    "2026-10-18",
+    26
+   ],
+   [
+    "2026-10-19",
+    53
+   ],
+   [
+    "2026-10-20",
+    49
+   ],
+   [
+    "2026-10-21",
+    82
+   ],
+   [
+    "2026-10-22",
+    65
+   ],
+   [
+    "2026-10-23",
+    53
+   ],
+   [
+    "2026-10-24",
+    48
+   ],
+   [
+    "2026-10-25",
+    47
+   ],
+   [
+    "2026-10-26",
+    52
+   ],
+   [
+    "2026-10-27",
+    45
+   ],
+   [
+    "2026-10-28",
+    45
+   ],
+   [
+    "2026-10-29",
+    45
+   ],
+   [
+    "2026-10-30",
+    37
+   ],
+   [
+    "2026-10-31",
+    34
+   ],
+   [
+    "2026-11-01",
+    34
+   ],
+   [
+    "2026-11-02",
+    52
+   ],
+   [
+    "2026-11-03",
+    49
+   ],
+   [
+    "2026-11-04",
+    52
+   ],
+   [
+    "2026-11-05",
+    50
+   ],
+   [
+    "2026-11-06",
+    66
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Etymology_and_plural",
+   "level": 2,
+   "line": "Etymology and plural",
+   "number": "1"
+  },
+  {
+   "anchor": "Earliest_examples_in_English",
+   "level": 2,
+   "line": "Earliest examples in English",
+   "number": "2"
+  },
+  {
+   "anchor": "Indexing_process",
+   "level": 2,
+   "line": "Indexing process",
+   "number": "3"
+  },
+  {
+   "anchor": "Conventional_indexing",
+   "level": 3,
+   "line": "Conventional indexing",
+   "number": "3.1"
+  },
+  {
+   "anchor": "Indexing_software",
+   "level": 2,
+   "line": "Indexing software",
+   "number": "4"
+  },
+  {
+   "anchor": "Embedded_indexing",
+   "level": 3,
+   "line": "Embedded indexing",
+   "number": "4.1"
+  },
+  {
+   "anchor": "Purpose",
+   "level": 2,
+   "line": "Purpose",
+   "number": "5"
+  },
+  {
+   "anchor": "Index_quality",
+   "level": 2,
+   "line": "Index quality",
+   "number": "6"
+  },
+  {
+   "anchor": "Indexer_roles",
+   "level": 2,
+   "line": "Indexer roles",
+   "number": "7"
+  },
+  {
+   "anchor": "References_in_popular_culture",
+   "level": 2,
+   "line": "References in popular culture",
+   "number": "8"
+  },
+  {
+   "anchor": "Standards",
+   "level": 2,
+   "line": "Standards",
+   "number": "9"
+  },
+  {
+   "anchor": "Societies",
+   "level": 2,
+   "line": "Societies",
+   "number": "10"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "11"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "12"
+  },
+  {
+   "anchor": "Further_reading",
+   "level": 2,
+   "line": "Further reading",
+   "number": "13"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "14"
+  }
+ ],
+ "summary_html": "<p>An <b>index</b> is a list of words or phrases ('headings') and associated pointers ('locators') to where useful material relating to that heading can be found in a document or collection of documents. Examples are an index in the back matter of a book and an index that serves as a library catalog. An index differs from a word index, or <span><i>concordance</i></span>, in focusing on the subject of the text rather than the exact words in a text, and it differs from a table of contents because the index is ordered by subject, regardless of whether it is early or late in the book, while the listed items in a table of contents is placed in the same order as in the book.</p>",
+ "summary_text": "An index is a list of words or phrases ('headings') and associated pointers ('locators') to where useful material relating to that heading can be found in a document or collection of documents. Examples are an index in the back matter of a book and an index that serves as a library catalog. An index differs from a word index, or concordance, in focusing on the subject of the text rather than the exact words in a text, and it differs from a table of contents because the index is ordered by subject, regardless of whether it is early or late in the book, while the listed items in a table of contents is placed in the same order as in the book.",
+ "templates": [
+  "Abbreviation",
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/auxiliary",
+  "Authority control/config",
+  "Book publishing process",
+  "Book structure",
+  "Book-publishing process",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite conference",
+  "Cite encyclopedia",
+  "Cite journal",
+  "Cite web",
+  "Commons category",
+  "Commons link",
+  "Disambiguation/templates",
+  "EditAtWikidata",
+  "Encodefirst",
+  "Format link",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Labelled list hatnote",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main",
+  "Main other",
+  "MultiReplace",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Plural abbr",
+  "Plural form",
+  "Portal",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Portal/styles.css",
+  "Pre",
+  "Pre/styles.css",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Trim",
+  "Unicode data",
+  "Webarchive",
+  "Webarchive",
+  "Webarchive/data",
+  "Wikitext Parsing",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {
+  "height": 806,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg/500px-Novus_Atlas_Sinensis_-_First_page_of_the_index.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Index (publishing)",
+ "wikidata": {
+  "description": "list of words or phrases with pointers to their locations",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "book form"
+    ]
+   },
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Novus Atlas Sinensis - First page of the index.jpg"
+    ]
+   }
+  ],
+  "id": "Q873506",
+  "label": "index",
+  "sitelink_count": 36
+ }
+}

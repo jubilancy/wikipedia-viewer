@@ -1,0 +1,828 @@
+{
+ "aliases": [
+  "Centaur Roman",
+  "ClaWrite",
+  "Condensed typeface",
+  "Embed font",
+  "Expert font",
+  "Expert set",
+  "Font (typeface)",
+  "Font (typographic term)",
+  "Font (typography)",
+  "Font sample",
+  "Fonts",
+  "Sample of font",
+  "Semi-bold",
+  "Stylistic sets",
+  "Type font",
+  "Type-faces",
+  "Typographic measurement",
+  "Variable width font",
+  "🗚",
+  "🗛"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 923,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Font",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Font",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Typefaces",
+  "Typesetting",
+  "Typography"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Font</span></span>",
+ "external_links": [
+  "http://my.execpc.com/~bosshard/printing/letrprss/basictools.html",
+  "http://www.etymonline.com/index.php?term=font",
+  "https://archive.org/details/the-oxford-english-dictionary-1933-all-volumes/The%20Oxford%20English%20Dictionary%20Volume%204%20-%20Variant/page/n498/mode/1up",
+  "https://web.archive.org/web/20081224205828/https://letrasbonitasenlinea.mx/http://my.execpc.com/~bosshard/printing/letrprss/basictools.html",
+  "https://web.archive.org/web/20170629141117/http://www.etymonline.com/index.php?term=font",
+  "https://web.archive.org/web/20230629171809/https://www.editorx.com/shaping-design/article/typefaces-vs-fonts",
+  "https://www.editorx.com/shaping-design/article/typefaces-vs-fonts"
+ ],
+ "intro_text": "In metal typesetting, a font is a particular size, weight, and style of a typeface, a set of fonts that share an overall design.\nFor instance, the typeface Bauer Bodoni (shown in the figure) includes fonts \"Roman 12pt\" (or \"regular\"), \"bold 12pt\" and \"italic 12pt\"; each of these styles is also available in a range of other common sizes.  In traditional printing, fonts were physically created using metal or wood type, with a font for each size.\nIn contemporary computing, however, the terms font and typeface are often used interchangeably to refer to computer fonts, most of which are scalable. While the various sizes of a typeface often use identical letterforms, it is not uncommon for a typeface to feature different design elements to aid readability or impact at especially large or small sizes. Computer fonts are distributed as files. Each file may contain one or more weight and style of a typeface.",
+ "key": "en/Font",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "af",
+   "title": "Lettertipe"
+  },
+  {
+   "lang": "ar",
+   "title": "بنط (طباعة)"
+  },
+  {
+   "lang": "az",
+   "title": "Şrift"
+  },
+  {
+   "lang": "be",
+   "title": "Шрыфт"
+  },
+  {
+   "lang": "bg",
+   "title": "Шрифт"
+  },
+  {
+   "lang": "bn",
+   "title": "ফন্ট"
+  },
+  {
+   "lang": "ca",
+   "title": "Font (tipografia)"
+  },
+  {
+   "lang": "cs",
+   "title": "Font"
+  },
+  {
+   "lang": "cv",
+   "title": "Шрифт"
+  },
+  {
+   "lang": "cy",
+   "title": "Ffont"
+  },
+  {
+   "lang": "da",
+   "title": "Skrift (typografi)"
+  },
+  {
+   "lang": "de",
+   "title": "Schriftschnitt"
+  },
+  {
+   "lang": "eo",
+   "title": "Tiparo"
+  },
+  {
+   "lang": "es",
+   "title": "Tipo de letra"
+  },
+  {
+   "lang": "eu",
+   "title": "Letra-tipo"
+  },
+  {
+   "lang": "fa",
+   "title": "قلم (رایانه)"
+  },
+  {
+   "lang": "fr",
+   "title": "Fonte de caractères"
+  },
+  {
+   "lang": "fy",
+   "title": "Lettertype"
+  },
+  {
+   "lang": "hi",
+   "title": "मुद्रलिपि"
+  },
+  {
+   "lang": "hu",
+   "title": "Betűtípus"
+  },
+  {
+   "lang": "id",
+   "title": "Fon (tipografi)"
+  },
+  {
+   "lang": "it",
+   "title": "Tipo di carattere"
+  },
+  {
+   "lang": "ka",
+   "title": "შრიფტი"
+  },
+  {
+   "lang": "kaa",
+   "title": "Shrift"
+  },
+  {
+   "lang": "kk",
+   "title": "Қаріп"
+  },
+  {
+   "lang": "kn",
+   "title": "ಅಕ್ಷರ"
+  },
+  {
+   "lang": "ky",
+   "title": "Шрифт"
+  },
+  {
+   "lang": "lt",
+   "title": "Šriftas"
+  },
+  {
+   "lang": "lv",
+   "title": "Fonts"
+  },
+  {
+   "lang": "mhr",
+   "title": "Шрифт"
+  },
+  {
+   "lang": "ms",
+   "title": "Fon"
+  },
+  {
+   "lang": "my",
+   "title": "စာလုံးပုံစံ"
+  },
+  {
+   "lang": "nl",
+   "title": "Lettertype"
+  },
+  {
+   "lang": "pa",
+   "title": "ਫੌਂਟ"
+  },
+  {
+   "lang": "pl",
+   "title": "Odmiana pisma"
+  },
+  {
+   "lang": "pnb",
+   "title": "فونٹ"
+  },
+  {
+   "lang": "ps",
+   "title": "ليکبڼه"
+  },
+  {
+   "lang": "pt",
+   "title": "Fonte tipográfica"
+  },
+  {
+   "lang": "ro",
+   "title": "Font"
+  },
+  {
+   "lang": "ru",
+   "title": "Шрифт"
+  },
+  {
+   "lang": "rue",
+   "title": "Шріфт"
+  },
+  {
+   "lang": "sah",
+   "title": "Бичик"
+  },
+  {
+   "lang": "si",
+   "title": "අක්ෂර"
+  },
+  {
+   "lang": "simple",
+   "title": "Font"
+  },
+  {
+   "lang": "sv",
+   "title": "Vikt (typografi)"
+  },
+  {
+   "lang": "ta",
+   "title": "எழுத்துரு"
+  },
+  {
+   "lang": "te",
+   "title": "ఖతి"
+  },
+  {
+   "lang": "th",
+   "title": "ฟอนต์"
+  },
+  {
+   "lang": "tl",
+   "title": "Tipo ng titik"
+  },
+  {
+   "lang": "tr",
+   "title": "Yazı tipi"
+  },
+  {
+   "lang": "uk",
+   "title": "Шрифт"
+  },
+  {
+   "lang": "ur",
+   "title": "فونٹ"
+  },
+  {
+   "lang": "uz",
+   "title": "Shrift"
+  },
+  {
+   "lang": "vi",
+   "title": "Phông chữ"
+  },
+  {
+   "lang": "wa",
+   "title": "Fonte (tipografeye)"
+  },
+  {
+   "lang": "yue",
+   "title": "字型"
+  },
+  {
+   "lang": "zh",
+   "title": "字型"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Franciscomolina",
+  "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Franciscomolina&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Franciscomolina (page does not exist)\">Franciscomolina</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "Muestra BauerBodoni",
+  "file": "Bauer_Bodoni_Mostra_(cropped).svg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "mime": "image/svg+xml",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Bauer_Bodoni_Mostra_(cropped).svg"
+ },
+ "links": [
+  "Agate (typography)",
+  "All caps",
+  "Alphabet",
+  "Antiqua (typeface class)",
+  "Arabic typography",
+  "Ascender (typography)",
+  "Baseline (typography)",
+  "Bastarda",
+  "Bauer Bodoni",
+  "Blackboard bold",
+  "Blackletter",
+  "Body height (typography)",
+  "Bullet (typography)",
+  "Bézier curve",
+  "Calligraphy",
+  "Camel case",
+  "Canons of page construction",
+  "Cap height",
+  "Capitalization",
+  "Character encoding",
+  "Cicero (typography)",
+  "Color printing",
+  "Column (typography)",
+  "Commonwealth of Nations",
+  "Composing stick",
+  "Computer font",
+  "Counter (typography)",
+  "Cyrillic script",
+  "Cyrillic typography",
+  "Dash",
+  "Descender",
+  "Desktop publishing",
+  "Diacritic",
+  "Didone (typography)",
+  "Digital typography",
+  "Dingbat",
+  "Display typeface",
+  "East Asian typography",
+  "Em (typography)",
+  "Emphasis (typography)",
+  "En (typography)",
+  "Etaoin shrdlu",
+  "Even working",
+  "Fat face",
+  "Figure space",
+  "Font (disambiguation)",
+  "Font catalog",
+  "Font embedding",
+  "Font hinting",
+  "Font metrics",
+  "Font rasterization",
+  "Font size",
+  "For position only",
+  "Fraktur",
+  "Gaelic type",
+  "Glyph",
+  "Graphics",
+  "Greek alphabet",
+  "Handwriting",
+  "Handwriting script",
+  "Hanging punctuation",
+  "History of Western typography",
+  "Hot metal typesetting",
+  "Hyphen",
+  "Hyphen-minus",
+  "ISBN (identifier)",
+  "Initial",
+  "Ink trap",
+  "Insular script",
+  "Intellectual property protection of typefaces",
+  "Intentionally blank page",
+  "Interpunct",
+  "Italic type",
+  "Kerning",
+  "Latin alphabet",
+  "Latin script",
+  "Lead",
+  "Leader (typography)",
+  "Leading",
+  "Letter case",
+  "Letter frequency",
+  "Letter spacing",
+  "Letterform",
+  "Lettering",
+  "Letterpress",
+  "Letterpress printing",
+  "Ligature (writing)",
+  "Line length",
+  "Linotype machine",
+  "List of typefaces",
+  "List of typographic features",
+  "List of typographical symbols and punctuation marks",
+  "Lorem ipsum",
+  "Margin (typography)",
+  "Mean line",
+  "Metric typographic units",
+  "Microprinting",
+  "Microtypography",
+  "Middle French",
+  "Monospaced font",
+  "Monotype System",
+  "Movable type",
+  "National Fonts",
+  "Oblique type",
+  "Online Etymology Dictionary",
+  "Overshoot (typography)",
+  "PT Fonts",
+  "Page (paper)",
+  "Page numbering",
+  "Pagination",
+  "Pangram",
+  "Paper size",
+  "Paragraph",
+  "Penmanship",
+  "Phototypesetting",
+  "Pica (unit)",
+  "Pitch (typewriter)",
+  "Point (typography)",
+  "Pull quote",
+  "Punchcutting",
+  "Punctuation",
+  "Record type",
+  "Recto and verso",
+  "Reverse-contrast typefaces",
+  "Reversing type",
+  "River (typography)",
+  "Roman (typeface)",
+  "Roman type",
+  "Rotated letter",
+  "Rotunda (script)",
+  "Runaround (typography)",
+  "Runt (typography)",
+  "Sans-serif",
+  "Schwabacher",
+  "Script typeface",
+  "Sentence spacing",
+  "Serif",
+  "Slab serif",
+  "Small caps",
+  "Snake case",
+  "Sort (typesetting)",
+  "Space (punctuation)",
+  "Style guide",
+  "Subscript and superscript",
+  "Swash (typography)",
+  "Technical lettering",
+  "Text color",
+  "Text figures",
+  "Text shaping",
+  "Thai typography",
+  "Thin space",
+  "Title case",
+  "Tittle",
+  "Traditional point-size names",
+  "Twip",
+  "Type color",
+  "Type design",
+  "Type foundry",
+  "Type metal",
+  "Typeface",
+  "Typeface anatomy",
+  "Typesetting",
+  "Typographic alignment",
+  "Typographic unit",
+  "Typography",
+  "Uncial script",
+  "Underscore",
+  "Vertical bar",
+  "Vox-ATypI classification",
+  "Web typography",
+  "Whitespace character",
+  "Widows and orphans",
+  "Word spacing",
+  "Writing system",
+  "X-height"
+ ],
+ "media": [
+  {
+   "caption": "The Bauer Bodoni typeface, with samples of the three of the fonts in the family: Roman (or regular), bold, and italic.",
+   "lead": true,
+   "mime": "image/svg+xml",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bauer_Bodoni_Mostra_%28cropped%29.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bauer_Bodoni_Mostra_(cropped).svg",
+   "section_id": 0,
+   "th": 315,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bauer_Bodoni_Mostra_%28cropped%29.svg/500px-Bauer_Bodoni_Mostra_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Bauer_Bodoni_Mostra_(cropped).svg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Metal type sorts arranged on a composing stick",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Sorts_on_composing_stick.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sorts_on_composing_stick.jpg",
+   "section_id": 0,
+   "th": 405,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Sorts_on_composing_stick.jpg/500px-Sorts_on_composing_stick.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Sorts_on_composing_stick.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "A 1910 letterpress poster, advertising an auction, using a variety of typefaces and fonts",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coalbrookdale_Company_auction_poster_-_1910.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Coalbrookdale_Company_auction_poster_-_1910.jpg",
+   "section_id": 2,
+   "th": 928,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Coalbrookdale_Company_auction_poster_-_1910.jpg/500px-Coalbrookdale_Company_auction_poster_-_1910.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Coalbrookdale_Company_auction_poster_-_1910.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 315,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bauer_Bodoni_Mostra_%28cropped%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 500
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Font",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    225
+   ],
+   [
+    "2026-10-10",
+    168
+   ],
+   [
+    "2026-10-11",
+    191
+   ],
+   [
+    "2026-10-12",
+    239
+   ],
+   [
+    "2026-10-13",
+    248
+   ],
+   [
+    "2026-10-14",
+    245
+   ],
+   [
+    "2026-10-15",
+    238
+   ],
+   [
+    "2026-10-16",
+    214
+   ],
+   [
+    "2026-10-17",
+    179
+   ],
+   [
+    "2026-10-18",
+    224
+   ],
+   [
+    "2026-10-19",
+    274
+   ],
+   [
+    "2026-10-20",
+    874
+   ],
+   [
+    "2026-10-21",
+    379
+   ],
+   [
+    "2026-10-22",
+    307
+   ],
+   [
+    "2026-10-23",
+    244
+   ],
+   [
+    "2026-10-24",
+    231
+   ],
+   [
+    "2026-10-25",
+    217
+   ],
+   [
+    "2026-10-26",
+    259
+   ],
+   [
+    "2026-10-27",
+    213
+   ],
+   [
+    "2026-10-28",
+    192
+   ],
+   [
+    "2026-10-29",
+    1012
+   ],
+   [
+    "2026-10-30",
+    298
+   ],
+   [
+    "2026-10-31",
+    256
+   ],
+   [
+    "2026-11-01",
+    230
+   ],
+   [
+    "2026-11-02",
+    245
+   ],
+   [
+    "2026-11-03",
+    288
+   ],
+   [
+    "2026-11-04",
+    243
+   ],
+   [
+    "2026-11-05",
+    251
+   ],
+   [
+    "2026-11-06",
+    245
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Spelling_and_etymology",
+   "level": 2,
+   "line": "Spelling and etymology",
+   "number": "1"
+  },
+  {
+   "anchor": "Metal_type",
+   "level": 2,
+   "line": "Metal type",
+   "number": "2"
+  },
+  {
+   "anchor": "Characteristics",
+   "level": 2,
+   "line": "Characteristics",
+   "number": "3"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "4"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "5"
+  },
+  {
+   "anchor": "Notes",
+   "level": 2,
+   "line": "Notes",
+   "number": "6"
+  },
+  {
+   "anchor": "Further_reading",
+   "level": 2,
+   "line": "Further reading",
+   "number": "7"
+  }
+ ],
+ "summary_html": "<p>In metal typesetting, a <b>font</b> is a particular size, weight, and style of a typeface, a set of fonts that share an overall design.\nFor instance, the typeface Bauer Bodoni includes fonts \"Roman 12pt\", \"<b>bold 12pt</b>\" and \"<i>italic 12pt</i><span>\"</span>; each of these styles is also available in a range of other common sizes. In traditional printing, fonts were physically created using metal or wood type, with a font for each size.</p>",
+ "summary_text": "In metal typesetting, a font is a particular size, weight, and style of a typeface, a set of fonts that share an overall design.\nFor instance, the typeface Bauer Bodoni includes fonts \"Roman 12pt\", \"bold 12pt\" and \"italic 12pt\"; each of these styles is also available in a range of other common sizes. In traditional printing, fonts were physically created using metal or wood type, with a font for each size.",
+ "templates": [
+  "-\"",
+  "Anl",
+  "Annotated link",
+  "Annotated link",
+  "Arguments",
+  "CS1 identifiers",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation needed",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite dictionary",
+  "Cite encyclopedia",
+  "Cite web",
+  "DMCA",
+  "Dated maintenance category",
+  "Dated maintenance category (articles)",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "Emphasis (typography)",
+  "FULLROOTPAGENAME",
+  "Fix",
+  "Fix/category",
+  "Font embedding",
+  "Format link",
+  "GetShortDescription",
+  "Graphics",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "IPAc-en",
+  "IPAc-en",
+  "IPAc-en/data",
+  "IPAc-en/phonemes",
+  "IPAc-en/pronunciation",
+  "ISBN",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Labelled list hatnote",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main",
+  "Main other",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Not a typo",
+  "Notatypo",
+  "Notelist",
+  "Ns has subpages",
+  "Ns has subpages",
+  "Other uses",
+  "Other uses",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Sic",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project logo/styles.css",
+  "Sister project/styles.css",
+  "Space+double",
+  "String",
+  "TableTools",
+  "Text color",
+  "Typography",
+  "Typography terms",
+  "Unicode data",
+  "Unsubst",
+  "Use American English",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 302,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bauer_Bodoni_Mostra_%28cropped%29.svg/500px-Bauer_Bodoni_Mostra_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Font",
+ "wikidata": {
+  "description": "particular size, weight and style of a typeface",
+  "facts": [],
+  "id": "Q4868296",
+  "label": "font",
+  "sitelink_count": 61
+ }
+}

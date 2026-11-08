@@ -1,0 +1,469 @@
+{
+ "aliases": [
+  "Bastard title",
+  "Half title",
+  "Halftitle"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 70,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Half-title",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Half-title",
+  "tags": "Front matter"
+ },
+ "categories": [
+  "Book art stubs",
+  "Book design",
+  "Publishing stubs"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Half-title</span></span>",
+ "external_links": [
+  "https://archive.org/details/practicetypogra11vinngoog"
+ ],
+ "intro_text": "The half-title or bastard title is a page carrying nothing but the title of a book—as opposed to the title page, which also lists subtitle, author, publisher and edition. The half-title is usually counted as the first page (p. i) in a printed book. The half-title can have some ornamentation of the book's title, or it can be plain text.\nThe purpose of the half-title page is to protect the full title page and its traditional counterpart, the frontispiece, during the bookbinding process. When the completed interior pages of the book are bound together to form the book block, the half-title page serves as the outermost layer of paper at the front of the book. Several hundreds or thousands of book blocks may need to be moved or stored for a period of time before they are bound into their covers, during which the half-title page protects the more intricately designed pages that follow from rubbing and dust.\nArchaic uses of the terms half-title and bastard title may refer to two separate pages on both sides of the full title page that have been conflated in modern usage. Theodore Low De Vinne distinguished between half-title (by his definition, a \"caption title\") and bastard title in his series The Practice of Typography, saying:\n\nThe half-title should not be confounded with the bastard title. The half-title follows the title and begins the first page of text; the bastard title, usually a single line in capital letters, precedes the full title, and takes a separate leaf with blank verso.",
+ "key": "en/Half-title",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "de",
+   "title": "Schmutztitel"
+  },
+  {
+   "lang": "et",
+   "title": "Eestiitel"
+  },
+  {
+   "lang": "fr",
+   "title": "Faux-titre"
+  },
+  {
+   "lang": "hy",
+   "title": "Տիտղոսատ"
+  },
+  {
+   "lang": "id",
+   "title": "Halaman prancis"
+  },
+  {
+   "lang": "it",
+   "title": "Occhiello (libri)"
+  },
+  {
+   "lang": "kk",
+   "title": "Шмуцтитул"
+  },
+  {
+   "lang": "ky",
+   "title": "Шмуцтитул"
+  },
+  {
+   "lang": "ml",
+   "title": "ഇന്നർ ടൈറ്റിൽ"
+  },
+  {
+   "lang": "nl",
+   "title": "Franse titelpagina"
+  },
+  {
+   "lang": "ru",
+   "title": "Шмуцтитул"
+  },
+  {
+   "lang": "sv",
+   "title": "Smutstitel"
+  },
+  {
+   "lang": "ta",
+   "title": "குறைத் தலைப்புப் பக்கம்"
+  },
+  {
+   "lang": "tg",
+   "title": "Зарварақ"
+  },
+  {
+   "lang": "tr",
+   "title": "Yarım başlık"
+  },
+  {
+   "lang": "uk",
+   "title": "Шмуцтитул"
+  },
+  {
+   "lang": "uz",
+   "title": "Zarvaraq"
+  },
+  {
+   "lang": "zh",
+   "title": "半题页"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "John William Lindt",
+  "author_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_William_Lindt\" class=\"extiw\" title=\"w:en:John William Lindt\"><span title=\"German-Australian photographer (1845–1926)\">John William Lindt</span></a></bdi>",
+  "credit_html": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/picturesquenewgu00lind\">https://archive.org/details/picturesquenewgu00lind</a>",
+  "description": "djvu of book",
+  "file": "Picturesque_New_Guinea.djvu",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/vnd.djvu",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Picturesque_New_Guinea.djvu"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Anthropodermic bibliopegy",
+  "Artists' books",
+  "Author page",
+  "Bibliography",
+  "Body text",
+  "Book",
+  "Book block",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Dedication (publishing)",
+  "Dingbat",
+  "Dust jacket",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Gloss (annotation)",
+  "Glossary",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "ISBN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Leather",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Publishing",
+  "Pull quote",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (typography)",
+  "Slipcase",
+  "Subtitle (titling)",
+  "Table of contents",
+  "Text annotation",
+  "Theodore Low De Vinne",
+  "Thumb index",
+  "Tipped-in page",
+  "Title (publishing)",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Verso"
+ ],
+ "media": [
+  {
+   "caption": "Half-title page of Picturesque New Guinea (1887), with ornamentation above and below the title",
+   "lead": true,
+   "mime": "image/vnd.djvu",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/9/96/Picturesque_New_Guinea.djvu?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Picturesque_New_Guinea.djvu",
+   "section_id": 0,
+   "th": 765,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Picturesque_New_Guinea.djvu/page1-500px-Picturesque_New_Guinea.djvu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Picturesque_New_Guinea.djvu",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 3589,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Picturesque_New_Guinea.djvu?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 2345
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Half-title",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    14
+   ],
+   [
+    "2026-10-10",
+    13
+   ],
+   [
+    "2026-10-11",
+    16
+   ],
+   [
+    "2026-10-12",
+    9
+   ],
+   [
+    "2026-10-13",
+    13
+   ],
+   [
+    "2026-10-14",
+    11
+   ],
+   [
+    "2026-10-15",
+    12
+   ],
+   [
+    "2026-10-16",
+    9
+   ],
+   [
+    "2026-10-17",
+    8
+   ],
+   [
+    "2026-10-18",
+    17
+   ],
+   [
+    "2026-10-19",
+    8
+   ],
+   [
+    "2026-10-20",
+    9
+   ],
+   [
+    "2026-10-21",
+    12
+   ],
+   [
+    "2026-10-22",
+    14
+   ],
+   [
+    "2026-10-23",
+    10
+   ],
+   [
+    "2026-10-24",
+    8
+   ],
+   [
+    "2026-10-25",
+    8
+   ],
+   [
+    "2026-10-26",
+    10
+   ],
+   [
+    "2026-10-27",
+    14
+   ],
+   [
+    "2026-10-28",
+    4
+   ],
+   [
+    "2026-10-29",
+    16
+   ],
+   [
+    "2026-10-30",
+    9
+   ],
+   [
+    "2026-10-31",
+    6
+   ],
+   [
+    "2026-11-01",
+    9
+   ],
+   [
+    "2026-11-02",
+    9
+   ],
+   [
+    "2026-11-03",
+    10
+   ],
+   [
+    "2026-11-04",
+    11
+   ],
+   [
+    "2026-11-05",
+    9
+   ],
+   [
+    "2026-11-06",
+    7
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "1"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "2"
+  }
+ ],
+ "summary_html": "<p>The <b>half-title</b> or <b>bastard title</b> is a page carrying nothing but the title of a book—as opposed to the title page, which also lists subtitle, author, publisher and edition. The half-title is usually counted as the first page in a printed book. The half-title can have some ornamentation of the book's title, or it can be plain text.</p>",
+ "summary_text": "The half-title or bastard title is a page carrying nothing but the title of a book—as opposed to the title page, which also lists subtitle, author, publisher and edition. The half-title is usually counted as the first page in a printed book. The half-title can have some ornamentation of the book's title, or it can be plain text.",
+ "templates": [
+  "Arguments",
+  "Article stub box",
+  "Article stub box",
+  "Article stub box/styles.css",
+  "Asbox",
+  "Authority control",
+  "Authority control",
+  "Authority control/config",
+  "Book structure",
+  "Book-art-stub",
+  "Buffer",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Disambiguation/templates",
+  "Hlist/styles.css",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Portal/styles.css",
+  "Publish-stub",
+  "Publishing-stub",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "String",
+  "TableTools",
+  "Unicode data",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 735,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Picturesque_New_Guinea.djvu/page1-500px-Picturesque_New_Guinea.djvu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Half-title",
+ "wikidata": {
+  "description": "page at or near the front of a book or other published work which displays (only) its title",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "page",
+     "book component"
+    ]
+   }
+  ],
+  "id": "Q24586",
+  "label": "half title",
+  "sitelink_count": 20
+ }
+}

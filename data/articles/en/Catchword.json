@@ -1,0 +1,514 @@
+{
+ "aliases": [
+  "Catch-word",
+  "Catchwords"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 78,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Catchword",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Catchword",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Book terminology",
+  "Bookbinding",
+  "Elements of documents",
+  "Printing terminology"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Catchword</span></span>",
+ "external_links": [
+  "http://palimpsest.stanford.edu/don/don.html"
+ ],
+ "intro_text": "A catchword is a word placed at the foot of a handwritten or printed page that is meant to be bound along with other pages in a book. The word anticipates the first word of the following page. It was meant to help the bookbinder or printer make sure that the leaves were bound in the right order or that the pages were set up in the press in the right order. Catchwords appear in some medieval manuscripts, and appear again in printed books late in the fifteenth century. The practice became widespread in the mid sixteenth century, and prevailed until the arrival of industrial printing techniques late in the eighteenth century.\nTheodore Low Devinne's 1901 guide on Correct Composition had this to say:\n\nFor more than three centuries printers of books appended at the foot of every page the first word or syllable of the next page. This catchword was supposed to be needed by the reader to make clear the connection between the two pages; but the catchword is now out of use, and it is not missed.",
+ "key": "en/Catchword",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "وصلة صفحة"
+  },
+  {
+   "lang": "be",
+   "title": "Кустода"
+  },
+  {
+   "lang": "cs",
+   "title": "Kustoda"
+  },
+  {
+   "lang": "de",
+   "title": "Kustode (Buchherstellung)"
+  },
+  {
+   "lang": "es",
+   "title": "Reclamo (libro)"
+  },
+  {
+   "lang": "fr",
+   "title": "Réclame (imprimerie)"
+  },
+  {
+   "lang": "he",
+   "title": "שומר הדף"
+  },
+  {
+   "lang": "hu",
+   "title": "Custos (könyvészet)"
+  },
+  {
+   "lang": "hy",
+   "title": "Էջանց"
+  },
+  {
+   "lang": "is",
+   "title": "Griporð"
+  },
+  {
+   "lang": "ja",
+   "title": "捕語"
+  },
+  {
+   "lang": "pl",
+   "title": "Kustosz (historia książki)"
+  },
+  {
+   "lang": "pt",
+   "title": "Palavra-guia"
+  },
+  {
+   "lang": "ru",
+   "title": "Кустода"
+  },
+  {
+   "lang": "sv",
+   "title": "Kustod"
+  },
+  {
+   "lang": "uk",
+   "title": "Кустода"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "",
+  "author_html": "",
+  "credit_html": "",
+  "description": "",
+  "file": "Brevis_Commentarivs,p15.png",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Brevis_Commentarivs,p15.png"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Anthropodermic bibliopegy",
+  "Author page",
+  "Bibliography",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinder",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Canons of page construction",
+  "Catchphrase",
+  "Catchword (disambiguation)",
+  "Chapter (books)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Dedication (publishing)",
+  "Dingbat",
+  "Dust jacket",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Gloss (annotation)",
+  "Glossary",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Leather",
+  "Linked list",
+  "Manuscript",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Printing",
+  "Prologue",
+  "Pull quote",
+  "Rashi",
+  "Reclamans",
+  "Recto and verso",
+  "Ronald B. McKerrow",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (typography)",
+  "Slipcase",
+  "Table of contents",
+  "Text annotation",
+  "The Century Company",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Tosafot",
+  "Tractate Berachot",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Wikisource",
+  "Word"
+ ],
+ "media": [
+  {
+   "caption": "The catchword (in this case the last three letters \"dos\" of a divided word) is at the bottom of the page",
+   "lead": false,
+   "mime": "image/png",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Brevis_Commentarivs%2Cp15.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Brevis_Commentarivs,p15.png",
+   "section_id": 0,
+   "th": 740,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Brevis_Commentarivs%2Cp15.png/500px-Brevis_Commentarivs%2Cp15.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Brevis_Commentarivs,p15.png",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "The first page of the Babylonian Talmud (Tractate Berachot, folio 2a). The catchword \"דילמא\" is found at the bottom of the Talmud text (center), and the commentaries of Rashi (center left) and the Tosafot (center right) as the word will begin each text on the next page, 2b.",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/f/f2/First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:First_page_of_the_first_tractate_of_the_Talmud_(Daf_Beis_of_Maseches_Brachos).jpg",
+   "section_id": 0,
+   "th": 706,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg/500px-First_page_of_the_first_tractate_of_the_Talmud_%28Daf_Beis_of_Maseches_Brachos%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:First_page_of_the_first_tractate_of_the_Talmud_(Daf_Beis_of_Maseches_Brachos).jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1657,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Brevis_Commentarivs%2Cp15.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1120
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Catchword",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    12
+   ],
+   [
+    "2026-10-10",
+    15
+   ],
+   [
+    "2026-10-11",
+    4
+   ],
+   [
+    "2026-10-12",
+    15
+   ],
+   [
+    "2026-10-13",
+    18
+   ],
+   [
+    "2026-10-14",
+    12
+   ],
+   [
+    "2026-10-15",
+    10
+   ],
+   [
+    "2026-10-16",
+    18
+   ],
+   [
+    "2026-10-17",
+    6
+   ],
+   [
+    "2026-10-18",
+    13
+   ],
+   [
+    "2026-10-19",
+    9
+   ],
+   [
+    "2026-10-20",
+    10
+   ],
+   [
+    "2026-10-21",
+    7
+   ],
+   [
+    "2026-10-22",
+    15
+   ],
+   [
+    "2026-10-23",
+    7
+   ],
+   [
+    "2026-10-24",
+    6
+   ],
+   [
+    "2026-10-25",
+    14
+   ],
+   [
+    "2026-10-26",
+    12
+   ],
+   [
+    "2026-10-27",
+    5
+   ],
+   [
+    "2026-10-28",
+    10
+   ],
+   [
+    "2026-10-29",
+    12
+   ],
+   [
+    "2026-10-30",
+    6
+   ],
+   [
+    "2026-10-31",
+    9
+   ],
+   [
+    "2026-11-01",
+    9
+   ],
+   [
+    "2026-11-02",
+    11
+   ],
+   [
+    "2026-11-03",
+    13
+   ],
+   [
+    "2026-11-04",
+    7
+   ],
+   [
+    "2026-11-05",
+    13
+   ],
+   [
+    "2026-11-06",
+    15
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "1"
+  },
+  {
+   "anchor": "Notes",
+   "level": 2,
+   "line": "Notes",
+   "number": "2"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "3"
+  }
+ ],
+ "summary_html": "<p>A <b>catchword</b> is a word placed at the foot of a handwritten or printed page that is meant to be bound along with other pages in a book. The word anticipates the first word of the following page. It was meant to help the bookbinder or printer make sure that the leaves were bound in the right order or that the pages were set up in the press in the right order. Catchwords appear in some medieval manuscripts, and appear again in printed books late in the fifteenth century. The practice became widespread in the mid sixteenth century, and prevailed until the arrival of industrial printing techniques late in the eighteenth century.</p>",
+ "summary_text": "A catchword is a word placed at the foot of a handwritten or printed page that is meant to be bound along with other pages in a book. The word anticipates the first word of the following page. It was meant to help the bookbinder or printer make sure that the leaves were bound in the right order or that the pages were set up in the press in the right order. Catchwords appear in some medieval manuscripts, and appear again in printed books late in the fifteenth century. The practice became widespread in the mid sixteenth century, and prevailed until the arrival of industrial printing techniques late in the eighteenth century.",
+ "templates": [
+  "Arguments",
+  "Book structure",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation",
+  "Citation mode",
+  "Citation needed",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite wikisource",
+  "Cite wikisource/make link",
+  "Cn",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "Distinguish",
+  "Distinguish",
+  "Fix",
+  "Fix/category",
+  "Format link",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "If empty",
+  "If empty",
+  "If first display both",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Other uses",
+  "Other uses",
+  "Otheruses",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "Small",
+  "Smaller",
+  "String",
+  "TableTools",
+  "Template wrapper",
+  "Unicode data",
+  "Unsubst",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 710,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Brevis_Commentarivs%2Cp15.png/500px-Brevis_Commentarivs%2Cp15.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Catchword",
+ "wikidata": {
+  "description": "word placed at the foot of a page that anticipates the first word of the following page",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Brevis Commentarivs,p15.png"
+    ]
+   }
+  ],
+  "id": "Q899632",
+  "label": "catchword",
+  "sitelink_count": 18
+ }
+}

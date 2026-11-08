@@ -1,0 +1,794 @@
+{
+ "aliases": [
+  "Colophon (book)",
+  "Colophon (printing term)",
+  "Note on font",
+  "Note on type"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 757,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Colophon",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Colophon (publishing)",
+  "tags": "Back matter"
+ },
+ "categories": [
+  "Book design",
+  "Book terminology",
+  "Clay tablets",
+  "Publishing",
+  "Scribes",
+  "Typography"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Colophon (publishing)</span></span>",
+ "external_links": [
+  "http://www.webstandards.org/about/colophon/",
+  "http://www6.wittenberg.edu/lib/about/colophon.php",
+  "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph121720&CON_LNG=ENG",
+  "https://api.semanticscholar.org/CorpusID:162507950",
+  "https://archive.org/details/essayoncolophons00pollrich",
+  "https://archive.org/details/newkindofscience00wolf/page/1264",
+  "https://archive.org/details/typographyencycl00frie",
+  "https://books.google.com/books?id=kKE97gvmWQcC&pg=PA162",
+  "https://books.google.com/books?id=rEEJAAAAQAAJ",
+  "https://catalogue.bnf.fr/ark:/12148/cb119800909",
+  "https://d-nb.info/gnd/4240231-1",
+  "https://data.bnf.fr/ark:/12148/cb119800909",
+  "https://doi.org/10.1080%2F00393274.2015.1101354",
+  "https://hdl.handle.net/2027%2Fmdp.39015030342920",
+  "https://hdl.handle.net/2027/mdp.39015030342920?urlappend=%3Bseq=97",
+  "https://id.loc.gov/authorities/sh85028574",
+  "https://id.worldcat.org/fast/868495",
+  "https://islamansiklopedisi.org.tr/ferag",
+  "https://lux.collections.yale.edu/view/concept/ddc74ab8-2c29-4908-99f2-04550878b500",
+  "https://search.worldcat.org/issn/0039-3274",
+  "https://search.worldcat.org/oclc/1032680871",
+  "https://search.worldcat.org/oclc/1183417315",
+  "https://search.worldcat.org/oclc/2599686",
+  "https://search.worldcat.org/oclc/460661449",
+  "https://search.worldcat.org/oclc/837169265",
+  "https://search.worldcat.org/oclc/876082348",
+  "https://search.worldcat.org/oclc/902053242",
+  "https://sites.lsa.umich.edu/khamseen/terms/2022/colophon/",
+  "https://web.archive.org/web/20140703012918/http://www.webstandards.org/about/colophon/",
+  "https://web.archive.org/web/20140726222129/http://www6.wittenberg.edu/lib/about/colophon.php",
+  "https://www.merriam-webster.com/dictionary/colophon",
+  "https://www.nli.org.il/en/authorities/987007284594805171",
+  "https://www.oreilly.com/animals.csp"
+ ],
+ "intro_text": "In publishing, a colophon () is a brief statement containing information about the publication of a book such as an \"imprint\" (the place of publication, the publisher, ISBN and the date of publication). \nA colophon may include the device (logo) of a printer or publisher. Colophons are traditionally printed at the ends of books (see History below for the origin of the word), but sometimes the same information appears elsewhere (when it may still be referred to as colophon) and many modern (post-1800) books bear this information on the title page or on the verso of the title leaf, which is sometimes called a biblio page or (when bearing copyright data) the copyright page.",
+ "key": "en/Colophon_(publishing)",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "af",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "ar",
+   "title": "حرد المتن"
+  },
+  {
+   "lang": "be",
+   "title": "Калафон (частка кнігі)"
+  },
+  {
+   "lang": "bg",
+   "title": "Колофон (библиография)"
+  },
+  {
+   "lang": "ca",
+   "title": "Colofó"
+  },
+  {
+   "lang": "cs",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "da",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "de",
+   "title": "Kolophon (Schriftstück)"
+  },
+  {
+   "lang": "el",
+   "title": "Κολοφώνας (εκδόσεις)"
+  },
+  {
+   "lang": "eo",
+   "title": "Kolofono (libro)"
+  },
+  {
+   "lang": "es",
+   "title": "Colofón"
+  },
+  {
+   "lang": "et",
+   "title": "Kolofoon"
+  },
+  {
+   "lang": "fa",
+   "title": "انجامه"
+  },
+  {
+   "lang": "fr",
+   "title": "Colophon (livre)"
+  },
+  {
+   "lang": "fy",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "gl",
+   "title": "Colofón (editorial)"
+  },
+  {
+   "lang": "he",
+   "title": "קולופון"
+  },
+  {
+   "lang": "hr",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "hu",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "hy",
+   "title": "Հիշատակարան"
+  },
+  {
+   "lang": "hyw",
+   "title": "Յիշատակարան"
+  },
+  {
+   "lang": "id",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "it",
+   "title": "Colophon"
+  },
+  {
+   "lang": "ja",
+   "title": "奥付"
+  },
+  {
+   "lang": "kk",
+   "title": "Колофон"
+  },
+  {
+   "lang": "ko",
+   "title": "판권장"
+  },
+  {
+   "lang": "la",
+   "title": "Colophon (litterae)"
+  },
+  {
+   "lang": "nb",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "nl",
+   "title": "Colofon"
+  },
+  {
+   "lang": "pl",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "pt",
+   "title": "Cólofon (tipografia)"
+  },
+  {
+   "lang": "ru",
+   "title": "Колофон (часть книги)"
+  },
+  {
+   "lang": "sh",
+   "title": "Kolofon (izdavaštvo)"
+  },
+  {
+   "lang": "sv",
+   "title": "Kolofon"
+  },
+  {
+   "lang": "th",
+   "title": "โคโลฟอน (การพิมพ์)"
+  },
+  {
+   "lang": "tr",
+   "title": "Ferâğ kaydı"
+  },
+  {
+   "lang": "uk",
+   "title": "Колофон (частина книги)"
+  },
+  {
+   "lang": "zh",
+   "title": "版權頁"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Daderot at en.wikipedia",
+  "author_html": "<a href=\"https://en.wikipedia.org/wiki/User:Daderot\" class=\"extiw\" title=\"en:User:Daderot\">Daderot</a> at <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span><br>Transferred from <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
+  "description": "Against War, by Erasmus, printed by the Merrymount Press, Boston, Massachusetts, 1908, colophon on last page of volume. Edited by John W. Mackail; translator unidentified; types and decorations by Herbert P. Horne. Copyright has expired on the text of this book. No copyright was asserted in the image itself, which was placed online by the Springfield, Massachusetts, library system.",
+  "file": "Merrymount_Press_-_Against_War_by_Erasmus_(colophon).jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Merrymount_Press_-_Against_War_by_Erasmus_(colophon).jpg"
+ },
+ "links": [
+  "39 Geo. 3",
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Africa Is Not a Country",
+  "Afterword",
+  "Alfred A. Knopf",
+  "Allen & Unwin",
+  "Ancient Near East",
+  "Anthropodermic bibliopegy",
+  "Assyria",
+  "Author page",
+  "Babylon",
+  "Bibliography",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Cairo Geniza",
+  "Canaan",
+  "Canons of page construction",
+  "Cascading Style Sheets",
+  "Catchword",
+  "Chapter (books)",
+  "Clay tablet",
+  "Column (typography)",
+  "Conclusion (book)",
+  "David Weber",
+  "Dedication (publishing)",
+  "Diamond Sutra",
+  "Dingbat",
+  "Doi (identifier)",
+  "Dust jacket",
+  "Edgar J. Goodspeed",
+  "Edition notice",
+  "Encyclopædia Britannica Eleventh Edition",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Explicit (text)",
+  "Extra-illustration",
+  "Fleet Street",
+  "Folio Society",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Geoffrey Glaister",
+  "Gloss (annotation)",
+  "Glossary",
+  "Great Britain",
+  "Greek language",
+  "HTML",
+  "Half-title",
+  "Hardcover",
+  "Hdl (identifier)",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "ISBN (identifier)",
+  "ISSN (identifier)",
+  "Illuminated manuscript",
+  "Impressum",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Indicia (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "James B. Pritchard",
+  "James Murray (lexicographer)",
+  "Jerusalem Colophon",
+  "John Duncan Cowley",
+  "John Fortescue (judge)",
+  "Late Latin",
+  "Leather",
+  "Logo",
+  "Louvre",
+  "Margin (typography)",
+  "Marginalia",
+  "Masthead (American publishing)",
+  "Merriam-Webster",
+  "Merrymount Press",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "O'Reilly Media",
+  "OCLC (identifier)",
+  "Oxford University Press",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Princeton University Press",
+  "Printer's mark",
+  "Private press movement",
+  "Prologue",
+  "Publisher",
+  "Publishing",
+  "Pull quote",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "S2CID (identifier)",
+  "Samuel Palmer (printer)",
+  "Scholia",
+  "Scribe",
+  "Section (typography)",
+  "Slipcase",
+  "Stephen Wolfram",
+  "Table of contents",
+  "Temple Bar, London",
+  "Text annotation",
+  "Thumb index",
+  "Tipped-in page",
+  "Title (publishing)",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Union label",
+  "University of Toronto Press",
+  "Unlawful Societies Act 1799",
+  "Uruk",
+  "Usability",
+  "Web Standards Project",
+  "Wikisource",
+  "William B. Eerdmans Publishing Company",
+  "Wiseman hypothesis",
+  "Wittenberg University",
+  "Wolfram Research",
+  "XHTML",
+  "XML validation"
+ ],
+ "media": [
+  {
+   "caption": "A colophon printed in 1471",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Inkunabel.ValMax.finis.detail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Inkunabel.ValMax.finis.detail.jpg",
+   "section_id": 0,
+   "th": 234,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Inkunabel.ValMax.finis.detail.jpg/500px-Inkunabel.ValMax.finis.detail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Inkunabel.ValMax.finis.detail.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Against War by Erasmus, printed by the Merrymount Press, Boston, Massachusetts, 1907",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/4/44/Merrymount_Press_-_Against_War_by_Erasmus_%28colophon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Merrymount_Press_-_Against_War_by_Erasmus_(colophon).jpg",
+   "section_id": 0,
+   "th": 825,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Merrymount_Press_-_Against_War_by_Erasmus_%28colophon%29.jpg/500px-Merrymount_Press_-_Against_War_by_Erasmus_%28colophon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Merrymount_Press_-_Against_War_by_Erasmus_(colophon).jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Colophon of the Dutch translation of Africa Is Not a Country printed in 2022",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/b/bf/ColophonNL2022.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:ColophonNL2022.jpg",
+   "section_id": 0,
+   "th": 667,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ColophonNL2022.jpg/500px-ColophonNL2022.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:ColophonNL2022.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Clay tablet: dictionary with colophon indicating storage emplacement in a library. From Warka, ancient Uruk, mid 1st century BC. On display at the Louvre, Paris.",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/2/27/Dictionnaire_sum%C3%A9ro-akkadien_avec_colophon_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_7661.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Dictionnaire_sum%C3%A9ro-akkadien_avec_colophon_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_7661.jpg",
+   "section_id": 2,
+   "th": 724,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Dictionnaire_sum%C3%A9ro-akkadien_avec_colophon_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_7661.jpg/500px-Dictionnaire_sum%C3%A9ro-akkadien_avec_colophon_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_7661.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Dictionnaire_suméro-akkadien_avec_colophon_-_Musée_du_Louvre_Antiquités_orientales_AO_7661.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Cairo Geniza colophon, 12th or 13th c",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/5/55/Halper_113_Midrash_David_on_Genesis%2C_colophon%2C_Cairo_Geniza.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Halper_113_Midrash_David_on_Genesis,_colophon,_Cairo_Geniza.jpg",
+   "section_id": 2,
+   "th": 670,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Halper_113_Midrash_David_on_Genesis%2C_colophon%2C_Cairo_Geniza.jpg/500px-Halper_113_Midrash_David_on_Genesis%2C_colophon%2C_Cairo_Geniza.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Halper_113_Midrash_David_on_Genesis,_colophon,_Cairo_Geniza.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "The colophon at the end of the Diamond Sutra, the world's oldest surviving printed book, states the date of printing (868 AD), the donor's name, the printing house, and that it was printed for free distribution.",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/6/60/Colophon_%28end_note%29_to_the_printed_copy_of_the_Diamond_Sutra%2C_%28_Dunhuang%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Colophon_(end_note)_to_the_printed_copy_of_the_Diamond_Sutra,_(_Dunhuang).jpg",
+   "section_id": 3,
+   "th": 368,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Colophon_%28end_note%29_to_the_printed_copy_of_the_Diamond_Sutra%2C_%28_Dunhuang%29.jpg/500px-Colophon_%28end_note%29_to_the_printed_copy_of_the_Diamond_Sutra%2C_%28_Dunhuang%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Colophon_(end_note)_to_the_printed_copy_of_the_Diamond_Sutra,_(_Dunhuang).jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "The colophon of John Fortescue's A Learned Commendation of the Politique Lawes of Englande (1567),[13] which appears at the end of the book",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/b/ba/John_Fortescue%2C_A_Learned_Commendation_of_the_Politique_Lawes_of_Englande_%281st_English_ed%2C_1567%2C_colophon%29_-_20140816.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:John_Fortescue,_A_Learned_Commendation_of_the_Politique_Lawes_of_Englande_(1st_English_ed,_1567,_colophon)_-_20140816.jpg",
+   "section_id": 3,
+   "th": 394,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/John_Fortescue%2C_A_Learned_Commendation_of_the_Politique_Lawes_of_Englande_%281st_English_ed%2C_1567%2C_colophon%29_-_20140816.jpg/500px-John_Fortescue%2C_A_Learned_Commendation_of_the_Politique_Lawes_of_Englande_%281st_English_ed%2C_1567%2C_colophon%29_-_20140816.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:John_Fortescue,_A_Learned_Commendation_of_the_Politique_Lawes_of_Englande_(1st_English_ed,_1567,_colophon)_-_20140816.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1031,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Merrymount_Press_-_Against_War_by_Erasmus_%28colophon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 625
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Colophon_(publishing)",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    139
+   ],
+   [
+    "2026-10-10",
+    122
+   ],
+   [
+    "2026-10-11",
+    119
+   ],
+   [
+    "2026-10-12",
+    148
+   ],
+   [
+    "2026-10-13",
+    163
+   ],
+   [
+    "2026-10-14",
+    133
+   ],
+   [
+    "2026-10-15",
+    172
+   ],
+   [
+    "2026-10-16",
+    152
+   ],
+   [
+    "2026-10-17",
+    126
+   ],
+   [
+    "2026-10-18",
+    121
+   ],
+   [
+    "2026-10-19",
+    167
+   ],
+   [
+    "2026-10-20",
+    155
+   ],
+   [
+    "2026-10-21",
+    167
+   ],
+   [
+    "2026-10-22",
+    150
+   ],
+   [
+    "2026-10-23",
+    153
+   ],
+   [
+    "2026-10-24",
+    146
+   ],
+   [
+    "2026-10-25",
+    179
+   ],
+   [
+    "2026-10-26",
+    153
+   ],
+   [
+    "2026-10-27",
+    137
+   ],
+   [
+    "2026-10-28",
+    155
+   ],
+   [
+    "2026-10-29",
+    177
+   ],
+   [
+    "2026-10-30",
+    117
+   ],
+   [
+    "2026-10-31",
+    119
+   ],
+   [
+    "2026-11-01",
+    145
+   ],
+   [
+    "2026-11-02",
+    136
+   ],
+   [
+    "2026-11-03",
+    121
+   ],
+   [
+    "2026-11-04",
+    140
+   ],
+   [
+    "2026-11-05",
+    147
+   ],
+   [
+    "2026-11-06",
+    114
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Etymology",
+   "level": 2,
+   "line": "Etymology",
+   "number": "1"
+  },
+  {
+   "anchor": "History",
+   "level": 2,
+   "line": "History",
+   "number": "2"
+  },
+  {
+   "anchor": "Printed_books",
+   "level": 2,
+   "line": "Printed books",
+   "number": "3"
+  },
+  {
+   "anchor": "Websites",
+   "level": 2,
+   "line": "Websites",
+   "number": "4"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "5"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "6"
+  },
+  {
+   "anchor": "Sources",
+   "level": 2,
+   "line": "Sources",
+   "number": "7"
+  }
+ ],
+ "summary_html": "<p>In publishing, a <b>colophon</b> is a brief statement containing information about the publication of a book such as an \"imprint\".</p>",
+ "summary_text": "In publishing, a colophon is a brief statement containing information about the publication of a book such as an \"imprint\".",
+ "templates": [
+  "'",
+  "Apostrophe",
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/auxiliary",
+  "Authority control/config",
+  "Book structure",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite Merriam-Webster",
+  "Cite book",
+  "Cite journal",
+  "Cite web",
+  "Commons category",
+  "Commons link",
+  "Disambiguation/templates",
+  "Div col",
+  "Div col end",
+  "Div col/styles.css",
+  "EB1911 Poster",
+  "EB1911 poster",
+  "EditAtWikidata",
+  "Encodefirst",
+  "Hlist/styles.css",
+  "IPAc-en",
+  "IPAc-en",
+  "IPAc-en/data",
+  "IPAc-en/phonemes",
+  "IPAc-en/pronunciation",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "MultiReplace",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plain text",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Portal/styles.css",
+  "R",
+  "R",
+  "Refbegin",
+  "Refbegin/styles.css",
+  "Refend",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "String2",
+  "TableTools",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Trim",
+  "Trim quotes",
+  "Unicode data",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {
+  "height": 792,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Merrymount_Press_-_Against_War_by_Erasmus_%28colophon%29.jpg/500px-Merrymount_Press_-_Against_War_by_Erasmus_%28colophon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Colophon (publishing)",
+ "wikidata": {
+  "description": "brief statement of a book's own information, such as publisher, location, and date of publication",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Colophon from the manuscript of \"Gulistan\" by Sa'di copied by Sultan Ali Mashadi (LTS1995.2.30, ff. 78v-79r).jpg"
+    ]
+   }
+  ],
+  "id": "Q372474",
+  "label": "colophon",
+  "sitelink_count": 40
+ }
+}

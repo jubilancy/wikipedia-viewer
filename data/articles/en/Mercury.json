@@ -32,7 +32,7 @@
  "coordinates": [],
  "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mercury</span></span>",
  "external_links": [],
- "intro_text": "Mercury most commonly refers to:\n\nMercury (planet), the closest planet to the Sun\nMercury (element), a chemical element\nMercury (mythology), a Roman deity\nMercury or The Mercury may also refer to:",
+ "intro_text": "Mercury most commonly refers to:\n\nMercury (planet), the closest planet to the Sun\nMercury (element), a chemical element\nMercury (mythology), a Roman deity\nMercury or The Mercury may also refer to:\n\n",
  "key": "en/Mercury",
  "lang": "en",
  "language_links": [
@@ -657,6 +657,7 @@
   "Sister project",
   "Sister project logo",
   "Sister project logo/data",
+  "Sister project logo/styles.css",
   "Sister project/styles.css",
   "Str rep",
   "String",

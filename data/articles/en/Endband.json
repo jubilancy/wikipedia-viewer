@@ -1,0 +1,517 @@
+{
+ "aliases": [
+  "Tailband"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 67,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Endband",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Endband",
+  "tags": "Other elements"
+ },
+ "categories": [
+  "Bookbinding"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Endband</span></span>",
+ "external_links": [
+  "http://w3id.org/lob/concept/2370",
+  "https://bookwyrmbound.wordpress.com/2012/09/15/gothic-binding",
+  "https://doi.org/10.48341%2F03wy-ew21",
+  "https://doi.org/10.48341/03wy-ew21",
+  "https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2020/06/29/the-beginning-of-the-endband",
+  "https://news.dorsetcouncil.gov.uk/dorset-history-centre-blog/2020/06/29/the-beginning-of-the-endband/",
+  "https://www.conservation-wiki.com/wiki/BPG_Endbands#refBoudalis2024",
+  "https://www.ligatus.org.uk/",
+  "https://www.ligatus.org.uk/lob/concept/1357",
+  "https://www.ligatus.org.uk/lob/concept/1406",
+  "https://www.ligatus.org.uk/lob/lob/concept/2370",
+  "https://www.metmuseum.org/perspectives/fragility-of-headcaps",
+  "https://www.westdean.ac.uk/blog/gothic-endband-chichester-cathedral-part-1",
+  "https://www.westdean.ac.uk/blog/gothic-endband-chichester-cathedral-part-2"
+ ],
+ "intro_text": "An endband is a cylindrical band sewn and/or glued to the head and tail of the spine of a book. It is slightly raised above the bookblock. An endband along the top edge of the book is called a headband, and one along the bottom edge is called a tailband. Sewn endbands, or 'true' endbands, are sewn into the gatherings of the bookblock and perform a mechanical function. They strengthen the sewing of the bookblock and sometimes the joint as well (the connection between the spine and cover boards). Endbands can also be used to shape the spine. Sewn endbands never occur on adhesive bindings, and are today mostly practiced in book arts, conservation settings, and traditional book binderies.",
+ "key": "en/Endband",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "da",
+   "title": "Kapitælbånd"
+  },
+  {
+   "lang": "de",
+   "title": "Kapitalband (Buchbinderei)"
+  },
+  {
+   "lang": "fi",
+   "title": "Kapiteelinauha"
+  },
+  {
+   "lang": "fr",
+   "title": "Tranchefile"
+  },
+  {
+   "lang": "pl",
+   "title": "Kapitałka"
+  },
+  {
+   "lang": "ru",
+   "title": "Каптал"
+  },
+  {
+   "lang": "uk",
+   "title": "Каптал"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Chiara541Light",
+  "author_html": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Chiara541Light&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Chiara541Light (page does not exist)\">Chiara541Light</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "A green and white secondary endband being sewn over white primary endband.",
+  "file": "Green_secondary_endband.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Green_secondary_endband.jpg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Anthropodermic bibliopegy",
+  "Author page",
+  "Bibliography",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Braid",
+  "Buckram",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Codex",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Coptic binding",
+  "Dedication (publishing)",
+  "Dingbat",
+  "Doi (identifier)",
+  "Dust jacket",
+  "Edition notice",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Ethiopian binding",
+  "Extra-illustration",
+  "Facsimile",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Gloss (annotation)",
+  "Glossary",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Leather",
+  "Manuscript",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Monastery",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Pull quote",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (bookbinding)",
+  "Section (typography)",
+  "Slipcase",
+  "Table of contents",
+  "Text annotation",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography"
+ ],
+ "media": [
+  {
+   "caption": "The process of sewing a green and white secondary endband over a white primary endband. Front beads are visible.",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_secondary_endband.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Green_secondary_endband.jpg",
+   "section_id": 0,
+   "th": 667,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_secondary_endband.jpg/500px-Green_secondary_endband.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Green_secondary_endband.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Example of rolled, stuck-on endband in leather.",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/9/98/Stuck-on_endband.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Stuck-on_endband.jpg",
+   "section_id": 11,
+   "th": 375,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Stuck-on_endband.jpg/500px-Stuck-on_endband.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Stuck-on_endband.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 4032,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_secondary_endband.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 3024
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Endband",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    7
+   ],
+   [
+    "2026-10-10",
+    8
+   ],
+   [
+    "2026-10-11",
+    4
+   ],
+   [
+    "2026-10-12",
+    13
+   ],
+   [
+    "2026-10-13",
+    19
+   ],
+   [
+    "2026-10-14",
+    15
+   ],
+   [
+    "2026-10-15",
+    15
+   ],
+   [
+    "2026-10-16",
+    8
+   ],
+   [
+    "2026-10-17",
+    10
+   ],
+   [
+    "2026-10-18",
+    8
+   ],
+   [
+    "2026-10-19",
+    9
+   ],
+   [
+    "2026-10-20",
+    16
+   ],
+   [
+    "2026-10-21",
+    6
+   ],
+   [
+    "2026-10-22",
+    11
+   ],
+   [
+    "2026-10-23",
+    10
+   ],
+   [
+    "2026-10-24",
+    7
+   ],
+   [
+    "2026-10-25",
+    10
+   ],
+   [
+    "2026-10-26",
+    5
+   ],
+   [
+    "2026-10-27",
+    8
+   ],
+   [
+    "2026-10-28",
+    9
+   ],
+   [
+    "2026-10-29",
+    13
+   ],
+   [
+    "2026-10-30",
+    7
+   ],
+   [
+    "2026-10-31",
+    9
+   ],
+   [
+    "2026-11-01",
+    10
+   ],
+   [
+    "2026-11-02",
+    5
+   ],
+   [
+    "2026-11-03",
+    14
+   ],
+   [
+    "2026-11-04",
+    11
+   ],
+   [
+    "2026-11-05",
+    13
+   ],
+   [
+    "2026-11-06",
+    10
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Terms",
+   "level": 2,
+   "line": "Terms",
+   "number": "1"
+  },
+  {
+   "anchor": "Origins",
+   "level": 2,
+   "line": "Origins",
+   "number": "2"
+  },
+  {
+   "anchor": "Variations_in_decoration_and_method",
+   "level": 2,
+   "line": "Variations in decoration and method",
+   "number": "3"
+  },
+  {
+   "anchor": "Integral_endbands",
+   "level": 3,
+   "line": "Integral endbands",
+   "number": "3.1"
+  },
+  {
+   "anchor": "Byzantine/Greek_endbands",
+   "level": 3,
+   "line": "Byzantine/Greek endbands",
+   "number": "3.2"
+  },
+  {
+   "anchor": "Ethiopian_endbands",
+   "level": 3,
+   "line": "Ethiopian endbands",
+   "number": "3.3"
+  },
+  {
+   "anchor": "Armenian_endbands",
+   "level": 3,
+   "line": "Armenian endbands",
+   "number": "3.4"
+  },
+  {
+   "anchor": "Carolingian_and_Romanesque_endbands",
+   "level": 3,
+   "line": "Carolingian and Romanesque endbands",
+   "number": "3.5"
+  },
+  {
+   "anchor": "Gothic_endbands",
+   "level": 3,
+   "line": "Gothic endbands",
+   "number": "3.6"
+  },
+  {
+   "anchor": "Conservation_endbands",
+   "level": 3,
+   "line": "Conservation endbands",
+   "number": "3.7"
+  },
+  {
+   "anchor": "Modern_endbands_(Stuck-on_endbands)",
+   "level": 3,
+   "line": "Modern endbands (Stuck-on endbands)",
+   "number": "3.8"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "4"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "5"
+  },
+  {
+   "anchor": "Further_reading",
+   "level": 2,
+   "line": "Further reading",
+   "number": "6"
+  },
+  {
+   "anchor": "Books_and_articles",
+   "level": 3,
+   "line": "Books and articles",
+   "number": "6.1"
+  },
+  {
+   "anchor": "Bibliography",
+   "level": 3,
+   "line": "Bibliography",
+   "number": "6.2"
+  }
+ ],
+ "summary_html": "<p>An <b>endband</b> is a cylindrical band sewn and/or glued to the head and tail of the spine of a book. It is slightly raised above the bookblock. An endband along the top edge of the book is called a <i>headband</i>, and one along the bottom edge is called a <i>tailband</i>. Sewn endbands, or 'true' endbands, are sewn into the gatherings of the bookblock and perform a mechanical function. They strengthen the sewing of the bookblock and sometimes the joint as well. Endbands can also be used to shape the spine. Sewn endbands never occur on adhesive bindings, and are today mostly practiced in book arts, conservation settings, and traditional book binderies.</p>",
+ "summary_text": "An endband is a cylindrical band sewn and/or glued to the head and tail of the spine of a book. It is slightly raised above the bookblock. An endband along the top edge of the book is called a headband, and one along the bottom edge is called a tailband. Sewn endbands, or 'true' endbands, are sewn into the gatherings of the bookblock and perform a mechanical function. They strengthen the sewing of the bookblock and sometimes the joint as well. Endbands can also be used to shape the spine. Sewn endbands never occur on adhesive bindings, and are today mostly practiced in book arts, conservation settings, and traditional book binderies.",
+ "templates": [
+  "Arguments",
+  "Book structure",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite journal",
+  "Cite web",
+  "Commons category",
+  "Commons link",
+  "Hlist/styles.css",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "TableTools",
+  "Unicode data",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 640,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_secondary_endband.jpg/500px-Green_secondary_endband.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Endband",
+ "wikidata": {
+  "description": "part of a bound book",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Book headband exposed.jpg"
+    ]
+   }
+  ],
+  "id": "Q1728555",
+  "label": "endband",
+  "sitelink_count": 9
+ }
+}

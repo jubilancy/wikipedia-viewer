@@ -1,0 +1,794 @@
+{
+ "aliases": [
+  "Core glossary",
+  "Gloss extraction",
+  "Glossaries",
+  "Glossary extraction",
+  "Glossary of terms",
+  "Glossory"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 465,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Glossary",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Glossary",
+  "tags": "Back matter"
+ },
+ "categories": [
+  "Book design",
+  "Elements of documents",
+  "Glossaries",
+  "Lexicography"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Glossary</span></span>",
+ "external_links": [
+  "http://www.aclweb.org/anthology/P00-1062",
+  "http://www.dsi.uniroma1.it/~navigli/pubs/EACL_2009_Navigli.pdf",
+  "http://www.dsi.uniroma1.it/~navigli/pubs/Navigli_Velardi_IOS_2008.pdf",
+  "https://catalog.archives.gov/id/10634146",
+  "https://catalogue.bnf.fr/ark:/12148/cb119762218",
+  "https://d-nb.info/gnd/4157654-8",
+  "https://data.bnf.fr/ark:/12148/cb119762218",
+  "https://id.loc.gov/authorities/sh85055328",
+  "https://ieeexplore.ieee.org/document/4629722/;jsessionid=6EA3B4D4BD97E08BFCF5252EC653A1EA?arnumber=4629722",
+  "https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000263600&P_CON_LNG=ENG",
+  "https://lux.collections.yale.edu/view/concept/7395332a-9666-4cb1-8b1e-8c03cb13734b",
+  "https://web.archive.org/web/20050915123957/http://www.ontopia.net/topicmaps/materials/tao.html",
+  "https://web.archive.org/web/20060320132442/http://www.glossarist.com/",
+  "https://web.archive.org/web/20080820180152/http://www.babel-linguistics.com/glossaries.htm",
+  "https://web.archive.org/web/20191222044813/http://www.cs.columbia.edu/~smara/publications/klavans-amia01.pdf",
+  "https://www.cs.columbia.edu/~smara/publications/klavans-amia01.pdf",
+  "https://www.nli.org.il/en/authorities/987007531316405171"
+ ],
+ "intro_text": "A glossary (from Ancient Greek: γλῶσσα, glossa; language, speech, wording), also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with their definitions. Glossaries are often placed at the end of a book to define novel, uncommon, or specialized terms. Glossaries are most commonly found in non-fiction.\nA bilingual glossary defines words in two languages.\nA glossary explains concepts relevant to a field of study or action, as a form of ontology. Techniques for extracting an ontology or computational lexicon have been proposed.",
+ "key": "en/Glossary",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "af",
+   "title": "Glossarium"
+  },
+  {
+   "lang": "ar",
+   "title": "مسرد"
+  },
+  {
+   "lang": "az",
+   "title": "Terminlər lüğəti"
+  },
+  {
+   "lang": "azb",
+   "title": "سؤزلوکچه"
+  },
+  {
+   "lang": "ca",
+   "title": "Glossari"
+  },
+  {
+   "lang": "ckb",
+   "title": "پێڕستی زاراوەکان"
+  },
+  {
+   "lang": "cy",
+   "title": "Geirfa"
+  },
+  {
+   "lang": "de",
+   "title": "Glossar"
+  },
+  {
+   "lang": "el",
+   "title": "Γλωσσάριο"
+  },
+  {
+   "lang": "eo",
+   "title": "Glosaro"
+  },
+  {
+   "lang": "es",
+   "title": "Glosario"
+  },
+  {
+   "lang": "eu",
+   "title": "Glosario"
+  },
+  {
+   "lang": "fa",
+   "title": "فهرست اصطلاحات"
+  },
+  {
+   "lang": "fi",
+   "title": "Sanasto"
+  },
+  {
+   "lang": "fr",
+   "title": "Glossaire"
+  },
+  {
+   "lang": "he",
+   "title": "מונחון"
+  },
+  {
+   "lang": "hi",
+   "title": "पारिभाषिक शब्दावली"
+  },
+  {
+   "lang": "hr",
+   "title": "Glosar"
+  },
+  {
+   "lang": "hu",
+   "title": "Szójegyzék"
+  },
+  {
+   "lang": "hy",
+   "title": "Գլոսարիում"
+  },
+  {
+   "lang": "ia",
+   "title": "Glossario"
+  },
+  {
+   "lang": "id",
+   "title": "Glosarium"
+  },
+  {
+   "lang": "io",
+   "title": "Glosario"
+  },
+  {
+   "lang": "it",
+   "title": "Glossario"
+  },
+  {
+   "lang": "ja",
+   "title": "用語集"
+  },
+  {
+   "lang": "kk",
+   "title": "Глоссарий"
+  },
+  {
+   "lang": "ko",
+   "title": "용어 사전"
+  },
+  {
+   "lang": "la",
+   "title": "Glossarium"
+  },
+  {
+   "lang": "lt",
+   "title": "Glosarijus"
+  },
+  {
+   "lang": "lv",
+   "title": "Glosārijs"
+  },
+  {
+   "lang": "mr",
+   "title": "संज्ञा कोश"
+  },
+  {
+   "lang": "ms",
+   "title": "Glosari"
+  },
+  {
+   "lang": "mt",
+   "title": "Glossarju"
+  },
+  {
+   "lang": "nb",
+   "title": "Glossar"
+  },
+  {
+   "lang": "oc",
+   "title": "Glossari"
+  },
+  {
+   "lang": "pam",
+   "title": "Talabaldugan"
+  },
+  {
+   "lang": "pcd",
+   "title": "Glossaire"
+  },
+  {
+   "lang": "pl",
+   "title": "Glosariusz"
+  },
+  {
+   "lang": "ps",
+   "title": "وییزېرمه"
+  },
+  {
+   "lang": "pt",
+   "title": "Glossário"
+  },
+  {
+   "lang": "ro",
+   "title": "Glosar"
+  },
+  {
+   "lang": "ru",
+   "title": "Глоссарий"
+  },
+  {
+   "lang": "sd",
+   "title": "ڪوش"
+  },
+  {
+   "lang": "simple",
+   "title": "Glossary"
+  },
+  {
+   "lang": "sk",
+   "title": "Glosár"
+  },
+  {
+   "lang": "sl",
+   "title": "Geslovnik"
+  },
+  {
+   "lang": "sq",
+   "title": "Glosari"
+  },
+  {
+   "lang": "sr",
+   "title": "Глосар"
+  },
+  {
+   "lang": "su",
+   "title": "Glosarium"
+  },
+  {
+   "lang": "sw",
+   "title": "Faharasa"
+  },
+  {
+   "lang": "th",
+   "title": "อภิธาน"
+  },
+  {
+   "lang": "tl",
+   "title": "Talatinigan"
+  },
+  {
+   "lang": "tr",
+   "title": "Terimler sözlüğü"
+  },
+  {
+   "lang": "tt",
+   "title": "Терминологик сүзлек"
+  },
+  {
+   "lang": "tum",
+   "title": "Chindandalinda cha mazgo (gilosale)"
+  },
+  {
+   "lang": "uk",
+   "title": "Глосарій"
+  },
+  {
+   "lang": "ur",
+   "title": "فرہنگ"
+  },
+  {
+   "lang": "uz",
+   "title": "Glossariy"
+  },
+  {
+   "lang": "vi",
+   "title": "Danh sách thuật ngữ"
+  },
+  {
+   "lang": "yue",
+   "title": "詞彙表"
+  },
+  {
+   "lang": "zh",
+   "title": "词汇表"
+  },
+  {
+   "lang": "zu",
+   "title": "Uhlelo Lwezichazamazwi"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Ahmad ibn Muhammad ibn 'Ali al-Muqri al Fayyumi (died ca. 770 AH/AD 1368) Ali ibn Muhibb 'Ali",
+  "author_html": "<div class=\"fn value\">\n<p>Ahmad ibn Muhammad ibn 'Ali al-Muqri al Fayyumi (died ca. 770 AH/AD 1368)<br>\n</p>\nAli ibn Muhibb 'Ali</div>",
+  "credit_html": "<a href=\"https://en.wikipedia.org/wiki/en:Walters_Art_Museum\" class=\"extiw\" title=\"w:en:Walters Art Museum\"><span title=\"art museum in Baltimore, Maryland, US\">Walters Art Museum</span></a>: <span typeof=\"mw:File\"><a href=\"https://thewalters.org/\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nuvola_filesystems_folder_home.svg/20px-Nuvola_filesystems_folder_home.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nuvola_filesystems_folder_home.svg/40px-Nuvola_filesystems_folder_home.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"128\" data-file-height=\"128\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://thewalters.org/\">Home page</a> <span typeof=\"mw:File\"><a href=\"https://art.thewalters.org/detail/15961\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://art.thewalters.org/detail/15961\">Info about artwork</a>",
+  "description": "Walters manuscript W.590 is a manuscript copy of al-Misbah al-munir fi gharib al-Sharh al-Kabir by Ahmad ibn Muhammad al-Muqri al-Fayyumi (died ca. 770 AH/AD 1368). It is a dictionary of Islamic legal terms that was originally written as a gloss on the commentary of 'Abd al-Karim al-Rafi'i (died 623 AH/AD 1226) on al-Wajiz fi al-furu' by Abu Hamid Muhammad ibn Muhammad al-Ghazzali (died 505 AH/AD 1111), entitled Fath al-'aziz 'alá kitab al-Wajiz. The manuscript was copied by the shi`ite scribe 'Ali ibn Muhibb 'Ali in 1083 AH/AD 1673 in Iran. The text was later collated with three other manuscripts in Mecca in 1166 AH/AD 1752 by Muhammad al-Atrabazundi. The light brown goatskin binding with gold-tooled oval central medallion, pendants, and cornerpieces is contemporary with the manuscript.",
+  "file": "Ahmad_ibn_Muhammad_ibn_'Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ahmad_ibn_Muhammad_ibn_%27Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Advanced learner's dictionary",
+  "Afterword",
+  "Anagram dictionary",
+  "Ancient Greek language",
+  "Anthropodermic bibliopegy",
+  "Author page",
+  "Bibliography",
+  "Bilingual dictionary",
+  "Biographical dictionary",
+  "Body text",
+  "Book",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Concept",
+  "Conceptual dictionary",
+  "Conclusion (book)",
+  "Controlled vocabulary",
+  "Dedication (publishing)",
+  "Defining vocabulary",
+  "Definition",
+  "Dictionary",
+  "Dingbat",
+  "Domain of knowledge",
+  "Dust jacket",
+  "Edition notice",
+  "Electronic dictionary",
+  "Encyclopedic dictionary",
+  "Encyclopædia Britannica Eleventh Edition",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Etymological dictionary",
+  "Explanatory dictionary",
+  "Extra-illustration",
+  "Field of study",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Frahang-i Pahlavig",
+  "Gloss (annotation)",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "Historical dictionary",
+  "Hugh Chisholm",
+  "Hypernym",
+  "Idiom dictionary",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "International scientific vocabulary",
+  "Introduction (writing)",
+  "Islamic law",
+  "Language-for-specific-purposes dictionary",
+  "Leather",
+  "Lexicography",
+  "Lexicon",
+  "List of lexicographers",
+  "List of online dictionaries",
+  "Machine-readable dictionary",
+  "Margin (typography)",
+  "Marginalia",
+  "Medical dictionary",
+  "Miniature (illuminated manuscript)",
+  "Monolingual learner's dictionary",
+  "Multi-field dictionary",
+  "Nihil obstat",
+  "Non-fiction",
+  "Note (typography)",
+  "Ontology (information science)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Phrase book",
+  "Picture dictionary",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Pull quote",
+  "Recto and verso",
+  "Reference work",
+  "Reverse dictionary",
+  "Rhyme dictionary",
+  "Rhyming dictionary",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (typography)",
+  "Single-field dictionary",
+  "Slipcase",
+  "Specialized dictionary",
+  "Spelling",
+  "Sub-field dictionary",
+  "Table of contents",
+  "Term (language)",
+  "Terminology",
+  "Terminology extraction",
+  "Text annotation",
+  "Text processing",
+  "Thesaurus",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Visual dictionary",
+  "Wayback Machine"
+ ],
+ "media": [
+  {
+   "caption": "A glossary of Islamic legal terminology",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ahmad_ibn_Muhammad_ibn_%27Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ahmad_ibn_Muhammad_ibn_%27Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg",
+   "section_id": 0,
+   "th": 527,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ahmad_ibn_Muhammad_ibn_%27Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg/500px-Ahmad_ibn_Muhammad_ibn_%27Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Ahmad_ibn_Muhammad_ibn_'Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "A glossary of the terms in intelligence law.",
+   "lead": false,
+   "mime": "application/pdf",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Intelligence_Law_Glossary_2011.pdf?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Intelligence_Law_Glossary_2011.pdf",
+   "section_id": 1,
+   "th": 647,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Intelligence_Law_Glossary_2011.pdf/page1-500px-Intelligence_Law_Glossary_2011.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Intelligence_Law_Glossary_2011.pdf",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1621,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ahmad_ibn_Muhammad_ibn_%27Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1539
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Glossary",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    57
+   ],
+   [
+    "2026-10-10",
+    44
+   ],
+   [
+    "2026-10-11",
+    55
+   ],
+   [
+    "2026-10-12",
+    69
+   ],
+   [
+    "2026-10-13",
+    71
+   ],
+   [
+    "2026-10-14",
+    78
+   ],
+   [
+    "2026-10-15",
+    57
+   ],
+   [
+    "2026-10-16",
+    50
+   ],
+   [
+    "2026-10-17",
+    31
+   ],
+   [
+    "2026-10-18",
+    29
+   ],
+   [
+    "2026-10-19",
+    50
+   ],
+   [
+    "2026-10-20",
+    58
+   ],
+   [
+    "2026-10-21",
+    65
+   ],
+   [
+    "2026-10-22",
+    82
+   ],
+   [
+    "2026-10-23",
+    77
+   ],
+   [
+    "2026-10-24",
+    33
+   ],
+   [
+    "2026-10-25",
+    44
+   ],
+   [
+    "2026-10-26",
+    67
+   ],
+   [
+    "2026-10-27",
+    115
+   ],
+   [
+    "2026-10-28",
+    60
+   ],
+   [
+    "2026-10-29",
+    71
+   ],
+   [
+    "2026-10-30",
+    56
+   ],
+   [
+    "2026-10-31",
+    50
+   ],
+   [
+    "2026-11-01",
+    34
+   ],
+   [
+    "2026-11-02",
+    65
+   ],
+   [
+    "2026-11-03",
+    51
+   ],
+   [
+    "2026-11-04",
+    72
+   ],
+   [
+    "2026-11-05",
+    83
+   ],
+   [
+    "2026-11-06",
+    76
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Core_glossary",
+   "level": 2,
+   "line": "Core glossary",
+   "number": "1"
+  },
+  {
+   "anchor": "Automatic_extraction_of_glossaries",
+   "level": 2,
+   "line": "Automatic extraction of glossaries",
+   "number": "2"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "3"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "4"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "5"
+  }
+ ],
+ "summary_html": "<p>A <b>glossary</b>, also known as a <b>vocabulary</b> or <b>clavis</b>, is an alphabetical list of terms in a particular domain of knowledge with their definitions. Glossaries are often placed at the end of a book to define novel, uncommon, or specialized terms. Glossaries are most commonly found in non-fiction.</p>",
+ "summary_text": "A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with their definitions. Glossaries are often placed at the end of a book to define novel, uncommon, or specialized terms. Glossaries are most commonly found in non-fiction.",
+ "templates": [
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/auxiliary",
+  "Authority control/config",
+  "Book structure",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation needed",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite EB1911",
+  "Cite encyclopedia",
+  "Cite wikisource/make link",
+  "Clarify timeframe",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "EditAtWikidata",
+  "Encodefirst",
+  "Exponential search",
+  "Fix",
+  "Fix/category",
+  "For",
+  "For",
+  "Format link",
+  "Further",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Labelled list hatnote",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Lang/langx",
+  "Langx",
+  "Lexicography",
+  "Main other",
+  "MultiReplace",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Template wrapper",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Trim",
+  "Unicode data",
+  "Unicode data/scripts",
+  "Unsubst",
+  "Webarchive",
+  "Webarchive",
+  "Webarchive/data",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {
+  "height": 506,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ahmad_ibn_Muhammad_ibn_%27Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg/500px-Ahmad_ibn_Muhammad_ibn_%27Ali_al-Muqri_al_Fayyumi_-_Glossary_of_Islamic_Legal_Terminology_-_Walters_W590_-_Bottom_Exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Glossary",
+ "wikidata": {
+  "description": "alphabetical list of terms relevant to a certain field of study or action",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "type of document"
+    ]
+   },
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Jal - Glossaire nautique, 1848.djvu"
+    ]
+   }
+  ],
+  "id": "Q859161",
+  "label": "glossary",
+  "sitelink_count": 63
+ }
+}

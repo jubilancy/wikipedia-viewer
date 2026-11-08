@@ -1,0 +1,686 @@
+{
+ "aliases": [],
+ "backlinks": {
+  "capped": false,
+  "count": 451,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Epigraph",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Epigraph (literature)",
+  "tags": "Front matter"
+ },
+ "categories": [
+  "Book design",
+  "Elements of documents",
+  "Literary theory",
+  "Quotations"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Epigraph (literature)</span></span>",
+ "external_links": [
+  "http://literarydevices.net/epigraph/",
+  "http://www.deankoontz.com/podcast-episode-25-book-of-counted-sorrows-1",
+  "http://www.literarydevices.com/epigraph/",
+  "http://www.umich.edu/~eng217/student_projects/araisininthesun/epigraph.html",
+  "https://archive.org/details/fridaybookessays0000bart",
+  "https://books.google.com/books?id=TfOt4zvrTn4C&pg=PA129",
+  "https://books.google.com/books?id=ryPqeReEn6cC",
+  "https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1075&context=eng_faculty",
+  "https://doi.org/10.1093%2Falh%2Fajy005",
+  "https://id.loc.gov/authorities/sh2012002427",
+  "https://lux.collections.yale.edu/view/concept/58c9e541-fac9-40a4-af0b-48b2263cccf8",
+  "https://openingquot.es/",
+  "https://www.nli.org.il/en/authorities/987007588480905171"
+ ],
+ "intro_text": "In literature, an epigraph is a phrase, quotation, or poem that is set at the beginning of a document, monograph or section or chapter thereof. The epigraph may serve as a preface to the work; as a summary; as a counter-example; or as a link from the work to a wider literary canon, with the purpose of either inviting comparison or enlisting a conventional context.\nA book may have an overall epigraph that is part of the front matter, one for each chapter, or both.",
+ "key": "en/Epigraph_(literature)",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "اقتباس استهلالي"
+  },
+  {
+   "lang": "ary",
+   "title": "إيپيݣراف"
+  },
+  {
+   "lang": "az",
+   "title": "Epiqraf"
+  },
+  {
+   "lang": "bg",
+   "title": "Епиграф (литература)"
+  },
+  {
+   "lang": "ca",
+   "title": "Epígraf"
+  },
+  {
+   "lang": "de",
+   "title": "Epigraph (Literatur)"
+  },
+  {
+   "lang": "es",
+   "title": "Epígrafe (literatura)"
+  },
+  {
+   "lang": "eu",
+   "title": "Epigrafe (literatura)"
+  },
+  {
+   "lang": "fa",
+   "title": "سرلوحه"
+  },
+  {
+   "lang": "fr",
+   "title": "Épigraphe (littérature)"
+  },
+  {
+   "lang": "gag",
+   "title": "Epigraf"
+  },
+  {
+   "lang": "hy",
+   "title": "Բնաբան"
+  },
+  {
+   "lang": "it",
+   "title": "Epigrafe (letteratura)"
+  },
+  {
+   "lang": "ja",
+   "title": "エピグラフ"
+  },
+  {
+   "lang": "ka",
+   "title": "ეპიგრაფი"
+  },
+  {
+   "lang": "kk",
+   "title": "Эпиграф"
+  },
+  {
+   "lang": "ko",
+   "title": "에피그래프"
+  },
+  {
+   "lang": "ky",
+   "title": "Эпиграф"
+  },
+  {
+   "lang": "lmo",
+   "title": "Epigraf"
+  },
+  {
+   "lang": "mdf",
+   "title": "Эпиграфсь"
+  },
+  {
+   "lang": "mr",
+   "title": "शिलालेख"
+  },
+  {
+   "lang": "ms",
+   "title": "Epigraf (sastera)"
+  },
+  {
+   "lang": "nb",
+   "title": "Epigraf"
+  },
+  {
+   "lang": "pt",
+   "title": "Epígrafe"
+  },
+  {
+   "lang": "ro",
+   "title": "Epigraf (literatură)"
+  },
+  {
+   "lang": "ru",
+   "title": "Эпиграф"
+  },
+  {
+   "lang": "sr",
+   "title": "Епиграф (књижевност)"
+  },
+  {
+   "lang": "sv",
+   "title": "Motto"
+  },
+  {
+   "lang": "tr",
+   "title": "Epigraf"
+  },
+  {
+   "lang": "uk",
+   "title": "Епіграф"
+  },
+  {
+   "lang": "uz",
+   "title": "Epigraf"
+  },
+  {
+   "lang": "zh",
+   "title": "题记"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "William Congreve",
+  "author_html": "William Congreve",
+  "credit_html": "Scan from the original work",
+  "description": "Facsimile of the original title page for en:William Congreve's en:The Way of the World, circa 1700. Taken from the 2000 New Mermaids edition, edited by Brian Gibbons. Published by A&C Black, London.",
+  "file": "Way_of_the_World_cover_(Congreve,_1700).jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Way_of_the_World_cover_(Congreve,_1700).jpg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Altneuland",
+  "Anthropodermic bibliopegy",
+  "Arthur Koestler",
+  "Author page",
+  "Bibliography",
+  "Blood Meridian",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Bushido: The Soul of Japan",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Christian mysticism",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Cormac McCarthy",
+  "Dante",
+  "Dante's Inferno",
+  "Darkness at Noon",
+  "Dean Koontz",
+  "Dedication (publishing)",
+  "Diane Duane",
+  "Dingbat",
+  "Doi (identifier)",
+  "Dust jacket",
+  "E. L. Doctorow",
+  "Edition notice",
+  "Edward Gorey",
+  "Eleanor Roosevelt",
+  "Elizabeth C. Bunce",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigram",
+  "Epigraph (mathematics)",
+  "Epigraphy",
+  "Epilogue",
+  "Epitaph",
+  "Erratum",
+  "Ethiopia",
+  "Extra-illustration",
+  "F. Scott Fitzgerald",
+  "Flavor text",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Front matter",
+  "Georges Perec",
+  "Gloss (annotation)",
+  "Glossary",
+  "Gnosticism",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Hemistich",
+  "Historiated initial",
+  "Horace",
+  "Hunter S. Thompson",
+  "ISBN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Incipit",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "J. R. R. Tolkien",
+  "Jacob Boehme",
+  "Jasper Fforde",
+  "John Barth",
+  "John Green",
+  "Keynote",
+  "Lays of Ancient Rome",
+  "Le Samouraï",
+  "Leather",
+  "Life: A User's Manual",
+  "Literature",
+  "Louis Antoine de Saint-Just",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Monograph",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Paul Valéry",
+  "Poem",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Pull quote",
+  "Quotation",
+  "Ragtime (novel)",
+  "Recto and verso",
+  "Richard Adams",
+  "Rihannsu",
+  "Rings of Power",
+  "Romulan",
+  "Rubric",
+  "Rubrication",
+  "Samuel Johnson",
+  "Satires (Horace)",
+  "Scholia",
+  "Scott Joplin",
+  "Section (typography)",
+  "Slipcase",
+  "Star Trek",
+  "Stephen King",
+  "T. S. Eliot",
+  "Table of contents",
+  "Talladega Nights: The Ballad of Ricky Bobby",
+  "Text annotation",
+  "The Bohemian Review",
+  "The Book of Counted Sorrows",
+  "The Eyre Affair",
+  "The Fault in Our Stars",
+  "The Great Gatsby",
+  "The House of the Wolfings",
+  "The Lord of the Rings",
+  "The Love Song of J. Alfred Prufrock",
+  "The Stand",
+  "The Sum of All Fears",
+  "The Waste Land",
+  "The Way of the World",
+  "Theodore Herzl",
+  "Thermonuclear war",
+  "This Side of Paradise",
+  "Thomas Parke D'Invilliers",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Tom Clancy",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Watership Down",
+  "William Congreve",
+  "William Morris",
+  "Winston Churchill",
+  "Woodrow Wilson",
+  "Yuma Sun"
+ ],
+ "media": [
+  {
+   "caption": "Facsimile of the original title page for William Congreve's The Way of the World published in 1700, on which the epigraph from Horace's Satires can be seen in the bottom quarter.",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Way_of_the_World_cover_%28Congreve%2C_1700%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Way_of_the_World_cover_(Congreve,_1700).jpg",
+   "section_id": 0,
+   "th": 840,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Way_of_the_World_cover_%28Congreve%2C_1700%29.jpg/500px-Way_of_the_World_cover_%28Congreve%2C_1700%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Way_of_the_World_cover_(Congreve,_1700).jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Epigraph, consisting of an excerpt from the book itself, William Morris's The House of the Wolfings",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/0/01/House_of_the_Wolfings_Title_Page_1890.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:House_of_the_Wolfings_Title_Page_1890.jpg",
+   "section_id": 1,
+   "th": 701,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/House_of_the_Wolfings_Title_Page_1890.jpg/500px-House_of_the_Wolfings_Title_Page_1890.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:House_of_the_Wolfings_Title_Page_1890.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Epigraph and dedication page, The Waste Land",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/8/80/TheWasteLandEpigraph.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:TheWasteLandEpigraph.jpg",
+   "section_id": 1,
+   "th": 224,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/80/TheWasteLandEpigraph.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "title": "File:TheWasteLandEpigraph.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1395,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Way_of_the_World_cover_%28Congreve%2C_1700%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 830
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Epigraph_(literature)",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    156
+   ],
+   [
+    "2026-10-10",
+    126
+   ],
+   [
+    "2026-10-11",
+    150
+   ],
+   [
+    "2026-10-12",
+    156
+   ],
+   [
+    "2026-10-13",
+    148
+   ],
+   [
+    "2026-10-14",
+    165
+   ],
+   [
+    "2026-10-15",
+    156
+   ],
+   [
+    "2026-10-16",
+    128
+   ],
+   [
+    "2026-10-17",
+    130
+   ],
+   [
+    "2026-10-18",
+    139
+   ],
+   [
+    "2026-10-19",
+    165
+   ],
+   [
+    "2026-10-20",
+    150
+   ],
+   [
+    "2026-10-21",
+    148
+   ],
+   [
+    "2026-10-22",
+    152
+   ],
+   [
+    "2026-10-23",
+    140
+   ],
+   [
+    "2026-10-24",
+    130
+   ],
+   [
+    "2026-10-25",
+    152
+   ],
+   [
+    "2026-10-26",
+    147
+   ],
+   [
+    "2026-10-27",
+    153
+   ],
+   [
+    "2026-10-28",
+    143
+   ],
+   [
+    "2026-10-29",
+    143
+   ],
+   [
+    "2026-10-30",
+    132
+   ],
+   [
+    "2026-10-31",
+    133
+   ],
+   [
+    "2026-11-01",
+    157
+   ],
+   [
+    "2026-11-02",
+    167
+   ],
+   [
+    "2026-11-03",
+    145
+   ],
+   [
+    "2026-11-04",
+    139
+   ],
+   [
+    "2026-11-05",
+    145
+   ],
+   [
+    "2026-11-06",
+    144
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Examples",
+   "level": 2,
+   "line": "Examples",
+   "number": "1"
+  },
+  {
+   "anchor": "Fictional_quotations",
+   "level": 3,
+   "line": "Fictional quotations",
+   "number": "1.1"
+  },
+  {
+   "anchor": "In_films",
+   "level": 4,
+   "line": "In films",
+   "number": "1.1.1"
+  },
+  {
+   "anchor": "In_literature",
+   "level": 4,
+   "line": "In literature",
+   "number": "1.1.2"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "2"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "3"
+  },
+  {
+   "anchor": "Bibliography",
+   "level": 2,
+   "line": "Bibliography",
+   "number": "4"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "5"
+  }
+ ],
+ "summary_html": "<p>In literature, an <b>epigraph</b> is a phrase, quotation, or poem that is set at the beginning of a document, monograph or section or chapter thereof. The epigraph may serve as a preface to the work; as a summary; as a counter-example; or as a link from the work to a wider literary canon, with the purpose of either inviting comparison or enlisting a conventional context.</p>",
+ "summary_text": "In literature, an epigraph is a phrase, quotation, or poem that is set at the beginning of a document, monograph or section or chapter thereof. The epigraph may serve as a preface to the work; as a summary; as a counter-example; or as a link from the work to a wider literary canon, with the purpose of either inviting comparison or enlisting a conventional context.",
+ "templates": [
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/config",
+  "Book structure",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite AV media",
+  "Cite book",
+  "Cite journal",
+  "Cite web",
+  "Commons category",
+  "Commons link",
+  "Disambiguation/templates",
+  "Distinguish",
+  "Distinguish",
+  "EditAtWikidata",
+  "Format link",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Unicode data",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 807,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Way_of_the_World_cover_%28Congreve%2C_1700%29.jpg/500px-Way_of_the_World_cover_%28Congreve%2C_1700%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Epigraph (literature)",
+ "wikidata": {
+  "description": "short quotation or saying at the beginning of a book, chapter or article (use Q3589144 for inscription on an object)",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "literature term"
+    ]
+   },
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "PriestleyDoctrinePhilNec.jpg"
+    ]
+   }
+  ],
+  "id": "Q669777",
+  "label": "epigraph",
+  "sitelink_count": 37
+ }
+}

@@ -1,0 +1,683 @@
+{
+ "aliases": [
+  "Scholiast",
+  "Scholiasts",
+  "Scholion",
+  "Scholium"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 1206,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Scholia",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Scholia",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Christian genres",
+  "Classical philology",
+  "Elements of documents"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Scholia</span></span>",
+ "external_links": [
+  "http://www.classics.und.ac.za/reviews/",
+  "http://www.otago.ac.nz/Classics/scholia/",
+  "https://catalogue.bnf.fr/ark:/12148/cb11955170j",
+  "https://chs.harvard.edu/curated-article/gregory-nagy-hesiod-and-the-ancient-biographical-traditions/",
+  "https://d-nb.info/gnd/4193282-1",
+  "https://data.bnf.fr/ark:/12148/cb11955170j",
+  "https://doi.org/10.1090%2Fs0002-9904-1930-04907-1",
+  "https://euripidesscholia.org/",
+  "https://id.loc.gov/authorities/sh85118249",
+  "https://islamansiklopedisi.org.tr/serh",
+  "https://lux.collections.yale.edu/view/concept/ebe75485-94ce-433f-bfec-56b3c129b3dc",
+  "https://projecteuclid.org:443/euclid.bams/1183493827",
+  "https://web.archive.org/web/20010701084036/http://www.classics.und.ac.za/reviews/",
+  "https://web.archive.org/web/20200711054715/https://www.otago.ac.nz/classics/scholia/",
+  "https://www.nli.org.il/en/authorities/987007560700105171"
+ ],
+ "intro_text": "Scholia (sing.: scholium or scholion, from Ancient Greek: σχόλιον, \"comment\", \"interpretation\") are grammatical, critical, or explanatory comments – original or copied from prior commentaries – which are inserted in the margin of the manuscript of ancient authors, as glosses. One who writes scholia is a scholiast. The earliest attested use of the word dates to the 1st century BC.",
+ "key": "en/Scholia",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "af",
+   "title": "Skolion"
+  },
+  {
+   "lang": "ar",
+   "title": "تعليقة"
+  },
+  {
+   "lang": "az",
+   "title": "Sxoliya"
+  },
+  {
+   "lang": "ca",
+   "title": "Escolis"
+  },
+  {
+   "lang": "cs",
+   "title": "Scholion"
+  },
+  {
+   "lang": "da",
+   "title": "Scholia"
+  },
+  {
+   "lang": "de",
+   "title": "Scholion"
+  },
+  {
+   "lang": "el",
+   "title": "Σχόλια"
+  },
+  {
+   "lang": "eo",
+   "title": "Skolio"
+  },
+  {
+   "lang": "es",
+   "title": "Escolio"
+  },
+  {
+   "lang": "eu",
+   "title": "Eskolio"
+  },
+  {
+   "lang": "fa",
+   "title": "تعلیقه"
+  },
+  {
+   "lang": "fi",
+   "title": "Skolia"
+  },
+  {
+   "lang": "fr",
+   "title": "Scholie"
+  },
+  {
+   "lang": "he",
+   "title": "סכוליה"
+  },
+  {
+   "lang": "hu",
+   "title": "Szkolion"
+  },
+  {
+   "lang": "id",
+   "title": "Skholion"
+  },
+  {
+   "lang": "io",
+   "title": "Skolii"
+  },
+  {
+   "lang": "it",
+   "title": "Scolio"
+  },
+  {
+   "lang": "ja",
+   "title": "スコリア (注釈)"
+  },
+  {
+   "lang": "ka",
+   "title": "სქოლიო"
+  },
+  {
+   "lang": "la",
+   "title": "Scholium"
+  },
+  {
+   "lang": "nb",
+   "title": "Skolia"
+  },
+  {
+   "lang": "nl",
+   "title": "Scholion"
+  },
+  {
+   "lang": "pl",
+   "title": "Scholia"
+  },
+  {
+   "lang": "pt",
+   "title": "Escólio"
+  },
+  {
+   "lang": "ru",
+   "title": "Схолии"
+  },
+  {
+   "lang": "sh",
+   "title": "Sholije"
+  },
+  {
+   "lang": "sv",
+   "title": "Skolie"
+  },
+  {
+   "lang": "tr",
+   "title": "Şerh (Scholia)"
+  },
+  {
+   "lang": "uk",
+   "title": "Схолія"
+  },
+  {
+   "lang": "zh",
+   "title": "Scholia"
+  }
+ ],
+ "lead_image": {},
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Aelius Donatus",
+  "Aeneid",
+  "Afterword",
+  "American Philological Association",
+  "Ancient Greek language",
+  "Anthropodermic bibliopegy",
+  "Apollonius of Rhodes",
+  "Aristarchus of Samothrace",
+  "Aristophanes",
+  "Asconius Pedianus",
+  "Author page",
+  "Baruch Spinoza",
+  "Bernoulli process",
+  "Bibliography",
+  "Biblioteca Marciana",
+  "Body text",
+  "Boethius",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Brook Taylor",
+  "Buckram",
+  "Bulletin of the American Mathematical Society",
+  "Byzantine Empire under the Komnenos dynasty",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Cicero",
+  "Classics",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Continuous uniform distribution",
+  "Dedication (publishing)",
+  "Demetrius Triclinius",
+  "Dingbat",
+  "Doi (identifier)",
+  "Dust jacket",
+  "Edition notice",
+  "Eleanor Dickey",
+  "Encyclopædia Britannica Eleventh Edition",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Ernst Maass",
+  "Erratum",
+  "Ethics (Spinoza book)",
+  "Euclid's Elements",
+  "Eustathius of Thessalonica",
+  "Extra-illustration",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Gloss (annotation)",
+  "Glossary",
+  "Grammar",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Headword",
+  "Helenius Acron",
+  "Hesiod",
+  "Historiated initial",
+  "History of literature",
+  "Homer",
+  "Homeric scholarship",
+  "Horace",
+  "Hugh Chisholm",
+  "ISBN (identifier)",
+  "Iliad",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "In Toga Candida",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Jean-Baptiste-Gaspard d'Ansse de Villoison",
+  "Juvenal",
+  "Krazy Kat",
+  "Lactantius Placidus",
+  "Latin",
+  "Leather",
+  "Macrobius",
+  "Manuel Moschopoulos",
+  "Manuscript",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Nicolás Gómez Dávila",
+  "Nihil obstat",
+  "Note (typography)",
+  "OUP",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Palaeologan Renaissance",
+  "Paper marbling",
+  "Paperback",
+  "Parmenides (dialogue)",
+  "Pindar",
+  "Plato",
+  "Pomponius Porphyrion",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prior probability",
+  "Pro Milone",
+  "Proclus",
+  "Prologue",
+  "Public domain",
+  "Pull quote",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scholia (Wikidata)",
+  "Scolia (disambiguation)",
+  "Scoliosis",
+  "Section (typography)",
+  "Servius the Grammarian",
+  "Slipcase",
+  "Somnium Scipionis",
+  "Sophocles",
+  "Statius",
+  "Table of contents",
+  "Terence",
+  "Text annotation",
+  "Thomas Bayes",
+  "Thomas Magister",
+  "Thumb index",
+  "Timaeus (dialogue)",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Venetus A",
+  "Venice",
+  "Virgil",
+  "Wayback Machine",
+  "Wikidata"
+ ],
+ "media": [
+  {
+   "caption": "Ernst Maass, Scholia Graeca in Homeri Iliadem Townleyana (1887), a collection of scholia of Homer's Iliad",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Maass%2C_Ernst_%E2%80%93_Scholia_Graeca_in_Homeri_Iliadem_Townleyana%2C_1887_%E2%80%93_BEIC_3064427.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Maass,_Ernst_%E2%80%93_Scholia_Graeca_in_Homeri_Iliadem_Townleyana,_1887_%E2%80%93_BEIC_3064427.jpg",
+   "section_id": 1,
+   "th": 814,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Maass%2C_Ernst_%E2%80%93_Scholia_Graeca_in_Homeri_Iliadem_Townleyana%2C_1887_%E2%80%93_BEIC_3064427.jpg/500px-Maass%2C_Ernst_%E2%80%93_Scholia_Graeca_in_Homeri_Iliadem_Townleyana%2C_1887_%E2%80%93_BEIC_3064427.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Maass,_Ernst_–_Scholia_Graeca_in_Homeri_Iliadem_Townleyana,_1887_–_BEIC_3064427.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {},
+ "page_url": "https://en.wikipedia.org/wiki/Scholia",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    52
+   ],
+   [
+    "2026-10-10",
+    33
+   ],
+   [
+    "2026-10-11",
+    53
+   ],
+   [
+    "2026-10-12",
+    49
+   ],
+   [
+    "2026-10-13",
+    55
+   ],
+   [
+    "2026-10-14",
+    59
+   ],
+   [
+    "2026-10-15",
+    50
+   ],
+   [
+    "2026-10-16",
+    43
+   ],
+   [
+    "2026-10-17",
+    37
+   ],
+   [
+    "2026-10-18",
+    31
+   ],
+   [
+    "2026-10-19",
+    57
+   ],
+   [
+    "2026-10-20",
+    43
+   ],
+   [
+    "2026-10-21",
+    62
+   ],
+   [
+    "2026-10-22",
+    62
+   ],
+   [
+    "2026-10-23",
+    41
+   ],
+   [
+    "2026-10-24",
+    57
+   ],
+   [
+    "2026-10-25",
+    69
+   ],
+   [
+    "2026-10-26",
+    62
+   ],
+   [
+    "2026-10-27",
+    43
+   ],
+   [
+    "2026-10-28",
+    55
+   ],
+   [
+    "2026-10-29",
+    63
+   ],
+   [
+    "2026-10-30",
+    38
+   ],
+   [
+    "2026-10-31",
+    43
+   ],
+   [
+    "2026-11-01",
+    37
+   ],
+   [
+    "2026-11-02",
+    48
+   ],
+   [
+    "2026-11-03",
+    44
+   ],
+   [
+    "2026-11-04",
+    32
+   ],
+   [
+    "2026-11-05",
+    49
+   ],
+   [
+    "2026-11-06",
+    38
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "History",
+   "level": 2,
+   "line": "History",
+   "number": "1"
+  },
+  {
+   "anchor": "Important_sets_of_scholia",
+   "level": 2,
+   "line": "Important sets of scholia",
+   "number": "2"
+  },
+  {
+   "anchor": "Greek",
+   "level": 3,
+   "line": "Greek",
+   "number": "2.1"
+  },
+  {
+   "anchor": "Latin",
+   "level": 3,
+   "line": "Latin",
+   "number": "2.2"
+  },
+  {
+   "anchor": "List_of_ancient_commentaries",
+   "level": 2,
+   "line": "List of ancient commentaries",
+   "number": "3"
+  },
+  {
+   "anchor": "Other_uses",
+   "level": 2,
+   "line": "Other uses",
+   "number": "4"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "5"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "6"
+  },
+  {
+   "anchor": "Citations",
+   "level": 3,
+   "line": "Citations",
+   "number": "6.1"
+  },
+  {
+   "anchor": "Sources",
+   "level": 3,
+   "line": "Sources",
+   "number": "6.2"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "7"
+  }
+ ],
+ "summary_html": "<p><b>Scholia</b> are grammatical, critical, or explanatory comments – original or copied from prior commentaries – which are inserted in the margin of the manuscript of ancient authors, as glosses. One who writes scholia is a <b>scholiast</b>. The earliest attested use of the word dates to the 1st century BC.</p>",
+ "summary_text": "Scholia are grammatical, critical, or explanatory comments – original or copied from prior commentaries – which are inserted in the margin of the manuscript of ancient authors, as glosses. One who writes scholia is a scholiast. The earliest attested use of the word dates to the 1st century BC.",
+ "templates": [
+  "Abbreviation",
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/auxiliary",
+  "Authority control/config",
+  "Book structure",
+  "CS1 identifiers",
+  "Check for unknown parameters",
+  "Circa",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite EB1911",
+  "Cite encyclopedia",
+  "Cite journal",
+  "Cite web",
+  "Cite wikisource/make link",
+  "Crossreference",
+  "Crossreference/styles.css",
+  "DMCA",
+  "Dated maintenance category",
+  "Dated maintenance category (articles)",
+  "Disambiguation/templates",
+  "Distinguish",
+  "Distinguish",
+  "EB1911",
+  "EditAtWikidata",
+  "Encodefirst",
+  "FULLROOTPAGENAME",
+  "Format link",
+  "Hatnote",
+  "Hatnote inline",
+  "Hatnote inline",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "ISBN",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Lang/langx",
+  "Langx",
+  "Main other",
+  "MultiReplace",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Ns has subpages",
+  "Ns has subpages",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Refbegin",
+  "Refbegin/styles.css",
+  "Refend",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Singular",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister-inline",
+  "Sister-inline/styles.css",
+  "String",
+  "TableTools",
+  "Template wrapper",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Trim",
+  "Unicode data",
+  "Unsubst",
+  "Use dmy dates",
+  "Webarchive",
+  "Webarchive",
+  "Webarchive/data",
+  "Wikitext Parsing",
+  "Wiktionary inline",
+  "Wiktionary-inline",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {},
+ "title": "Scholia",
+ "wikidata": {
+  "description": "comments inserted in a written work, e.g. in ancient or medieval manuscripts",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "P. Oxy. 221.jpg"
+    ]
+   }
+  ],
+  "id": "Q1358144",
+  "label": "scholia",
+  "sitelink_count": 34
+ }
+}

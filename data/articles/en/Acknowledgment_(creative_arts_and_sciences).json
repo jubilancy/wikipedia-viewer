@@ -1,0 +1,542 @@
+{
+ "aliases": [
+  "Acknowledgement (creative arts)",
+  "Acknowledgement (science)",
+  "Acknowledgement (writing)",
+  "Acknowledgment (creative arts)",
+  "Acknowledgment (science)",
+  "Acknowledgment (writing)",
+  "Credit (creative arts)",
+  "Credit (writing)",
+  "Uncredited"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 92,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Acknowledgments",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Acknowledgment (creative arts and sciences)",
+  "tags": "Front matter"
+ },
+ "categories": [
+  "Academic publishing",
+  "Collaboration",
+  "Elements of documents",
+  "The arts"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Acknowledgment (creative arts and sciences)</span></span>",
+ "external_links": [
+  "http://clgiles.ist.psu.edu/papers/PNAS-2004-Acknowledgements.pdf",
+  "http://grammarist.com/spelling/acknowledgment-acknowledgement/",
+  "http://www.saber.ula.ve/handle/123456789/27464",
+  "https://books.google.com/books?id=HjmNAgAAQBAJ",
+  "https://dictionary.cambridge.org/dictionary/english/acknowledgment",
+  "https://doi.org/10.1002%2Fasi.20981",
+  "https://doi.org/10.1073%2Fpnas.0407743101",
+  "https://doi.org/10.1108%2Feb026893",
+  "https://doi.org/10.1145%2F1088622.1088627",
+  "https://pubmed.ncbi.nlm.nih.gov/15601767",
+  "https://ui.adsabs.harvard.edu/abs/2004PNAS..10117599G",
+  "https://web.archive.org/web/20160119122638/https://www.timeshighereducation.com/blog/best-academic-acknowledgements-ever",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539757",
+  "https://www.timeshighereducation.com/blog/best-academic-acknowledgements-ever"
+ ],
+ "intro_text": "In the creative arts and scientific literature, an acknowledgment (British English also acknowledgement) is an expression of a gratitude for assistance in creating an original work.\nReceiving credit by way of acknowledgment rather than authorship indicates that the person or organization did not have a direct hand in producing the work in question, but may have contributed funding, criticism, or encouragement to the author(s). Various schemes exist for classifying acknowledgments; Cronin et al. give the following six categories:\n\nmoral support\nfinancial support\neditorial support\npresentational support\ninstrumental/technical support\nconceptual support, or peer interactive communication (PIC)\nApart from citation, which is not usually considered to be an acknowledgment, acknowledgment of conceptual support is widely considered to be the most important for identifying intellectual debt. Some acknowledgments of financial support, on the other hand, may simply be legal formalities imposed by the granting institution. Occasionally, bits of science humor can also be found in acknowledgments.\nThere have been some attempts to extract bibliometric indices from the acknowledgments section (also called \"acknowledgments paratext\") of research papers to evaluate the impact of the acknowledged individuals, sponsors and funding agencies.",
+ "key": "en/Acknowledgment_(creative_arts_and_sciences)",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "شكر (فنون إبداعية وعلوم)"
+  },
+  {
+   "lang": "bn",
+   "title": "স্বীকৃতি (সৃজনশীল শিল্প ও বিজ্ঞান সম্পর্কিত)"
+  },
+  {
+   "lang": "de",
+   "title": "Danksagung (Wissenschaft)"
+  },
+  {
+   "lang": "es",
+   "title": "Agradecimientos (gesto de cortesía)"
+  },
+  {
+   "lang": "hi",
+   "title": "अभिस्वीकृति"
+  },
+  {
+   "lang": "ja",
+   "title": "クレジットタイトル"
+  },
+  {
+   "lang": "ta",
+   "title": "நன்றியுரை (நூல்)"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "H. Rider Haggard",
+  "author_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:H._Rider_Haggard\" class=\"extiw\" title=\"w:en:H. Rider Haggard\"><span title=\"English adventure novelist (1856–1925)\">H. Rider Haggard</span></a></bdi>",
+  "credit_html": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/kingsolomonsmine00hagguoft\">https://archive.org/details/kingsolomonsmine00hagguoft</a>",
+  "description": "1907 edition of King Solomon's Mines by Sir H. Rider Haggard; first published in 1885.",
+  "file": "King_Solomon's_Mines_(1907).djvu",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/vnd.djvu",
+  "page_url": "https://commons.wikimedia.org/wiki/File:King_Solomon%27s_Mines_(1907).djvu"
+ },
+ "links": [
+  "Acknowledgment index",
+  "Actor",
+  "Addendum",
+  "Afterword",
+  "American English",
+  "Anthropodermic bibliopegy",
+  "Arts",
+  "Attribution (copyright)",
+  "Australian English",
+  "Author page",
+  "BSD license",
+  "Bibcode (identifier)",
+  "Bibliography",
+  "Bibliometric",
+  "Billing (filmmaking)",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "British English",
+  "Buckram",
+  "Byline",
+  "Canadian English",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Character generator",
+  "Citation",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Computer software",
+  "Conclusion (book)",
+  "Copyright",
+  "Creative arts",
+  "Credits",
+  "Dedication (publishing)",
+  "Digital on-screen graphic",
+  "Dingbat",
+  "Doi (identifier)",
+  "Dust jacket",
+  "Editing",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Fiction",
+  "Film",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Funding",
+  "GNU Free Documentation License",
+  "Ghostwriter",
+  "Gloss (annotation)",
+  "Glossary",
+  "Grammarist",
+  "H. Rider Haggard",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "ISBN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Individual capital",
+  "Inhabited initial",
+  "Initial",
+  "Integrity",
+  "Intellectual property",
+  "Intellectual rights",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Journal of Documentation",
+  "Journal of the American Society for Information Science and Technology",
+  "King Solomon's Mines",
+  "Leather",
+  "Lee Giles",
+  "Lower third",
+  "Margin (typography)",
+  "Marginalia",
+  "McFarland & Company",
+  "Miniature (illuminated manuscript)",
+  "Moral support",
+  "Motion picture credits",
+  "Nihil obstat",
+  "Non-fiction",
+  "Note (typography)",
+  "PMC (identifier)",
+  "PMID (identifier)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Paratext",
+  "Pen name",
+  "Plagiarism",
+  "Pop-up book",
+  "Possessory credit",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Presentation",
+  "Printer's mark",
+  "Proceedings of the National Academy of Sciences of the United States of America",
+  "Production logo",
+  "Prologue",
+  "Pull quote",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Scientific citation",
+  "Scientific literature",
+  "Section (typography)",
+  "Signature block",
+  "Slipcase",
+  "Software documentation",
+  "Software license",
+  "Table of contents",
+  "Technical support",
+  "Television",
+  "Text annotation",
+  "Theater",
+  "Thumb index",
+  "Times Higher Education",
+  "Tipped-in page",
+  "Title page",
+  "Title sequence",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Video",
+  "WGA screenwriting credit system",
+  "Wikipedia"
+ ],
+ "media": [
+  {
+   "caption": "King Solomon's Mines, H. Rider Haggard (1885)",
+   "lead": true,
+   "mime": "image/vnd.djvu",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/b/b5/King_Solomon%27s_Mines_%281907%29.djvu?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:King_Solomon%27s_Mines_(1907).djvu",
+   "section_id": 0,
+   "th": 900,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/King_Solomon%27s_Mines_%281907%29.djvu/page1-500px-King_Solomon%27s_Mines_%281907%29.djvu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:King_Solomon's_Mines_(1907).djvu",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 3418,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/King_Solomon%27s_Mines_%281907%29.djvu?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1898
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Acknowledgment_(creative_arts_and_sciences)",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    7
+   ],
+   [
+    "2026-10-10",
+    14
+   ],
+   [
+    "2026-10-11",
+    7
+   ],
+   [
+    "2026-10-12",
+    14
+   ],
+   [
+    "2026-10-13",
+    10
+   ],
+   [
+    "2026-10-14",
+    10
+   ],
+   [
+    "2026-10-15",
+    11
+   ],
+   [
+    "2026-10-16",
+    2
+   ],
+   [
+    "2026-10-17",
+    8
+   ],
+   [
+    "2026-10-18",
+    5
+   ],
+   [
+    "2026-10-19",
+    7
+   ],
+   [
+    "2026-10-20",
+    12
+   ],
+   [
+    "2026-10-21",
+    12
+   ],
+   [
+    "2026-10-22",
+    6
+   ],
+   [
+    "2026-10-23",
+    12
+   ],
+   [
+    "2026-10-24",
+    7
+   ],
+   [
+    "2026-10-25",
+    16
+   ],
+   [
+    "2026-10-26",
+    15
+   ],
+   [
+    "2026-10-27",
+    13
+   ],
+   [
+    "2026-10-28",
+    12
+   ],
+   [
+    "2026-10-29",
+    10
+   ],
+   [
+    "2026-10-30",
+    13
+   ],
+   [
+    "2026-10-31",
+    8
+   ],
+   [
+    "2026-11-01",
+    11
+   ],
+   [
+    "2026-11-02",
+    4
+   ],
+   [
+    "2026-11-03",
+    8
+   ],
+   [
+    "2026-11-04",
+    7
+   ],
+   [
+    "2026-11-05",
+    6
+   ],
+   [
+    "2026-11-06",
+    6
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Spelling",
+   "level": 2,
+   "line": "Spelling",
+   "number": "1"
+  },
+  {
+   "anchor": "Credit_in_the_arts",
+   "level": 2,
+   "line": "Credit in the arts",
+   "number": "2"
+  },
+  {
+   "anchor": "Non-fiction",
+   "level": 3,
+   "line": "Non-fiction",
+   "number": "2.1"
+  },
+  {
+   "anchor": "In_fiction",
+   "level": 3,
+   "line": "In fiction",
+   "number": "2.2"
+  },
+  {
+   "anchor": "In_computing",
+   "level": 2,
+   "line": "In computing",
+   "number": "3"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "4"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "5"
+  }
+ ],
+ "summary_html": "<p>In the creative arts and scientific literature, an <b>acknowledgment</b> is an expression of a gratitude for assistance in creating an original work.</p>",
+ "summary_text": "In the creative arts and scientific literature, an acknowledgment is an expression of a gratitude for assistance in creating an original work.",
+ "templates": [
+  "About",
+  "About",
+  "Arguments",
+  "Book structure",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite conference",
+  "Cite journal",
+  "Cite web",
+  "DMCA",
+  "Dated maintenance category",
+  "Dated maintenance category (articles)",
+  "Disambiguation/templates",
+  "Div col",
+  "Div col end",
+  "Div col/styles.css",
+  "FULLROOTPAGENAME",
+  "Format link",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Labelled list hatnote",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Ns has subpages",
+  "Ns has subpages",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "See also",
+  "Seealso",
+  "Short description",
+  "Short description/lowercasecheck",
+  "String",
+  "TableTools",
+  "Unicode data",
+  "Unsubst",
+  "Use mdy dates",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 864,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/King_Solomon%27s_Mines_%281907%29.djvu/page1-500px-King_Solomon%27s_Mines_%281907%29.djvu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Acknowledgment (creative arts and sciences)",
+ "wikidata": {
+  "description": "written expression of gratitude for assistance in creating a work",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "literary genre"
+    ]
+   }
+  ],
+  "id": "Q4674287",
+  "label": "acknowledgment",
+  "sitelink_count": 9
+ }
+}

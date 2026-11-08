@@ -1,0 +1,729 @@
+{
+ "aliases": [
+  "Frontispage",
+  "Frontispice",
+  "Frontispiece (book)",
+  "Frontispiece (books)",
+  "Frontispiz (books)"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 616,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Frontispiece",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Book frontispiece",
+  "tags": "Front matter"
+ },
+ "categories": [
+  "Book design",
+  "Book terminology",
+  "Illustration",
+  "Typography"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Book frontispiece</span></span>",
+ "external_links": [
+  "https://babel.hathitrust.org/cgi/pt?id=uc1.b3924121;view=1up;seq=80",
+  "https://catalogue.bnf.fr/ark:/12148/cb13318317s",
+  "https://d-nb.info/gnd/4155493-0",
+  "https://data.bnf.fr/ark:/12148/cb13318317s",
+  "https://datos.bne.es/resource/XX6320543",
+  "https://id.loc.gov/authorities/sh85052080",
+  "https://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/94303/rec/1",
+  "https://lux.collections.yale.edu/view/concept/20909362-e2a2-4e5a-85a3-58f18c5ca260",
+  "https://sites.lsa.umich.edu/khamseen/terms/2021/frontispiece/",
+  "https://www.worldwidewords.org/weirdwords/ww-fro1.htm"
+ ],
+ "intro_text": "A frontispiece in books is a decorative or informative illustration facing a book's title page, usually on the left-hand, or verso, page opposite the right-hand, or recto page of a book. \nIn some ancient editions or in modern luxury editions, the frontispiece features thematic or allegorical elements; in others, the author's portrait appears as the frontispiece. \nIn medieval illuminated manuscripts, a presentation miniature showing the book or text being presented (by whom and to whom varies) was often used as a frontispiece.",
+ "key": "en/Book_frontispiece",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "as",
+   "title": "মুখচ্ছবি (গ্ৰন্থ)"
+  },
+  {
+   "lang": "be",
+   "title": "Франтыспіс"
+  },
+  {
+   "lang": "be-tarask",
+   "title": "Франтысьпіс"
+  },
+  {
+   "lang": "ca",
+   "title": "Frontispici (arts gràfiques)"
+  },
+  {
+   "lang": "cs",
+   "title": "Frontispis"
+  },
+  {
+   "lang": "da",
+   "title": "Frontispice (bog)"
+  },
+  {
+   "lang": "de",
+   "title": "Frontispiz"
+  },
+  {
+   "lang": "el",
+   "title": "Προμετωπίδα"
+  },
+  {
+   "lang": "eo",
+   "title": "Frontispico"
+  },
+  {
+   "lang": "es",
+   "title": "Frontispicio (parte del libro)"
+  },
+  {
+   "lang": "et",
+   "title": "Frontispiss"
+  },
+  {
+   "lang": "fr",
+   "title": "Frontispice (illustration)"
+  },
+  {
+   "lang": "ia",
+   "title": "Frontispicio (libro)"
+  },
+  {
+   "lang": "id",
+   "title": "Ilustrasi depan (buku)"
+  },
+  {
+   "lang": "it",
+   "title": "Antiporta (stampa)"
+  },
+  {
+   "lang": "ja",
+   "title": "扉絵"
+  },
+  {
+   "lang": "ka",
+   "title": "ფრონტისპისი"
+  },
+  {
+   "lang": "kk",
+   "title": "Фронтиспис"
+  },
+  {
+   "lang": "ky",
+   "title": "Фронтиспис"
+  },
+  {
+   "lang": "lb",
+   "title": "Frontispice"
+  },
+  {
+   "lang": "nb",
+   "title": "Frontispis (bok)"
+  },
+  {
+   "lang": "nl",
+   "title": "Frontispice (boek)"
+  },
+  {
+   "lang": "pl",
+   "title": "Frontyspis"
+  },
+  {
+   "lang": "pt",
+   "title": "Frontispício (livro)"
+  },
+  {
+   "lang": "ru",
+   "title": "Фронтиспис"
+  },
+  {
+   "lang": "simple",
+   "title": "Book frontispiece"
+  },
+  {
+   "lang": "sl",
+   "title": "Frontispic (knjiga)"
+  },
+  {
+   "lang": "sv",
+   "title": "Frontespis (typografi)"
+  },
+  {
+   "lang": "ta",
+   "title": "அந்தலைத்தாள்"
+  },
+  {
+   "lang": "tr",
+   "title": "Cephe (kitap tasarımı)"
+  },
+  {
+   "lang": "uk",
+   "title": "Фронтиспіс"
+  },
+  {
+   "lang": "ur",
+   "title": "پیش تصویر"
+  },
+  {
+   "lang": "uz",
+   "title": "Frontispis"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "William Blake",
+  "author_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:William_Blake\" class=\"extiw\" title=\"w:en:William Blake\"><span title=\"English poet and artist (1757–1827)\">William Blake</span></a></bdi>",
+  "credit_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:William_Blake_Archive\" class=\"extiw\" title=\"w:en:William Blake Archive\"><span title=\"digital humanities project first created in 1996\">The William Blake Archive</span></a>\n</bdi>",
+  "description": "Milton a Poem copy D 1818",
+  "file": "Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Allegory",
+  "Anthropodermic bibliopegy",
+  "Augustus William, Duke of Brunswick-Wolfenbüttel",
+  "Author page",
+  "Benoît de Maillet",
+  "Bibliography",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Colophon (publishing)",
+  "Column",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Dedication (publishing)",
+  "Dingbat",
+  "Dust jacket",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Engraving",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Extra-illustration",
+  "Façade",
+  "Folk etymology",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "French language",
+  "Frontispiece (architecture)",
+  "Frontispiece (disambiguation)",
+  "Georges-Louis Leclerc, Comte de Buffon",
+  "Germain Brice",
+  "Gloss (annotation)",
+  "Glossary",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Hensleigh Wedgwood",
+  "Historiated initial",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Introduction (writing)",
+  "Italian language",
+  "Johann Elert Bode",
+  "Johannes Kepler",
+  "Late Latin",
+  "Latin",
+  "Leather",
+  "Margin (typography)",
+  "Marginalia",
+  "Matthias Klostermayr",
+  "Metoposcopy",
+  "Milton: A Poem in Two Books",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Pediment",
+  "Pierre Victor, baron de Besenval de Brünstatt",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Presentation miniature",
+  "Printer's mark",
+  "Prologue",
+  "Pull quote",
+  "Recto",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (typography)",
+  "Shamsa",
+  "Slipcase",
+  "Synonym",
+  "Table of contents",
+  "Text annotation",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "Verso",
+  "William Blake",
+  "William Ferrel",
+  "Yung Wing"
+ ],
+ "media": [
+  {
+   "caption": "A frontispiece painted by William Blake for his Milton a Poem, published in 1810",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg",
+   "section_id": 0,
+   "th": 710,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg/500px-Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/a/af/Klostermayr_Titel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Klostermayr_Titel.jpg",
+   "section_id": 2,
+   "th": 408,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Klostermayr_Titel.jpg/500px-Klostermayr_Titel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Klostermayr_Titel.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/8/80/Yung_Wing_Frontispiece_Title_page_My_Life_in_China_and_America_1909_FRD_4824.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Yung_Wing_Frontispiece_Title_page_My_Life_in_China_and_America_1909_FRD_4824.jpg",
+   "section_id": 2,
+   "th": 395,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Yung_Wing_Frontispiece_Title_page_My_Life_in_China_and_America_1909_FRD_4824.jpg/500px-Yung_Wing_Frontispiece_Title_page_My_Life_in_China_and_America_1909_FRD_4824.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Yung_Wing_Frontispiece_Title_page_My_Life_in_China_and_America_1909_FRD_4824.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ferrel-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Ferrel-2.jpg",
+   "section_id": 2,
+   "th": 391,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ferrel-2.jpg/500px-Ferrel-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Ferrel-2.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Maillet-3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Maillet-3.jpg",
+   "section_id": 2,
+   "th": 458,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Maillet-3.jpg/500px-Maillet-3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Maillet-3.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/1/14/Kepler-6.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Kepler-6.jpg",
+   "section_id": 2,
+   "th": 397,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Kepler-6.jpg/500px-Kepler-6.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Kepler-6.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/9/96/Carus-4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Carus-4.jpg",
+   "section_id": 2,
+   "th": 454,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Carus-4.jpg/500px-Carus-4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Carus-4.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Buffon-1-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Buffon-1-2.jpg",
+   "section_id": 2,
+   "th": 466,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Buffon-1-2.jpg/500px-Buffon-1-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Buffon-1-2.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bode-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Bode-2.jpg",
+   "section_id": 2,
+   "th": 816,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bode-2.jpg/500px-Bode-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Bode-2.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Memoiren_Baron_de_Besenval_Erstausgabe_von_1805.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Memoiren_Baron_de_Besenval_Erstausgabe_von_1805.jpg",
+   "section_id": 2,
+   "th": 409,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Memoiren_Baron_de_Besenval_Erstausgabe_von_1805.jpg/500px-Memoiren_Baron_de_Besenval_Erstausgabe_von_1805.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Memoiren_Baron_de_Besenval_Erstausgabe_von_1805.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Germain_Brice_edition_1717_print_dedicated_to_the_Herzog_von_Braunschweig.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Germain_Brice_edition_1717_print_dedicated_to_the_Herzog_von_Braunschweig.jpg",
+   "section_id": 2,
+   "th": 463,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Germain_Brice_edition_1717_print_dedicated_to_the_Herzog_von_Braunschweig.jpg/500px-Germain_Brice_edition_1717_print_dedicated_to_the_Herzog_von_Braunschweig.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Germain_Brice_edition_1717_print_dedicated_to_the_Herzog_von_Braunschweig.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1964,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1384
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Book_frontispiece",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    80
+   ],
+   [
+    "2026-10-10",
+    59
+   ],
+   [
+    "2026-10-11",
+    61
+   ],
+   [
+    "2026-10-12",
+    72
+   ],
+   [
+    "2026-10-13",
+    62
+   ],
+   [
+    "2026-10-14",
+    73
+   ],
+   [
+    "2026-10-15",
+    70
+   ],
+   [
+    "2026-10-16",
+    86
+   ],
+   [
+    "2026-10-17",
+    58
+   ],
+   [
+    "2026-10-18",
+    71
+   ],
+   [
+    "2026-10-19",
+    68
+   ],
+   [
+    "2026-10-20",
+    72
+   ],
+   [
+    "2026-10-21",
+    69
+   ],
+   [
+    "2026-10-22",
+    76
+   ],
+   [
+    "2026-10-23",
+    77
+   ],
+   [
+    "2026-10-24",
+    70
+   ],
+   [
+    "2026-10-25",
+    78
+   ],
+   [
+    "2026-10-26",
+    62
+   ],
+   [
+    "2026-10-27",
+    65
+   ],
+   [
+    "2026-10-28",
+    75
+   ],
+   [
+    "2026-10-29",
+    81
+   ],
+   [
+    "2026-10-30",
+    77
+   ],
+   [
+    "2026-10-31",
+    57
+   ],
+   [
+    "2026-11-01",
+    69
+   ],
+   [
+    "2026-11-02",
+    72
+   ],
+   [
+    "2026-11-03",
+    80
+   ],
+   [
+    "2026-11-04",
+    73
+   ],
+   [
+    "2026-11-05",
+    75
+   ],
+   [
+    "2026-11-06",
+    57
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Etymology",
+   "level": 2,
+   "line": "Etymology",
+   "number": "1"
+  },
+  {
+   "anchor": "Examples_gallery",
+   "level": 2,
+   "line": "Examples gallery",
+   "number": "2"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "3"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "4"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "5"
+  }
+ ],
+ "summary_html": "<p>A <b>frontispiece</b> in books is a decorative or informative illustration facing a book's title page, usually on the left-hand, or verso, page opposite the right-hand, or recto page of a book.</p>",
+ "summary_text": "A frontispiece in books is a decorative or informative illustration facing a book's title page, usually on the left-hand, or verso, page opposite the right-hand, or recto page of a book.",
+ "templates": [
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/auxiliary",
+  "Authority control/config",
+  "Book structure",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite journal",
+  "Cite web",
+  "Disambiguation/templates",
+  "EditAtWikidata",
+  "Encodefirst",
+  "Format link",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "MultiReplace",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Other uses",
+  "Other uses",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "Sister project",
+  "Sister project logo",
+  "Sister project logo/data",
+  "Sister project/styles.css",
+  "String",
+  "TableTools",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Trim",
+  "Unicode data",
+  "Wikitext Parsing",
+  "Wiktionary",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {
+  "height": 681,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg/500px-Milton_a_Poem_copy_D_1818_Library_of_Congress_object_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Book frontispiece",
+ "wikidata": {
+  "description": "illustration facing a book's title page",
+  "facts": [
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "Klostermayr Titel.jpg"
+    ]
+   }
+  ],
+  "id": "Q583866",
+  "label": "frontispiece",
+  "sitelink_count": 35
+ }
+}

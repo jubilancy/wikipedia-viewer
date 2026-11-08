@@ -1,0 +1,634 @@
+{
+ "aliases": [
+  "Column gutter",
+  "Column number",
+  "Column of text",
+  "Column width",
+  "Double columns",
+  "Faux column",
+  "Faux columns",
+  "Gutter (typography)"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 255,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Column",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Column (typography)",
+  "tags": "Page layout and typography"
+ },
+ "categories": [
+  "Page layout",
+  "Typography"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Column (typography)</span></span>",
+ "external_links": [
+  "http://caniuse.com/multicolumn",
+  "http://wayback.vefsafn.is/wayback/20051105175233/http://glish.com/css/",
+  "http://www.glish.com/css/",
+  "http://www.w3.org/TR/css3-multicol/",
+  "http://www.wisegeek.com/in-typography-what-are-gutters.htm",
+  "https://api.parliament.uk/historic-hansard/commons/1834/jun/27/poor-laws-amendment-report#S3V0024P0_18340627_HOC_31",
+  "https://proximasoftware.com/fontexpert/terms/"
+ ],
+ "intro_text": "In typography, a column is one or more vertical blocks of content positioned on a page, separated by gutters or alleys (vertical whitespace) or rules (thin lines, in this case vertical). Columns are most commonly used to break up large bodies of text that cannot fit in a single block of text on a page. Additionally, columns are used to improve page composition and readability. \nNewspapers very frequently use complex multi-column layouts to break up different stories and longer bodies of texts within a story. Column can also more generally refer to the vertical delineations created by a typographic grid system in which type and image may be positioned.  In page layout, the whitespace on the outside of the page (bounding the first and last columns) are known as margins; the gap between two facing pages is also considered a gutter, since there are columns on both sides.  (Any gutter can also be referred to as a margin, but exterior and horizontal margins are not gutters.)\nIn some cases, column numbers are provided to improve specifying the in-source location in addition to or in the absence of page numbers in serial publications, legal documents and patents. Historically, column designations were abbreviated \"c\" (singular) or \"cc\" (plural), i.e. \"c130\" or \"cc130–136\".\n\n",
+ "key": "en/Column_(typography)",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "de",
+   "title": "Spaltensatz"
+  },
+  {
+   "lang": "eo",
+   "title": "Kolumno"
+  },
+  {
+   "lang": "es",
+   "title": "Columna (tipografía)"
+  },
+  {
+   "lang": "et",
+   "title": "Veerg"
+  },
+  {
+   "lang": "fa",
+   "title": "ستون (نویسه‌نگاری)"
+  },
+  {
+   "lang": "io",
+   "title": "Kolumno"
+  },
+  {
+   "lang": "ja",
+   "title": "段組"
+  },
+  {
+   "lang": "ko",
+   "title": "단 (인쇄)"
+  },
+  {
+   "lang": "nb",
+   "title": "Spalte"
+  },
+  {
+   "lang": "pl",
+   "title": "Łam"
+  }
+ ],
+ "lead_image": {
+  "attribution": "I, Andrew c",
+  "author": "Andrew c",
+  "author_html": "<a href=\"//commons.wikimedia.org/wiki/User:Andrew_c\" title=\"User:Andrew c\">Andrew c</a>",
+  "credit_html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+  "description": "This is an example of a two column layout. The image is a mock up and does not represent an actual book. The body copy was taken from Oscar Wilde's Soul of Man Under Socialism which is in the public domain, and the caption is from the en.wikipedia article on the same title. This was designed in InDesign CS2. The body text is Berthold Baskerville Book 8/12, while the caption is Adobe Garamond Pro 6/7.",
+  "file": "Two-column-layout.png",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "mime": "image/png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Two-column-layout.png"
+ },
+ "links": [
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "Agate (typography)",
+  "All caps",
+  "Anthropodermic bibliopegy",
+  "Antiqua (typeface class)",
+  "Arabic typography",
+  "Ascender (typography)",
+  "Author page",
+  "Baseline (typography)",
+  "Bastarda",
+  "Bibliography",
+  "Blackboard bold",
+  "Blackletter",
+  "Body height (typography)",
+  "Body text",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Bullet (typography)",
+  "Bézier curve",
+  "Calligraphy",
+  "Camel case",
+  "Canons of page construction",
+  "Cap height",
+  "Capitalization",
+  "Cascading Style Sheets",
+  "Catchword",
+  "Chapter (books)",
+  "Character encoding",
+  "Characters per line",
+  "Cicero (typography)",
+  "Colophon (publishing)",
+  "Color printing",
+  "Column inch",
+  "Composing stick",
+  "Computer font",
+  "Conclusion (book)",
+  "Content (media)",
+  "Counter (typography)",
+  "Cyrillic typography",
+  "Dash",
+  "Dedication (publishing)",
+  "Descender",
+  "Desktop publishing",
+  "Diacritic",
+  "Didone (typography)",
+  "Digital typography",
+  "Dingbat",
+  "Display typeface",
+  "Dust jacket",
+  "East Asian typography",
+  "Edition notice",
+  "Em (typography)",
+  "Emphasis (typography)",
+  "En (typography)",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Etaoin shrdlu",
+  "Even working",
+  "Extra-illustration",
+  "Fat face",
+  "Figure space",
+  "Font",
+  "Font catalog",
+  "Font hinting",
+  "Font metrics",
+  "Font rasterization",
+  "For position only",
+  "Fore-edge painting",
+  "Foreword",
+  "Fraktur",
+  "Gaelic type",
+  "Gloss (annotation)",
+  "Glossary",
+  "Glyph",
+  "HTML",
+  "Half-title",
+  "Handwriting",
+  "Handwriting script",
+  "Hanging punctuation",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "History of Western typography",
+  "Hyphen",
+  "Hyphen-minus",
+  "ISBN (identifier)",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Ink trap",
+  "Insular script",
+  "Intellectual property protection of typefaces",
+  "Intentionally blank page",
+  "Interpunct",
+  "Introduction (writing)",
+  "Italic type",
+  "Kerning",
+  "Leader (typography)",
+  "Leading",
+  "Leather",
+  "Legal citation",
+  "Letter case",
+  "Letter spacing",
+  "Lettering",
+  "Letterpress printing",
+  "Ligature (writing)",
+  "Line length",
+  "List of typefaces",
+  "List of typographic features",
+  "List of typographical symbols and punctuation marks",
+  "Lorem ipsum",
+  "Margin (typography)",
+  "Marginalia",
+  "Mean line",
+  "Metric typographic units",
+  "Microprinting",
+  "Microtypography",
+  "Miniature (illuminated manuscript)",
+  "Monospaced font",
+  "Movable type",
+  "National Fonts",
+  "National and University Library of Iceland",
+  "Nihil obstat",
+  "Note (typography)",
+  "Oblique type",
+  "Overshoot (typography)",
+  "PT Fonts",
+  "Page (paper)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page number",
+  "Page numbering",
+  "Pagination",
+  "Pangram",
+  "Paper marbling",
+  "Paper size",
+  "Paperback",
+  "Paragraph",
+  "Patent",
+  "Penmanship",
+  "Philip Meggs",
+  "Phototypesetting",
+  "Pica (unit)",
+  "Pitch (typewriter)",
+  "Point (typography)",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preface",
+  "Printer's mark",
+  "Prologue",
+  "Pull quote",
+  "Punchcutting",
+  "Punctuation",
+  "Record type",
+  "Recto and verso",
+  "Reverse-contrast typefaces",
+  "Reversing type",
+  "River (typography)",
+  "Rob Carter",
+  "Roman type",
+  "Rotated letter",
+  "Rotunda (script)",
+  "Rubric",
+  "Rubrication",
+  "Runaround (typography)",
+  "Runt (typography)",
+  "Sans-serif",
+  "Scholia",
+  "Schwabacher",
+  "Script typeface",
+  "Section (typography)",
+  "Sentence spacing",
+  "Serial publication",
+  "Serif",
+  "Slab serif",
+  "Slipcase",
+  "Small caps",
+  "Snake case",
+  "Sort (typesetting)",
+  "Space (punctuation)",
+  "Stick (unit)",
+  "Style guide",
+  "Subscript and superscript",
+  "Swash (typography)",
+  "Table (HTML)",
+  "Table of contents",
+  "Technical lettering",
+  "Text annotation",
+  "Text figures",
+  "Text shaping",
+  "Thai typography",
+  "Thin space",
+  "Thumb index",
+  "Tipped-in page",
+  "Title case",
+  "Title page",
+  "Tittle",
+  "Traditional point-size names",
+  "Treasure binding",
+  "Twip",
+  "Type color",
+  "Type design",
+  "Type foundry",
+  "Typeface",
+  "Typeface anatomy",
+  "Typesetting",
+  "Typographic alignment",
+  "Typographic unit",
+  "Typography",
+  "Uncial script",
+  "Underscore",
+  "Vertical bar",
+  "Vox-ATypI classification",
+  "Web design",
+  "Web typography",
+  "White space (visual arts)",
+  "Whitespace character",
+  "Widows and orphans",
+  "Word spacing",
+  "X-height"
+ ],
+ "media": [
+  {
+   "caption": "An example of a two-column layout (double folio) with caption.",
+   "lead": true,
+   "mime": "image/png",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Two-column-layout.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Two-column-layout.png",
+   "section_id": 0,
+   "th": 811,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Two-column-layout.png/500px-Two-column-layout.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Two-column-layout.png",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1025,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Two-column-layout.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 632
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Column_(typography)",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    7
+   ],
+   [
+    "2026-10-10",
+    9
+   ],
+   [
+    "2026-10-11",
+    4
+   ],
+   [
+    "2026-10-12",
+    12
+   ],
+   [
+    "2026-10-13",
+    10
+   ],
+   [
+    "2026-10-14",
+    10
+   ],
+   [
+    "2026-10-15",
+    8
+   ],
+   [
+    "2026-10-16",
+    12
+   ],
+   [
+    "2026-10-17",
+    11
+   ],
+   [
+    "2026-10-18",
+    10
+   ],
+   [
+    "2026-10-19",
+    10
+   ],
+   [
+    "2026-10-20",
+    16
+   ],
+   [
+    "2026-10-21",
+    14
+   ],
+   [
+    "2026-10-22",
+    11
+   ],
+   [
+    "2026-10-23",
+    13
+   ],
+   [
+    "2026-10-24",
+    12
+   ],
+   [
+    "2026-10-25",
+    6
+   ],
+   [
+    "2026-10-26",
+    8
+   ],
+   [
+    "2026-10-27",
+    13
+   ],
+   [
+    "2026-10-28",
+    11
+   ],
+   [
+    "2026-10-29",
+    3
+   ],
+   [
+    "2026-10-30",
+    8
+   ],
+   [
+    "2026-10-31",
+    2
+   ],
+   [
+    "2026-11-01",
+    6
+   ],
+   [
+    "2026-11-02",
+    13
+   ],
+   [
+    "2026-11-03",
+    3
+   ],
+   [
+    "2026-11-04",
+    8
+   ],
+   [
+    "2026-11-05",
+    14
+   ],
+   [
+    "2026-11-06",
+    9
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Typographic_style",
+   "level": 2,
+   "line": "Typographic style",
+   "number": "1"
+  },
+  {
+   "anchor": "Web_layout",
+   "level": 2,
+   "line": "Web layout",
+   "number": "2"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "3"
+  },
+  {
+   "anchor": "Notes",
+   "level": 2,
+   "line": "Notes",
+   "number": "4"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "5"
+  }
+ ],
+ "summary_html": "<p>In typography, a <b>column</b> is one or more vertical blocks of content positioned on a page, separated by <b>gutters</b> or <i>alleys</i> or <i>rules</i>. Columns are most commonly used to break up large bodies of text that cannot fit in a single block of text on a page. Additionally, columns are used to improve page composition and readability.</p>",
+ "summary_text": "In typography, a column is one or more vertical blocks of content positioned on a page, separated by gutters or alleys or rules. Columns are most commonly used to break up large bodies of text that cannot fit in a single block of text on a page. Additionally, columns are used to improve page composition and readability.",
+ "templates": [
+  "Anl",
+  "Annotated link",
+  "Annotated link",
+  "Arguments",
+  "Book structure",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Characters per line",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite journal",
+  "Cite web",
+  "Column inch",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "Fix",
+  "Fix/category",
+  "Font metrics",
+  "Format link",
+  "Further",
+  "GetShortDescription",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Labelled list hatnote",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Line length",
+  "Main other",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Not in body",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Refbegin",
+  "Refbegin/styles.css",
+  "Refend",
+  "SDcat",
+  "SDcat",
+  "See",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Snd",
+  "Spaced en dash",
+  "String",
+  "TableTools",
+  "Typeface anatomy",
+  "Typography",
+  "Typography terms",
+  "Unicode data",
+  "Unsubst",
+  "Webarchive",
+  "Webarchive",
+  "Webarchive/data",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 778,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Two-column-layout.png/500px-Two-column-layout.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Column (typography)",
+ "wikidata": {
+  "description": "typography",
+  "facts": [],
+  "id": "Q2306599",
+  "label": "column",
+  "sitelink_count": 11
+ }
+}

@@ -1,0 +1,493 @@
+{
+ "aliases": [
+  "Introduction (book)",
+  "Introduction (essay)",
+  "Prolegomena",
+  "Prolegomenon"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 110,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-08",
+  "bookmark_title": "Introduction",
+  "lists": "literature",
+  "notes": "",
+  "requested_titles": "Introduction (writing)",
+  "tags": "Front matter"
+ },
+ "categories": [
+  "Elements of documents",
+  "Literary theory"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Introduction (writing)</span></span>",
+ "external_links": [
+  "http://www.writing.utoronto.ca/advice/planning-and-organizing/intros-and-conclusions",
+  "https://publish.acs.org/publish/author_guidelines?coden=bichaw#journal_scope",
+  "https://www.aapt.org/Publications/AJP/Contributors/Formatting_the_manuscript.cfm"
+ ],
+ "intro_text": "In an essay, article, or book, an introduction (also known as a prolegomenon) is a beginning section which states the purpose and goals of the following writing.  This is generally followed by the body and conclusion.",
+ "key": "en/Introduction_(writing)",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ast",
+   "title": "Introducción"
+  },
+  {
+   "lang": "bg",
+   "title": "Увод"
+  },
+  {
+   "lang": "ca",
+   "title": "Introducció (arts gràfiques)"
+  },
+  {
+   "lang": "es",
+   "title": "Introducción"
+  },
+  {
+   "lang": "fa",
+   "title": "پیش‌گفتار"
+  },
+  {
+   "lang": "fr",
+   "title": "Introduction (littérature)"
+  },
+  {
+   "lang": "fy",
+   "title": "Ynlieding"
+  },
+  {
+   "lang": "hi",
+   "title": "प्रस्तावना"
+  },
+  {
+   "lang": "hy",
+   "title": "Առաջաբան"
+  },
+  {
+   "lang": "ja",
+   "title": "緒論"
+  },
+  {
+   "lang": "ko",
+   "title": "서언"
+  },
+  {
+   "lang": "nl",
+   "title": "Inleiding"
+  },
+  {
+   "lang": "ru",
+   "title": "Введение"
+  },
+  {
+   "lang": "sd",
+   "title": "مقدمو"
+  },
+  {
+   "lang": "ta",
+   "title": "அறிமுகம் (நூல்)"
+  },
+  {
+   "lang": "zh",
+   "title": "引言"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "John McCrae and Ernest Clegg",
+  "author_html": "John McCrae and Ernest Clegg",
+  "credit_html": "JP2 zip data at <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/fieldsinflanders00mccrrich\">fieldsinflanders00mccrrich</a> archive.org",
+  "description": "Page 1 of the introduction from a limited edition book containing an illustrated poem, In Flanders Fields, 1921",
+  "file": "In_Flanders_Fields_(1921)_intro_1.png",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/png",
+  "page_url": "https://commons.wikimedia.org/wiki/File:In_Flanders_Fields_(1921)_intro_1.png"
+ },
+ "links": [
+  "Abstract (summary)",
+  "Acknowledgment (creative arts and sciences)",
+  "Addendum",
+  "Afterword",
+  "American Chemical Society",
+  "American Journal of Physics",
+  "Anthropodermic bibliopegy",
+  "Article (publishing)",
+  "Author page",
+  "Bibliography",
+  "Biochemistry (journal)",
+  "Body text",
+  "Book",
+  "Book cover",
+  "Book curse",
+  "Book design",
+  "Book frontispiece",
+  "Book illustration",
+  "Book rhyme",
+  "Bookbinding",
+  "Bookplate",
+  "Buckram",
+  "Canons of page construction",
+  "Catchword",
+  "Chapter (books)",
+  "Colophon (publishing)",
+  "Column (typography)",
+  "Conclusion (book)",
+  "Dedication (publishing)",
+  "Dingbat",
+  "Dramatic structure",
+  "Dust jacket",
+  "Edition notice",
+  "Endband",
+  "Endnote",
+  "Endpaper",
+  "Epigraph (literature)",
+  "Epilogue",
+  "Erratum",
+  "Essay",
+  "Executive summary",
+  "Extra-illustration",
+  "Font",
+  "Fore-edge painting",
+  "Foreword",
+  "Gloss (annotation)",
+  "Glossary",
+  "Half-title",
+  "Hardcover",
+  "Headpiece (book illustration)",
+  "Historiated initial",
+  "Illuminated manuscript",
+  "Imprimatur",
+  "Imprimi potest",
+  "In Flanders Fields",
+  "Index (publishing)",
+  "Inhabited initial",
+  "Initial",
+  "Intentionally blank page",
+  "Lead paragraph",
+  "Leather",
+  "Margin (typography)",
+  "Marginalia",
+  "Miniature (illuminated manuscript)",
+  "Nihil obstat",
+  "Note (typography)",
+  "Page footer",
+  "Page header",
+  "Page layout",
+  "Page numbering",
+  "Paper marbling",
+  "Paperback",
+  "Pop-up book",
+  "Postface",
+  "Postscript",
+  "Preamble",
+  "Preface",
+  "Printer's mark",
+  "Prolegomenon (disambiguation)",
+  "Prologue",
+  "Pull quote",
+  "Recto and verso",
+  "Rubric",
+  "Rubrication",
+  "Scholia",
+  "Section (typography)",
+  "Slipcase",
+  "Table of contents",
+  "Technical writing",
+  "Text annotation",
+  "Thumb index",
+  "Tipped-in page",
+  "Title page",
+  "Treasure binding",
+  "Typeface",
+  "Typography",
+  "University of Toronto"
+ ],
+ "media": [
+  {
+   "caption": "First page, introduction to In Flanders Fields",
+   "lead": true,
+   "mime": "image/png",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/1/13/In_Flanders_Fields_%281921%29_intro_1.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:In_Flanders_Fields_(1921)_intro_1.png",
+   "section_id": 0,
+   "th": 657,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/In_Flanders_Fields_%281921%29_intro_1.png/500px-In_Flanders_Fields_%281921%29_intro_1.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:In_Flanders_Fields_(1921)_intro_1.png",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 1847,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/In_Flanders_Fields_%281921%29_intro_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1406
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Introduction_(writing)",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-09",
+    45
+   ],
+   [
+    "2026-10-10",
+    151
+   ],
+   [
+    "2026-10-11",
+    25
+   ],
+   [
+    "2026-10-12",
+    37
+   ],
+   [
+    "2026-10-13",
+    50
+   ],
+   [
+    "2026-10-14",
+    34
+   ],
+   [
+    "2026-10-15",
+    29
+   ],
+   [
+    "2026-10-16",
+    43
+   ],
+   [
+    "2026-10-17",
+    43
+   ],
+   [
+    "2026-10-18",
+    28
+   ],
+   [
+    "2026-10-19",
+    42
+   ],
+   [
+    "2026-10-20",
+    61
+   ],
+   [
+    "2026-10-21",
+    37
+   ],
+   [
+    "2026-10-22",
+    29
+   ],
+   [
+    "2026-10-23",
+    42
+   ],
+   [
+    "2026-10-24",
+    36
+   ],
+   [
+    "2026-10-25",
+    35
+   ],
+   [
+    "2026-10-26",
+    39
+   ],
+   [
+    "2026-10-27",
+    30
+   ],
+   [
+    "2026-10-28",
+    25
+   ],
+   [
+    "2026-10-29",
+    30
+   ],
+   [
+    "2026-10-30",
+    35
+   ],
+   [
+    "2026-10-31",
+    14
+   ],
+   [
+    "2026-11-01",
+    10
+   ],
+   [
+    "2026-11-02",
+    27
+   ],
+   [
+    "2026-11-03",
+    23
+   ],
+   [
+    "2026-11-04",
+    37
+   ],
+   [
+    "2026-11-05",
+    28
+   ],
+   [
+    "2026-11-06",
+    19
+   ],
+   [
+    "2026-11-07",
+    0
+   ]
+  ],
+  "through": "2026-11-07"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Common_features_and_techniques",
+   "level": 2,
+   "line": "Common features and techniques",
+   "number": "1"
+  },
+  {
+   "anchor": "Introductions_sometimes_have_subsections",
+   "level": 2,
+   "line": "Introductions sometimes have subsections",
+   "number": "2"
+  },
+  {
+   "anchor": "Styles_vary_while_the_concept_remains_the_same",
+   "level": 2,
+   "line": "Styles vary while the concept remains the same",
+   "number": "3"
+  },
+  {
+   "anchor": "Introductions_often_summarize_but_not_always",
+   "level": 2,
+   "line": "Introductions often summarize but not always",
+   "number": "4"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "5"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "6"
+  }
+ ],
+ "summary_html": "<p>In an essay, article, or book, an <b>introduction</b> is a beginning section which states the purpose and goals of the following writing. This is generally followed by the body and conclusion.</p>",
+ "summary_text": "In an essay, article, or book, an introduction is a beginning section which states the purpose and goals of the following writing. This is generally followed by the body and conclusion.",
+ "templates": [
+  "Arguments",
+  "Book structure",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite web",
+  "Disambiguation/templates",
+  "Format link",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Lang",
+  "Lang",
+  "Lang/ISO 639 synonyms",
+  "Lang/configuration",
+  "Lang/data",
+  "Lang/data/iana languages",
+  "Lang/data/iana regions",
+  "Lang/data/iana scripts",
+  "Lang/data/iana suppressed scripts",
+  "Lang/data/iana variants",
+  "Lang/data/is latn data",
+  "Main other",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal inline",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/b",
+  "Prolegomenon",
+  "Redirect",
+  "Redirect hatnote",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
+  "String",
+  "TableTools",
+  "Unicode data",
+  "Wikitext Parsing",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 631,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/In_Flanders_Fields_%281921%29_intro_1.png/500px-In_Flanders_Fields_%281921%29_intro_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Introduction (writing)",
+ "wikidata": {
+  "description": "beginning section of a written work which states the purpose and goals of the following writing",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "genre"
+    ]
+   },
+   {
+    "label": "image",
+    "property": "P18",
+    "values": [
+     "In Flanders Fields (1921) intro 1.png"
+    ]
+   }
+  ],
+  "id": "Q305178",
+  "label": "introduction",
+  "sitelink_count": 19
+ }
+}
