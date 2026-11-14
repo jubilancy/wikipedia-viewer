@@ -127,7 +127,6 @@
   "Afterword",
   "Agate (typography)",
   "All caps",
-  "Andy Griffiths (author)",
   "Anthropodermic bibliopegy",
   "Antiqua (typeface class)",
   "Arabic typography",
@@ -136,7 +135,6 @@
   "Author page",
   "Baseline (typography)",
   "Bastarda",
-  "Benjamin C. Pierce",
   "Bibliography",
   "Blackboard bold",
   "Blackletter",
@@ -173,11 +171,9 @@
   "Computer font",
   "Conclusion (book)",
   "Counter (typography)",
-  "Cutscenes",
   "Cyrillic typography",
   "Dash",
   "Dedication (publishing)",
-  "Demetri Martin",
   "Descender",
   "Desktop publishing",
   "Diacritic",
@@ -236,7 +232,6 @@
   "Imprimatur",
   "Imprimi potest",
   "Index (publishing)",
-  "Infocom",
   "Inhabited initial",
   "Initial",
   "Ink trap",
@@ -246,7 +241,6 @@
   "Interpunct",
   "Introduction (writing)",
   "Italic type",
-  "Just Stupid!",
   "Kerning",
   "Leader (typography)",
   "Leading",
@@ -331,7 +325,6 @@
   "Sentence spacing",
   "Serif",
   "Sheet music",
-  "Signalis",
   "Slab serif",
   "Slipcase",
   "Small caps",
@@ -341,7 +334,6 @@
   "Standardized test",
   "Style guide",
   "Subscript and superscript",
-  "Survival horror",
   "Swash (typography)",
   "Table of contents",
   "Technical lettering",
@@ -381,8 +373,7 @@
   "Widows and orphans",
   "Word spacing",
   "X-height",
-  "XSL-FO",
-  "Zork I"
+  "XSL-FO"
  ],
  "media": [
   {
@@ -436,10 +427,6 @@
   "agent": "user",
   "granularity": "daily",
   "series": [
-   [
-    "2026-10-14",
-    347
-   ],
    [
     "2026-10-15",
     276
@@ -555,9 +542,13 @@
    [
     "2026-11-12",
     129
+   ],
+   [
+    "2026-11-13",
+    158
    ]
   ],
-  "through": "2026-11-12"
+  "through": "2026-11-13"
  },
  "protection": [
   "edit=autoconfirmed",
@@ -626,14 +617,12 @@
   "Arguments",
   "Blank page",
   "Book structure",
-  "CN",
   "Category handler",
   "Category handler/blacklist",
   "Category handler/config",
   "Category handler/data",
   "Category handler/shared",
   "Check for unknown parameters",
-  "Citation needed",
   "Citation/CS1",
   "Citation/CS1/COinS",
   "Citation/CS1/Configuration",
@@ -647,8 +636,6 @@
   "DMCA",
   "Dated maintenance category",
   "Dated maintenance category (articles)",
-  "Delink",
-  "Delink",
   "Disambiguation/templates",
   "Effective protection expiry",
   "Effective protection level",
@@ -659,8 +646,6 @@
   "Find sources/config",
   "Find sources/links",
   "Find sources/templates/Find sources mainspace",
-  "Fix",
-  "Fix/category",
   "Format link",
   "Hatnote",
   "Hatnote list",

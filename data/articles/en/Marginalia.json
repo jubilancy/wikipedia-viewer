@@ -8,7 +8,7 @@
  ],
  "backlinks": {
   "capped": false,
-  "count": 764,
+  "count": 765,
   "namespace": 0
  },
  "bookmark": {
@@ -70,7 +70,7 @@
   "https://www.voltaire.ox.ac.uk/publication/corpus-des-notes-marginales-de-voltaire-1-9-et-notes-et-%C3%A9crits-marginaux-conserv%C3%A9s-hors-de-la/",
   "https://www.washingtonpost.com/news/monkey-cage/wp/2015/08/22/the-rediscovery-of-this-writer-in-the-renaissance-opened-the-way-to-the-modern-world-and-more-importantly-the-invention-of-political-science/"
  ],
- "intro_text": "Marginalia (or apostils) are marks made in the margins of a book or other document. They may be scribbles, comments, glosses (annotations), critiques, doodles, drolleries, or illuminations.\n\n",
+ "intro_text": "Marginalia (or apostils) are marks made in the margins of a book or other document. They may be scribbles, comments, glosses (annotations), critiques, doodles, drolleries, or illuminations.",
  "key": "en/Marginalia",
  "lang": "en",
  "language_links": [
@@ -252,6 +252,7 @@
   "ISBN (identifier)",
   "ISSN (identifier)",
   "Illuminated manuscript",
+  "Immanuel Kant",
   "Imprimatur",
   "Imprimi potest",
   "Index (publishing)",
@@ -416,10 +417,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-14",
-    174
-   ],
-   [
     "2026-10-15",
     129
    ],
@@ -534,9 +531,13 @@
    [
     "2026-11-12",
     130
+   ],
+   [
+    "2026-11-13",
+    115
    ]
   ],
-  "through": "2026-11-12"
+  "through": "2026-11-13"
  },
  "protection": [],
  "sections": [
