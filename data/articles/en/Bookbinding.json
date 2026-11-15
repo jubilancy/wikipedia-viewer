@@ -127,6 +127,7 @@
   "https://lob.is.ed.ac.uk/index.php/concept/1317",
   "https://lob.is.ed.ac.uk/index.php/concept/3606",
   "https://lux.collections.yale.edu/view/concept/9970ef2e-8053-44a1-acda-e30bc84f52b6",
+  "https://search.worldcat.org/oclc/51773921",
   "https://sfbook.com/the-evolution-of-the-book.htm#",
   "https://web.archive.org/web/20071121024815/http://www.uarts.edu/academics/cad/bookarts.html",
   "https://web.archive.org/web/20071212071852/http://www.bookarts.ua.edu/",
@@ -169,7 +170,7 @@
   "https://www.philobiblon.com/gbwarticle/bindterm.htm",
   "https://www.theparisreview.org/blog/2015/11/12/a-brief-history-of-shelving-and-other-news/"
  ],
- "intro_text": "Bookbinding is the process of building a book, usually in codex format, from an ordered stack of paper sheets with one's hands and tools, or in modern publishing, by a series of automated processes. \nTo bind a book, groups of pages are joined together, often by thread or adhesive but other options exist such as loose-leaf rings, binding posts, twin-loop spine coils, plastic spiral coils, and plastic spine combs. A cover to protect the contents, usually bearing publication information such as title and author, is generally attached; this can be as simple as a single sheet of paper or an elaborate construction of boards covered in cloth, leather, parchment, etc. with many types of decoration. \nThe process of making books varies significantly by time period and geography/culture. Mechanised bookbinding was introduced in the 19th century with the industrial revolution, alongside machine papermaking, faster methods of leather tanning, and other changes in manufacturing that affected the book.\nThe trade of bookbinding includes the binding of blank books and printed books. Blank books, or stationery bindings, are books planned to be written in. These include accounting ledgers, guestbooks, logbooks, notebooks, manifold books, day books, diaries, and sketchbooks. Printed books are produced through letterpress printing, offset lithography, or other printing techniques and their binding practices include fine binding, edition binding,  publisher's bindings, and library binding.\n\n",
+ "intro_text": "Bookbinding is the process of building a book, usually in codex format, from an ordered stack of paper sheets with one's hands and tools, or in modern publishing, by a series of automated processes. \nTo bind a book, groups of pages are joined together, often by thread or adhesive but other options exist such as loose-leaf rings, binding posts, twin-loop spine coils, plastic spiral coils, and plastic spine combs. A cover to protect the contents, usually bearing publication information such as title and author, is generally attached; this can be as simple as a single sheet of paper or an elaborate construction of boards covered in cloth, leather, parchment, etc. with many types of decoration. \nThe process of making books varies significantly by time period and geography/culture. Mechanised bookbinding was introduced in the 19th century with the industrial revolution, alongside machine papermaking, faster methods of leather tanning, and other changes in manufacturing that affected the book.\nThe trade of bookbinding includes the binding of blank books and printed books. Blank books, or stationery bindings, are books planned to be written in. These include accounting ledgers, guestbooks, logbooks, notebooks, manifold books, day books, diaries, and sketchbooks. Printed books are produced through letterpress printing, offset lithography, or other printing techniques and their binding practices include fine binding, edition binding,  publisher's bindings, and library binding.",
  "key": "en/Bookbinding",
  "lang": "en",
  "language_links": [
@@ -555,6 +556,7 @@
   "Ethiopian binding",
   "Etymonline",
   "Extra-illustration",
+  "Faith Shannon",
   "Faux painting",
   "Featherwork",
   "Felt",
@@ -710,6 +712,7 @@
   "Note (typography)",
   "Notebook",
   "Novel",
+  "OCLC (identifier)",
   "Objet d'art",
   "Octavo",
   "Octavo (text)",
@@ -1151,10 +1154,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-15",
-    195
-   ],
-   [
     "2026-10-16",
     276
    ],
@@ -1269,9 +1268,13 @@
    [
     "2026-11-13",
     202
+   ],
+   [
+    "2026-11-14",
+    251
    ]
   ],
-  "through": "2026-11-13"
+  "through": "2026-11-14"
  },
  "protection": [],
  "sections": [
@@ -1474,6 +1477,7 @@
   "Citation/CS1/styles.css",
   "Cite EB1911",
   "Cite EB9",
+  "Cite Online Etymology Dictionary",
   "Cite PSM",
   "Cite book",
   "Cite encyclopedia",
@@ -1608,7 +1612,6 @@
   "Sister project logo/data",
   "Sister project/styles.css",
   "Sister-inline",
-  "Sister-inline/styles.css",
   "String",
   "TableTools",
   "Template other",
