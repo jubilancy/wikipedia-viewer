@@ -214,10 +214,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-16",
-    8
-   ],
-   [
     "2026-10-17",
     10
    ],
@@ -332,9 +328,13 @@
    [
     "2026-11-14",
     3
+   ],
+   [
+    "2026-11-15",
+    12
    ]
   ],
-  "through": "2026-11-14"
+  "through": "2026-11-15"
  },
  "protection": [],
  "sections": [
@@ -454,6 +454,7 @@
   "Cite web",
   "Commons category",
   "Commons link",
+  "Disambiguation/templates",
   "Hlist/styles.css",
   "Lang",
   "Lang",
@@ -474,6 +475,13 @@
   "Navbox",
   "Navbox/configuration",
   "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
   "Plainlist/styles.css",
   "Portal",
   "Portal inline",
@@ -482,6 +490,10 @@
   "Portal/images/b",
   "Reflist",
   "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Short description",
+  "Short description/lowercasecheck",
   "Side box",
   "Side box",
   "Side box/styles.css",
@@ -489,8 +501,10 @@
   "Sister project logo",
   "Sister project logo/data",
   "Sister project/styles.css",
+  "String",
   "TableTools",
   "Unicode data",
+  "Wikitext Parsing",
   "Yesno"
  ],
  "thumbnail": {

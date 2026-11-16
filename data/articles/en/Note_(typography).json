@@ -39,7 +39,6 @@
   "http://aja.ncsc.dni.us/courtrv/cr38-2/CR38-2Posner.pdf",
   "http://indianalawblog.com/archives/2005/01/indiana_courts_99.html",
   "http://www.eia.doe.gov/neic/pubstyle/ch4_1.htm",
-  "http://www.gpo.gov/fdsys/pkg/GPO-STYLEMANUAL-2008/html/GPO-STYLEMANUAL-2008-17.htm",
   "http://www.livesandletters.ac.uk/papers/FOR_2005_04_001.pdf#page=18",
   "http://www.newyorker.com/magazine/2015/01/26/cobweb",
   "http://www.sparksflyup.com/2006/08/footnotes.php",
@@ -65,6 +64,7 @@
   "https://web.archive.org/web/20150125141230/http://www.newyorker.com/magazine/2015/01/26/cobweb",
   "https://web.archive.org/web/20160202153839/http://www.washingtonpost.com/ac2/wp-dyn/A57806-2004Sep2?language=printer",
   "https://web.archive.org/web/20250423031424/https://history2.nasa.gov/footnoteguide.html",
+  "https://www.govinfo.gov/content/pkg/GPO-STYLEMANUAL-2008/html/GPO-STYLEMANUAL-2008-17.htm",
   "https://www.grammarly.com/blog/footnotes/",
   "https://www.independent.co.uk/news/people/profiles/passedfailed-an-education-in-the-life-of-candida-lycett-green-writer-475699.html",
   "https://www.niu.edu/communication-standards/style-guide/punctuation-and-symbols.shtml",
@@ -540,10 +540,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-16",
-    130
-   ],
-   [
     "2026-10-17",
     64
    ],
@@ -658,9 +654,13 @@
    [
     "2026-11-14",
     57
+   ],
+   [
+    "2026-11-15",
+    64
    ]
   ],
-  "through": "2026-11-14"
+  "through": "2026-11-15"
  },
  "protection": [],
  "sections": [

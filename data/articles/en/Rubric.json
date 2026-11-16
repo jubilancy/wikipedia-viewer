@@ -314,10 +314,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-16",
-    79
-   ],
-   [
     "2026-10-17",
     69
    ],
@@ -432,9 +428,13 @@
    [
     "2026-11-14",
     42
+   ],
+   [
+    "2026-11-15",
+    48
    ]
   ],
-  "through": "2026-11-14"
+  "through": "2026-11-15"
  },
  "protection": [],
  "sections": [
@@ -560,6 +560,7 @@
   "Sister project",
   "Sister project logo",
   "Sister project logo/data",
+  "Sister project logo/styles.css",
   "Sister project/styles.css",
   "String",
   "TableTools",
