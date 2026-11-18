@@ -188,7 +188,7 @@
   "https://www.washingtonpost.com/wp-dyn/content/article/2007/06/08/AR2007060802937.html",
   "https://www.youtube.com/watch?v=p_mQlHAdHhs"
  ],
- "intro_text": "Mont Blanc (UK: ; US: ) is a mountain in the Alps, rising 4,807.3 m (15,771.9 ft) above sea level, located right at the Franco-Italian border. It is the highest mountain in Europe outside the Caucasus Mountains, the second-most prominent mountain in Europe (after Mount Elbrus in Russia), and the 11th most prominent mountain in the world.\nThe mountain gives its name to its range, the Mont Blanc massif, which straddles parts of France, Italy, and Switzerland. Mont Blanc's summit lies on the watershed line between the valleys of Ferret and Veny in Italy, and the valleys of Montjoie, and Arve in France. Ownership of the summit area has long been disputed between France and Italy.\nThe Mont Blanc massif is popular for outdoor activities such as hiking, climbing, and trail running and winter sports such as skiing and snowboarding. The most popular climbing route to the summit of Mont Blanc is the Goûter Route, which typically takes two days.\nThe three towns and their communes which surround Mont Blanc are Courmayeur in Aosta Valley, Italy; and Saint-Gervais-les-Bains and Chamonix in Haute-Savoie, France. The latter town was the site of the first Winter Olympics. A cable car ascends and crosses the mountain range from Courmayeur to Chamonix through the Col du Géant. The 11.6 km (7+1⁄4 mi) Mont Blanc Tunnel, constructed between 1957 and 1965, runs beneath the mountain and is a major transalpine transport route.\n\n",
+ "intro_text": "Mont Blanc (UK: ; US: ) is a mountain in the Alps, rising 4,807.3 m (15,771.9 ft) above sea level, located right at the Franco-Italian border. It is the highest mountain in Europe outside the Caucasus Mountains, the second-most prominent mountain in Europe (after Mount Elbrus in Russia), and the 11th most prominent mountain in the world.\nThe mountain gives its name to its range, the Mont Blanc massif, which straddles parts of France, Italy, and Switzerland. Mont Blanc's summit lies on the watershed line between the valleys of Ferret and Veny in Italy, and the valleys of Montjoie, and Arve in France. Ownership of the summit area has long been disputed between France and Italy.\nThe Mont Blanc massif is popular for outdoor activities such as hiking, climbing, and trail running and winter sports such as skiing and snowboarding. The most popular climbing route to the summit of Mont Blanc is the Goûter Route, which typically takes two days.\nThe three towns and their communes which surround Mont Blanc are Courmayeur in Aosta Valley, Italy; and Saint-Gervais-les-Bains and Chamonix in Haute-Savoie, France. The latter town was the site of the first Winter Olympics. A cable car ascends and crosses the mountain range from Courmayeur to Chamonix through the Col du Géant. The 11.6 km (7+1⁄4 mi) Mont Blanc Tunnel, constructed between 1957 and 1965, runs beneath the mountain and is a major transalpine transport route.",
  "key": "en/Mont_Blanc",
  "lang": "en",
  "language_links": [
@@ -1663,10 +1663,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-18",
-    1159
-   ],
-   [
     "2026-10-19",
     1197
    ],
@@ -1781,9 +1777,13 @@
    [
     "2026-11-16",
     906
+   ],
+   [
+    "2026-11-17",
+    1029
    ]
   ],
-  "through": "2026-11-16"
+  "through": "2026-11-17"
  },
  "protection": [],
  "sections": [

@@ -9,7 +9,6 @@
   "Ada Byron, Countess of Lovelace",
   "Ada Byron/notes on the analytical engine",
   "Ada Countess of Lovelace",
-  "Ada King",
   "Ada King, Countess of Lovelace",
   "Ada King-Noel, Countess of Lovelace",
   "Ada Lovelace Byron",
@@ -35,7 +34,7 @@
  ],
  "backlinks": {
   "capped": false,
-  "count": 458,
+  "count": 459,
   "namespace": 0
  },
  "bookmark": {
@@ -53,6 +52,7 @@
   "19th-century English inventors",
   "19th-century English mathematicians",
   "19th-century English nobility",
+  "19th-century English poets",
   "19th-century English women poets",
   "19th-century English writers",
   "19th-century women inventors",
@@ -197,6 +197,10 @@
   "https://openlibrary.org/books/OL13581728M",
   "https://openlibrary.org/works/OL776398A?mode=all",
   "https://pdfs.semanticscholar.org/81bb/f32d2642a7a8c6b0a867379a4e9e99d872bc.pdf",
+  "https://scixplorer.org/abs/1980IAHC....2d.299H",
+  "https://scixplorer.org/abs/1982IAHC....4c.196B",
+  "https://scixplorer.org/abs/1999SciAm.280e..76E",
+  "https://scixplorer.org/abs/2003IAHC...25d..16F",
   "https://screenrant.com/starfield-recruit-historical-companion-history-amelia-earhart-clone/",
   "https://seaham-hall.co.uk/accommodation/ada-lovelace-suite/",
   "https://search.worldcat.org/issn/1058-6180",
@@ -207,10 +211,6 @@
   "https://snaccooperative.org/ark:/99166/w6b09txc",
   "https://snaccooperative.org/ark:/99166/w6d22c67",
   "https://spaceflightnow.com/2018/02/02/china-lofts-earthquake-research-craft-with-cluster-of-smaller-satellites/",
-  "https://ui.adsabs.harvard.edu/abs/1980IAHC....2d.299H",
-  "https://ui.adsabs.harvard.edu/abs/1982IAHC....4c.196B",
-  "https://ui.adsabs.harvard.edu/abs/1999SciAm.280e..76E",
-  "https://ui.adsabs.harvard.edu/abs/2003IAHC...25d..16F",
   "https://viaf.org/viaf/61632881",
   "https://vimeo.com/217701947",
   "https://web.archive.org/web/20030628211849/http://www.hrc.wmin.ac.uk/theory-babbagesdancer-print.html",
@@ -831,6 +831,7 @@
   "Betty Holberton",
   "Bibcode (identifier)",
   "Bibliothèque universelle de Genève",
+  "Birth name",
   "Bjarne Stroustrup",
   "Bloody Poetry",
   "Blue plaque",
@@ -1438,10 +1439,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-18",
-    3332
-   ],
-   [
     "2026-10-19",
     4010
    ],
@@ -1556,9 +1553,13 @@
    [
     "2026-11-16",
     4360
+   ],
+   [
+    "2026-11-17",
+    4492
    ]
   ],
-  "through": "2026-11-16"
+  "through": "2026-11-17"
  },
  "protection": [
   "edit=autoconfirmed",

@@ -70,20 +70,20 @@
   "https://revistas.ucm.es/index.php/DICE/article/download/70151/4564456554314",
   "https://slla.lab.uconn.edu/wp-content/uploads/sites/1793/2017/06/Johnston_2010.pdf",
   "https://tile.loc.gov/storage-services/service/ll/usrep/usrep520/usrep520259/usrep520259.pdf",
+  "https://www.cambridge.org/core/journals/pmla/article/abs/at-the-margin-of-discourse-footnotes-in-the-fictional-text/41D3D2D707D70C314475BFF324C046A1",
   "https://www.cilengua.es/sites/cilengua.es/files/book/5449/3cilengua-lafuncionsocialdelosprotorromanceshispanos.pdf",
   "https://www.connotations.de/article/maurice-charney-adopting-styles-inserting-selves-nabokovs-pale-fire/",
   "https://www.die-bibel.de/en/bible/UBS5/1JN.5",
   "https://www.euskaltzaindia.eus/dok/iker_jagon_tegiak/villasante/dokumentuak/491.pdf",
   "https://www.eva.mpg.de/lingua/resources/glossing-rules.php",
   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11698367",
-  "https://www.oed.com/view/Entry/79130",
   "https://www.oed.com/view/Entry/79233",
   "https://www.persee.fr/doc/alma_0994-8090_2020_num_78_1_2598",
   "https://www.rah.es/las-glosas/",
   "https://www.routledge.com/Ashgate-Critical-Essays-on-Early-English-Lexicographers-Volume-1-Old-/Franzen/p/book/9780754656913",
   "https://www.w3.org/International/questions/qa-ruby.en.html"
  ],
- "intro_text": "A gloss is an explanatory note or translation that helps a reader understand a word or passage. Glosses are often written in the margin or between the lines of a text. A collection of glosses can form a glossary.\nGlosses were used in medieval biblical and legal commentary and to guide the reading of Classical Chinese texts in Japanese and Korean. In linguistics, a gloss can give the meaning of a word or show the grammatical structure of a passage. In sign-language corpora, identification glosses can serve as consistent labels for signs.",
+ "intro_text": "A gloss is an explanatory note or translation that helps a reader understand a word or passage. Glosses are often written in the margin or between the lines of a text. A collection of glosses can form a glossary.\nGlosses were used in medieval biblical and legal commentary and to guide the reading of Classical Chinese texts in Japanese and Korean. In linguistics, a gloss can give the meaning of a word or show the grammatical structure of a passage. In sign-language corpora, identification glosses can serve as consistent labels for signs. In fiction, glosses can interpret passages while also contributing to the narrative.",
  "key": "en/Gloss_(annotation)",
  "lang": "en",
  "language_links": [
@@ -279,6 +279,8 @@
   "Font",
   "Fore-edge painting",
   "Foreword",
+  "Future tense",
+  "Genitive case",
   "German Romanticism",
   "Gesta Danorum",
   "Glosas Emilianenses",
@@ -320,8 +322,10 @@
   "Marginalia",
   "Medieval Latin",
   "Miniature (illuminated manuscript)",
+  "Negation",
   "Nihil obstat",
   "Note (typography)",
+  "Oblique case",
   "Old English",
   "Old Irish language",
   "Oxford English Dictionary",
@@ -350,9 +354,11 @@
   "Rubrication",
   "Ruby character",
   "S. (Dorst novel)",
+  "Samuel Taylor Coleridge",
   "Saxo Grammaticus",
   "Scholia",
   "Section (typography)",
+  "Sibylline Leaves",
   "Sign language",
   "Single quotes",
   "Slipcase",
@@ -389,20 +395,20 @@
    "type": "image"
   },
   {
-   "caption": "Marginal annotations by the fictional readers Jennifer and Eric in the Spanish edition of S.",
+   "caption": "Marginal glosses in Samuel Taylor Coleridge's The Rime of the Ancient Mariner, as published in Sibylline Leaves (1817), p. 7.",
    "lead": false,
-   "mime": "image/jpeg",
-   "orig": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ejemplo_de_golosa.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-   "page": "https://commons.wikimedia.org/wiki/File:Ejemplo_de_golosa.jpg",
+   "mime": "image/vnd.djvu",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sibylline_Leaves_%28Coleridge%29.djvu?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sibylline_Leaves_(Coleridge).djvu",
    "section_id": 6,
-   "th": 375,
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ejemplo_de_golosa.jpg/500px-Ejemplo_de_golosa.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "File:Ejemplo_de_golosa.jpg",
+   "th": 851,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sibylline_Leaves_%28Coleridge%29.djvu/page1-500px-Sibylline_Leaves_%28Coleridge%29.djvu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Sibylline_Leaves_(Coleridge).djvu",
    "tw": 500,
    "type": "image"
   },
   {
-   "caption": "The Glosas Emilianenses are annotations in this Latin codex.[25] They include early Iberian Romance glosses whose linguistic classification is debated,[26] as well as two glosses in Basque.[27]",
+   "caption": "The Glosas Emilianenses are annotations in this Latin codex.[24] They include early Iberian Romance glosses whose linguistic classification is debated,[25] as well as two glosses in Basque.[26]",
    "lead": false,
    "mime": "image/jpeg",
    "orig": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Codiceemil.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -426,10 +432,6 @@
   "agent": "user",
   "granularity": "daily",
   "series": [
-   [
-    "2026-10-18",
-    85
-   ],
    [
     "2026-10-19",
     127
@@ -545,9 +547,13 @@
    [
     "2026-11-16",
     158
+   ],
+   [
+    "2026-11-17",
+    183
    ]
   ],
-  "through": "2026-11-16"
+  "through": "2026-11-17"
  },
  "protection": [],
  "sections": [
@@ -576,9 +582,9 @@
    "number": "4"
   },
   {
-   "anchor": "In_literature",
+   "anchor": "As_a_poetic_form",
    "level": 2,
-   "line": "In literature",
+   "line": "As a poetic form",
    "number": "5"
   },
   {
