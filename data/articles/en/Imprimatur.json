@@ -374,8 +374,6 @@
   "Holy orders in the Catholic Church",
   "IPhone",
   "ISBN (identifier)",
-  "Ibid.",
-  "Idem",
   "Illuminated manuscript",
   "Impediment (Catholic canon law)",
   "Impediment of crime",
@@ -434,7 +432,6 @@
   "List of excommunicable offences in the Catholic Church",
   "List of people excommunicated by the Catholic Church",
   "Liturgiam authenticam",
-  "Loc. cit.",
   "Loss of clerical state (Catholic Church)",
   "Louis J. Gallagher",
   "Lumen gentium",
@@ -660,32 +657,28 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-20",
-    46
-   ],
-   [
     "2026-10-21",
-    56
+    61
    ],
    [
     "2026-10-22",
-    50
+    43
    ],
    [
     "2026-10-23",
-    42
+    40
    ],
    [
     "2026-10-24",
-    42
+    41
    ],
    [
     "2026-10-25",
-    45
+    44
    ],
    [
     "2026-10-26",
-    64
+    63
    ],
    [
     "2026-10-27",
@@ -778,9 +771,13 @@
    [
     "2026-11-18",
     73
+   ],
+   [
+    "2026-11-19",
+    47
    ]
   ],
-  "through": "2026-11-18"
+  "through": "2026-11-19"
  },
  "protection": [],
  "sections": [
@@ -830,16 +827,10 @@
  "summary_html": "<p>An <i><b>imprimatur</b></i> is a declaration authorizing publication of a book. The term is also applied loosely to any mark of approval or endorsement. The imprimatur rule in the Catholic Church effectively dates from the dawn of printing, and is first seen in the printing and publishing centres of Germany and Venice; many secular states or cities began to require registration or approval of published works around the same time, and in some countries such restrictions still continue, though the collapse of the Soviet bloc has reduced their number.</p>",
  "summary_text": "An imprimatur is a declaration authorizing publication of a book. The term is also applied loosely to any mark of approval or endorsement. The imprimatur rule in the Catholic Church effectively dates from the dawn of printing, and is first seen in the printing and publishing centres of Germany and Venice; many secular states or cities began to require registration or approval of published works around the same time, and in some countries such restrictions still continue, though the collapse of the Soviet bloc has reduced their number.",
  "templates": [
-  "Ambox",
   "Arguments",
   "Book structure",
   "CS1 identifiers",
   "Canon law",
-  "Category handler",
-  "Category handler/blacklist",
-  "Category handler/config",
-  "Category handler/data",
-  "Category handler/shared",
   "Catholic canon law",
   "Check for unknown parameters",
   "Circa",
@@ -871,7 +862,6 @@
   "Hatnote/styles.css",
   "Hlist/styles.css",
   "ISBN",
-  "Ibid",
   "Italic title",
   "Italic title",
   "Labelled list hatnote",
@@ -887,11 +877,6 @@
   "Lang/data/iana variants",
   "Lang/data/is latn data",
   "Main other",
-  "Message box",
-  "Message box/ambox.css",
-  "Message box/configuration",
-  "Namespace detect/config",
-  "Namespace detect/data",
   "Navbar",
   "Navbar/configuration",
   "Navbar/styles.css",
