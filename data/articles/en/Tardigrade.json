@@ -1323,7 +1323,7 @@
    "type": "image"
   },
   {
-   "caption": "Tardigrade walking (Hypsibius exemplaris)",
+   "caption": "Tardigrade walking (Hypsibius dujardini)",
    "lead": false,
    "mime": "image/gif",
    "orig": "https://upload.wikimedia.org/wikipedia/commons/8/86/Tardigrade_%28water_bear%29_walking_%28video_by_Bob_Goldstein%29.gif?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -1634,10 +1634,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-21",
-    2244
-   ],
-   [
     "2026-10-22",
     2202
    ],
@@ -1752,9 +1748,13 @@
    [
     "2026-11-19",
     1953
+   ],
+   [
+    "2026-11-20",
+    2199
    ]
   ],
-  "through": "2026-11-19"
+  "through": "2026-11-20"
  },
  "protection": [],
  "sections": [
