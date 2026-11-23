@@ -54,7 +54,7 @@
  ],
  "backlinks": {
   "capped": false,
-  "count": 1471,
+  "count": 1470,
   "namespace": 0
  },
  "bookmark": {
@@ -1000,15 +1000,28 @@
    "type": "image"
   },
   {
-   "caption": "Book conservators at the State Library of New South Wales, 1943",
+   "caption": "Binding room, New South Wales Government Printing Office, Sydney, c. 1891",
    "lead": false,
    "mime": "image/jpeg",
-   "orig": "https://upload.wikimedia.org/wikipedia/commons/5/56/Book_Conservators%2C_Mitchell_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-   "page": "https://commons.wikimedia.org/wiki/File:Book_Conservators,_Mitchell_Building.jpg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Binding_room_SLNSW_FL8982470.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Binding_room_SLNSW_FL8982470.jpg",
    "section_id": 9,
-   "th": 387,
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Book_Conservators%2C_Mitchell_Building.jpg/500px-Book_Conservators%2C_Mitchell_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "title": "File:Book_Conservators,_Mitchell_Building.jpg",
+   "th": 411,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Binding_room_SLNSW_FL8982470.jpg/500px-Binding_room_SLNSW_FL8982470.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Binding_room_SLNSW_FL8982470.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Sewing book binding by hand, New South Wales Government Printing Office, Sydney, 1891",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sewing_book_binding_1891_SLNSW_FL8982482.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Sewing_book_binding_1891_SLNSW_FL8982482.jpg",
+   "section_id": 9,
+   "th": 452,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Sewing_book_binding_1891_SLNSW_FL8982482.jpg/500px-Sewing_book_binding_1891_SLNSW_FL8982482.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Sewing_book_binding_1891_SLNSW_FL8982482.jpg",
    "tw": 500,
    "type": "image"
   },
@@ -1026,7 +1039,7 @@
    "type": "image"
   },
   {
-   "caption": "Scheme of common book design\n.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}Belly bandFlapEndpaperBook coverHeadFore edgeTailRight page, rectoLeft page, versoGutter",
+   "caption": "Scheme of common book design\n.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .div-col dt{break-after:avoid-column}Belly bandFlapEndpaperBook coverHeadFore edgeTailRight page, rectoLeft page, versoGutter",
    "lead": false,
    "mime": "image/svg+xml",
    "orig": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bookinfo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -1104,6 +1117,19 @@
    "type": "image"
   },
   {
+   "caption": "Book conservators at the State Library of New South Wales, 1943",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/5/56/Book_Conservators%2C_Mitchell_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Book_Conservators,_Mitchell_Building.jpg",
+   "section_id": 15,
+   "th": 387,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Book_Conservators%2C_Mitchell_Building.jpg/500px-Book_Conservators%2C_Mitchell_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Book_Conservators,_Mitchell_Building.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
    "caption": " Detailed blind tooling of a book binding",
    "lead": false,
    "mime": "image/jpeg",
@@ -1154,10 +1180,6 @@
   "agent": "user",
   "granularity": "daily",
   "series": [
-   [
-    "2026-10-23",
-    241
-   ],
    [
     "2026-10-24",
     217
@@ -1273,9 +1295,13 @@
    [
     "2026-11-21",
     173
+   ],
+   [
+    "2026-11-22",
+    167
    ]
   ],
-  "through": "2026-11-21"
+  "through": "2026-11-22"
  },
  "protection": [],
  "sections": [

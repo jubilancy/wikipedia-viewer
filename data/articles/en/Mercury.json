@@ -7,13 +7,12 @@
   "Mercury (newspaper)",
   "Mercury (novel)",
   "Merdcury",
-  "Merkury",
   "Murcury",
   "The Mercury"
  ],
  "backlinks": {
   "capped": false,
-  "count": 11,
+  "count": 9,
   "namespace": 0
  },
  "bookmark": {
@@ -288,6 +287,7 @@
   "Mercury, Savoie",
   "Mercury, Texas",
   "Mercury, the Winged Messenger",
+  "Merkury (disambiguation)",
   "Metal Men",
   "Miles Mercury",
   "Operation Mercury",
@@ -296,7 +296,7 @@
   "Project Mercury",
   "Reading Mercury",
   "Recovering the Satellites",
-  "Russian brig Merkurii",
+  "Russian brig Merkuriy",
   "Sailor Mercury",
   "Shuttle America",
   "TP-Link",
@@ -317,10 +317,6 @@
   "agent": "user",
   "granularity": "daily",
   "series": [
-   [
-    "2026-10-23",
-    331
-   ],
    [
     "2026-10-24",
     219
@@ -436,9 +432,13 @@
    [
     "2026-11-21",
     200
+   ],
+   [
+    "2026-11-22",
+    440
    ]
   ],
-  "through": "2026-11-21"
+  "through": "2026-11-22"
  },
  "protection": [],
  "sections": [
