@@ -11,7 +11,7 @@
  ],
  "backlinks": {
   "capped": false,
-  "count": 1053,
+  "count": 1054,
   "namespace": 0
  },
  "bookmark": {
@@ -1502,7 +1502,7 @@
    "page": "https://commons.wikimedia.org/wiki/File:Mont_Blanc_orbit,_PeakNav_3D_terrain_render.webm",
    "section_id": 11,
    "th": 281,
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Mont_Blanc_orbit%2C_PeakNav_3D_terrain_render.webm/500px--Mont_Blanc_orbit%2C_PeakNav_3D_terrain_render.webm.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Mont_Blanc_orbit%2C_PeakNav_3D_terrain_render.webm/500px-Mont_Blanc_orbit%2C_PeakNav_3D_terrain_render.webm.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo",
    "title": "File:Mont_Blanc_orbit,_PeakNav_3D_terrain_render.webm",
    "tw": 500,
    "type": "video"
@@ -1663,10 +1663,6 @@
   "granularity": "daily",
   "series": [
    [
-    "2026-10-26",
-    1085
-   ],
-   [
     "2026-10-27",
     1053
    ],
@@ -1781,9 +1777,13 @@
    [
     "2026-11-24",
     977
+   ],
+   [
+    "2026-11-25",
+    932
    ]
   ],
-  "through": "2026-11-24"
+  "through": "2026-11-25"
  },
  "protection": [],
  "sections": [
