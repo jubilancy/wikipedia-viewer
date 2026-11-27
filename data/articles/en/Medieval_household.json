@@ -1,0 +1,719 @@
+{
+ "aliases": [
+  "Household knight"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 176,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-27",
+  "bookmark_title": "Household",
+  "lists": "Middle Ages",
+  "notes": "",
+  "requested_titles": "Medieval household",
+  "tags": "Culture"
+ },
+ "categories": [
+  "Family economics",
+  "Feudalism",
+  "Medieval society",
+  "Royal households"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Medieval household</span></span>",
+ "external_links": [
+  "http://www.medievalists.net/2008/10/04/the-medieval-peasant-house/",
+  "https://archive.org/details/civilizationofre00burc_0/page/98",
+  "https://archive.org/details/firstenglishempi00davi",
+  "https://archive.org/details/fromnormanconque0000dani",
+  "https://archive.org/details/historyofprivate00duby/page/513",
+  "https://archive.org/details/lifeinmedievalca00gies/page/95",
+  "https://archive.org/details/twolivesofcharle00thor/page/56",
+  "https://archive.org/details/vikingsreviseded00else/page/41",
+  "https://web.archive.org/web/20091007155226/http://www.medievalists.net/2008/10/04/the-medieval-peasant-house/"
+ ],
+ "intro_text": "The medieval household was, like modern households, the center of family life for all classes of European society. Yet in contrast to the household of today, it consisted of many more individuals than the nuclear family. From the household of the king to the humblest peasant dwelling, more or less distant relatives and varying numbers of servants and dependents would cohabit with the master of the house and his immediate family. The structure of the medieval household was largely dissolved by the advent of privacy in early modern Europe.\nVariations were immense over an entire continent and a time span of about 1,000 years. However, it is still possible to speak of a classical model of the medieval household, particularly as it evolved in Carolingian France and from there spread over great parts of Europe.",
+ "key": "en/Medieval_household",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "الأسرة المعيشية في العصور الوسطى"
+  },
+  {
+   "lang": "bg",
+   "title": "Средновековно домакинство"
+  },
+  {
+   "lang": "ca",
+   "title": "Casa medieval"
+  },
+  {
+   "lang": "es",
+   "title": "Casa medieval"
+  },
+  {
+   "lang": "id",
+   "title": "Rumah tangga abad pertengahan"
+  },
+  {
+   "lang": "it",
+   "title": "Famiglia medievale"
+  },
+  {
+   "lang": "pl",
+   "title": "Średniowieczne domostwo"
+  },
+  {
+   "lang": "ps",
+   "title": "د منځنیو پېړیو کورنۍ"
+  },
+  {
+   "lang": "pt",
+   "title": "Família medieval"
+  },
+  {
+   "lang": "sh",
+   "title": "Srednjovjekovno domaćinstvo"
+  }
+ ],
+ "lead_image": {
+  "attribution": "",
+  "author": "Limbourg brothers",
+  "author_html": "<bdi><a href=\"https://en.wikipedia.org/wiki/Limbourg_brothers\" class=\"extiw\" title=\"en:Limbourg brothers\">Limbourg brothers</a></bdi>",
+  "credit_html": "R-G Ojéda/RMN",
+  "description": "Le duc de Berry, assis en bas à droite, dos au feu, est habillé de bleu et coiffé d'un bonnet de fourrure. Il invite ses gens et ses proches à se présenter à lui. Derrière lui figure l'inscription « Approche Approche ». Plusieurs familiers du duc s'approchent de lui pendant que des serviteurs s'affairent : les échansons servent à boire, deux écuyers tranchants au centre sont vus de dos ; au bout de la table officie un panetier. Au-dessus de la cheminée figurent les armes du duc, « d'azur semé de fleurs de lys d'or, à la bordure engrêlée de gueules », avec de petits ours et des cygnes blessés. Plusieurs animaux de compagnie sont représentés : petits chiens sur la table, lévrier au sol. La tapisserie du fond de la salle semble représenter des épisodes de la guerre de Troie",
+  "file": "Les_Très_Riches_Heures_du_duc_de_Berry_Janvier.jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "mime": "image/jpeg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_Janvier.jpg"
+ },
+ "links": [
+  "Agriculture in the Middle Ages",
+  "Almoner",
+  "Ancient Greek",
+  "Ancient Rome",
+  "Ancillae",
+  "Apprenticeship",
+  "Aristocracy",
+  "Artisan",
+  "Barbarian kingdoms",
+  "Birth rate",
+  "Butler",
+  "Buttery (room)",
+  "Byzantine Empire",
+  "Byzantine Empire under the Justinian dynasty",
+  "Capet–Plantagenet feud",
+  "Carlo Maria Cipolla",
+  "Carolingian Empire",
+  "Carolingian dynasty",
+  "Castle",
+  "Chamberlain (office)",
+  "Chancellor",
+  "Chandlery",
+  "Chapel",
+  "Chaplain",
+  "Charlemagne",
+  "Cheshire",
+  "Childeric III",
+  "Chivalry",
+  "Christian monasticism",
+  "Christianity in the Middle Ages",
+  "Christianization",
+  "Church and state in medieval Europe",
+  "Civitas Schinesghe",
+  "Clan",
+  "Cleric",
+  "Confectionery",
+  "Confessor",
+  "Constable",
+  "Crisis of the late Middle Ages",
+  "Croatia in personal union with Hungary",
+  "Crown of Castile",
+  "Crusades",
+  "Crusading movement",
+  "Dark Ages (historiography)",
+  "David Herlihy",
+  "Disability in the Middle Ages",
+  "Duchy of Burgundy",
+  "Duchy of Croatia",
+  "Duchy of Milan",
+  "Duke of Berry",
+  "Dukes of Burgundy",
+  "Early Middle Ages",
+  "Early medieval domes",
+  "Early modern Europe",
+  "East–West Schism",
+  "Edward II",
+  "Einhard",
+  "England",
+  "Esquire",
+  "Estate (law)",
+  "Eunuch",
+  "Europe",
+  "European science in the Middle Ages",
+  "Ewery",
+  "Falconry",
+  "Fall of Constantinople",
+  "Fall of the Western Roman Empire",
+  "Feudalism",
+  "First Bulgarian Empire",
+  "Flanders",
+  "Fortification",
+  "France",
+  "Frances Gies",
+  "Francia",
+  "Fresco",
+  "Georges Chastellain",
+  "Germanic peoples",
+  "Governance",
+  "Grand Principality of Serbia",
+  "Great Famine of 1315–1317",
+  "Groom (horses)",
+  "Guelphs and Ghibellines",
+  "Gunpowder",
+  "Handmaiden",
+  "Hans Holbein the Younger",
+  "Hastilude",
+  "High Middle Ages",
+  "High medieval domes",
+  "Historiography in the Middle Ages",
+  "Historiography of the fall of the Western Roman Empire",
+  "History of Anglo-Saxon England",
+  "Holy Roman Empire",
+  "House of Capet",
+  "House of Stuart",
+  "Household",
+  "Hundred Years' War",
+  "Hungarian invasions of Europe",
+  "Hussite Wars",
+  "ISBN (identifier)",
+  "Investiture Controversy",
+  "Ireland",
+  "Istanbul",
+  "Itinerant court",
+  "Jacob Burckhardt",
+  "Joan M. Hussey",
+  "Johan Huizinga",
+  "John Hurst (archaeologist)",
+  "John, Duke of Berry",
+  "Jonathan Riley-Smith",
+  "Joseph Gies",
+  "Kievan Rus'",
+  "Kingdom of Croatia (925–1102)",
+  "Kingdom of England",
+  "Kingdom of France",
+  "Kingdom of Georgia",
+  "Kingdom of Hungary (1000–1301)",
+  "Kingdom of Poland",
+  "Kingdom of Portugal",
+  "Kingdom of Serbia (1217–1346)",
+  "Kitchen",
+  "Knight",
+  "Larder",
+  "Late Middle Ages",
+  "Late antiquity",
+  "Late medieval domes",
+  "Latin",
+  "Laundry",
+  "List of European medieval musical instruments",
+  "List of common misconceptions about the Middle Ages",
+  "List of medieval land terms",
+  "Little Ice Age",
+  "Majordomo",
+  "Manorialism",
+  "Marshal",
+  "Mayor of the Palace",
+  "Medieval European magic",
+  "Medieval Warm Period",
+  "Medieval archaeology",
+  "Medieval architecture",
+  "Medieval art",
+  "Medieval commune",
+  "Medieval cuisine",
+  "Medieval dance",
+  "Medieval demography",
+  "Medieval fortification",
+  "Medieval gardening",
+  "Medieval guilds",
+  "Medieval hunting",
+  "Medieval literature",
+  "Medieval medicine of Western Europe",
+  "Medieval music",
+  "Medieval philosophy",
+  "Medieval poetry",
+  "Medieval reenactment",
+  "Medieval renaissances",
+  "Medieval studies",
+  "Medieval technology",
+  "Medieval theatre",
+  "Medieval university",
+  "Medieval warfare",
+  "Medievalism",
+  "Merchant",
+  "Merovingian",
+  "Middle Ages",
+  "Middle Ages in popular culture",
+  "Migration Period",
+  "Minstrel",
+  "Mongol invasion of Europe",
+  "Mosaic",
+  "Napery",
+  "Neo-medievalism",
+  "Nigel Saul",
+  "Noble court",
+  "Norman Cantor",
+  "Norman Conquest",
+  "Nuclear family",
+  "Old Church Slavonic",
+  "Outline of the Middle Ages",
+  "Page (servant)",
+  "Palace",
+  "Palace of the Porphyrogenitus",
+  "Pantry",
+  "Papal States",
+  "Pater familias",
+  "Patronage in ancient Rome",
+  "Penguin Books",
+  "Pepin the Short",
+  "Persecution of pagans in the late Roman Empire",
+  "Post-classical history",
+  "Poultry (office)",
+  "Principality of Serbia (early medieval)",
+  "Privacy",
+  "Reconquista",
+  "Rees Davies",
+  "Renaissance humanism",
+  "Representation of animals in Western medieval art",
+  "Reproduction",
+  "Republic of Florence",
+  "Republic of Genoa",
+  "Republic of Venice",
+  "Retinue",
+  "Richard II of England",
+  "Rise of the Ottoman Empire",
+  "Roman Empire",
+  "Royal Household",
+  "Saucery",
+  "Scalding-house",
+  "Scandinavia",
+  "Scholasticism",
+  "Scotland",
+  "Scullery (room)",
+  "Second Bulgarian Empire",
+  "Seneschal",
+  "Sept",
+  "Serbian Empire",
+  "Servants",
+  "Single women in the Middle Ages",
+  "Slavery",
+  "Slavery in medieval Europe",
+  "Social hierarchy",
+  "Southern Europe",
+  "Spicery",
+  "Spread of Islam",
+  "Stately home",
+  "Steward (office)",
+  "Swiss mercenaries",
+  "The Ancient House, Walthamstow",
+  "The Autumn of the Middle Ages",
+  "Thomas More",
+  "Timeline of post-classical history",
+  "Trial by ordeal",
+  "Très Riches Heures du Duc de Berry",
+  "Urbanization",
+  "Valet de chambre",
+  "Veneur",
+  "Viking Age",
+  "War of the Sicilian Vespers",
+  "Wardrobe (government)",
+  "Wars of the Roses",
+  "Western Europe",
+  "Western European marriage pattern",
+  "Western Schism",
+  "Wine cellar",
+  "Women in the Middle Ages"
+ ],
+ "media": [
+  {
+   "caption": "John, Duke of Berry enjoying a grand meal. The Duke is seen sitting at the high table surrounded by numerous servants, guests and dependants. Illustration from Très Riches Heures du Duc de Berry, ca 1410.",
+   "lead": true,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_Janvier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_Janvier.jpg",
+   "section_id": 0,
+   "th": 773,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_Janvier.jpg/500px-Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_Janvier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Les_Très_Riches_Heures_du_duc_de_Berry_Janvier.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "The Ancient House, Walthamstow,1435",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Ancient_House%2C_Walthamstow_%28North_Face_-_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Ancient_House,_Walthamstow_(North_Face_-_02).jpg",
+   "section_id": 2,
+   "th": 370,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_Ancient_House%2C_Walthamstow_%28North_Face_-_02%29.jpg/500px-The_Ancient_House%2C_Walthamstow_%28North_Face_-_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:The_Ancient_House,_Walthamstow_(North_Face_-_02).jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "The ruins of the Byzantine Palace of the Porphyrogenitus in Istanbul.",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Palace_of_Porphyrogenitus_2007_016.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Porphyrogenitus_2007_016.jpg",
+   "section_id": 5,
+   "th": 375,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Palace_of_Porphyrogenitus_2007_016.jpg/500px-Palace_of_Porphyrogenitus_2007_016.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:Palace_of_Porphyrogenitus_2007_016.jpg",
+   "tw": 500,
+   "type": "image"
+  },
+  {
+   "caption": "Thomas More with his immediate family – painted by Holbein – presenting an ideal image of the early modern family man",
+   "lead": false,
+   "mime": "image/jpeg",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/5/59/More_famB_1280x-g0.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:More_famB_1280x-g0.jpg",
+   "section_id": 9,
+   "th": 363,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/More_famB_1280x-g0.jpg/500px-More_famB_1280x-g0.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "title": "File:More_famB_1280x-g0.jpg",
+   "tw": 500,
+   "type": "image"
+  }
+ ],
+ "original_image": {
+  "height": 2062,
+  "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_Janvier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "width": 1333
+ },
+ "page_url": "https://en.wikipedia.org/wiki/Medieval_household",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-28",
+    35
+   ],
+   [
+    "2026-10-29",
+    47
+   ],
+   [
+    "2026-10-30",
+    39
+   ],
+   [
+    "2026-10-31",
+    29
+   ],
+   [
+    "2026-11-01",
+    26
+   ],
+   [
+    "2026-11-02",
+    51
+   ],
+   [
+    "2026-11-03",
+    58
+   ],
+   [
+    "2026-11-04",
+    60
+   ],
+   [
+    "2026-11-05",
+    61
+   ],
+   [
+    "2026-11-06",
+    55
+   ],
+   [
+    "2026-11-07",
+    56
+   ],
+   [
+    "2026-11-08",
+    36
+   ],
+   [
+    "2026-11-09",
+    58
+   ],
+   [
+    "2026-11-10",
+    29
+   ],
+   [
+    "2026-11-11",
+    43
+   ],
+   [
+    "2026-11-12",
+    51
+   ],
+   [
+    "2026-11-13",
+    41
+   ],
+   [
+    "2026-11-14",
+    42
+   ],
+   [
+    "2026-11-15",
+    61
+   ],
+   [
+    "2026-11-16",
+    58
+   ],
+   [
+    "2026-11-17",
+    43
+   ],
+   [
+    "2026-11-18",
+    45
+   ],
+   [
+    "2026-11-19",
+    38
+   ],
+   [
+    "2026-11-20",
+    36
+   ],
+   [
+    "2026-11-21",
+    38
+   ],
+   [
+    "2026-11-22",
+    44
+   ],
+   [
+    "2026-11-23",
+    40
+   ],
+   [
+    "2026-11-24",
+    50
+   ],
+   [
+    "2026-11-25",
+    45
+   ],
+   [
+    "2026-11-26",
+    49
+   ]
+  ],
+  "through": "2026-11-26"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "Historical_background",
+   "level": 2,
+   "line": "Historical background",
+   "number": "1"
+  },
+  {
+   "anchor": "Composition",
+   "level": 2,
+   "line": "Composition",
+   "number": "2"
+  },
+  {
+   "anchor": "Noble_households",
+   "level": 2,
+   "line": "Noble households",
+   "number": "3"
+  },
+  {
+   "anchor": "Itineration",
+   "level": 2,
+   "line": "Itineration",
+   "number": "4"
+  },
+  {
+   "anchor": "Regional_variations",
+   "level": 2,
+   "line": "Regional variations",
+   "number": "5"
+  },
+  {
+   "anchor": "Common_households",
+   "level": 2,
+   "line": "Common households",
+   "number": "6"
+  },
+  {
+   "anchor": "Rural",
+   "level": 3,
+   "line": "Rural",
+   "number": "6.1"
+  },
+  {
+   "anchor": "Urban",
+   "level": 3,
+   "line": "Urban",
+   "number": "6.2"
+  },
+  {
+   "anchor": "Later_perspectives",
+   "level": 2,
+   "line": "Later perspectives",
+   "number": "7"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "8"
+  },
+  {
+   "anchor": "Notes",
+   "level": 2,
+   "line": "Notes",
+   "number": "9"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "10"
+  },
+  {
+   "anchor": "Sources",
+   "level": 2,
+   "line": "Sources",
+   "number": "11"
+  },
+  {
+   "anchor": "Further_reading",
+   "level": 2,
+   "line": "Further reading",
+   "number": "12"
+  }
+ ],
+ "summary_html": "<p>The <b>medieval household</b> was, like modern households, the center of family life for all classes of European society. Yet in contrast to the household of today, it consisted of many more individuals than the nuclear family. From the household of the king to the humblest peasant dwelling, more or less distant relatives and varying numbers of servants and dependents would cohabit with the master of the house and his immediate family. The structure of the medieval household was largely dissolved by the advent of privacy in early modern Europe.</p>",
+ "summary_text": "The medieval household was, like modern households, the center of family life for all classes of European society. Yet in contrast to the household of today, it consisted of many more individuals than the nuclear family. From the household of the king to the humblest peasant dwelling, more or less distant relatives and varying numbers of servants and dependents would cohabit with the master of the house and his immediate family. The structure of the medieval household was largely dissolved by the advent of privacy in early modern Europe.",
+ "templates": [
+  "Arguments",
+  "CS1 identifiers",
+  "Category handler",
+  "Category handler",
+  "Category handler/blacklist",
+  "Category handler/config",
+  "Category handler/data",
+  "Category handler/shared",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Citation/styles.css",
+  "Cite book",
+  "Cite web",
+  "Delink",
+  "Delink",
+  "Disambiguation/templates",
+  "First word",
+  "Fix",
+  "Fix/category",
+  "Footnotes",
+  "Footnotes/anchor id list",
+  "Footnotes/anchor id list/data",
+  "Footnotes/whitelist",
+  "Format link",
+  "Good article",
+  "Harvid",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "ISBN",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Labelled list hatnote",
+  "Main",
+  "Main other",
+  "Middle Ages",
+  "Namespace detect/config",
+  "Namespace detect/data",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Note label",
+  "Page needed",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Portal",
+  "Portal",
+  "Portal/images/m",
+  "Portal/styles.css",
+  "Ref label",
+  "Refbegin",
+  "Refbegin/styles.css",
+  "Refend",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "SST/registry",
+  "Sfn",
+  "SfnRef",
+  "Short description",
+  "Short description/lowercasecheck",
+  "String",
+  "TableTools",
+  "Top icon",
+  "Unsubst",
+  "Wikitext Parsing",
+  "Yesno",
+  "Yesno"
+ ],
+ "thumbnail": {
+  "height": 743,
+  "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_Janvier.jpg/500px-Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_Janvier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "width": 480
+ },
+ "title": "Medieval household",
+ "wikidata": {
+  "description": "description of households in midieval times",
+  "facts": [],
+  "id": "Q3655895",
+  "label": "Medieval household",
+  "sitelink_count": 11
+ }
+}

@@ -1,0 +1,658 @@
+{
+ "aliases": [
+  "Medieval archaeologist",
+  "Medieval archæology"
+ ],
+ "backlinks": {
+  "capped": false,
+  "count": 307,
+  "namespace": 0
+ },
+ "bookmark": {
+  "added": "2026-11-27",
+  "bookmark_title": "Medieval archaeology",
+  "lists": "Middle Ages",
+  "notes": "",
+  "requested_titles": "Medieval archaeology",
+  "tags": "Related"
+ },
+ "categories": [
+  "Archaeological sub-disciplines",
+  "Medieval studies"
+ ],
+ "coordinates": [],
+ "display_title": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Medieval archaeology</span></span>",
+ "external_links": [
+  "http://ads.ahds.ac.uk/catalogue/library/med_arch/index.cfm",
+  "http://www.medievalarchaeology.co.uk/index.php/the-sma/sma-retrospect-and-prospect/",
+  "http://www.tandfonline.com/doi/abs/10.1080/00438243.1981.9979824",
+  "https://academic.oup.com/edited-volume/34669/chapter/295387576",
+  "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph118579&CON_LNG=ENG",
+  "https://anthromuseum.missouri.edu/radiocarbon-dating",
+  "https://books.google.com/books?hl=en&lr=&id=yT5PEAAAQBAJ&oi=fnd&pg=PA9&dq=Medieval+archaeology&ots=qFbGUI4DPt&sig=3GuYVJtNKNIuVUVXBxZjwiu7o5s#v=onepage&q&f=false",
+  "https://castellogy.com/architecture/architectural-terms/motte-and-bailey-introduction",
+  "https://catalogue.bnf.fr/ark:/12148/cb11940958g",
+  "https://d-nb.info/gnd/4138633-4",
+  "https://data.bnf.fr/ark:/12148/cb11940958g",
+  "https://datos.bne.es/resource/XX533122",
+  "https://doi.org/10.1080%2F00438243.1981.9979824",
+  "https://doi.org/10.1093%2Foxfordhb%2F9780198744719.013.44",
+  "https://doi.org/10.1146%2Fannurev-anthro-102313-025845",
+  "https://doi.org/10.4000%2Fpalethnologie.332",
+  "https://historicengland.org.uk/images-books/publications/iha-medieval-settlements/heag210-medieval-settlements/",
+  "https://id.loc.gov/authorities/sh85006512",
+  "https://kentarchaeology.org.uk/arch-cant/vol/106/archaeology-and-channel-tunnel",
+  "https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000071360&P_CON_LNG=ENG",
+  "https://lux.collections.yale.edu/view/concept/66591939-3f31-4854-88a1-2a8ceb78ee82",
+  "https://mci.si.edu/dating-artifacts#:~:text=Radiocarbon%20dating:%20radioactive%20carbon%20decays,bone%20can%20also%20be%20used.",
+  "https://people.clas.ufl.edu/fcurta/euh-5195-the-archaeology-of-the-middle-ages/",
+  "https://search.worldcat.org/issn/0043-8243",
+  "https://www.archaeologynow.org/blog/ngvf4qtxv92z99xwzryz4r726h1cat",
+  "https://www.merriam-webster.com/dictionary/moat",
+  "https://www.nationalarchives.gov.uk/education/resources/medieval-castles/",
+  "https://www.nli.org.il/en/authorities/987007294841505171",
+  "https://www.vocabulary.com/dictionary/hamlet",
+  "https://www.worldhistory.org/Medieval_Castle/"
+ ],
+ "intro_text": "Medieval archaeology is the study of humankind through its material culture, specialising in the period of the European Middle Ages. At its broadest, the period stretches from the 5th to the 16th century and refers to post-Roman but pre-modern remains. The period covers the upheaval caused by the Fall of the Western Roman Empire and cultures such as the Vikings, the Saxons, and the Franks. Archaeologists often specialise in studying either the Early Middle Ages (Migration Period) or the High Middle Ages and Late Middle Ages, although many projects and professionals move across these chronological boundaries. The rich nature of the medieval written record means that archaeology has often been seen as the \"handmaiden to history\", especially in the Late Middle Ages. Analysis of material culture may enrich or call into question written evidence from the medieval period and the two sources of evidence need to be used together. Medieval archaeology has examined the development of medieval settlements, particularly the development of medieval towns, monasteries, and castles. It has also contributed to the understanding of the spread and development of Christian monasticism during the medieval period.",
+ "key": "en/Medieval_archaeology",
+ "lang": "en",
+ "language_links": [
+  {
+   "lang": "ar",
+   "title": "علم آثار العصور الوسطى"
+  },
+  {
+   "lang": "bg",
+   "title": "Средновековна археология"
+  },
+  {
+   "lang": "ca",
+   "title": "Arqueologia medieval"
+  },
+  {
+   "lang": "cs",
+   "title": "Středověká archeologie"
+  },
+  {
+   "lang": "da",
+   "title": "Middelalderarkæologi"
+  },
+  {
+   "lang": "de",
+   "title": "Mittelalterarchäologie"
+  },
+  {
+   "lang": "el",
+   "title": "Μεσαιωνική αρχαιολογία"
+  },
+  {
+   "lang": "es",
+   "title": "Arqueología Medieval"
+  },
+  {
+   "lang": "fr",
+   "title": "Archéologie médiévale"
+  },
+  {
+   "lang": "it",
+   "title": "Archeologia medievale"
+  },
+  {
+   "lang": "ja",
+   "title": "中世考古学"
+  },
+  {
+   "lang": "pt",
+   "title": "Arqueologia medieval"
+  },
+  {
+   "lang": "si",
+   "title": "මධ්‍යතන යුගයේ පුරාවිද්‍යාව"
+  },
+  {
+   "lang": "tr",
+   "title": "Orta Çağ arkeolojisi"
+  },
+  {
+   "lang": "uk",
+   "title": "Середньовічна археологія"
+  }
+ ],
+ "lead_image": {},
+ "links": [
+  "Aerial archaeology",
+  "African archaeology",
+  "Agriculture in the Middle Ages",
+  "Alfred V. Kidder",
+  "Ancient Rome",
+  "Andrew Reynolds (archaeologist)",
+  "Antiquarian",
+  "Archaeoastronomy",
+  "Archaeogaming",
+  "Archaeogenetics",
+  "Archaeological diving",
+  "Archaeological ethics",
+  "Archaeological excavation",
+  "Archaeological science",
+  "Archaeological site",
+  "Archaeological theory",
+  "Archaeologists",
+  "Archaeology",
+  "Archaeology in Oceania",
+  "Archaeology of the Americas",
+  "Arthur Evans",
+  "Assyriology",
+  "Augustus Pitt Rivers",
+  "Australian archaeology",
+  "Barbarian kingdoms",
+  "Battlefield archaeology",
+  "Biblical archaeology",
+  "Bioarchaeology",
+  "Buildings archaeology",
+  "Burnt layer",
+  "Byzantine Empire under the Justinian dynasty",
+  "Calceology",
+  "Capet–Plantagenet feud",
+  "Carolingian Empire",
+  "Chivalry",
+  "Christian monasticism",
+  "Christianity in the Middle Ages",
+  "Christianization",
+  "Church and state in medieval Europe",
+  "Civitas Schinesghe",
+  "Classical archaeology",
+  "Computational archaeology",
+  "Conflict archaeology",
+  "Conservation and restoration of archaeological sites",
+  "Contemporary archaeology",
+  "Crisis of the late Middle Ages",
+  "Croatia in personal union with Hungary",
+  "Crown of Castile",
+  "Crusades",
+  "Crusading movement",
+  "Dark Ages (historiography)",
+  "Digital archaeology",
+  "Disability in the Middle Ages",
+  "Dissolution of the Monasteries",
+  "Doi (identifier)",
+  "Dorothy Garrod",
+  "Duchy of Burgundy",
+  "Duchy of Croatia",
+  "Duchy of Milan",
+  "Early Middle Ages",
+  "Early medieval domes",
+  "East–West Schism",
+  "Egyptology",
+  "Electrical resistance survey",
+  "Environmental archaeology",
+  "European science in the Middle Ages",
+  "Experimental archaeology",
+  "Fall of Constantinople",
+  "Fall of the Western Roman Empire",
+  "Feminist archaeology",
+  "Feudalism",
+  "First Bulgarian Empire",
+  "Flinders Petrie",
+  "Folkestone Castle",
+  "Francia",
+  "Franks",
+  "Funerary archaeology",
+  "Gender archaeology",
+  "Geoarchaeology",
+  "Geophysical survey (archaeology)",
+  "George Bass (archaeologist)",
+  "Grand Principality of Serbia",
+  "Great Famine of 1315–1317",
+  "Guelphs and Ghibellines",
+  "Hastilude",
+  "Heinrich Schliemann",
+  "High Middle Ages",
+  "High medieval domes",
+  "Historical archaeology",
+  "Historiography in the Middle Ages",
+  "Historiography of the fall of the Western Roman Empire",
+  "History of Anglo-Saxon England",
+  "History of archaeology",
+  "Hittitology",
+  "Holy Roman Empire",
+  "Hundred Years' War",
+  "Hungarian invasions of Europe",
+  "Hussite Wars",
+  "ISBN (identifier)",
+  "ISSN (identifier)",
+  "Indigenous archaeology",
+  "Industrial archaeology",
+  "Investiture Controversy",
+  "Itinerant court",
+  "Johann Joachim Winckelmann",
+  "John Lloyd Stephens",
+  "Kievan Rus'",
+  "Kingdom of Croatia (925–1102)",
+  "Kingdom of England",
+  "Kingdom of France",
+  "Kingdom of Georgia",
+  "Kingdom of Hungary (1000–1301)",
+  "Kingdom of Poland",
+  "Kingdom of Portugal",
+  "Kingdom of Serbia (1217–1346)",
+  "Landscape archaeology",
+  "Late Middle Ages",
+  "Late antiquity",
+  "Late medieval domes",
+  "List of Assyriologists",
+  "List of Egyptologists",
+  "List of European medieval musical instruments",
+  "List of archaeological periods",
+  "List of archaeological sites by country",
+  "List of archaeologists",
+  "List of archaeology journals",
+  "List of common misconceptions about the Middle Ages",
+  "List of medieval land terms",
+  "Lithic analysis",
+  "Little Ice Age",
+  "Manorialism",
+  "Maritime archaeology",
+  "Material culture",
+  "Max Uhle",
+  "Medieval Archaeology",
+  "Medieval European magic",
+  "Medieval Warm Period",
+  "Medieval architecture",
+  "Medieval art",
+  "Medieval bioarchaeology",
+  "Medieval castle",
+  "Medieval commune",
+  "Medieval cuisine",
+  "Medieval dance",
+  "Medieval demography",
+  "Medieval household",
+  "Medieval hunting",
+  "Medieval literature",
+  "Medieval medicine of Western Europe",
+  "Medieval music",
+  "Medieval philosophy",
+  "Medieval poetry",
+  "Medieval reenactment",
+  "Medieval renaissances",
+  "Medieval studies",
+  "Medieval technology",
+  "Medieval theatre",
+  "Medieval university",
+  "Medieval warfare",
+  "Medievalism",
+  "Middle Ages",
+  "Middle Ages in popular culture",
+  "Migration Period",
+  "Minstrel",
+  "Mongol invasion of Europe",
+  "Mortimer Wheeler",
+  "Mortuary archaeology",
+  "Music archaeology",
+  "Nazi archaeology",
+  "Near Eastern archaeology",
+  "Near Eastern bioarchaeology",
+  "Neo-medievalism",
+  "Norman Conquest",
+  "Nubiology",
+  "Old Church Slavonic",
+  "Osteology",
+  "Outline of the Middle Ages",
+  "Palaeoarchaeology",
+  "Paleoethnobotany",
+  "Paleopathology",
+  "Papal States",
+  "Persecution of pagans in the late Roman Empire",
+  "Phenomenology (archaeology)",
+  "Philosophy of archaeology",
+  "Polish Academy of Sciences",
+  "Post-classical history",
+  "Post-excavation analysis",
+  "Post-medieval archaeology",
+  "Prehistoric archaeology",
+  "Principality of Serbia (early medieval)",
+  "Protohistory",
+  "Pseudoarchaeology",
+  "Queer archaeology",
+  "Reconquista",
+  "Renaissance humanism",
+  "Representation of animals in Western medieval art",
+  "Republic of Florence",
+  "Republic of Genoa",
+  "Republic of Venice",
+  "Rise of the Ottoman Empire",
+  "Roberta Gilchrist",
+  "Saxons",
+  "Scholasticism",
+  "Second Bulgarian Empire",
+  "Serbian Empire",
+  "Single women in the Middle Ages",
+  "Sir Richard Hoare, 2nd Baronet",
+  "Slavery in medieval Europe",
+  "Sondage",
+  "Spread of Islam",
+  "Subfields of archaeology",
+  "Survey (archaeology)",
+  "Swiss mercenaries",
+  "Timeline of post-classical history",
+  "Transgender archaeology",
+  "Trial by ordeal",
+  "Underwater archaeology",
+  "University of Caen Normandy",
+  "Viking Age",
+  "Vikings",
+  "Virtual archaeology",
+  "War of the Sicilian Vespers",
+  "Wars of the Roses",
+  "Western Schism",
+  "William Henry Holmes",
+  "Women in the Middle Ages",
+  "Zooarchaeology",
+  "École pratique des hautes études"
+ ],
+ "media": [
+  {
+   "caption": "A reconstruction of Holt Castle in 1495",
+   "lead": false,
+   "mime": "video/webm",
+   "orig": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Castle_holt_2.webm?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page": "https://commons.wikimedia.org/wiki/File:Castle_holt_2.webm",
+   "section_id": 5,
+   "th": 281,
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Castle_holt_2.webm/500px-Castle_holt_2.webm.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo",
+   "title": "File:Castle_holt_2.webm",
+   "tw": 500,
+   "type": "video"
+  }
+ ],
+ "original_image": {},
+ "page_url": "https://en.wikipedia.org/wiki/Medieval_archaeology",
+ "pageviews": {
+  "access": "all-access",
+  "agent": "user",
+  "granularity": "daily",
+  "series": [
+   [
+    "2026-10-28",
+    6
+   ],
+   [
+    "2026-10-29",
+    4
+   ],
+   [
+    "2026-10-30",
+    4
+   ],
+   [
+    "2026-10-31",
+    6
+   ],
+   [
+    "2026-11-01",
+    7
+   ],
+   [
+    "2026-11-02",
+    4
+   ],
+   [
+    "2026-11-03",
+    4
+   ],
+   [
+    "2026-11-04",
+    6
+   ],
+   [
+    "2026-11-05",
+    4
+   ],
+   [
+    "2026-11-06",
+    5
+   ],
+   [
+    "2026-11-07",
+    2
+   ],
+   [
+    "2026-11-08",
+    5
+   ],
+   [
+    "2026-11-09",
+    5
+   ],
+   [
+    "2026-11-10",
+    7
+   ],
+   [
+    "2026-11-11",
+    5
+   ],
+   [
+    "2026-11-12",
+    4
+   ],
+   [
+    "2026-11-13",
+    4
+   ],
+   [
+    "2026-11-14",
+    2
+   ],
+   [
+    "2026-11-15",
+    3
+   ],
+   [
+    "2026-11-16",
+    4
+   ],
+   [
+    "2026-11-17",
+    8
+   ],
+   [
+    "2026-11-18",
+    4
+   ],
+   [
+    "2026-11-19",
+    4
+   ],
+   [
+    "2026-11-20",
+    4
+   ],
+   [
+    "2026-11-21",
+    2
+   ],
+   [
+    "2026-11-22",
+    4
+   ],
+   [
+    "2026-11-23",
+    3
+   ],
+   [
+    "2026-11-24",
+    4
+   ],
+   [
+    "2026-11-25",
+    3
+   ],
+   [
+    "2026-11-26",
+    6
+   ]
+  ],
+  "through": "2026-11-26"
+ },
+ "protection": [],
+ "sections": [
+  {
+   "anchor": "History_of_the_study_of_medieval_archaeology",
+   "level": 2,
+   "line": "History of the study of medieval archaeology",
+   "number": "1"
+  },
+  {
+   "anchor": "Areas_of_expertise",
+   "level": 2,
+   "line": "Areas of expertise",
+   "number": "2"
+  },
+  {
+   "anchor": "Rural_settlements_and_landscapes",
+   "level": 3,
+   "line": "Rural settlements and landscapes",
+   "number": "2.1"
+  },
+  {
+   "anchor": "Towns_and_Urbanism",
+   "level": 3,
+   "line": "Towns and Urbanism",
+   "number": "2.2"
+  },
+  {
+   "anchor": "Castles_and_Hierarchy",
+   "level": 3,
+   "line": "Castles and Hierarchy",
+   "number": "2.3"
+  },
+  {
+   "anchor": "Church_and_monastic_archaeology",
+   "level": 3,
+   "line": "Church and monastic archaeology",
+   "number": "2.4"
+  },
+  {
+   "anchor": "See_also",
+   "level": 2,
+   "line": "See also",
+   "number": "3"
+  },
+  {
+   "anchor": "References",
+   "level": 2,
+   "line": "References",
+   "number": "4"
+  },
+  {
+   "anchor": "Further_reading",
+   "level": 2,
+   "line": "Further reading",
+   "number": "5"
+  },
+  {
+   "anchor": "External_links",
+   "level": 2,
+   "line": "External links",
+   "number": "6"
+  }
+ ],
+ "summary_html": "<p><b>Medieval archaeology</b> is the study of humankind through its material culture, specialising in the period of the European Middle Ages. At its broadest, the period stretches from the 5th to the 16th century and refers to post-Roman but pre-modern remains. The period covers the upheaval caused by the Fall of the Western Roman Empire and cultures such as the Vikings, the Saxons, and the Franks. Archaeologists often specialise in studying either the Early Middle Ages or the High Middle Ages and Late Middle Ages, although many projects and professionals move across these chronological boundaries. The rich nature of the medieval written record means that archaeology has often been seen as the \"handmaiden to history\", especially in the Late Middle Ages. Analysis of material culture may enrich or call into question written evidence from the medieval period and the two sources of evidence need to be used together. Medieval archaeology has examined the development of medieval settlements, particularly the development of medieval towns, monasteries, and castles. It has also contributed to the understanding of the spread and development of Christian monasticism during the medieval period.</p>",
+ "summary_text": "Medieval archaeology is the study of humankind through its material culture, specialising in the period of the European Middle Ages. At its broadest, the period stretches from the 5th to the 16th century and refers to post-Roman but pre-modern remains. The period covers the upheaval caused by the Fall of the Western Roman Empire and cultures such as the Vikings, the Saxons, and the Franks. Archaeologists often specialise in studying either the Early Middle Ages or the High Middle Ages and Late Middle Ages, although many projects and professionals move across these chronological boundaries. The rich nature of the medieval written record means that archaeology has often been seen as the \"handmaiden to history\", especially in the Late Middle Ages. Analysis of material culture may enrich or call into question written evidence from the medieval period and the two sources of evidence need to be used together. Medieval archaeology has examined the development of medieval settlements, particularly the development of medieval towns, monasteries, and castles. It has also contributed to the understanding of the spread and development of Christian monasticism during the medieval period.",
+ "templates": [
+  "About",
+  "About",
+  "Archaeology",
+  "Arguments",
+  "Authority control",
+  "Authority control",
+  "Authority control/auxiliary",
+  "Authority control/config",
+  "Check for unknown parameters",
+  "Citation/CS1",
+  "Citation/CS1/COinS",
+  "Citation/CS1/Configuration",
+  "Citation/CS1/Date validation",
+  "Citation/CS1/Identifiers",
+  "Citation/CS1/Utilities",
+  "Citation/CS1/Whitelist",
+  "Citation/CS1/styles.css",
+  "Cite book",
+  "Cite journal",
+  "Cite web",
+  "Disambiguation/templates",
+  "EditAtWikidata",
+  "Encodefirst",
+  "Format link",
+  "Hatnote",
+  "Hatnote list",
+  "Hatnote/styles.css",
+  "Hlist/styles.css",
+  "Icon",
+  "Icon",
+  "Icon/data",
+  "Main other",
+  "Middle Ages",
+  "MultiReplace",
+  "Navbar",
+  "Navbar/configuration",
+  "Navbar/styles.css",
+  "Navbox",
+  "Navbox",
+  "Navbox/configuration",
+  "Navbox/styles.css",
+  "Pagetype",
+  "Pagetype",
+  "Pagetype/config",
+  "Pagetype/disambiguation",
+  "Pagetype/rfd",
+  "Pagetype/setindex",
+  "Pagetype/softredirect",
+  "Plainlist/styles.css",
+  "Portal",
+  "Portal-inline",
+  "Portal-inline",
+  "Portal/images/h",
+  "Reflist",
+  "Reflist/styles.css",
+  "SDcat",
+  "SDcat",
+  "Scholia",
+  "Short description",
+  "Short description/lowercasecheck",
+  "Side box",
+  "Side box",
+  "Side box/styles.css",
+  "String",
+  "TableTools",
+  "Tooltip",
+  "Tooltip/styles.css",
+  "Trim",
+  "WikidataIB",
+  "WikidataIB/nolinks",
+  "WikidataIB/titleformats",
+  "Wikitext Parsing",
+  "Yesno",
+  "Yesno",
+  "Yesno-no",
+  "Yesno-yes"
+ ],
+ "thumbnail": {},
+ "title": "Medieval archaeology",
+ "wikidata": {
+  "description": "archaeological sub-discipline",
+  "facts": [
+   {
+    "label": "instance of",
+    "property": "P31",
+    "values": [
+     "archaeological sub-discipline"
+    ]
+   }
+  ],
+  "id": "Q1671076",
+  "label": "medieval archaeology",
+  "sitelink_count": 17
+ }
+}
